@@ -1,0 +1,9 @@
+Nicholas J. Tustison was educated at Brigham Young University,
+the University of Virginia, Washington University in St. Louis, and
+the University of Pennsylvania.  He is currently in the radiology department
+at the University of Virginia.  His research interests include the
+development of robust open source software.  Notable contributions
+include image registration, segmentation, bias correction, and other
+image analysis algorithms available as open source in the ANTS toolkit
+(http://www.picsl.upenn.edu/ANTS) and the Insight Toolkit
+(http://www.itk.org).

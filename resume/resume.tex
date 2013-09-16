@@ -1,0 +1,359 @@
+\documentclass{resume}
+
+\renewcommand{\categoryfont}{\sc}
+
+%
+% set the space used for category titles here:
+% use the same value for oddsidemargin and marginparwidth [the latter 
+% 		will be reset to account for marginparsep]
+% 
+\setlength{\oddsidemargin}{1in}
+\setlength{\marginparwidth}{1in}
+% 
+% calculate other dimensions [textwidth and evensidemargin] 
+% in function of oddsidemargin and marginparwidth: 
+% would be nicer to put in the class file...
+%
+\addtolength{\marginparwidth}{-\marginparsep}
+ \setlength{\evensidemargin}{\oddsidemargin}
+ \setlength{\textwidth}{\paperwidth}
+ \addtolength{\textwidth}{-2in}
+ \addtolength{\textwidth}{-2\oddsidemargin}
+ \addtolength{\textwidth}{\marginparwidth}
+ \addtolength{\textwidth}{\marginparsep}
+%
+%
+\setlength{\topmargin}{-0.5in}
+%
+%
+\renewcommand{\labelcitem}{$\diamond$}
+\renewcommand{\labelitemi}{$\cdot$}
+\newcommand{\first}{$1^{\mbox{\scriptsize st}}$\ }
+\newcommand{\second}{$2^{\mbox{\scriptsize nd}}$\ }
+\newcommand{\third}{$3^{\mbox{\scriptsize rd}}$\ }
+
+\def\-{\discretionary{}{}{}}
+
+\author{Nicholas J. Tustison}
+% ------ Address --------------------------------------------------------
+
+\address{University of Virginia\\
+    Department of Radiology and Medical Imaging\\
+    
+%    University of Pennsylvania \\
+%    3600 Market Street \\
+%    Suite 320\\
+%    Philadelphia, PA  19104\\
+%    (610) 308-1211 \\
+%    ntustison@wustl.edu \\
+%    \mbox{\small\tt ntustison@wustl.edu}\\
+%    \mbox{\small\tt http://www.cs.yale.edu/homes/csuros-miklos/}}{ 
+%    3600 Market Street\\
+%    Suite 320\\ 
+%    New Haven, CT 06511\\
+%    (203) 865-2145}
+    
+    }
+
+
+\begin{document}
+\maketitle
+
+% ------- Education ---------------------------------------------------
+
+\begin{category}{Education}
+   \citem{University of Pennsylvania}, Philadelphia, PA.\\
+      Post-doctoral fellowship, September 2005.
+   \citem{Washington University in St. Louis}, St. Louis, MO.\\
+      D.Sc. in Biomedical Engineering, August 2004.\\
+      Thesis title: {\em Biventricular Myocardial Strains With Anatomical NURBS Models From Tagged MRI.}
+   \citem{University of Virginia}, Charlottesville, VA. \\
+      M.S. in Biomedical Engineering, May 2000.\\
+      Thesis title: {\em Quantification Methods for Assessing Asthma
+                         in Hyperpolarized $^3$He Lung MRI Studies.}
+   \citem{Brigham Young University}, Provo, UT. \\
+      B.S. in Applied Physics: Computer Science Emphasis, April 1998.\\
+      Minor: Mathematics
+   \citem{Scholarships}
+   \begin{itemize}
+      \item UVa School of Engineering merit award
+      \item UVa Biomedical Engineering merit award
+      \item BYU Trustees Scholarship (Full tuition--4 years)
+   \end{itemize}
+\end{category}
+
+% -------- Work experience --------------------------------------------
+
+\begin{category}{Work experience}
+\citem{Assistant Professor}, Department of Radiology and Medical Imaging, University of Virginia (July 2010--present)
+\citem{Senior Research Investigator}, Penn Image Computing and Science Laboratory, Radiology Department, University of Pennsylvania (September 2005--July 2010)
+\citem{Research Fellow}, Penn Image Computing and Science Laboratory, Radiology Department, 
+                         University of Pennsylvania (August 2004--September 2005)
+\citem{Research Assistant}, Cardiovascular Image Analysis Laboratory, Washington University
+                           in St. Louis (August 2000--August 2004)
+\citem{Research Assistant}, Radiology Department, University of Virginia Health
+                            Sciences Center (May 1998--June 2000)
+\citem{Teaching Assistant}, Physics Department, Brigham Young University (September
+                            1996--May 1998)
+\citem{Teaching Assistant}, Math Department, Utah Valley State College
+                            (May 1996--May 1997)
+\end{category}
+
+% --------- Research ----------------------------------------------------
+
+\begin{category}{Research interests}
+   \citemnobullet
+     digital topology, image registration and segmentation, open source software, translational research
+\end{category}
+
+% ------- Skills ------------------------------------------------------
+
+\begin{category}{Skills}
+\citemnobullet C/C++, Insight Toolkit, Paraview, perl, Visualization Toolkit, Matlab, R
+%\citembullet Fluent: Spanish
+\end{category}
+
+% ------- Program committees------------------------------------------------------
+
+\begin{category}{Program Committees}
+\citemnobullet SPIE Medical Imaging 2012--
+\end{category}
+
+% ------- Editorial boards ------------------------------------------------------
+
+\begin{category}{Editorships}
+\citemnobullet Frontiers Review Editorial Board May 2012--
+\end{category}
+
+% ------- Reviewer Duties------------------------------------------------------
+
+\begin{category}{Reviewer Duties}
+\citemnobullet Academic Radiology
+\citemnobullet Annals of Biomedical Engineering
+\citemnobullet Computers in Biology and Medicine
+\citemnobullet Focused Ultrasound Foundation ad hoc grant reviewer
+\citemnobullet Image and Vision Computing
+\citemnobullet International Journal of Pattern Recognition and Artificial Intelligence	
+\citemnobullet IEEE Transactions on Medical Imaging
+\citemnobullet IEEE Transactions on Pattern Analysis and Machine Intelligence
+\citemnobullet IEEE Transactions on Biomedical Engineering
+\citemnobullet Insight Journal
+\citemnobullet International Conference on Medical Image Computing and Computer Assisted Intervention
+\citemnobullet International Journal of Biomedical Imaging
+\citemnobullet International Journal of Computer Vision
+\citemnobullet International Workshop on Medical Imaging and Augmented Reality
+\citemnobullet IEEE International Symposium on Biomedical Imaging:  From Nano to Macro
+\citemnobullet Journal of Computed Tomography
+\citemnobullet Journal of Electronic Imaging
+\citemnobullet Journal of Magnetic Resonance Imaging
+\citemnobullet Journal of Neurotrauma
+\citemnobullet Journal of the Optical Society of America A
+\citemnobullet Magnetic Resonance in Medicine
+\citemnobullet Medical Physics
+\citemnobullet Medical Image Analysis
+\citemnobullet Neuroradiology
+\citemnobullet Respirology
+\end{category}
+
+
+% -------- Publication --------------------------------------------
+
+\begin{category}{Research}
+   \citemnobullet{\bf Journal Manuscripts}
+   \begin{itemize}
+    \citemnobullet Tustison NJ, Johnson H, Rohlfing T, Klein A, Ghosh S, Ibanez L, Avants BB: Instrumentation bias in the use and evaluation of scientific software: Recommendations for reproducible practices in the computational sciences, {\em Frontiers in Neuroscience}, 7(162).
+    \citemnobullet Tustison NJ, Contrella B, Altes TA, Avants BB, de Lange EE, Mugler III JP: Voxel-based Longitudinal Analysis of Pulmonary Ventilation MRI, {\em Journal of Magnetic Resonance Imaging}, submitted.
+    \citemnobullet Tustison NJ, Avants BB, Cook PA, Kim J, Whyte J, Gee JC, Stone JR: Logical Circularity in Voxel-Based Analysis:  normalization strategy may induce statistical bias, {\em Human Brain Mapping}, accepted.
+    \citemnobullet Song G, Barbosa JR EM, Tustison NJ, Gefter WB, Kreider M, Gee JC, Torigian DA: A Comparative Study of HRCT Image Metrics and PFT Values for Characterization of ILD and COPD, {\em Academic Radiology}, 19(7):857--64, July 2012.
+    \citemnobullet Yilmaz C, Tustison NJ, Dane DM, Ravikumar P, Takahashi M, Gee JC, Hsia CCW:  Functional computed tomography:  Progressive adaptation in regional mechanics following extensive lung resection, {\em Journal of Applied Physiology}, 111(4):1150--8, October 2011.
+    \citemnobullet Avants BB$^*$, Tustison NJ$^*$, Wu J, Cook PA, Gee JC:  An Open Source Framework for $n$-Tissue Segmentation with Evaluation on Public Data, {\em Neuroinformatics}, 9(4):381--400, December 2011.\\
+    $^*$Joint first authorship.
+    \citemnobullet Murphy K, van Ginneken B, Reinhardt JM, \ldots, Tustison NJ, \ldots, Pluim JPW:  Evaluation of Registration Methods on Thoracic CT:  The EMPIRE10 Challenge,  {\em IEEE Transactions on Medical Imaging}, 30(11):1901--20, November 2011.
+    \citemnobullet Tustison NJ, Avants BB, Altes TA, de Lange EE, Mugler III JP, Gee JC:  Ventilation-Based Segmentation of the Lungs Using Hyperpolarized $^3$He MRI, {\em Journal of Magnetic Resonance Imaging}, 34(4):831--841, October 2011.
+    \citemnobullet Barbosa Jr EM, Song G, Tustison N, Kreider M, Gee JC, Gefter W, Torigian DA:  Computational Analysis of Thoracic Multidetector Row HRCT for Segmentation and Quantification of Small Airway Air Trapping and Emphysema in Obstructive Pulmonary Disease, {\em Academic Radiology}, 18(10):1258-1269, October 2011.
+    \citemnobullet Tustison NJ, Avants BB, Siqueira M, Gee JC:  Topological Well-Composedness and Glamorous Glue:  A Digital Gluing Algorithm for Topologically Constrained Level Set Segmentation, {\em IEEE Transactions on Image Processing}, 20(6):1756-1771, June 2011.
+    \citemnobullet Tustison NJ, Cook TS, Song G, Gee JC:  Pulmonary Kinematics from Image Data---A Review, {\em Academic Radiology}, 18(4):402--417, April 2011.
+    \citemnobullet Tustison NJ, Awate SP, Song G, Cook TS, Gee JC:  Point Set Registration Using Havrda-Charvat-Tsallis Entropy Measures. {\em IEEE Transactions on Medical Imaging}, 30(2):451--460, February 2011.
+    \citemnobullet Avants BB, Tustison NJ, Song G, Cook PA, Klein A, Gee JC:  A Reproducible Evaluation of ANTs Similarity Metric Performance in Brain Image Registration, {\em Neuroimage}, 54(3):2033--2044, February 2011.
+    \citemnobullet Tustison NJ, Avants BB, Cook PA, Egan A, Zheng Y, Yushkevich PA, Gee JC:  N4ITK:  Improved N3 Bias Correction, {\em IEEE Transactions on Medical Imaging}, 29(6):1310--1320, June 2010.
+    \citemnobullet Tustison NJ, Altes TA, Song G, de Lange EE, Mugler III JP, Gee JC:  Feature Analysis of Hyperpolarized Helium-3 Pulmonary MRI:  A Study of Asthmatics versus Non-Asthmatics, {\em Magnetic Resonance in Medicine}, 63(6):1448--1455, June 2010.
+    \citemnobullet Tustison NJ, Awate SP, Cai J, Altes TA, Miller GW, de Lange EE, Mugler III JP, Gee JC:  Pulmonary Kinematics from Tagged Hyperpolarized Helium-3 MRI, {\em Journal of Magnetic Resonance Imaging}, 31(5):1236--1241, May 2010.
+    \citemnobullet Tustison NJ, Avants BB, Gee JC: Directly manipulated free-form deformation image registration. {\em IEEE Transactions on Image Processing} 18(3):624--35, March 2009.
+    \citemnobullet Siqueira M, Latecki LJ, Tustison N, Gallier J, Gee J: Topological Repairing of 3D Digital Images. {\em Journal of Mathematical Imaging and Vision} 30(3):249--274, March 2008.
+    \citemnobullet Tustison NJ, Amini AA: Biventricular myocardial strains via nonrigid registration of anatomical NURBS model. {\em IEEE Transactions on Medical Imaging} 25(1):94--112, January 2006.
+    \citemnobullet Tustison NJ, Amini AA: Myocardial kinematics from tagged MRI based on a 4-D B-spline model. {\em IEEE Transactions on Biomedical Engineering} 50(8):1038--1040, August 2003.
+    \citemnobullet Hagspiel KD, Altes TA, Mugler III JP, Mata JF, Tustison NJ, Brookeman JR: MR virtual colonography using hyperpolarized $^3$He as an endoluminal contrast agent: demonstration of feasibility. {\em Magnetic Resonance in Medicine} 44(5):813, November 2000.
+   \end{itemize}
+
+% -------- Conferences --------------------------------------------
+
+   \citemnobullet {\bf Conference Proceedings}
+   \begin{itemize}
+   \citemnobullet Durst C, Raghavan P, Tustison N, Patrie, J, Cupino A, Xin W, Wintermark M. Multiparametric Imaging Model to Accurately Predict Extent of Invasion of High-Grade Gliomas. ASNR Scientific Paper (Oral), 2013.
+   \citemnobullet Tustison NJ, Muratore A, Contrella B, Mugler III JP, de Lange EE, and Altes TA:  
+   In {\em Proceedings of the $21^{st}$ Voxelwise Comparison of Hyperpolarized He-3 and Xe-129 Lung Ventilation MR Imaging in Cystic Fibrosis.  Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Salt Lake City, 2013.
+   \citemnobullet Tustison NJ, Avants BB, Cook PA, Song G, Das S, van Strien N, Stone JR,
+   Gee JC:  The ANTs Cortical Thickness Processing Pipeline.  
+   In: {\em SPIE Medical Imaging: Biomedical Applications in Molecular, Structural, and 
+   Functional Imaging}. Orlando 2013.
+   \citemnobullet Tustison NJ, Contrella B, Altes TA, Avants BB, de Lange EE, Mugler III JP:  
+   Longitudinal assessment of treatment effects on pulmonary ventilation using 1H/3He MRI 
+   multivariate templates.
+   In: {\em SPIE Medical Imaging: Biomedical Applications in Molecular, Structural, and 
+   Functional Imaging}. Orlando 2013.
+   \citemnobullet Tustison NJ, Avants BB, Cook PA, Gee JC, Stone JR:  
+   Statistical Bias in Optimized VBM.
+   In: {\em SPIE Medical Imaging: Biomedical Applications in Molecular, Structural, and 
+   Functional Imaging}. Orlando 2013.
+   \citemnobullet Tustison NJ, Avants BB:  Diffeomorphic Directly Manipulated Free-Form Deformation Image   
+   Registration via Vector Field Flows.  In:  {\em Proceedings of the Workshop on Biomedical Image 
+   Registration}.  Nashville 2012.
+   \citemnobullet Avants BB, Tustison NJ, Song G, Wu B, Stauffer M, McCormick MM, Johnson HJ, Gee JC, Insight Software Consortium:  A Unified Image Registration Framework 
+   for ITK4.  In:  {\em Proceedings of the Workshop on Biomedical Image 
+   Registration}.  Nashville 2012.
+   \citemnobullet Contrella B, Tustison NJ, Altes TA, Avants BB, Mugler III JP, de Lange EE: 
+   4D segmentation and normalization of 3He MR images for intra-subject assessment of ventilated lung
+   volumes. In: {\em SPIE Medical Imaging: Biomedical Applications in Molecular, Structural, and 
+   Functional Imaging}. San Diego 2012.   
+   \citemnobullet 
+   Zheng Y, Keller B, Wang Y, Tustison N, Song G, Bakic PR, Maidment AD, Conant EF, Gee JC, Kontos D:
+   A Fully-Automated Software Pipeline for Parenchymal Pattern Analysis in Digital Breast Images:
+   Towards the Translation of Imaging Biomarkers in Routine Breast Cancer Risk Assessment.  In: 
+   {\em The Quantitative Imaging Reading Room Showcase at RSNA 2011 Annual Meeting and Scientific Assembly}, 
+   Chicago 2011.
+   \citemnobullet Tustison NJ, Avants BB, Cook P, Kim J, Whyte J, Gee JC, Ahlers S, Stone J:  Multivariate
+   Analysis of Diffusion Tensor Imaging and Cortical Thickness Maps in a Traumatic Brain Injury (TBI)
+   Cohort Using Advanced Normalization Tools (ANTs).  In: {\em Proceedings of the 2011 
+   annual meeting of the National Neurotrauma Society}, Fort Lauderdale, 2011.
+   \citemnobullet Qing K, Altes TA, Tustison NJ, Mata JF, Miller GW, de Lange EE, Tobias WA, Cates GD, Brookeman JR,
+   Mugler JP:  Acquisition of Spatially-registered Helium-3 and Proton 3D Image Sets of the Lung in less than 10 seconds using Compressed Sensing.  In {\em Proceedings of the $19^{th}$ Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Montreal, 2011.
+   \citemnobullet Tustison NJ, Avants BB, Flors L, Altes TA, de Lange EE, Mugler II JP, Gee JC: Segmentation of Lung Ventilation Defects Using Hyperpolarized $^3$He MRI.  In:  {\em Proceedings of the 2011 International Functional Pulmonary Imaging Workshop}, Philadelphia, 2011.
+   \citemnobullet Tustison NJ, Avants BB, Flors L, Altes TA, de Lange EE, Mugler II JP, Gee JC: Ventilation-Based Segmentation of the Lungs Using Hyperpolarized Helium-3 MRI.  In:  {\em Joint Meeting combining The 3rd meeting of the Japanese Society of Pulmonary Functional Imaging and 5th International Workshop for Pulmonary  Functional  Imaging}, Hyogo, 2011.
+    \citemnobullet Hsia CCW, Yilmaz C, Tustison NJ, Dane DM, Ravikumark P, Takahashi M, Gee JC:  Non-invasive measurement of regional mechanical strain and shear following extensive lung resection by high-resolution computed tomography (HRCT).  In: {\em Proceedings of the American Thoracic Society International Conference}, Denver, 2011.
+    \citemnobullet Song G, Tustison NJ, Avants BB, Gee JC:  Lung CT Image Registration Using Diffeomorphic Transformation Models. In: {Proceedings of the Evaluation of Methods for Pulmonary Image Registration (EMPIRE) Grand Challenge organized by the 13th International Conference on Medical Image Computing and Computer Assisted Intervention}, Beijing, 2010.
+    \citemnobullet Tustison NJ, Avants BB, Altes TA, Mugler II JP, Gee JC:  Automatic Segmentation of Ventilation Defects in Hyperpolarized 3He MRI.  In:  {\em Proceedings of the Annual Meeting of the Biomedical Engineering Society}, Austin, 2010.
+    \citemnobullet Avants B, Cook PA, McMillan C, Grossman M, Tustison NJ, Zheng Y, Gee JC:  Sparse Unbiased Analysis of Anatomical Variance in Longitudinal Imaging.  In: {\em Proceedings of the Medical Image Computing and Computer Assisted Intervention Society (MICCAI)}, Beijing, 2010.
+    \citemnobullet Avants B, Klein A, Tustison N, Woo J, Gee J:  Evaluation of an Open-Access, Automated Brain Extraction Method on Multi-Site Multi-Disorder Data. In:  {\em Proceedings of the $16^{th}$ Annual Meeting of the Organization for Human Brain Mapping (HBM)}, Barcelona, 2010.   
+    \citemnobullet Wright AC, Yoder J, Tustison N, Gee J, Wehrli FW, Elliot DM:  High-Resolution MRI at 7T of Local Strains in the Intervertebral Disc. In:  {\em Proceedings of the $18^{th}$ Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Stockholm, 2010.   
+    \citemnobullet Tustison NJ, Altes TA, Miller GW, de Lange EE, Mugler JP, Gee JC: Retrospective Bias Correction of Hyperpolarized $^3$He MRI of the Lung. In:  {\em Proceedings of the $18^{th}$ Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Stockholm, 2010.   
+    \citemnobullet Tustison NJ, Altes TA, Song G, de Lange EE, Mugler JP, Gee JC: Hyperpolarized $^3$He Image Feature Analysis in Asthmatics. In:  {\em Proceedings of the $18^{th}$ Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Stockholm, 2010.   
+    \citemnobullet  Tustison NJ, Avants BB, Cook P, Gee J: N4ITK:  Improved N3 Bias Correction with Robust B-Spline Approximation. In:  {\em Proceedings of the $7^{th}$ Annual IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)}, Rotterdam, 2010.
+    \citemnobullet Tustison NJ, Altes TA, Song G, Mugler JP, de Lange EE, Gee JC: Feature Analysis of Hyperpolarized Helium-3 Pulmonary MRI in Asthmatics versus Non-Asthmatics. In: {\em Proceedings of the $2^{nd}$ International Workshop on Pulmonary Image Analysis}, London, 2009.
+    \citemnobullet Cook TS, Tustison NJ, Song G, Awate SP, Torigian DA, Gefter W, Gee JC: Segmentation-Based Quantitation of Pulmonary Alveolar Proteinoisis, Pre- and Post-Lavage, Using High-Resolution Computed Tomography. In: {\em Proceedings of the $2^{nd}$ International Workshop on Pulmonary Image Analysis}, London, 2009.
+    \citemnobullet Song G, Tustison NJ, Barbosa Jr E, Gee JC, Gefter W, Kreider M, Torigian DA: A Comparative Study of HRCT Image Metrics and PFT Values for Characterization of ILD and 
+COPD. In: {\em Proceedings of the $2^{nd}$ International Workshop on Pulmonary Image Analysis}, London, 2009.
+    \citemnobullet Tustison NJ, Awate SP, Song G, Cook T, Gee JC: A new information-theoretic measure to control the robustness-sensitivity trade-off for DMFFD point-set registration. In: {\em Proceedings of the 21$^{st}$ Biennial International Conference on Information Processing in Medical Imaging (IPMI)}, Williamsburg, 215--226, 2009.   
+     \citemnobullet Cook T, Barbosa E, Tustison N, Song G, Torigian D, Koo C, Gefter W, Gee J: Quantitation of Pulmonary Alveolar Proteinosis, Pre- and Post-Lavage: A Feasibility Study. In: {\em Proceedings of the $2^{nd}$ World Congress of Thoracic Imaging and Diagnosis in Chest Disease}, Valencia, 2009.
+     \citemnobullet Barbosa E, Song G, Tustison N, Torigian D, Kreider M, Koo C, Gefter W, Gee J: Computational Analysis of HRCT for characterization and differentiation of ILD and COPD. In: {\em Proceedings of the $2^{nd}$ World Congress of Thoracic Imaging and Diagnosis in Chest Disease}, Valencia, 2009.
+    \citemnobullet  Song G, Barbosa E, Tustison N, Torigian D, Kreider M, Koo C, Gefter W, Gee J: Computational Analysis of HRCT Images For Characterization and Differentiation of ILD and COPD. In:  {\em Proceedings of the $6^{th}$ Annual IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)}, Boston, 2009.
+     \citemnobullet Tustison NJ, Kotzer CJ, Logan GA, Podolin PL, Altes TA, Wright AP, Song G, Zhao H, Haczku A,  Barnette MS, Panettieri Jr RA, Gee JC: Detection of elastase induced emphysema in free-breathing mice using micro computed tomography (CT). In:  {\em Proceedings of the Annual International Conference of the American Thoracic Society}, Toronto, 2008.
+    \citemnobullet Tustison NJ, Cai J, Altes TA, Miller GW, de Lange EE, Mugler JP, Gee JC: Pulmonary Kinematics From 3-D Hyperpolarized Helium-3 Tagged Magnetic Resonance Imaging. In:  {\em Proceedings of the $16^{th}$ Annual Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Toronto, 2008.   
+    \citemnobullet  Tustison N, Awate SP, Cai J, Altes T, Miller G, Lange E, Mugler J, Gee JC: Point-set registration of tagged He-3 images using a structurally-based Jensen-Shannon divergence measure within a deterministic-annealing framework. In:  {\em Proceedings of the $5^{th}$ Annual IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)}, pp. 772--775, Paris, 2008.
+    \citemnobullet    Tustison NJ, Altes TA, Gee JC, Cai J, de Lange EE, Mugler III JP: Pulmonary Kinematics From Hyperpolarized Helium-3 Tagged Magnetic Resonance Imaging. In: {\em Proceedings of the $4^{th}$ Annual IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)}, pp. 368--371, Washington D.C., 2007.
+    \citemnobullet  Cook TS, Tustison N, Biederer J, Tetzlaff R, Gee J: How do registration parameters affect quantitation of lung kinematics? In:  {\em Proceedings of the 10$^{th}$ International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)}, 10(Pt 1):817--24, 2007.
+    \citemnobullet Tustison NJ, Avants BB, Gee JC: Improved FFD B-Spline Image Registration. {\em Proceedings of the $11^{th}$ Biennial IEEE International Conference on Computer Vision (ICCV)}, pp. 1--8, Rio de Janeiro, 2007.
+    \citemnobullet  Tustison NJ, Gee, JC: Generalized $n$-D $C^k$ B-spline scattered data approximation with confidence values. {\em Proceedings of the $3^{rd}$ International Workshop on Medical Imaging and Augmented Reality (MIAR)}, pp. 76--83, Shanghai, 2006.
+    \citemnobullet  Tustison NJ, Avants BB, Sundaram TA, Duda JT, Gee JC: A Generalization of Free-Form Deformation Image Registration Within the ITK Finite Element Framework. {\em Proceedings of the $3^{rd}$ International Workshop on Biomedical Image Registration (WBIR)}, pp. 238--246, Utrecht, 2006.
+    \citemnobullet  Song Z, Tustison NJ, Avants BB, Gee JC: Adaptive graph cuts with tissue priors for brain MRI segmentation. In:  {\em Proceedings of the $3^{rd}$ Annual IEEE International Symposium on Biomedical Imaging: From Nano to Macro (ISBI)}, pp. 762--765, Arlington, 2006.
+    \citemnobullet  Chen J, Tustison NJ, Amini AA: Accurate recovery of 4D left ventricular deformations using volumetric B-splines incorporating phase based displacement estimates. In: {\em Proceedings of SPIE:  Medical Imaging 2006:  Physiology, Function, and Structure from Medical Images}, 6143, San Diego, 2006.
+    \citemnobullet  Tustison NJ, Amini AA: Comparison of parallel and spiral tagged MR imaging geometries in estimation of 3D myocardial strains. In: {\em Proceedings of SPIE:  Medical Imaging 2005:  Physiology, Function, and Structure from Medical Images}, 5746:571--579, San Diego, 2005.
+    \citemnobullet  Tustison NJ, Amini AA: Lagrangian and Eulerian biventricular strains from anatomical NURBS models using tagged MRI. In: {\em Proceedings of SPIE:  Medical Imaging 2006:  Physiology, Function, and Structure from Medical Images},  5746:192--204, San Diego, 2005.
+    \citemnobullet  Tustison, NJ, Abendschein D, Amini AA: Biventricular myocardial kinematics based on tagged MRI from anatomical NURBS models. In:  {\em Proceedings of the IEEE Computer Vision and Pattern Recognition (CVPR)}, 2:514, Quebec City, 2004.
+    \citemnobullet  Tustison NJ, Amini AA: Myocardial Kinematics Based on Tagged MRI From Geometric Deformable Models. {\em Proceedings of SPIE:  Medical Imaging 2006:  Physiology, Function, and Structure from Medical Images}, 5369:22-33, San Diego, 2004.
+    \citemnobullet  Tustison NJ, Amini AA: Tracking Myocardial Beads from SPAMM-MRI with a 4-D B-Spline Model. In:  {\em Proceedings of the 2$^{nd}$ Joint EMBS/BMES Conference}, pp. 993--994, Houston, 2002.
+    \citemnobullet Tustison NJ, Abendschein D, Davila-Roman VG, Amini AA: Myocardial Strain Imaging with Tagged MRI. In: {\em Proceedings of the $16^{th}$ International Conference on Pattern Recognition (ICPR)}, 1:723--726, Quebec City, 2002.
+    \citemnobullet Cooley B, Acton ST, Salerno M, Brookeman JR, Tustison NJ, de Lange EE, Altes TA: Automated Scoring of Hyperpolarized Helium-3 MR Lung Ventilation Images: Initial Development and Validation.  In:  {\em Proceedings of the $11^{th}$Annual  Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Honolulu, 2002.     
+    \citemnobullet Tustison NJ, Yablonskiy D, Conradi M, Amini AA: Deformable Registration of 3HeMR and X-ray CT images of the lungs.  In:  {\em Proceedings of the $11^{th}$Annual  Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Honolulu, 2002.     
+    \citemnobullet  Spellman MJ, Hagspiel KD, Altes TA, Mugler III JP, Mata JF, Tustison NJ, Brookeman JR: MR Virtual Colonoscopy using Hyperpolarized $^3$He as an Endoluminal Contrast Agent. In:  {\em Proceedings of the $8^{th}$Annual  Meeting of the International Society for Magnetic Resonance in Medicine (ISMRM)}, Philadelphia, 1999.            
+   \end{itemize}
+
+% -------- Book Chapters --------------------------------------------
+
+   \citemnobullet {\bf Book Chapters}
+   \begin{itemize}
+   \citemnobullet Tustison NJ,  Amini AA: Analysis of 4-D Cardiac MR Data with NURBS Deformable Models:  Temporal Fitting Strategy and Nonrigid Registration. Parametric and Geometric Deformable Models:  An Application in Biomaterials and Medical Imagery. Jasjit S. Suri and Aly Farag (eds.). Springer Publishers, II, May 2007.
+   \end{itemize}
+
+% -------- Invited Talks --------------------------------------------
+
+   \citemnobullet {\bf Invited Talks}
+   \begin{itemize}
+   \citemnobullet Stone JR, Tustison NJ:  Understanding the Inside of the Black Box: 
+   Optimizing Approaches for the Analysis of Diffusion Tensor Imaging and Cortical Maps in TBI,
+   {\em Keystone Symposia on Molecular and Cellular Biology}.  Keystone 2012.
+   \citemnobullet Tustison NJ:  Open Source Software Tools for Lung Image Analysis, 
+   {\em SPIE Medical Imaging: Biomedical Applications in Molecular, Structural, and 
+   Functional Imaging}. San Diego 2012. 
+   \end{itemize}
+
+% -------- Other articles ------------------------------------------------------
+
+   \citemnobullet {\bf Other Articles}
+   \begin{itemize}
+   \citemnobullet Tustison NJ: RGB Colormapping and ITK.  {\em The Source:  Kitware's Software Developer Quarterly}, January 2009, http://\-www\-.\-kitware\-.\-com/\-products/\-archive/\-kitware\_\-quarterly\-0709\-.pdf.
+   \citemnobullet Tustison NJ: N4ITK:  Nick's N3 ITK Implementation for MRI Bias Field Correction.  {\em The Source:  Kitware's Software Developer Quarterly}, January 2010, http://\-www\-.\-kitware\-.\-com/\-products/\-archive/\-kitware\_\-quarterly\-0110\-.pdf.
+   \end{itemize}
+
+% -------- Open Source Software --------------------------------------------
+
+   \citemnobullet {\bf Open Source Software}
+   \begin{itemize} 
+     \citemnobullet Tustison NJ, Avants BB:  The TVDMFFDVR Algorithm, {\em Insight Journal} 2012, http:\-//hdl\-.\-handle\-.\-net/10380/3334. 
+     \citemnobullet Tustison NJ, Cook PA, Avants BB, Stone JR:  Simulated Diffusion-Weighted Imaging for the ITK Masses, {\em Insight Journal} 2011, http:\-//hdl\-.\-handle\-.\-net/10380/3315. 
+   \citemnobullet  Tustison NJ, Avants BB, Siqueira M, Gee JC:  Escher's Ants as Metaphor: Topological Marching for the Well-Composed, Genus Zero Crowd, {\em Insight Journal} 2010, http:\-//hdl\-.\-handle\-.\-net/10380/3234. 
+    \citemnobullet Tustison NJ, Gee JC:  Introducing Dice, Jaccard, and Other Label Overlap Measures To ITK, {\em Insight Journal} 2009, http:\-//hdl\-.\-handle\-.\-net/10380/3141.
+    \citemnobullet Tustison NJ, Gee JC:  Introducing Dice, Jaccard, and Other Label Overlap Measures To ITK, {\em Insight Journal} 2009, http:\-//hdl\-.\-handle\-.\-net/10380/3141.
+    \citemnobullet Yushkevich PA, Tustison NJ, Gee JC:  Gaussian Interpolation, {\em Insight Journal} 2009, http:\-//hdl\-.\-handle\-.\-net/10380/3139.
+   \citemnobullet  Avants BB, Tustison NJ,  Song G: Advanced Normalization Tools v1.0,   {\em Insight Journal} 2009, http:\-//hdl\-.\-handle\-.\-net/10380/3113.  
+   \citemnobullet  Tustison NJ,  Gee JC:  N4ITK:  Nick's N3 ITK Implementation for MRI Bias Field Correction,   {\em Insight Journal} 2009, http:\-//hdl\-.\-handle\-.\-net/10380/3053, Publication of the Month December 2009.  
+   \citemnobullet  Tustison NJ,  Gee JC:  Stochastic Fractal Dimension Image,   {\em Insight Journal} 2009, http:\-//hdl\-.\-handle\-.\-net/1926/1525 ({\em accepted into the Insight Toolkit}), Publication of the Month April 2009.  
+   \citemnobullet  Tustison NJ,  Awate SP, Gee JC:  Information-Theoretic Directly Manipulated Free-Form Deformation Labeled Point-Set Registration,   {\em Insight Journal} 2009, http:\-//hdl\-.\-handle\-.\-net/1926/1524.  
+   \citemnobullet  Tustison NJ,  Yushkevich P, Gee JC:  Live-Wire-ing the Insight Toolkit with Intelligent Scissors,   {\em Insight Journal} 2008, http:\-//hdl\-.\-handle\-.\-net/1926/1372.  
+   \citemnobullet  Tustison NJ,  Zhang H, Lehmann G, Yushkevich P, Gee JC: Meeting Andy Warhol Somewhere Over the Rainbow: RGB Colormapping and ITK,   {\em Insight Journal} 2008, http:\-//hdl\-.\-handle\-.\-net/1926/1452 ({\em accepted into the Insight Toolkit}).  
+   \citemnobullet  Tustison NJ,  Gee JC:  Image Kernel Convolution,   {\em Insight Journal} 2008, http:\-//hdl\-.\-handle\-.\-net/1926/1323 ({\em accepted into the Insight Toolkit}).  
+   \citemnobullet  Tustison NJ,  Yushkevich P, Song Z, Gee JC:  Graph Cuts, Caveat Utilitor, and Euler's Bridges of Konigsberg,   {\em Insight Journal} 2008, http:\-//hdl\-.\-handle\-.\-net/1926/1503, Publication of the Month December 2008.  
+   \citemnobullet  Tustison NJ,  Gee JC,  Run-Length Matrices For Texture Analysis,   {\em Insight Journal} 2008, http:\-//hdl\-.\-handle\-.\-net/1926/1374.  
+   \citemnobullet  Tustison NJ,  Awate SP, Gee JC:  A Novel Information-Theoretic Point-Set Measure Based on the Jensen-Havrda-Charvat-Tsallis Divergence,   {\em Insight Journal} 2008, http:\-//hdl\-.\-handle\-.\-net/1926/1497.  
+   \citemnobullet  Tustison NJ,  Siqueira M, Gee JC: Well-Composedness and the Topological Repairing of 2-D and 3-D Digital Images,   {\em Insight Journal} 2007, http:\-//hdl\-.\-handle\-.\-net/1926/470.  
+   \citemnobullet  Tustison NJ,  Gee JC:  Go-Go Gabor Gadgetry,   {\em Insight Journal} 2007, http:\-//hdl\-.\-handle\-.\-net/1926/500 ({\em accepted into the Insight Toolkit}).  
+   \citemnobullet   Tustison NJ,  Avants BB, Gee JC: Gridding Graphic Graticules,   {\em Insight Journal} 2007, http:\-//hdl\-.\-handle\-.\-net/1926/475  ({\em accepted into the Insight Toolkit}). 
+   \citemnobullet Tustison NJ, Siqueira M, Gee JC: $N$-D linear time exact signed Euclidean distance transform. {\em Insight Journal} 2006, http:\-//hdl\-.\-handle\-.\-net/1926/171 ({\em accepted into the Insight Toolkit}).
+   \citemnobullet  Tustison NJ,  Gee JC:  $N$-D $C^k$ B-Spline Scattered Data Approximation,   {\em Insight Journal} 2005, 
+   http:\-//hdl\-.\-handle\-.\-net/1926/140 
+   ({\em accepted into the Insight Toolkit}).  
+   \end{itemize}
+ 
+
+\end{category}   
+
+
+% -------- References --------------------------------------------
+
+\begin{category}{References}
+\citemnobullet Dr. James C. Gee\\
+Associate Professor of Radiologic Science in Radiology\\
+Director: Penn Image Computing and Science Laboratory\\
+University of Pennsylvania \\
+T: (215) 662-7109 \\
+james.gee@uphs.upenn.edu
+\citemnobullet Dr. Amir A. Amini\\
+Professor and Endowed Chair in Bioimaging \\
+Director: Medical Image Computing Laboratory\\
+University of Louisville \\
+T:  (502) 852-4767\\
+amir.amini@louisville.edu
+\citemnobullet Dr. James R. Brookeman	\\
+Professor of Radiology of Biomedical Engineering\\
+University of Virginia \\
+T:  (434) 243-4969\\
+jrb5m@virginia.edu
+\citemnobullet Dr. Talissa A. Altes\\
+Associate Professor of Radiology \\
+Section Head of Pediatric Radiology\\
+University of Virginia \\
+T:  (434) 982-6018\\
+taa2c@virginia.edu
+
+\end{category}
+
+\end{document}
