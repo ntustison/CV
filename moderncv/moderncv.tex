@@ -53,6 +53,7 @@
 % bibliography with mutiple entries
 \usepackage{multibib}
 \newcites{journal}{Articles}
+\newcites{chapters}{Book Chapters}
 \newcites{conferences}{Conference Publications}
 \newcites{software}{Open Source Software}
 %----------------------------------------------------------------------------------
@@ -85,7 +86,7 @@
 
 \section{Professional Appointments}
 %\subsection{Vocational}
-\cventry{2010--}{Assistant Professor of Radiology}{University of Virginia}{Charlottesville, VA}{}{}
+\cventry{2010--}{Assistant Professor}{Department of Radiology and Medical Imaging}{University of Virginia}{Charlottesville, VA}{}
 %General description no longer than 1--2 lines.
 %\newline{}%
 %Detailed achievements:%
@@ -104,12 +105,14 @@
 %  \end{itemize}
 %\item Achievement 3.
 %\end{itemize}
-\cventry{2005--2010}{Senior Research Investigator}{University of Pennsylvania}{Philadelphia}{PA}{}
-\cventry{2004--2005}{Research Fellow in Radiology}{University of Pennsylvania}{Philadelphia, PA}{}{}
+\cventry{2005--2010}{Senior Research Investigator}{Department of Radiology}{University of Pennsylvania}{Philadelphia, PA}{}
+\cventry{2004--2005}{Research Fellow}{Department of Radiology}{University of Pennsylvania}{Philadelphia, PA}{}
 %\subsection{Miscellaneous}
 %\cventry{year--year}{Job title}{Employer}{City}{}{Description}
 
 \section{Awards}
+  \cventry{2010}{1st place}{EMPIRE10 lung registration competition}{MICCAI Conference 2010}{}{}
+  \cventry{2013}{1st place}{BRATS2013 multimodal brain tumor segmentation competition}{MICCAI Conference 2013}{}{}
 
 \section{Academic Service}
   \subsection{Program committees}
@@ -120,24 +123,49 @@
   \subsection{Reviewer Duties}
   \begin{cvcolumns}
     \cvcolumn{}{
-		Academic Radiology \\		Annals of Biomedical Engineering \\		Computers in Biology and Medicine \\
-		Computers in Medical Imaging and Graphics \\		Focused Ultrasound Foundation ad hoc grant reviewer \\		Image and Vision Computing \\		International Journal of Pattern Recognition and Artificial Intelligence \\		IEEE Transactions on Medical Imaging \\		IEEE Transactions on Pattern Analysis and Machine Intelligence \\		IEEE Transactions on Biomedical Engineering \\		Insight Journal \\		International Conf. on Medical Image Computing and Computer Assisted Intervention\\
-	    International Journal of Biomedical Imaging\\ 		International Journal of Computer Vision \\		International Workshop on Medical Imaging and Augmented Reality \\		IEEE International Symposium on Biomedical Imaging: From Nano to Macro \\		Journal of Computed Tomography \\		Journal of Electronic Imaging \\		Journal of Magnetic Resonance Imaging \\ 		Journal of Neurotrauma \\		Journal of the Optical Society of America A \\		Magnetic Resonance in Medicine \\		Medical Physics \\		Medical Image Analysis \\		Neuroradiology \\		Respirology 
+		Academic Radiology \\
+		Annals of Biomedical Engineering \\
+		Computers in Biology and Medicine \\
+		Computers in Medical Imaging and Graphics \\
+		Focused Ultrasound Foundation ad hoc grant reviewer \\
+		Image and Vision Computing \\
+		International Journal of Pattern Recognition and Artificial Intelligence \\
+		IEEE Transactions on Medical Imaging \\
+		IEEE Transactions on Pattern Analysis and Machine Intelligence \\
+		IEEE Transactions on Biomedical Engineering \\
+		Insight Journal \\
+		International Conf. on Medical Image Computing and Computer Assisted Intervention\\
+	    International Journal of Biomedical Imaging\\ 
+		International Journal of Computer Vision \\
+		International Workshop on Medical Imaging and Augmented Reality \\
+		IEEE International Symposium on Biomedical Imaging: From Nano to Macro \\
+		Journal of Computed Tomography \\
+		Journal of Electronic Imaging \\
+		Journal of Magnetic Resonance Imaging \\ 
+		Journal of Neurotrauma \\
+		Journal of the Optical Society of America A \\
+		Magnetic Resonance in Medicine \\
+		Medical Physics \\
+		Medical Image Analysis \\
+		Neuroradiology \\
+		Respirology 
     }
   \end{cvcolumns}  
+  \subsection{Invited Talks}
+    \cventry{2012}{SPIE conference}{Open source tools for medical image analysis}{}{}{}
 
 \section{Computer skills}
 \cvitem{Languages}{C++, perl, bash, \LaTeX, R}
 %\cvitem{Platforms}{OSX, Linux}
-\cvitem{Tools and Libraries}{ITK, VTK, Paraview, git, Matlab, PBS and SGE qsub}
+\cvitem{Tools and Libraries}{Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, Matlab, PBS/SGE qsub}
 
 
-\section{Interests}
-\cvitem{Running}{1:26:38 half marathon (2013), 18:40 5k (2013)}
-\cvitem{Reading}{philosophy, history}
-
-\section{Languages}
-\cvitemwithcomment{Spanish}{fluent}{Lived in Argentina}
+%\section{Interests}
+%\cvitem{Running}{1:26:38 half marathon (2013), 18:40 5k (2013)}
+%\cvitem{Reading}{philosophy, history}
+%
+%\section{Languages}
+%\cvitemwithcomment{Spanish}{fluent}{Lived in Argentina}
 %\cvitemwithcomment{Language 2}{Skill level}{Comment}
 %\cvitemwithcomment{Language 3}{Skill level}{Comment}
 
@@ -166,6 +194,11 @@
 \nocitejournal{*}
 \bibliographystylejournal{plainyr-rev}
 \bibliographyjournal{references}
+
+\nocitechapters{*}
+\bibliographystylechapters{plainyr-rev}
+\bibliographychapters{references-chapters}                   % 'publications' is the name of a 
+
                         % 'publications' is the name of a BibTeX file
 \nociteconferences{*}
 \bibliographystyleconferences{plainyr-rev}
@@ -191,13 +224,21 @@
       \item James C. Gee \\
             Associate Professor of Radiologic Science in Radiology \\
             Director: Penn Image Computing and Science Laboratory University of Pennsylvania \\
-            T: (215) 662-7109 \\            james.gee@uphs.upenn.edu
-      \item Amir A. Amini \\            Professor and Endowed Chair in Bioimaging \\
-            Director: Medical Image Computing Laboratory University of Louisville \\            T: (502) 852-4767 \\            amir.amini@louisville.edu
+            T: (215) 662-7109 \\
+            james.gee@uphs.upenn.edu
+      \item Amir A. Amini \\
+            Professor and Endowed Chair in Bioimaging \\
+            Director: Medical Image Computing Laboratory University of Louisville \\
+            T: (502) 852-4767 \\
+            amir.amini@louisville.edu
       \item James R. Brookeman \\
-            Professor of Radiology of Biomedical Engineering University of Virginia \\            T: (434) 243-4969 \\            jrb5m@virginia.edu
-      \item Talissa A. Altes \\            Associate Professor of Radiology \\
-            Section Head of Pediatric Radiology University of Virginia \\            T: (434) 982-6018 \\
+            Professor of Radiology of Biomedical Engineering University of Virginia \\
+            T: (434) 243-4969 \\
+            jrb5m@virginia.edu
+      \item Talissa A. Altes \\
+            Associate Professor of Radiology \\
+            Section Head of Pediatric Radiology University of Virginia \\
+            T: (434) 982-6018 \\
             taa2c@virginia.edu     
     \end{itemize}
     }

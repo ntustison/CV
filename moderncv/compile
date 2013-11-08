@@ -1,19 +1,20 @@
 
 paper=$1
-if [ ${#paper} -lt 2 ] ; then 
- echo usage 
+if [ ${#paper} -lt 2 ] ; then
+ echo usage
  echo $0 myfile
  exit
-else 
+else
  paper=` echo $paper | cut -d '.' -f 1 `
 fi
-echo compiling $paper to pdf 
+echo compiling $paper to pdf
 for x in 1 2 3 ; do
   pdflatex $paper
   bibtex journal
   bibtex conferences
   bibtex software
-  bibtex $paper
+  bibtex chapters
+#  bibtex $paper
 done
 rm $paper.aux $paper.log $paper.spl $paper.bbl $paper.blg
 
