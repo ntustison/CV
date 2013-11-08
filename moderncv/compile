@@ -9,7 +9,10 @@ else
 fi
 echo compiling $paper to pdf 
 for x in 1 2 3 ; do
-  pdflatex $paper 
+  pdflatex $paper
+  bibtex journal
+  bibtex conferences
+  bibtex software
   bibtex $paper
 done
 rm $paper.aux $paper.log $paper.spl $paper.bbl $paper.blg
