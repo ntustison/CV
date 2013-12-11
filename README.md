@@ -35,7 +35,8 @@
    IEEE Transactions on Pattern Analysis and Machine Intelligence  
    IEEE Transactions on Biomedical Engineering  
    Insight Journal  
-   International Conf. on Medical Image Computing and Computer Assisted Intervention International Journal of Biomedical Imaging  
+   International Conf. on Medical Image Computing and Computer Assisted Intervention  
+   International Journal of Biomedical Imaging  
    International Journal of Computer Vision  
    International Workshop on Medical Imaging and Augmented Reality  
    IEEE International Symposium on Biomedical Imaging: From Nano to Macro  
