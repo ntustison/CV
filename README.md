@@ -103,10 +103,10 @@ Nicholas J Tustison, Suyash P Awate, Jing Cai, Talissa A Altes, G Wilson Miller,
 
 Nicholas J Tustison, Brian B Avants, and James C Gee. Directly manipulated free-form deformation image registration. _IEEE Trans Image Process_, 18(3):624–35, Mar 2009.
 
-Marcelo Siqueira, Longin J. Latecki, Nicholas J. Tustison, J. Gallier, and James C. Gee. Topological repairing of 3D digital images. _Journal of Mathematical Imaging and Vision_, 30(3):249–274, March 2008.
+Marcelo Siqueira, Longin J. Latecki, **Nicholas J. Tustison**, J. Gallier, and James C. Gee. Topological repairing of 3D digital images. _Journal of Mathematical Imaging and Vision_, 30(3):249–274, March 2008.
 
-Nicholas J. Tustison and Amir A. Amini. Biventricular myocardial strains via nonrigid registration of anatomical NURBS model [corrected]. _IEEE Trans Med Imaging_, 25(1):94–112, Jan 2006.
+**Nicholas J. Tustison** and Amir A. Amini. Biventricular myocardial strains via nonrigid registration of anatomical NURBS model [corrected]. _IEEE Trans Med Imaging_, 25(1):94–112, Jan 2006.
 
-Nicholas J Tustison, Victor G Dávila-Román, and Amir A Amini. Myocardial kinematics from tagged MRI based on a 4-D B-spline model. _IEEE Trans Biomed Eng_, 50(8):1038–40, Aug 2003.
+**Nicholas J Tustison**, Victor G Dávila-Román, and Amir A Amini. Myocardial kinematics from tagged MRI based on a 4-D B-spline model. _IEEE Trans Biomed Eng_, 50(8):1038–40, Aug 2003.
 
-K D Hagspiel, T A Altes, J P Mugler, 3rd, M J Spellman, Jr, J F Mata, N J Tustison, and J R Brookeman. MR virtual colonography using hyperpolarized (3)He as an endoluminal contrast agent: demonstration of feasibility. _Magn Reson Med_, 44(5):813–6, Nov 2000.
+K D Hagspiel, T A Altes, J P Mugler, 3rd, M J Spellman, Jr, J F Mata, **N J Tustison**, and J R Brookeman. MR virtual colonography using hyperpolarized (3)He as an endoluminal contrast agent: demonstration of feasibility. _Magn Reson Med_, 44(5):813–6, Nov 2000.
