@@ -69,7 +69,7 @@ Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Edu
 
 Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher Durst, Jeffrey T. Duda, James C. Gee, Murray C. Grossman, and Brian B. Avants. Multivariate neuroimage analysis with ANTsR: Application to supervised brain tumor segmentation using random forests. _NeuroImage_, in preparation.
 
-Nicholas J. Tustison and Brian B. Avants. Explicit B-spline regularization in diffeomorphic image registration. _Frontiers in Neuroinformatics_, accepted.
+Nicholas J. Tustison and Brian B. Avants. Explicit B-spline regularization in diffeomorphic image registration. _Front. Neuroinform._, 7:39, 2013.
 
 Nicholas J Tustison, Hans J Johnson, Torsten Rohlfing, Arno Klein, Satrajit S Ghosh, Luis Ibanez, and Brian B Avants. Instrumentation bias in the use and evaluation of scientific software: recommendations for reproducible practices in the computational sciences. _Front Neurosci_, 7:162, 2013.
 
