@@ -18,12 +18,18 @@
 * 2004-2005:    **Research Fellow**, _Department of Radiology_, University of Pennsylvania, Philadelphia, PA.
 
 ## Academic Service
-* **Program committees**  
+
+**Program committees**  
+
    2012-present: SPIE Medical Imaging
-* **Editorships**   
+
+**Editorships**   
+
    2012-present: Frontiers Review Editorial Board  
    May 2013-present: Frontiers in Neuroinformatics: Guest Editor, Neuroinformatics with the Insight ToolKit.
-* **Reviewer Duties**  
+
+**Reviewer Duties**  
+
    Academic Radiology  
    Annals of Biomedical Engineering  
    Computers in Biology and Medicine  
@@ -51,7 +57,9 @@
    NeuroImage  
    Neuroradiology  
    Respirology  
-* **Invited Talks**  
+
+**Invited Talks**  
+
    Feb. 2012:  SPIE conference, Open source tools for medical image analysis.
 
 ## Computer Skills
