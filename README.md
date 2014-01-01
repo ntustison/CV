@@ -69,15 +69,21 @@ Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Edu
 
 Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher Durst, Jeffrey T. Duda, James C. Gee, Murray C. Grossman, and Brian B. Avants. Multivariate neuroimage analysis with ANTsR: Application to supervised brain tumor segmentation using random forests. _NeuroImage_, in preparation.
 
+**2013**
+
 Christopher R Durst, Prashant Raghavan, Mark E Shaffrey, David Schiff, M Beatriz Lopes, Jason P Sheehan, Nicholas J Tustison, James T Patrie, Wenjun Xin, W Jeff Elias, Kenneth C Liu, Greg A Helm, A Cupino, and Max Wintermark. Multimodal MR imaging model to predict tumor infiltration in patients with gliomas. _Neuroradiology_, Dec 2013.
 
 Nicholas J. Tustison and Brian B. Avants. Explicit B-spline regularization in diffeomorphic image registration. _Front. Neuroinform._, 7:39, 2013.
 
 Nicholas J Tustison, Hans J Johnson, Torsten Rohlfing, Arno Klein, Satrajit S Ghosh, Luis Ibanez, and Brian B Avants. Instrumentation bias in the use and evaluation of scientific software: recommendations for reproducible practices in the computational sciences. _Front Neurosci_, 7:162, 2013.
 
+**2012**
+
 Nicholas J Tustison, Brian B Avants, Philip A Cook, Junghoon Kim, John Whyte, James C Gee, and James R Stone. Logical circularity in voxel-based analysis: Normalization strategy may induce statistical bias. _Hum Brain Mapp_, Nov 2012.
 
 Gang Song, Eduardo Mortani Barbosa, Jr, Nicholas Tustison, Warren B Gefter, Maryl Kreider, James C Gee, and Drew A Torigian. A comparative study of HRCT image metrics and PFT values for characterization of ILD and COPD. _Acad Radiol_, 19(7):857–64, Jul 2012.
+
+**2011**
 
 Brian B Avants, Nicholas J Tustison, Jue Wu, Philip A Cook, and James C Gee. An open source multivariate framework for _n_-tissue segmentation with evaluation on public data. _Neuroinformatics_, 9(4):381–400, Dec 2011.
 
@@ -97,18 +103,30 @@ Brian B Avants, Nicholas J Tustison, Gang Song, Philip A Cook, Arno Klein, and J
 
 Nicholas J Tustison, Suyash P Awate, Gang Song, Tessa S Cook, and James C Gee. Point set registration using Havrda-Charvat-Tsallis entropy measures. _IEEE Trans Med Imaging_, 30(2):451–60, Feb 2011.
 
+**2010**
+
 Nicholas J Tustison, Talissa A Altes, Gang Song, Eduard E de Lange, John P Mugler, 3rd, and James C Gee. Feature analysis of hyperpolarized helium-3 pulmonary MRI: a study of asthmatics versus nonasthmatics. _Magn Reson Med_, 63(6):1448–55, Jun 2010.
 
 Nicholas J Tustison, Brian B Avants, Philip A Cook, Yuanjie Zheng, Alexander Egan, Paul A Yushkevich, and James C Gee. N4ITK: improved N3 bias correction. _IEEE Trans Med Imaging_, 29(6):1310–20, Jun 2010.
 
 Nicholas J Tustison, Suyash P Awate, Jing Cai, Talissa A Altes, G Wilson Miller, Eduard E de Lange, John P Mugler, 3rd, and James C Gee. Pulmonary kinematics from tagged hyperpolarized helium-3 MRI. _J Magn Reson Imaging_, 31(5):1236–41, May 2010.
 
+**2009**
+
 Nicholas J Tustison, Brian B Avants, and James C Gee. Directly manipulated free-form deformation image registration. _IEEE Trans Image Process_, 18(3):624–35, Mar 2009.
+
+**2008**
 
 Marcelo Siqueira, Longin J. Latecki, Nicholas J. Tustison, J. Gallier, and James C. Gee. Topological repairing of 3D digital images. _Journal of Mathematical Imaging and Vision_, 30(3):249–274, March 2008.
 
+**2006**
+
 Nicholas J. Tustison and Amir A. Amini. Biventricular myocardial strains via nonrigid registration of anatomical NURBS model [corrected]. _IEEE Trans Med Imaging_, 25(1):94–112, Jan 2006.
 
+**2003**
+
 Nicholas J Tustison, Victor G Dávila-Román, and Amir A Amini. Myocardial kinematics from tagged MRI based on a 4-D B-spline model. _IEEE Trans Biomed Eng_, 50(8):1038–40, Aug 2003.
+
+**2000**
 
 K D Hagspiel, T A Altes, J P Mugler, 3rd, M J Spellman, Jr, J F Mata, N J Tustison, and J R Brookeman. MR virtual colonography using hyperpolarized (3)He as an endoluminal contrast agent: demonstration of feasibility. _Magn Reson Med_, 44(5):813–6, Nov 2000.
