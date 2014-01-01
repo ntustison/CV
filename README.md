@@ -63,11 +63,14 @@
 * 1st place, BRATS2013 multimodal brain tumor segmentation competition, MICCAI Conference 2013 (Team:  Nick Tustison, Max Wintermark, Chris Durst, Brian Avants).
 
 ## Journal Publications
-Nicholas J. Tustison, Philip A. Cook, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants. Large-scale cortical thickness quantification with advanced normalization tools (ANTs). _Neuroimage_, in preparation.
 
-Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation MRI. _Journal of Magnetic Resonance Imaging_, in preparation.
+**In Progress**
 
-Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher Durst, Jeffrey T. Duda, James C. Gee, Murray C. Grossman, and Brian B. Avants. Multivariate neuroimage analysis with ANTsR: Application to supervised brain tumor segmentation using random forests. _NeuroImage_, in preparation.
+Nicholas J. Tustison, Philip A. Cook, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants. Large-scale cortical thickness quantification with advanced normalization tools (ANTs).
+
+Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation MRI.
+
+Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher Durst, Jeffrey T. Duda, James C. Gee, Murray C. Grossman, and Brian B. Avants. Multivariate neuroimage analysis with ANTsR: Application to supervised brain tumor segmentation using random forests.
 
 **2013**
 
