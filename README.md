@@ -26,7 +26,7 @@
 **Editorships**   
 
    2012-present: Frontiers Review Editorial Board  
-   May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [Neuroinformatics with the Insight ToolKit](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
+   May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
 
 
 
