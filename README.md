@@ -82,6 +82,10 @@ Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Edu
 
 Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher Durst, Jeffrey T. Duda, James C. Gee, Murray C. Grossman, and Brian B. Avants. Multivariate neuroimage analysis with ANTsR: Application to supervised brain tumor segmentation using random forests.
 
+**2014**
+
+Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzgal, Neal Kassell, and Jeff Elias.  In Vivo Fiber Tracking of Thalamic Connectivity using Diffusion Tensor Imaging in Patients with Essential Tremor Treated by MR-Guided Focused Ultrasound.  _Radiology_, Accepted.
+
 **2013**
 
 Christopher R Durst, Prashant Raghavan, Mark E Shaffrey, David Schiff, M Beatriz Lopes, Jason P Sheehan, Nicholas J Tustison, James T Patrie, Wenjun Xin, W Jeff Elias, Kenneth C Liu, Greg A Helm, A Cupino, and Max Wintermark. Multimodal MR imaging model to predict tumor infiltration in patients with gliomas. _Neuroradiology_, Dec 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24337609)
