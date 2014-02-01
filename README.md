@@ -86,6 +86,8 @@ Nicholas J. Tustison, Philip A. Cook, Arno Klein, Gang Song, Sandhitsu R. Das, J
 
 Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan Farahani, Justin Kirby, Yuliya Burren, Nicole Porz, Johannes Slotboom, Roland Wiest, Levente Lanczi, Elizabeth Gerstner, Marc-Andre Weber, Tal Arbel, Brian B. Avants, Nicholas Ayache, Patricia Buendia, D. Louis Collins, Nicolas Cordier, Jason J. Corso, Antonio Criminisi, Tilak Das, Herve ́ Delingete, Cagatay Demiralp, Christopher R. Durst, Michel Dojat, Senan Doyle, Joana Festa, Florence Forbes, Ezequiel Geremia, Ben Glocker, Polina Golland, Xiaotao Guo, Andac Hamamci, Khan M. Iftekharuddin, Raj Jena, Nigel M. John, Ender Konukoglu, Danial Lashkari, Jose Antonio Mariz, Raphael Meier, Sergio Pereira, Doina Precup, S. J. Price, Tammy Riklin-Raviv, Syed M. S. Reza, Michael Ryan, Lawrence Schwartz, Hoo-Chang Shin, Jamie Shotton, Carlos A. Silva, Nuno Sousa, Nagesh K. Subbanna, Gabor Szekely, Thomas J. Taylor, Owen M. Thomas, Nicholas J. Tustison, Gozde Unal, Flor Vasseur, Max Wintermark, Dong Hye Ye, Liang Zhao, Binsheng Zhao, Darko Zikic, Marcel Prastawa, Mauricio Reyes, and Koen Van Leemput.  The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS).  _IEEE Trans Med Imaging_, Submitted.
 
+Max Wintermark, Nicholas J. Tustison, James T. Patrie, Wenjun Xin, Nicholas Demartini, Matt Eames, Suna Sumer, Benison Lau, Alan Cupino, John Snell, Arik Hananel, Neal Kassell, and Jean-Francois Aubry.  T1-weighted MRI as a substitute to CT for refocusing planning in MR-guided focused ultrasound.  _Phys Med Biol_, Accepted.
+
 Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzgal, Neal Kassell, and Jeff Elias.  In Vivo Fiber Tracking of Thalamic Connectivity using Diffusion Tensor Imaging in Patients with Essential Tremor Treated by MR-Guided Focused Ultrasound.  _Radiology_, Accepted.
 
 **2013**
@@ -136,7 +138,7 @@ Nicholas J Tustison, Brian B Avants, and James C Gee. Directly manipulated free-
 
 **2008**
 
-Marcelo Siqueira, Longin J. Latecki, Nicholas J. Tustison, J. Gallier, and James C. Gee. Topological repairing of 3D digital images. _Journal of Mathematical Imaging and Vision_, 30(3):249–274, March 2008.
+Marcelo Siqueira, Longin J. Latecki, Nicholas J. Tustison, J. Gallier, and James C. Gee. Topological repairing of 3D digital images. _J Math Imaging Vis_, 30(3):249–274, March 2008.
 
 **2006**
 
