@@ -83,6 +83,8 @@ Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher Durst, Jeffre
 
 **2014**
 
+Brian B. Avants, Nicholas J. Tustison, Gang Song, Baohua Wu, Michael Stauffer, Matthew M. McCormick, Hans J. Johnson, James C. Gee, and the Insight Software Consortium.  The Insight ToolKit Image Registration Framework.  _Front Neuroinform_, Submitted.
+
 Nicholas J. Tustison, Philip A. Cook, Arno Klein, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants.  Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements.  _NeuroImage_, Submitted.
 
 Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan Farahani, Justin Kirby, Yuliya Burren, Nicole Porz, Johannes Slotboom, Roland Wiest, Levente Lanczi, Elizabeth Gerstner, Marc-Andre Weber, Tal Arbel, Brian B. Avants, Nicholas Ayache, Patricia Buendia, D. Louis Collins, Nicolas Cordier, Jason J. Corso, Antonio Criminisi, Tilak Das, Herve ́ Delingete, Cagatay Demiralp, Christopher R. Durst, Michel Dojat, Senan Doyle, Joana Festa, Florence Forbes, Ezequiel Geremia, Ben Glocker, Polina Golland, Xiaotao Guo, Andac Hamamci, Khan M. Iftekharuddin, Raj Jena, Nigel M. John, Ender Konukoglu, Danial Lashkari, Jose Antonio Mariz, Raphael Meier, Sergio Pereira, Doina Precup, S. J. Price, Tammy Riklin-Raviv, Syed M. S. Reza, Michael Ryan, Lawrence Schwartz, Hoo-Chang Shin, Jamie Shotton, Carlos A. Silva, Nuno Sousa, Nagesh K. Subbanna, Gabor Szekely, Thomas J. Taylor, Owen M. Thomas, Nicholas J. Tustison, Gozde Unal, Flor Vasseur, Max Wintermark, Dong Hye Ye, Liang Zhao, Binsheng Zhao, Darko Zikic, Marcel Prastawa, Mauricio Reyes, and Koen Van Leemput.  The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS).  _IEEE Trans Med Imaging_, Submitted.
@@ -95,7 +97,7 @@ Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzg
 
 Christopher R Durst, Prashant Raghavan, Mark E Shaffrey, David Schiff, M Beatriz Lopes, Jason P Sheehan, Nicholas J Tustison, James T Patrie, Wenjun Xin, W Jeff Elias, Kenneth C Liu, Greg A Helm, A Cupino, and Max Wintermark. Multimodal MR imaging model to predict tumor infiltration in patients with gliomas. _Neuroradiology_, Dec 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24337609)
 
-Nicholas J. Tustison and Brian B. Avants. Explicit B-spline regularization in diffeomorphic image registration. _Front. Neuroinform_, 7:39, 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24409140)
+Nicholas J. Tustison and Brian B. Avants. Explicit B-spline regularization in diffeomorphic image registration. _Front Neuroinform_, 7:39, 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24409140)
 
 Nicholas J Tustison, Hans J Johnson, Torsten Rohlfing, Arno Klein, Satrajit S Ghosh, Luis Ibanez, and Brian B Avants. Instrumentation bias in the use and evaluation of scientific software: recommendations for reproducible practices in the computational sciences. _Front Neurosci_, 7:162, 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24058331)
 
