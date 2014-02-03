@@ -34,7 +34,7 @@
 
    Academic Radiology  
    Annals of Biomedical Engineering  
-   Artificial Intelligence  in Medicine
+   Artificial Intelligence in Medicine  
    Computers in Biology and Medicine  
    Computers in Medical Imaging and Graphics  
    Focused Ultrasound Foundation ad hoc grant reviewer  
