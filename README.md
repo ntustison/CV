@@ -19,49 +19,47 @@
 
 ## Academic Service
 
-**Program committees**  
+**Program committees**
 
    2012-present: [SPIE Medical Imaging](http://spie.org/x12166.xml)
 
-**Editorships**   
+**Editorships**
 
-   2012-present: Frontiers Review Editorial Board  
+   2012-present: Frontiers Review Editorial Board
    May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
 
+**Reviewer Duties**
 
+   Academic Radiology
+   Annals of Biomedical Engineering
+   Artificial Intelligence in Medicine
+   Computers in Biology and Medicine
+   Computers in Medical Imaging and Graphics
+   Focused Ultrasound Foundation ad hoc grant reviewer
+   Image and Vision Computing
+   International Journal of Pattern Recognition and Artificial Intelligence
+   IEEE Transactions on Medical Imaging
+   IEEE Transactions on Pattern Analysis and Machine Intelligence
+   IEEE Transactions on Biomedical Engineering
+   Insight Journal
+   International Conf. on Medical Image Computing and Computer Assisted Intervention
+   International Journal of Biomedical Imaging
+   International Journal of Computer Vision
+   International Workshop on Medical Imaging and Augmented Reality
+   IEEE International Symposium on Biomedical Imaging: From Nano to Macro
+   Journal of Computed Tomography
+   Journal of Electronic Imaging
+   Journal of Magnetic Resonance Imaging
+   Journal of Neurotrauma
+   Journal of the Optical Society of America A
+   Magnetic Resonance in Medicine
+   Medical Physics
+   Medical Image Analysis
+   NeuroImage
+   Neuroradiology
+   Respirology
 
-**Reviewer Duties**  
-
-   Academic Radiology  
-   Annals of Biomedical Engineering  
-   Artificial Intelligence in Medicine  
-   Computers in Biology and Medicine  
-   Computers in Medical Imaging and Graphics  
-   Focused Ultrasound Foundation ad hoc grant reviewer  
-   Image and Vision Computing  
-   International Journal of Pattern Recognition and Artificial Intelligence  
-   IEEE Transactions on Medical Imaging  
-   IEEE Transactions on Pattern Analysis and Machine Intelligence  
-   IEEE Transactions on Biomedical Engineering  
-   Insight Journal  
-   International Conf. on Medical Image Computing and Computer Assisted Intervention  
-   International Journal of Biomedical Imaging  
-   International Journal of Computer Vision  
-   International Workshop on Medical Imaging and Augmented Reality  
-   IEEE International Symposium on Biomedical Imaging: From Nano to Macro  
-   Journal of Computed Tomography  
-   Journal of Electronic Imaging  
-   Journal of Magnetic Resonance Imaging  
-   Journal of Neurotrauma  
-   Journal of the Optical Society of America A  
-   Magnetic Resonance in Medicine  
-   Medical Physics  
-   Medical Image Analysis  
-   NeuroImage  
-   Neuroradiology  
-   Respirology  
-
-**Invited Talks**  
+**Invited Talks**
 
    Feb. 2012:  SPIE conference, Open source tools for medical image analysis.
 
@@ -93,6 +91,8 @@ Max Wintermark, Nicholas J. Tustison, James T. Patrie, Wenjun Xin, Nicholas Dema
 
 Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzgal, Neal Kassell, and Jeff Elias.  In Vivo Fiber Tracking of Thalamic Connectivity using Diffusion Tensor Imaging in Patients with Essential Tremor Treated by MR-Guided Focused Ultrasound.  _Radiology_, Accepted.
 
+Nicholas J Tustison, Brian B Avants, Philip A Cook, Junghoon Kim, John Whyte, James C Gee, and James R Stone. Logical circularity in voxel-based analysis: Normalization strategy may induce statistical bias. _Hum Brain Mapp_, 35:745–759, Mar 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/23151955)
+
 **2013**
 
 Christopher R Durst, Prashant Raghavan, Mark E Shaffrey, David Schiff, M Beatriz Lopes, Jason P Sheehan, Nicholas J Tustison, James T Patrie, Wenjun Xin, W Jeff Elias, Kenneth C Liu, Greg A Helm, A Cupino, and Max Wintermark. Multimodal MR imaging model to predict tumor infiltration in patients with gliomas. _Neuroradiology_, Dec 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24337609)
@@ -102,8 +102,6 @@ Nicholas J. Tustison and Brian B. Avants. Explicit B-spline regularization in di
 Nicholas J Tustison, Hans J Johnson, Torsten Rohlfing, Arno Klein, Satrajit S Ghosh, Luis Ibanez, and Brian B Avants. Instrumentation bias in the use and evaluation of scientific software: recommendations for reproducible practices in the computational sciences. _Front Neurosci_, 7:162, 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24058331)
 
 **2012**
-
-Nicholas J Tustison, Brian B Avants, Philip A Cook, Junghoon Kim, John Whyte, James C Gee, and James R Stone. Logical circularity in voxel-based analysis: Normalization strategy may induce statistical bias. _Hum Brain Mapp_, Nov 2012. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/23151955)
 
 Gang Song, Eduardo Mortani Barbosa, Jr, Nicholas Tustison, Warren B Gefter, Maryl Kreider, James C Gee, and Drew A Torigian. A comparative study of HRCT image metrics and PFT values for characterization of ILD and COPD. _Acad Radiol_, 19(7):857–64, Jul 2012. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/22516670)
 
