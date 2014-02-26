@@ -77,7 +77,7 @@
 
 Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation MRI.
 
-Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher Durst, Jeffrey T. Duda, James C. Gee, Murray C. Grossman, and Brian B. Avants. Multivariate neuroimage analysis with ANTsR: Application to supervised brain tumor segmentation using random forests.
+Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and Ccncatenated random forests for supervised brain tumor segmentation (simplified) with ANTsR.
 
 **2014**
 
