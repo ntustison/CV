@@ -59,9 +59,12 @@
    Neuroradiology  
    Respirology  
 
-**Invited Talks**
+**Invited Talks/Participation**
 
-   Feb. 2012:  SPIE conference, Open source tools for medical image analysis.
+Feb. 2012:  SPIE:  Medical Imaging, *Open source tools for medical image analysis*.
+Sept. 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page)
+Sept. 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings)
+   
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R
