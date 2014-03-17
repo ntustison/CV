@@ -99,9 +99,9 @@ Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzg
 
 Nicholas J Tustison, Brian B Avants, Philip A Cook, Junghoon Kim, John Whyte, James C Gee, and James R Stone. Logical circularity in voxel-based analysis: Normalization strategy may induce statistical bias. _Hum Brain Mapp_, 35:745–759, Mar 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/23151955)
 
-**2013**
+Christopher R Durst, Prashant Raghavan, Mark E Shaffrey, David Schiff, M Beatriz Lopes, Jason P Sheehan, Nicholas J Tustison, James T Patrie, Wenjun Xin, W Jeff Elias, Kenneth C Liu, Greg A Helm, A Cupino, and Max Wintermark. Multimodal MR imaging model to predict tumor infiltration in patients with gliomas. _Neuroradiology_, 56(2):107-15, Feb 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24337609)
 
-Christopher R Durst, Prashant Raghavan, Mark E Shaffrey, David Schiff, M Beatriz Lopes, Jason P Sheehan, Nicholas J Tustison, James T Patrie, Wenjun Xin, W Jeff Elias, Kenneth C Liu, Greg A Helm, A Cupino, and Max Wintermark. Multimodal MR imaging model to predict tumor infiltration in patients with gliomas. _Neuroradiology_, Dec 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24337609)
+**2013**
 
 Nicholas J. Tustison and Brian B. Avants. Explicit B-spline regularization in diffeomorphic image registration. _Front Neuroinform_, 7:39, 2013. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24409140)
 
