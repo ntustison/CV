@@ -34,7 +34,7 @@
    Annals of Biomedical Engineering  
    Artificial Intelligence in Medicine  
    Computers in Biology and Medicine  
-   Computers in Medical Imaging and Graphics  
+   Computerized Medical Imaging and Graphics  
    Focused Ultrasound Foundation ad hoc grant reviewer  
    Image and Vision Computing  
    International Journal of Pattern Recognition and Artificial Intelligence  
@@ -56,6 +56,7 @@
    Medical Physics  
    Medical Image Analysis  
    NeuroImage  
+   NeuroImage: Clinical  
    Neuroradiology  
    Respirology  
 
