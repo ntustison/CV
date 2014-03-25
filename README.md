@@ -96,7 +96,7 @@ Wenjun Xin, Max Wintermark.  Correlation of Diffusion Tensor Tractography and In
 
 Max Wintermark, Nicholas J. Tustison, James T. Patrie, Wenjun Xin, Nicholas Demartini, Matt Eames, Suna Sumer, Benison Lau, Alan Cupino, John Snell, Arik Hananel, Neal Kassell, and Jean-Francois Aubry.  T1-weighted MRI as a substitute to CT for refocusing planning in MR-guided focused ultrasound.  _Phys Med Biol_, Accepted.
 
-Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzgal, Neal Kassell, and Jeff Elias.  In Vivo Fiber Tracking of Thalamic Connectivity using Diffusion Tensor Imaging in Patients with Essential Tremor Treated by MR-Guided Focused Ultrasound.  _Radiology_, Accepted.
+Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzgal, Neal Kassell, and Jeff Elias.  Thalamic Connectivity in Patients with Essential Tremor Treated with MR Imaging-guided Focused Ultrasound: In Vivo Fiber Tracking by Using Diffusion-Tensor MR Imaging.  _Radiology_, 9:132112, Mar 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24620914)
 
 Nicholas J Tustison, Brian B Avants, Philip A Cook, Junghoon Kim, John Whyte, James C Gee, and James R Stone. Logical circularity in voxel-based analysis: Normalization strategy may induce statistical bias. _Hum Brain Mapp_, 35:745–759, Mar 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/23151955)
 
