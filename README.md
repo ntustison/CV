@@ -85,7 +85,7 @@ Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Jam
 
 **2014**
 
-Brian B. Avants, Nicholas J. Tustison, Gang Song, Baohua Wu, Michael Stauffer, Matthew M. McCormick, Hans J. Johnson, James C. Gee, and the Insight Software Consortium.  The Insight ToolKit Image Registration Framework.  _Front Neuroinform_, Submitted.
+Brian B. Avants,  Nicholas J. Tustison,  James Gee,  Gang Song, Baohua Wu and Michael Stauffer.  The Insight ToolKit Image Registration Framework.  _Front Neuroinform_, Accepted. [(preprint)](http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00044/abstract)
 
 Nicholas J. Tustison, Philip A. Cook, Arno Klein, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants.  Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements.  _NeuroImage_, Submitted. [(preprint)](https://github.com/ntustison/KapowskiChronicles/blob/master/paper2.pdf?raw=true)
 
