@@ -89,14 +89,14 @@ Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan F
 
 W. Gerald Teague, Nicholas J. Tustison, and Talissa A. Altes.  Ventilation Heterogenity in Asthma. _Journal of Asthma_, Accepted.
 
-Nicholas J. Tustison, Philip A. Cook, Arno Klein, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants.  Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements.  _NeuroImage_, In revision. [(preprint)](https://github.com/ntustison/KapowskiChronicles/blob/master/paper2.pdf?raw=true)
+Nicholas J. Tustison, Philip A. Cook, Arno Klein, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants.  Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements.  _NeuroImage_, Accepted. [(preprint)](https://github.com/ntustison/KapowskiChronicles/blob/master/paper2.pdf?raw=true)
 
 Nicholas Said, W. Jeff Elias, Prashant Raghavan, Alan Cupino, Nicholas Tustison, Robert Frysinger, James Patrie,
 Wenjun Xin, Max Wintermark.  Correlation of Diffusion Tensor Tractography and Intraoperative Macro-Stimulation during Deep Brain Stimulation for Parkinson's Disease.  _J Neurosurg_, Accepted.
 
 Max Wintermark, Nicholas J. Tustison, James T. Patrie, Wenjun Xin, Nicholas Demartini, Matt Eames, Suna Sumer, Benison Lau, Alan Cupino, John Snell, Arik Hananel, Neal Kassell, and Jean-Francois Aubry.  T1-weighted MRI as a substitute to CT for refocusing planning in MR-guided focused ultrasound.  _Phys Med Biol_, Accepted.
 
-Brian B. Avants,  Nicholas J. Tustison,  Michael Stauffer, Gang Song, Baohua Wu, and James C. Gee.  The Insight ToolKit Image Registration Framework.  _Front Neuroinform_, 8:44. [(Frontiers)](http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00044/abstract)
+Brian B. Avants,  Nicholas J. Tustison,  Michael Stauffer, Gang Song, Baohua Wu, and James C. Gee.  The Insight ToolKit Image Registration Framework.  _Front Neuroinform_, 8:44. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24817849)
 
 Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzgal, Neal Kassell, and Jeff Elias.  Thalamic Connectivity in Patients with Essential Tremor Treated with MR Imaging-guided Focused Ultrasound: In Vivo Fiber Tracking by Using Diffusion-Tensor MR Imaging.  _Radiology_, 9:132112, Mar 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24620914)
 
