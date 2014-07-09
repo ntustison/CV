@@ -90,9 +90,9 @@ Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan F
 Nicholas Said, W. Jeff Elias, Prashant Raghavan, Alan Cupino, Nicholas Tustison, Robert Frysinger, James Patrie,
 Wenjun Xin, Max Wintermark.  Correlation of Diffusion Tensor Tractography and Intraoperative Macro-Stimulation during Deep Brain Stimulation for Parkinson's Disease.  _J Neurosurg_, Accepted.
 
-Max Wintermark, Nicholas J Tustison, William J Elias, James T Patrie, Wenjun Xin, Nicholas Demartini, Matt Eames, Suna Sumer, Benison Lau, Alan Cupino, John Snell, Arik Hananel, Neal Kassell, and Jean-Francois Aubry.  T1-weighted MRI as a substitute to CT for refocusing planning in MR-guided focused ultrasound. _Phys Med Biol_, 59(13):3599, July 2014. [(iopscience)](http://iopscience.iop.org/0031-9155/59/13/3599)
-
 Nicholas J. Tustison, Philip A. Cook, Arno Klein, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants.  Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements.  _NeuroImage_, 99:166-179, Oct 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24879923)
+
+Max Wintermark, Nicholas J Tustison, William J Elias, James T Patrie, Wenjun Xin, Nicholas Demartini, Matt Eames, Suna Sumer, Benison Lau, Alan Cupino, John Snell, Arik Hananel, Neal Kassell, and Jean-Francois Aubry.  T1-weighted MRI as a substitute to CT for refocusing planning in MR-guided focused ultrasound. _Phys Med Biol_, 59(13):3599, July 2014. [(iopscience)](http://iopscience.iop.org/0031-9155/59/13/3599)
 
 W. Gerald Teague, Nicholas J. Tustison, and Talissa A. Altes.  Ventilation Heterogeneity in Asthma. _Journal of Asthma_, 13:1-30, May 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24823323)
 
