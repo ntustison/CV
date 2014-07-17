@@ -87,6 +87,9 @@ Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Ben
 
 Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan Farahani, Justin Kirby, Yuliya Burren, Nicole Porz, Johannes Slotboom, Roland Wiest, Levente Lanczi, Elizabeth Gerstner, Marc-Andre Weber, Tal Arbel, Brian B. Avants, Nicholas Ayache, Patricia Buendia, D. Louis Collins, Nicolas Cordier, Jason J. Corso, Antonio Criminisi, Tilak Das, Herve ́ Delingete, Cagatay Demiralp, Christopher R. Durst, Michel Dojat, Senan Doyle, Joana Festa, Florence Forbes, Ezequiel Geremia, Ben Glocker, Polina Golland, Xiaotao Guo, Andac Hamamci, Khan M. Iftekharuddin, Raj Jena, Nigel M. John, Ender Konukoglu, Danial Lashkari, Jose Antonio Mariz, Raphael Meier, Sergio Pereira, Doina Precup, S. J. Price, Tammy Riklin-Raviv, Syed M. S. Reza, Michael Ryan, Lawrence Schwartz, Hoo-Chang Shin, Jamie Shotton, Carlos A. Silva, Nuno Sousa, Nagesh K. Subbanna, Gabor Szekely, Thomas J. Taylor, Owen M. Thomas, Nicholas J. Tustison, Gozde Unal, Flor Vasseur, Max Wintermark, Dong Hye Ye, Liang Zhao, Binsheng Zhao, Darko Zikic, Marcel Prastawa, Mauricio Reyes, and Koen Van Leemput.  The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS).  _IEEE Trans Med Imaging_, Submitted. [(preprint)](http://hal.inria.fr/hal-00935640)
 
+
+Jonathon H Yoder, John M Peloquin, Gang Song, Nicholas J Tustison, Sung M Moon, Alexander C Wright, Edward J Vresilovic, James C Gee, Dawn M Elliott.  Internal Human Intervertebral Disc 3D Strains Under Axial Compression Quantified Non-invasively with MRI and Image Registration.  _J Biomch Eng_, Accepted.
+
 Nicholas Said, W. Jeff Elias, Prashant Raghavan, Alan Cupino, Nicholas Tustison, Robert Frysinger, James Patrie,
 Wenjun Xin, Max Wintermark.  Correlation of Diffusion Tensor Tractography and Intraoperative Macro-Stimulation during Deep Brain Stimulation for Parkinson's Disease.  _J Neurosurg_, Accepted.
 
