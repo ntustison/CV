@@ -91,7 +91,7 @@ Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan F
 Jonathon H Yoder, John M Peloquin, Gang Song, Nicholas J Tustison, Sung M Moon, Alexander C Wright, Edward J Vresilovic, James C Gee, Dawn M Elliott.  Internal Human Intervertebral Disc 3D Strains Under Axial Compression Quantified Non-invasively with MRI and Image Registration.  _J Biomch Eng_, Accepted.
 
 Nicholas Said, W. Jeff Elias, Prashant Raghavan, Alan Cupino, Nicholas Tustison, Robert Frysinger, James Patrie,
-Wenjun Xin, Max Wintermark.  Correlation of Diffusion Tensor Tractography and Intraoperative Macro-Stimulation during Deep Brain Stimulation for Parkinson's Disease.  _J Neurosurg_, Accepted.
+Wenjun Xin, Max Wintermark.  Correlation of Diffusion Tensor Tractography and Intraoperative Macro-Stimulation during Deep Brain Stimulation for Parkinson's Disease.  _J Neurosurg_, 25:1-7, Jul 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25061862).
 
 Nicholas J. Tustison, Philip A. Cook, Arno Klein, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants.  Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements.  _NeuroImage_, 99:166-179, Oct 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24879923)
 
