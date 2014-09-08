@@ -83,7 +83,7 @@ Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Edu
 
 **2014**
 
-Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with ANTsR.  _Neuroinformatics_, Accepted.  [(preprint)](https://github.com/ntustison/ANTsAndArboles/blob/master/Manuscript/template.pdf?raw=true)
+Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with _ANTsR_.  _Neuroinformatics_, Accepted.  [(preprint)](https://github.com/ntustison/ANTsAndArboles/blob/master/Manuscript/template.pdf?raw=true)
 
 Kun Qing, Talissa A. Altes, Nicholas J. Tustison, Xue Feng, Xiao Chen, Jaime F. Mata, G. Wilson Miller, Eduard E. de Lange, William A. Tobias, Gordon D. Cates, Jr., James R. Brookeman, John P. Mugler, III.  Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human Lung in a Single Breath-hold using Compressed Sensing.  _Magn Reson Med_, Accepted.  
 
