@@ -59,6 +59,7 @@
    NeuroImage: Clinical  
    Neuroradiology  
    Respirology  
+   SIAM Journal on Imaging Sciences 
 
 **Invited Talks/Participation**
 
