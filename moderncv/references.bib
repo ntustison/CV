@@ -2,18 +2,214 @@
 %% http://bibdesk.sourceforge.net/
 
 
-%% Created for Nick Tustison at 2014-01-16 18:42:04 -0500 
+%% Created for Nick Tustison at 2014-12-06 21:52:12 -0800 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
 
-@article{Tustison:2013ab,
+@article{Tustison:2014ad,
+	Abstract = {Recent discussions within the neuroimaging community have highlighted the problematic presence of selection bias in experimental design. Although initially centering on the selection of voxels during the course of fMRI studies, we demonstrate how this bias can potentially corrupt voxel-based analyses. For such studies, template-based registration plays a critical role in which a representative template serves as the normalized space for group alignment. A standard approach maps each subject's image to a representative template before performing statistical comparisons between different groups. We analytically demonstrate that in these scenarios the popular sum of squared difference (SSD) intensity metric, implicitly surrogating as a quantification of anatomical alignment, instead explicitly maximizes effect size--an experimental design flaw referred to as "circularity bias." We illustrate how this selection bias varies in strength with the similarity metric used during registration under the hypothesis that while SSD-related metrics, such as Demons, will manifest similar effects, other metrics which are not formulated based on absolute intensity differences will produce less of an effect. Consequently, given the variability in voxel-based analysis outcomes with similarity metric choice, we caution researchers specifically in the use of SSD and SSD-related measures where normalization and statistical analysis involve the same image set. Instead, we advocate a more cautious approach where normalization of the individual subject images to the reference space occurs through corresponding image sets which are independent of statistical testing. Alternatively, one can use similarity terms that are less sensitive to this bias.},
+	Author = {Tustison, Nicholas J and Avants, Brian B and Cook, Philip A and Kim, Junghoon and Whyte, John and Gee, James C and Stone, James R},
+	Date-Added = {2014-12-07 05:50:19 +0000},
+	Date-Modified = {2014-12-07 05:50:19 +0000},
+	Doi = {10.1002/hbm.22211},
+	Journal = {Hum Brain Mapp},
+	Journal-Full = {Human brain mapping},
+	Keywords = {image registration; methodological bias; morphometry; nonindependent analysis},
+	Month = {Mar},
+	Number = {3},
+	Pages = {745-59},
+	Pmid = {23151955},
+	Pst = {ppublish},
+	Title = {Logical circularity in voxel-based analysis: normalization strategy may induce statistical bias},
+	Volume = {35},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1002/hbm.22211}}
+
+@article{Durst:2014aa,
+	Abstract = {INTRODUCTION: Gliomas remain difficult to treat, in part, due to our inability to accurately delineate the margins of the tumor. The goal of our study was to evaluate if a combination of advanced MR imaging techniques and a multimodal imaging model could be used to predict tumor infiltration in patients with diffuse gliomas.
+METHODS: Institutional review board approval and written consent were obtained. This prospective pilot study enrolled patients undergoing stereotactic biopsy for a suspected de novo glioma. Stereotactic biopsy coordinates were coregistered with multiple standard and advanced neuroimaging sequences in 10 patients. Objective imaging values were assigned to the biopsy sites for each of the imaging sequences. A principal component analysis was performed to reduce the dimensionality of the imaging dataset without losing important information. A univariate analysis was performed to identify the statistically relevant principal components. Finally, a multivariate analysis was used to build the final model describing nuclear density.
+RESULTS: A univariate analysis identified three principal components as being linearly associated with the observed nuclear density (p values 0.021, 0.016, and 0.046, respectively). These three principal component composite scores are predominantly comprised of DTI (mean diffusivity or average diffusion coefficient and fractional anisotropy) and PWI data (rMTT, Ktrans). The p value of the model was <0.001. The correlation between the predicted and observed nuclear density was 0.75.
+CONCLUSION: A multi-input, single output imaging model may predict the extent of glioma invasion with significant correlation with histopathology.},
+	Author = {Durst, Christopher R and Raghavan, Prashant and Shaffrey, Mark E and Schiff, David and Lopes, M Beatriz and Sheehan, Jason P and Tustison, Nicholas J and Patrie, James T and Xin, Wenjun and Elias, W Jeff and Liu, Kenneth C and Helm, Greg A and Cupino, A and Wintermark, Max},
+	Date-Added = {2014-12-07 05:41:56 +0000},
+	Date-Modified = {2014-12-07 05:47:32 +0000},
+	Doi = {10.1007/s00234-013-1308-9},
+	Journal = {Neuroradiology},
+	Journal-Full = {Neuroradiology},
+	Mesh = {Adult; Aged; Algorithms; Brain Neoplasms; Computer Simulation; Female; Glioma; Humans; Image Enhancement; Image Interpretation, Computer-Assisted; Magnetic Resonance Imaging; Male; Middle Aged; Models, Statistical; Multimodal Imaging; Neoplasm Invasiveness; Pilot Projects; Reproducibility of Results; Sensitivity and Specificity; Young Adult},
+	Month = {Feb},
+	Number = {2},
+	Pages = {107-15},
+	Pmid = {24337609},
+	Pst = {ppublish},
+	Title = {Multimodal {MR} imaging model to predict tumor infiltration in patients with gliomas},
+	Volume = {56},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s00234-013-1308-9}}
+
+@article{Qing:2014aa,
+	Abstract = {PURPOSE: To develop and validate a method for acquiring helium-3 ((3) He) and proton ((1) H) three-dimensional (3D) image sets of the human lung with isotropic spatial resolution within a 10-s breath-hold by using compressed sensing (CS) acceleration, and to assess the fidelity of undersampled images compared with fully sampled images.
+METHODS: The undersampling scheme for CS acceleration was optimized and tested using (3) He ventilation data. Rapid 3D acquisition of both (3) He and (1) H data during one breath-hold was then implemented, based on a balanced steady-state free-precession pulse sequence, by random undersampling of k-space with reconstruction by means of minimizing the L1 norm and total variance. CS-reconstruction fidelity was evaluated quantitatively by comparing fully sampled and retrospectively undersampled image sets.
+RESULTS: Helium-3 and (1) H 3D image sets of the lung with isotropic 3.9-mm resolution were acquired during a single breath-hold in 12 s and 8 s using acceleration factors of 2 and 3, respectively. Comparison of fully sampled and retrospectively undersampled (3) He and (1) H images yielded mean absolute errors <10% and structural similarity indices >0.9.
+CONCLUSION: By randomly undersampling k-space and using CS reconstruction, high-quality (3) He and (1) H 3D image sets with isotropic 3.9-mm resolution can be acquired within an 8-s breath-hold. Magn Reson Med, 2014. {\copyright} 2014 Wiley Periodicals, Inc.},
+	Author = {Qing, Kun and Altes, Talissa A and Tustison, Nicholas J and Feng, Xue and Chen, Xiao and Mata, Jaime F and Miller, G Wilson and de Lange, Eduard E and Tobias, William A and Cates, Jr, Gordon D and Brookeman, James R and Mugler, 3rd, John P},
+	Date-Added = {2014-12-07 05:41:50 +0000},
+	Date-Modified = {2014-12-07 05:41:50 +0000},
+	Doi = {10.1002/mrm.25499},
+	Journal = {Magn Reson Med},
+	Journal-Full = {Magnetic resonance in medicine : official journal of the Society of Magnetic Resonance in Medicine / Society of Magnetic Resonance in Medicine},
+	Keywords = {compressed sensing; hyperpolarized gas; pulmonary imaging},
+	Month = {Oct},
+	Pmid = {25335080},
+	Pst = {aheadofprint},
+	Title = {Rapid acquisition of helium-3 and proton three-dimensional image sets of the human lung in a single breath-hold using compressed sensing},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1002/mrm.25499}}
+
+@article{Yoder:2014aa,
+	Abstract = {Study objectives were to develop, validate, and apply a method to measure three-dimensional (3D) internal strains in intact human discs under axial compression. A custom-built loading device applied compression and permitted load-relaxation outside of the magnet while also maintaining compression and hydration during imaging. Strain was measured through registration of 300 μm isotropic resolution images. Excellent registration accuracy was achieved, with 94% and 65% overlap of disc volume and lamellae compared to manual segmentation, and an average Hausdorff, a measure of distance error, of 0.03 and 0.12 mm for disc volume and lamellae boundaries, respectively. Strain maps enabled qualitative visualization and quantitative regional annulus fibrosus (AF) strain analysis. Axial and circumferential strains were highest in the lateral AF and lowest in the anterior and posterior AF. Radial strains were lowest in the lateral AF, but highly variable. Overall, this study provided new methods that will be valuable in the design and evaluation surgical procedures and therapeutic interventions.},
+	Author = {Yoder, Jonathon H and Peloquin, John M and Song, Gang and Tustison, Nick J and Moon, Sung M and Wright, Alexander C and Vresilovic, Edward J and Gee, James C and Elliott, Dawn M},
+	Date-Added = {2014-12-07 05:41:48 +0000},
+	Date-Modified = {2014-12-07 05:41:48 +0000},
+	Doi = {10.1115/1.4028250},
+	Journal = {J Biomech Eng},
+	Journal-Full = {Journal of biomechanical engineering},
+	Month = {Nov},
+	Number = {11},
+	Pmc = {PMC4181341},
+	Pmid = {25109533},
+	Pst = {ppublish},
+	Title = {Internal three-dimensional strains in human intervertebral discs under axial compression quantified noninvasively by magnetic resonance imaging and image registration},
+	Volume = {136},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1115/1.4028250}}
+
+@article{Said:2014aa,
+	Abstract = {OBJECTIVES: The purpose of this study was to investigate whether diffusion tensor imaging (DTI) of the corticospinal tract (CST) is a reliable surrogate for intraoperative macrostimulation through the deep brain stimulation (DBS) leads. The authors hypothesized that the distance on MRI from the DBS lead to the CST as determined by DTI would correlate with intraoperative motor thresholds from macrostimulations through the same DBS lead.
+METHODS: The authors retrospectively reviewed pre- and postoperative MRI studies and intraoperative macrostimulation recordings in 17 patients with Parkinson disease (PD) treated by DBS stimulation. Preoperative DTI tractography of the CST was coregistered with postoperative MRI studies showing the position of the DBS leads. The shortest distance and the angle from each contact of each DBS lead to the CST was automatically calculated using software-based analysis. The distance measurements calculated for each contact were evaluated with respect to the intraoperative voltage thresholds that elicited a motor response at each contact.
+RESULTS: There was a nonsignificant trend for voltage thresholds to increase when the distances between the DBS leads and the CST increased. There was a significant correlation between the angle and the voltage, but the correlation was weak (coefficient of correlation [R] = 0.36).
+CONCLUSIONS: Caution needs to be exercised when using DTI tractography information to guide DBS lead placement in patients with PD. Further studies are needed to compare DTI tractography measurements with other approaches such as microelectrode recordings and conventional intraoperative MRI-guided placement of DBS leads.},
+	Author = {Said, Nicholas and Elias, W Jeff and Raghavan, Prashant and Cupino, Alan and Tustison, Nicholas and Frysinger, Robert and Patrie, James and Xin, Wenjun and Wintermark, Max},
+	Date-Added = {2014-12-07 05:41:46 +0000},
+	Date-Modified = {2014-12-07 05:46:56 +0000},
+	Doi = {10.3171/2014.6.JNS131673},
+	Journal = {J Neurosurg},
+	Journal-Full = {Journal of neurosurgery},
+	Keywords = {CST = corticospinal tract; DBS = deep brain stimulation; DTI = diffusion tensor imaging; GEE = generalized estimating equation; GPi = globus pallidus internus; MPRAGE = magnetization-prepared rapid acquisition gradient echo; NEX = number of excitations; PD = Parkinson disease; STN = subthalamic nucleus; Vim = ventral intermediate nucleus; deep brain stimulation; diffusion tensor tractography; functional neurosurgery},
+	Month = {Oct},
+	Number = {4},
+	Pages = {929-35},
+	Pmid = {25061862},
+	Pst = {ppublish},
+	Title = {Correlation of diffusion tensor tractography and intraoperative macrostimulation during deep brain stimulation for {P}arkinson disease},
+	Volume = {121},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.3171/2014.6.JNS131673}}
+
+@article{Wintermark:2014ab,
+	Abstract = {Precise focusing is essential for transcranial MRI-guided focused ultrasound (TcMRgFUS) to minimize collateral damage to non-diseased tissues and to achieve temperatures capable of inducing coagulative necrosis at acceptable power deposition levels. CT is usually used for this refocusing but requires a separate study (CT) ahead of the TcMRgFUS procedure. The goal of this study was to determine whether MRI using an appropriate sequence would be a viable alternative to CT for planning ultrasound refocusing in TcMRgFUS. We tested three MRI pulse sequences (3D T1 weighted 3D volume interpolated breath hold examination (VIBE), proton density weighted 3D sampling perfection with applications optimized contrasts using different flip angle evolution and 3D true fast imaging with steady state precision T2-weighted imaging) on patients who have already had a CT scan performed. We made detailed measurements of the calvarial structure based on the MRI data and compared those so-called 'virtual CT' to detailed measurements of the calvarial structure based on the CT data, used as a reference standard. We then loaded both standard and virtual CT in a TcMRgFUS device and compared the calculated phase correction values, as well as the temperature elevation in a phantom. A series of Bland-Altman measurement agreement analyses showed T1 3D VIBE as the optimal MRI sequence, with respect to minimizing the measurement discrepancy between the MRI derived total skull thickness measurement and the CT derived total skull thickness measurement (mean measurement discrepancy: 0.025; 95% CL (-0.22-0.27); p = 0.825). The T1-weighted sequence was also optimal in estimating skull CT density and skull layer thickness. The mean difference between the phase shifts calculated with the standard CT and the virtual CT reconstructed from the T1 dataset was 0.08 $\pm$ 1.2 rad on patients and 0.1 $\pm$ 0.9 rad on phantom. Compared to the real CT, the MR-based correction showed a 1 $\,^{\circ}$C drop on the maximum temperature elevation in the phantom (7% relative drop). Without any correction, the maximum temperature was down 6 $\,^{\circ}$C (43% relative drop). We have developed an approach that allows for a reconstruction of a virtual CT dataset from MRI to perform phase correction in TcMRgFUS.},
+	Author = {Wintermark, Max and Tustison, Nicholas J and Elias, William J and Patrie, James T and Xin, Wenjun and Demartini, Nicholas and Eames, Matt and Sumer, Suna and Lau, Benison and Cupino, Alan and Snell, John and Hananel, Arik and Kassell, Neal and Aubry, Jean-Francois},
+	Date-Added = {2014-12-07 05:41:43 +0000},
+	Date-Modified = {2014-12-07 05:45:02 +0000},
+	Doi = {10.1088/0031-9155/59/13/3599},
+	Journal = {Phys Med Biol},
+	Journal-Full = {Physics in medicine and biology},
+	Month = {Jul},
+	Number = {13},
+	Pages = {3599-614},
+	Pmid = {24909357},
+	Pst = {ppublish},
+	Title = {T1-weighted {MRI} as a substitute to {CT} for refocusing planning in {MR}-guided focused ultrasound},
+	Volume = {59},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1088/0031-9155/59/13/3599}}
+
+@article{Tustison:2014ab,
+	Abstract = {Many studies of the human brain have explored the relationship between cortical thickness and cognition, phenotype, or disease. Due to the subjectivity and time requirements in manual measurement of cortical thickness, scientists have relied on robust software tools for automation which facilitate the testing and refinement of neuroscientific hypotheses. The most widely used tool for cortical thickness studies is the publicly available, surface-based FreeSurfer package. Critical to the adoption of such tools is a demonstration of their reproducibility, validity, and the documentation of specific implementations that are robust across large, diverse imaging datasets. To this end, we have developed the automated, volume-based Advanced Normalization Tools (ANTs) cortical thickness pipeline comprising well-vetted components such as SyGN (multivariate template construction), SyN (image registration), N4 (bias correction), Atropos (n-tissue segmentation), and DiReCT (cortical thickness estimation). In this work, we have conducted the largest evaluation of automated cortical thickness measures in publicly available data, comparing FreeSurfer and ANTs measures computed on 1205 images from four open data sets (IXI, MMRR, NKI, and OASIS), with parcellation based on the recently proposed Desikan-Killiany-Tourville (DKT) cortical labeling protocol. We found good scan-rescan repeatability with both FreeSurfer and ANTs measures. Given that such assessments of precision do not necessarily reflect accuracy or an ability to make statistical inferences, we further tested the neurobiological validity of these approaches by evaluating thickness-based prediction of age and gender. ANTs is shown to have a higher predictive performance than FreeSurfer for both of these measures. In promotion of open science, we make all of our scripts, data, and results publicly available which complements the use of open image data sets and the open source availability of the proposed ANTs cortical thickness pipeline.},
+	Author = {Tustison, Nicholas J and Cook, Philip A and Klein, Arno and Song, Gang and Das, Sandhitsu R and Duda, Jeffrey T and Kandel, Benjamin M and van Strien, Niels and Stone, James R and Gee, James C and Avants, Brian B},
+	Date-Added = {2014-12-07 05:41:41 +0000},
+	Date-Modified = {2014-12-07 05:44:30 +0000},
+	Doi = {10.1016/j.neuroimage.2014.05.044},
+	Journal = {Neuroimage},
+	Journal-Full = {NeuroImage},
+	Keywords = {Advanced Normalization Tools; Age prediction; Gender prediction; MRI; Open science; Scientific reproducibility},
+	Month = {Oct},
+	Pages = {166-79},
+	Pmid = {24879923},
+	Pst = {ppublish},
+	Title = {Large-scale evaluation of {ANTs} and {FreeSurfer} cortical thickness measurements},
+	Volume = {99},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.neuroimage.2014.05.044}}
+
+@article{Teague:2014aa,
+	Abstract = {Non-uniform distribution of inspired gas within the lung, termed ventilation heterogeneity, is present in patients with even mild asthma. Current evidence strongly supports ventilation heterogeneity as a fundamental derangement of lung function in asthma that contributes per se to hypoxemia and airway hyper-responsiveness. An extreme example of ventilation heterogeneity is the identification by hyperpolarized gas MRI of lung regions with no ventilation, termed filling defects. Lung filling defects in patients with asthma can persist over time, increase in size with methacholine-induced bronchospasm and more likely are caused by obstruction of the peripheral and not the proximal airways. Ventilation heterogeneity can be quantified in the conducting and acinar lung zones with the multiple gas washout method, and in the acinar zone does not fully resolve following bronchodilator treatment in patients with asthma. In prospective studies, the degree of ventilation heterogeneity at baseline predicts airway hyper-responsiveness and response to corticosteroid dose titration. An important unanswered question is the relationship of airways inflammation to ventilation heterogeneity. In consideration of the importance of ventilation heterogeneity in its pathobiology, asthma is more a focal disorder with regional pathology akin to regional ileitis and not the generalized disorder of the airways as it has been viewed in the past.},
+	Author = {Teague, W Gerald and Tustison, Nicholas J and Altes, Talissa A},
+	Date-Added = {2014-12-07 05:41:40 +0000},
+	Date-Modified = {2014-12-07 05:41:40 +0000},
+	Doi = {10.3109/02770903.2014.914535},
+	Journal = {J Asthma},
+	Journal-Full = {The Journal of asthma : official journal of the Association for the Care of Asthma},
+	Keywords = {Mechanisms; pathophysiology; reviews},
+	Mesh = {Asthma; Diagnostic Imaging; Humans; Lung; Pulmonary Ventilation},
+	Month = {Sep},
+	Number = {7},
+	Pages = {677-84},
+	Pmid = {24823323},
+	Pst = {ppublish},
+	Title = {Ventilation heterogeneity in asthma},
+	Volume = {51},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.3109/02770903.2014.914535}}
+
+@article{Avants:2014aa,
+	Abstract = {Publicly available scientific resources help establish evaluation standards, provide a platform for teaching and improve reproducibility. Version 4 of the Insight ToolKit (ITK(4)) seeks to establish new standards in publicly available image registration methodology. ITK(4) makes several advances in comparison to previous versions of ITK. ITK(4) supports both multivariate images and objective functions; it also unifies high-dimensional (deformation field) and low-dimensional (affine) transformations with metrics that are reusable across transform types and with composite transforms that allow arbitrary series of geometric mappings to be chained together seamlessly. Metrics and optimizers take advantage of multi-core resources, when available. Furthermore, ITK(4) reduces the parameter optimization burden via principled heuristics that automatically set scaling across disparate parameter types (rotations vs. translations). A related approach also constrains steps sizes for gradient-based optimizers. The result is that tuning for different metrics and/or image pairs is rarely necessary allowing the researcher to more easily focus on design/comparison of registration strategies. In total, the ITK(4) contribution is intended as a structure to support reproducible research practices, will provide a more extensive foundation against which to evaluate new work in image registration and also enable application level programmers a broad suite of tools on which to build. Finally, we contextualize this work with a reference registration evaluation study with application to pediatric brain labeling.},
+	Author = {Avants, Brian B and Tustison, Nicholas J and Stauffer, Michael and Song, Gang and Wu, Baohua and Gee, James C},
+	Date-Added = {2014-12-07 05:41:39 +0000},
+	Date-Modified = {2014-12-07 05:52:12 +0000},
+	Doi = {10.3389/fninf.2014.00044},
+	Journal = {Front Neuroinform},
+	Journal-Full = {Frontiers in neuroinformatics},
+	Keywords = {MRI; brain; death; open-source; registration},
+	Pages = {44},
+	Pmc = {PMC4009425},
+	Pmid = {24817849},
+	Pst = {epublish},
+	Title = {The {Insight} {ToolKit} image registration framework},
+	Volume = {8},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.3389/fninf.2014.00044}}
+
+@article{Wintermark:2014aa,
+	Abstract = {PURPOSE: To use diffusion-tensor (DT) magnetic resonance (MR) imaging in patients with essential tremor who were treated with transcranial MR imaging-guided focused ultrasound lesion inducement to identify the structural connectivity of the ventralis intermedius nucleus of the thalamus and determine how DT imaging changes correlated with tremor changes after lesion inducement.
+MATERIALS AND METHODS: With institutional review board approval, and with prospective informed consent, 15 patients with medication-refractory essential tremor were enrolled in a HIPAA-compliant pilot study and were treated with transcranial MR imaging-guided focused ultrasound surgery targeting the ventralis intermedius nucleus of the thalamus contralateral to their dominant hand. Fourteen patients were ultimately included. DT MR imaging studies at 3.0 T were performed preoperatively and 24 hours, 1 week, 1 month, and 3 months after the procedure. Fractional anisotropy (FA) maps were calculated from the DT imaging data sets for all time points in all patients. Voxels where FA consistently decreased over time were identified, and FA change in these voxels was correlated with clinical changes in tremor over the same period by using Pearson correlation.
+RESULTS: Ipsilateral brain structures that showed prespecified negative correlation values of FA over time of -0.5 or less included the pre- and postcentral subcortical white matter in the hand knob area; the region of the corticospinal tract in the centrum semiovale, in the posterior limb of the internal capsule, and in the cerebral peduncle; the thalamus; the region of the red nucleus; the location of the central tegmental tract; and the region of the inferior olive. The contralateral middle cerebellar peduncle and bilateral portions of the superior vermis also showed persistent decrease in FA over time. There was strong correlation between decrease in FA and clinical improvement in hand tremor 3 months after lesion inducement (P < .001).
+CONCLUSION: DT MR imaging after MR imaging-guided focused ultrasound thalamotomy depicts changes in specific brain structures. The magnitude of the DT imaging changes after thalamic lesion inducement correlates with the degree of clinical improvement in essential tremor.},
+	Author = {Wintermark, Max and Huss, Diane S and Shah, Binit B and Tustison, Nicholas and Druzgal, T Jason and Kassell, Neal and Elias, W Jeff},
+	Date-Added = {2014-12-07 05:41:36 +0000},
+	Date-Modified = {2014-12-07 05:45:21 +0000},
+	Doi = {10.1148/radiol.14132112},
+	Journal = {Radiology},
+	Journal-Full = {Radiology},
+	Mesh = {Aged; Brain Mapping; Diffusion Magnetic Resonance Imaging; Essential Tremor; Female; Humans; Magnetic Resonance Imaging, Interventional; Male; Nerve Fibers, Myelinated; Pilot Projects; Prospective Studies; Thalamus; Treatment Outcome; Ultrasonic Surgical Procedures},
+	Month = {Jul},
+	Number = {1},
+	Pages = {202-9},
+	Pmid = {24620914},
+	Pst = {ppublish},
+	Title = {Thalamic connectivity in patients with essential tremor treated with {MR} imaging-guided focused ultrasound: in vivo fiber tracking by using diffusion-tensor {MR} imaging},
+	Volume = {272},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1148/radiol.14132112}}
+
+@article{Tustison:2013ac,
 	Abstract = {Diffeomorphic mappings are central to image registration due largely to their topological properties and success in providing biologically plausible solutions to deformation and morphological estimation problems. Popular diffeomorphic image registration algorithms include those characterized by time-varying and constant velocity fields, and symmetrical considerations. Prior information in the form of regularization is used to enforce transform plausibility taking the form of physics-based constraints or through some approximation thereof, e.g., Gaussian smoothing of the vector fields [a la Thirion's Demons (Thirion, 1998)]. In the context of the original Demons' framework, the so-called directly manipulated free-form deformation (DMFFD) (Tustison et al., 2009) can be viewed as a smoothing alternative in which explicit regularization is achieved through fast B-spline approximation. This characterization can be used to provide B-spline "flavored" diffeomorphic image registration solutions with several advantages. Implementation is open source and available through the Insight Toolkit and our Advanced Normalization Tools (ANTs) repository. A thorough comparative evaluation with the well-known SyN algorithm (Avants et al., 2008), implemented within the same framework, and its B-spline analog is performed using open labeled brain data and open source evaluation tools.},
 	Author = {Tustison, Nicholas J and Avants, Brian B},
-	Date-Added = {2014-01-16 23:23:50 +0000},
-	Date-Modified = {2014-01-16 23:42:04 +0000},
+	Date-Added = {2014-12-07 05:41:31 +0000},
+	Date-Modified = {2014-12-07 05:41:31 +0000},
 	Doi = {10.3389/fninf.2013.00039},
 	Journal = {Front Neuroinform},
 	Journal-Full = {Frontiers in neuroinformatics},
@@ -22,28 +218,25 @@
 	Pmc = {PMC3870320},
 	Pmid = {24409140},
 	Pst = {epublish},
-	Title = {Explicit {B}-spline regularization in diffeomorphic image registration},
+	Title = {Explicit B-spline regularization in diffeomorphic image registration},
 	Volume = {7},
 	Year = {2013},
 	Bdsk-Url-1 = {http://dx.doi.org/10.3389/fninf.2013.00039}}
 
-@article{Durst:2013aa,
-	Abstract = {INTRODUCTION: Gliomas remain difficult to treat, in part, due to our inability to accurately delineate the margins of the tumor. The goal of our study was to evaluate if a combination of advanced MR imaging techniques and a multimodal imaging model could be used to predict tumor infiltration in patients with diffuse gliomas.
-METHODS: Institutional review board approval and written consent were obtained. This prospective pilot study enrolled patients undergoing stereotactic biopsy for a suspected de novo glioma. Stereotactic biopsy coordinates were coregistered with multiple standard and advanced neuroimaging sequences in 10 patients. Objective imaging values were assigned to the biopsy sites for each of the imaging sequences. A principal component analysis was performed to reduce the dimensionality of the imaging dataset without losing important information. A univariate analysis was performed to identify the statistically relevant principal components. Finally, a multivariate analysis was used to build the final model describing nuclear density.
-RESULTS: A univariate analysis identified three principal components as being linearly associated with the observed nuclear density (p values 0.021, 0.016, and 0.046, respectively). These three principal component composite scores are predominantly comprised of DTI (mean diffusivity or average diffusion coefficient and fractional anisotropy) and PWI data (rMTT, Ktrans). The p value of the model was <0.001. The correlation between the predicted and observed nuclear density was 0.75.
-CONCLUSION: A multi-input, single output imaging model may predict the extent of glioma invasion with significant correlation with histopathology.},
-	Author = {Durst, Christopher R and Raghavan, Prashant and Shaffrey, Mark E and Schiff, David and Lopes, M Beatriz and Sheehan, Jason P and Tustison, Nicholas J and Patrie, James T and Xin, Wenjun and Elias, W Jeff and Liu, Kenneth C and Helm, Greg A and Cupino, A and Wintermark, Max},
-	Date-Added = {2013-12-18 18:50:47 +0000},
-	Date-Modified = {2013-12-18 18:52:01 +0000},
-	Doi = {10.1007/s00234-013-1308-9},
-	Journal = {Neuroradiology},
-	Journal-Full = {Neuroradiology},
-	Month = {Dec},
-	Pmid = {24337609},
+@article{Tustison:2014aa,
+	Abstract = {Segmenting and quantifying gliomas from MRI is an important task for diagnosis, planning intervention, and for tracking tumor changes over time. However, this task is complicated by the lack of prior knowledge concerning tumor location, spatial extent, shape, possible displacement of normal tissue, and intensity signature. To accommodate such complications, we introduce a framework for supervised segmentation based on multiple modality intensity, geometry, and asymmetry feature sets. These features drive a supervised whole-brain and tumor segmentation approach based on random forest-derived probabilities. The asymmetry-related features (based on optimal symmetric multimodal templates) demonstrate excellent discriminative properties within this framework. We also gain performance by generating probability maps from random forest models and using these maps for a refining Markov random field regularized probabilistic segmentation. This strategy allows us to interface the supervised learning capabilities of the random forest model with regularized probabilistic segmentation using the recently developed ANTsR package-a comprehensive statistical and visualization interface between the popular Advanced Normalization Tools (ANTs) and the R statistical project. The reported algorithmic framework was the top-performing entry in the MICCAI 2013 Multimodal Brain Tumor Segmentation challenge. The challenge data were widely varying consisting of both high-grade and low-grade glioma tumor four-modality MRI from five different institutions. Average Dice overlap measures for the final algorithmic assessment were 0.87, 0.78, and 0.74 for "complete", "core", and "enhanced" tumor components, respectively.},
+	Author = {Tustison, Nicholas J and Shrinidhi, K L and Wintermark, Max and Durst, Christopher R and Kandel, Benjamin M and Gee, James C and Grossman, Murray C and Avants, Brian B},
+	Date-Added = {2014-12-07 05:41:26 +0000},
+	Date-Modified = {2014-12-07 05:43:58 +0000},
+	Doi = {10.1007/s12021-014-9245-2},
+	Journal = {Neuroinformatics},
+	Journal-Full = {Neuroinformatics},
+	Month = {Nov},
+	Pmid = {25433513},
 	Pst = {aheadofprint},
-	Title = {Multimodal {MR} imaging model to predict tumor infiltration in patients with gliomas},
-	Year = {2013},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s00234-013-1308-9}}
+	Title = {Optimal Symmetric Multimodal Templates and Concatenated Random Forests for Supervised Brain Tumor Segmentation (Simplified) with {$ANTsR$}},
+	Year = {2014},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s12021-014-9245-2}}
 
 @article{siqueira2008,
 	Author = {Marcelo Siqueira and Longin J. Latecki and Nicholas J. Tustison and J. Gallier and James C. Gee},
@@ -394,21 +587,6 @@ CONCLUSIONS: Some image metrics are not only as good discriminators as PFT for t
 	Volume = {19},
 	Year = {2012},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.acra.2012.03.007}}
-
-@article{Tustison:2012aa,
-	Abstract = {Recent discussions within the neuroimaging community have highlighted the problematic presence of selection bias in experimental design. Although initially centering on the selection of voxels during the course of fMRI studies, we demonstrate how this bias can potentially corrupt voxel-based analyses. For such studies, template-based registration plays a critical role in which a representative template serves as the normalized space for group alignment. A standard approach maps each subject's image to a representative template before performing statistical comparisons between different groups. We analytically demonstrate that in these scenarios the popular sum of squared difference (SSD) intensity metric, implicitly surrogating as a quantification of anatomical alignment, instead explicitly maximizes effect size-an experimental design flaw referred to as "circularity bias." We illustrate how this selection bias varies in strength with the similarity metric used during registration under the hypothesis that while SSD-related metrics, such as Demons, will manifest similar effects, other metrics which are not formulated based on absolute intensity differences will produce less of an effect. Consequently, given the variability in voxel-based analysis outcomes with similarity metric choice, we caution researchers specifically in the use of SSD and SSD-related measures where normalization and statistical analysis involve the same image set. Instead, we advocate a more cautious approach where normalization of the individual subject images to the reference space occurs through corresponding image sets which are independent of statistical testing. Alternatively, one can use similarity terms that are less sensitive to this bias. Hum Brain Mapp, 2012. {\copyright} 2012 Wiley Periodicals, Inc.},
-	Author = {Tustison, Nicholas J and Avants, Brian B and Cook, Philip A and Kim, Junghoon and Whyte, John and Gee, James C and Stone, James R},
-	Date-Added = {2013-11-07 00:38:03 +0000},
-	Date-Modified = {2013-11-07 00:38:03 +0000},
-	Doi = {10.1002/hbm.22211},
-	Journal = {Hum Brain Mapp},
-	Journal-Full = {Human brain mapping},
-	Month = {Nov},
-	Pmid = {23151955},
-	Pst = {aheadofprint},
-	Title = {Logical circularity in voxel-based analysis: Normalization strategy may induce statistical bias},
-	Year = {2012},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1002/hbm.22211}}
 
 @article{Tustison:2013aa,
 	Author = {Tustison, Nicholas J and Johnson, Hans J and Rohlfing, Torsten and Klein, Arno and Ghosh, Satrajit S and Ibanez, Luis and Avants, Brian B},
