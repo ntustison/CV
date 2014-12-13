@@ -85,6 +85,8 @@ Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Edu
 
 **2014**
 
+Brian Avants, Jeffrey Duda, Emily Kilroy, Kay Jann, Benjamin Kandel, Lirong Yan, Mayank Jog, Nicholas Tustison, Robert Smith, Yi Wang, Kate Krasileva, Mirella Rapretto, and Danny Wang.  The Pediatric Template of Brain Perfusion, _Scientific Data_, [Accepted].
+
 Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, Nicholas Tustison, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _Journal of Applied Physiology_, [Accepted](http://jap.physiology.org/content/early/2014/11/10/japplphysiol.00627.2014).
 
 Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with _ANTsR_.  _Neuroinformatics_,  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25433513)
