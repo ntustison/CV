@@ -2,27 +2,12 @@
 %% http://bibdesk.sourceforge.net/
 
 
-%% Created for Nick Tustison at 2015-01-07 08:14:35 -0800 
+%% Created for Nick Tustison at 2015-02-05 19:07:49 -0800 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
-
-@article{Tustison:2014ac,
-	Abstract = {Segmenting and quantifying gliomas from MRI is an important task for diagnosis, planning intervention, and for tracking tumor changes over time. However, this task is complicated by the lack of prior knowledge concerning tumor location, spatial extent, shape, possible displacement of normal tissue, and intensity signature. To accommodate such complications, we introduce a framework for supervised segmentation based on multiple modality intensity, geometry, and asymmetry feature sets. These features drive a supervised whole-brain and tumor segmentation approach based on random forest-derived probabilities. The asymmetry-related features (based on optimal symmetric multimodal templates) demonstrate excellent discriminative properties within this framework. We also gain performance by generating probability maps from random forest models and using these maps for a refining Markov random field regularized probabilistic segmentation. This strategy allows us to interface the supervised learning capabilities of the random forest model with regularized probabilistic segmentation using the recently developed ANTsR package-a comprehensive statistical and visualization interface between the popular Advanced Normalization Tools (ANTs) and the R statistical project. The reported algorithmic framework was the top-performing entry in the MICCAI 2013 Multimodal Brain Tumor Segmentation challenge. The challenge data were widely varying consisting of both high-grade and low-grade glioma tumor four-modality MRI from five different institutions. Average Dice overlap measures for the final algorithmic assessment were 0.87, 0.78, and 0.74 for "complete", "core", and "enhanced" tumor components, respectively.},
-	Author = {Tustison, Nicholas J and Shrinidhi, K L and Wintermark, Max and Durst, Christopher R and Kandel, Benjamin M and Gee, James C and Grossman, Murray C and Avants, Brian B},
-	Date-Added = {2015-01-07 16:12:13 +0000},
-	Date-Modified = {2015-01-07 16:12:13 +0000},
-	Doi = {10.1007/s12021-014-9245-2},
-	Journal = {Neuroinformatics},
-	Journal-Full = {Neuroinformatics},
-	Month = {Nov},
-	Pmid = {25433513},
-	Pst = {aheadofprint},
-	Title = {Optimal Symmetric Multimodal Templates and Concatenated Random Forests for Supervised Brain Tumor Segmentation (Simplified) with ANTsR},
-	Year = {2014},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s12021-014-9245-2}}
 
 @article{Tustison:2014ad,
 	Abstract = {Recent discussions within the neuroimaging community have highlighted the problematic presence of selection bias in experimental design. Although initially centering on the selection of voxels during the course of fMRI studies, we demonstrate how this bias can potentially corrupt voxel-based analyses. For such studies, template-based registration plays a critical role in which a representative template serves as the normalized space for group alignment. A standard approach maps each subject's image to a representative template before performing statistical comparisons between different groups. We analytically demonstrate that in these scenarios the popular sum of squared difference (SSD) intensity metric, implicitly surrogating as a quantification of anatomical alignment, instead explicitly maximizes effect size--an experimental design flaw referred to as "circularity bias." We illustrate how this selection bias varies in strength with the similarity metric used during registration under the hypothesis that while SSD-related metrics, such as Demons, will manifest similar effects, other metrics which are not formulated based on absolute intensity differences will produce less of an effect. Consequently, given the variability in voxel-based analysis outcomes with similarity metric choice, we caution researchers specifically in the use of SSD and SSD-related measures where normalization and statistical analysis involve the same image set. Instead, we advocate a more cautious approach where normalization of the individual subject images to the reference space occurs through corresponding image sets which are independent of statistical testing. Alternatively, one can use similarity terms that are less sensitive to this bias.},

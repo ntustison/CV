@@ -30,43 +30,44 @@
 
 **Reviewer Duties**
 
-   Academic Radiology  
-   Annals of Biomedical Engineering  
-   Artificial Intelligence in Medicine  
-   Computers in Biology and Medicine  
-   Computerized Medical Imaging and Graphics  
-   Focused Ultrasound Foundation ad hoc grant reviewer  
-   Image and Vision Computing  
-   International Journal of Pattern Recognition and Artificial Intelligence  
-   IEEE Transactions on Medical Imaging  
-   IEEE Transactions on Pattern Analysis and Machine Intelligence  
-   IEEE Transactions on Biomedical Engineering  
-   Insight Journal  
-   International Conf. on Medical Image Computing and Computer Assisted Intervention  
-   International Journal of Biomedical Imaging  
-   International Journal of Computer Vision  
-   International Workshop on Medical Imaging and Augmented Reality  
-   IEEE International Symposium on Biomedical Imaging: From Nano to Macro  
-   Journal of Computed Tomography  
-   Journal of Electronic Imaging  
-   Journal of Magnetic Resonance Imaging  
-   Journal of Neurotrauma  
-   Journal of the Optical Society of America A  
-   Magnetic Resonance in Medicine  
-   Medical Physics  
-   Medical Image Analysis  
-   NeuroImage  
-   NeuroImage: Clinical  
-   Neuroradiology  
-   Respirology  
-   SIAM Journal on Imaging Sciences 
+   Academic Radiology
+   Annals of Biomedical Engineering
+   Artificial Intelligence in Medicine
+   Computers in Biology and Medicine
+   Computerized Medical Imaging and Graphics
+   Focused Ultrasound Foundation ad hoc grant reviewer
+   Image and Vision Computing
+   International Journal of Pattern Recognition and Artificial Intelligence
+   IEEE Transactions on Medical Imaging
+   IEEE Transactions on Pattern Analysis and Machine Intelligence
+   IEEE Transactions on Biomedical Engineering
+   Insight Journal
+   International Conf. on Medical Image Computing and Computer Assisted Intervention
+   International Journal of Biomedical Imaging
+   International Journal of Computer Vision
+   International Workshop on Medical Imaging and Augmented Reality
+   IEEE International Symposium on Biomedical Imaging: From Nano to Macro
+   Journal of Computed Tomography
+   Journal of Electronic Imaging
+   Journal of Magnetic Resonance Imaging
+   Journal of Neurotrauma
+   Journal of the Optical Society of America A
+   Magnetic Resonance in Medicine
+   Medical Physics
+   Medical Image Analysis
+   NeuroImage
+   NeuroImage: Clinical
+   Neuroradiology
+   PLOS ONE
+   Respirology
+   SIAM Journal on Imaging Sciences
 
 **Invited Talks/Participation**
 
-Feb. 2012:  SPIE:  Medical Imaging, *Open source tools for medical image analysis*.  
-Sept. 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).  
-Sept. 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).  
-   
+Feb. 2012:  SPIE:  Medical Imaging, *Open source tools for medical image analysis*.
+Sept. 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).
+Sept. 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).
+
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R
@@ -85,13 +86,13 @@ Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Edu
 
 **2014**
 
-Brian Avants, Jeffrey Duda, Emily Kilroy, Kay Jann, Benjamin Kandel, Lirong Yan, Mayank Jog, Nicholas Tustison, Robert Smith, Yi Wang, Kate Krasileva, Mirella Rapretto, and Danny Wang.  The Pediatric Template of Brain Perfusion, _Scientific Data_, [Accepted].
+Brian Avants, Jeffrey Duda, Emily Kilroy, Kay Jann, Benjamin Kandel, Lirong Yan, Mayank Jog, Nicholas Tustison, Robert Smith, Yi Wang, Kate Krasileva, Mirella Rapretto, and Danny Wang.  The Pediatric Template of Brain Perfusion, _Scientific Data_, [Accepted](http://www.nature.com/articles/sdata20153).
 
 Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, Nicholas Tustison, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _Journal of Applied Physiology_, [Accepted](http://jap.physiology.org/content/early/2014/11/10/japplphysiol.00627.2014).
 
 Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with _ANTsR_.  _Neuroinformatics_,  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25433513)
 
-Kun Qing, Talissa A. Altes, Nicholas J. Tustison, Xue Feng, Xiao Chen, Jaime F. Mata, G. Wilson Miller, Eduard E. de Lange, William A. Tobias, Gordon D. Cates, Jr., James R. Brookeman, John P. Mugler, III.  Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human Lung in a Single Breath-hold using Compressed Sensing.  _Magn Reson Med_, [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25335080)  
+Kun Qing, Talissa A. Altes, Nicholas J. Tustison, Xue Feng, Xiao Chen, Jaime F. Mata, G. Wilson Miller, Eduard E. de Lange, William A. Tobias, Gordon D. Cates, Jr., James R. Brookeman, John P. Mugler, III.  Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human Lung in a Single Breath-hold using Compressed Sensing.  _Magn Reson Med_, [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25335080)
 
 Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan Farahani, Justin Kirby, Yuliya Burren, Nicole Porz, Johannes Slotboom, Roland Wiest, Levente Lanczi, Elizabeth Gerstner, Marc-Andre Weber, Tal Arbel, Brian B. Avants, Nicholas Ayache, Patricia Buendia, D. Louis Collins, Nicolas Cordier, Jason J. Corso, Antonio Criminisi, Tilak Das, Herve ́ Delingete, Cagatay Demiralp, Christopher R. Durst, Michel Dojat, Senan Doyle, Joana Festa, Florence Forbes, Ezequiel Geremia, Ben Glocker, Polina Golland, Xiaotao Guo, Andac Hamamci, Khan M. Iftekharuddin, Raj Jena, Nigel M. John, Ender Konukoglu, Danial Lashkari, Jose Antonio Mariz, Raphael Meier, Sergio Pereira, Doina Precup, S. J. Price, Tammy Riklin-Raviv, Syed M. S. Reza, Michael Ryan, Lawrence Schwartz, Hoo-Chang Shin, Jamie Shotton, Carlos A. Silva, Nuno Sousa, Nagesh K. Subbanna, Gabor Szekely, Thomas J. Taylor, Owen M. Thomas, Nicholas J. Tustison, Gozde Unal, Flor Vasseur, Max Wintermark, Dong Hye Ye, Liang Zhao, Binsheng Zhao, Darko Zikic, Marcel Prastawa, Mauricio Reyes, and Koen Van Leemput.  The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS).  _IEEE Trans Med Imaging_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25494501)
 
