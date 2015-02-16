@@ -33,34 +33,34 @@
    Academic Radiology  
    Annals of Biomedical Engineering  
    Artificial Intelligence in Medicine  
-   Computers in Biology and Medicine 
-   Computerized Medical Imaging and Graphics 
-   Focused Ultrasound Foundation ad hoc grant reviewer 
-   Image and Vision Computing 
-   International Journal of Pattern Recognition and Artificial Intelligence 
-   IEEE Transactions on Medical Imaging 
-   IEEE Transactions on Pattern Analysis and Machine Intelligence 
-   IEEE Transactions on Biomedical Engineering 
-   Insight Journal 
-   International Conf. on Medical Image Computing and Computer Assisted Intervention 
-   International Journal of Biomedical Imaging 
-   International Journal of Computer Vision 
-   International Workshop on Medical Imaging and Augmented Reality 
-   IEEE International Symposium on Biomedical Imaging: From Nano to Macro 
-   Journal of Computed Tomography 
-   Journal of Electronic Imaging 
-   Journal of Magnetic Resonance Imaging 
-   Journal of Neurotrauma 
-   Journal of the Optical Society of America A 
-   Magnetic Resonance in Medicine 
-   Medical Physics 
-   Medical Image Analysis 
-   NeuroImage 
-   NeuroImage: Clinical 
-   Neuroradiology 
-   PLOS ONE 
-   Respirology 
-   SIAM Journal on Imaging Sciences 
+   Computers in Biology and Medicine  
+   Computerized Medical Imaging and Graphics  
+   Focused Ultrasound Foundation ad hoc grant reviewer  
+   Image and Vision Computing  
+   International Journal of Pattern Recognition and Artificial Intelligence  
+   IEEE Transactions on Medical Imaging  
+   IEEE Transactions on Pattern Analysis and Machine Intelligence  
+   IEEE Transactions on Biomedical Engineering  
+   Insight Journal  
+   International Conf. on Medical Image Computing and Computer Assisted Intervention  
+   International Journal of Biomedical Imaging  
+   International Journal of Computer Vision  
+   International Workshop on Medical Imaging and Augmented Reality  
+   IEEE International Symposium on Biomedical Imaging: From Nano to Macro  
+   Journal of Computed Tomography  
+   Journal of Electronic Imaging  
+   Journal of Magnetic Resonance Imaging  
+   Journal of Neurotrauma  
+   Journal of the Optical Society of America A  
+   Magnetic Resonance in Medicine  
+   Medical Physics  
+   Medical Image Analysis  
+   NeuroImage  
+   NeuroImage: Clinical  
+   Neuroradiology  
+   PLOS ONE  
+   Respirology  
+   SIAM Journal on Imaging Sciences  
 
 **Invited Talks/Participation**
 
@@ -83,6 +83,10 @@ Sept. 2013:  MICCAI, provided canonical registrations for [SATA challenge worksh
 **In Progress**
 
 Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation MRI.
+
+**2015**
+
+CR Durst, N Michael, NJ Tustison, JT Patrie, P Raghavan, M Wintermark, SS Velan. Noninvasive Evaluation of the Regional Variations of GABA using Magnetic Resonance Spectroscopy at 3 Tesla. _Magnetic Resonance Imaging, Accepted_.
 
 **2014**
 
