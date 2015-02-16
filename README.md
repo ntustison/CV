@@ -25,8 +25,8 @@
 
 **Editorships**
 
-   2012-present: Frontiers Review Editorial Board
-   May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
+   2012-present: Frontiers Review Editorial Board.  
+   May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).  
 
 **Reviewer Duties**
 
@@ -64,9 +64,9 @@
 
 **Invited Talks/Participation**
 
-Feb. 2012:  SPIE:  Medical Imaging, *Open source tools for medical image analysis*.
-Sept. 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).
-Sept. 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).
+Feb. 2012:  SPIE:  Medical Imaging, *Open source tools for medical image analysis*.  
+Sept. 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).  
+Sept. 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).  
 
 
 ## Computer Skills
