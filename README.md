@@ -30,9 +30,9 @@
 
 **Reviewer Duties**
 
-   Academic Radiology 
-   Annals of Biomedical Engineering 
-   Artificial Intelligence in Medicine 
+   Academic Radiology  
+   Annals of Biomedical Engineering  
+   Artificial Intelligence in Medicine  
    Computers in Biology and Medicine 
    Computerized Medical Imaging and Graphics 
    Focused Ultrasound Foundation ad hoc grant reviewer 
