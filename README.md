@@ -88,13 +88,13 @@ Nicholas J. Tustison, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Edu
 
 Nicholas J. Tustison, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar volumes in proton MRI, Submitted.
 
-Brian B. Avants, Hans J. Johnson, Nicholas J. Tustison.  Neuroinformatics and the The Insight ToolKit.  _Front Neuroinform_, [Accepted](http://journal.frontiersin.org/article/10.3389/fninf.2015.00005/full).
+Brian B. Avants, Hans J. Johnson, Nicholas J. Tustison.  Neuroinformatics and the The Insight ToolKit.  _Front Neuroinform_, [Accepted](http://journal.frontiersin.org/article/10.3389/fninf.2015.00005/full)
 
-CR Durst, N Michael, NJ Tustison, JT Patrie, P Raghavan, M Wintermark, SS Velan. Noninvasive Evaluation of the Regional Variations of GABA using Magnetic Resonance Spectroscopy at 3 Tesla. _Magnetic Resonance Imaging_, [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25708260).
+CR Durst, N Michael, NJ Tustison, JT Patrie, P Raghavan, M Wintermark, SS Velan. Noninvasive Evaluation of the Regional Variations of GABA using Magnetic Resonance Spectroscopy at 3 Tesla. _Magnetic Resonance Imaging_, [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25708260)
 
-Brian Avants, Jeffrey Duda, Emily Kilroy, Kay Jann, Benjamin Kandel, Lirong Yan, Mayank Jog, Nicholas Tustison, Robert Smith, Yi Wang, Kate Krasileva, Mirella Rapretto, and Danny Wang.  The Pediatric Template of Brain Perfusion, _Scientific Data_, [Accepted](http://www.nature.com/articles/sdata20153).
+Brian Avants, Jeffrey Duda, Emily Kilroy, Kay Jann, Benjamin Kandel, Lirong Yan, Mayank Jog, Nicholas Tustison, Robert Smith, Yi Wang, Kate Krasileva, Mirella Rapretto, and Danny Wang.  The Pediatric Template of Brain Perfusion, _Scientific Data_, [Accepted](http://www.nature.com/articles/sdata20153)
 
-Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, Nicholas Tustison, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _Journal of Applied Physiology_, [Accepted](http://jap.physiology.org/content/early/2014/11/10/japplphysiol.00627.2014).
+Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, Nicholas Tustison, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _Journal of Applied Physiology_, [Accepted](http://jap.physiology.org/content/early/2014/11/10/japplphysiol.00627.2014)
 
 Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with _ANTsR_.  _Neuroinformatics_,  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25433513)
 
@@ -104,20 +104,20 @@ Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan F
 
 **2014**
 
-Jonathon H Yoder, John M Peloquin, Gang Song, Nicholas J Tustison, Sung M Moon, Alexander C Wright, Edward J Vresilovic, James C Gee, Dawn M Elliott.  Internal Human Intervertebral Disc 3D Strains Under Axial Compression Quantified Non-invasively with MRI and Image Registration.  _J Biomech Eng_, 136(11), Nov 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25109533).
+Jonathon H Yoder, John M Peloquin, Gang Song, Nicholas J Tustison, Sung M Moon, Alexander C Wright, Edward J Vresilovic, James C Gee, Dawn M Elliott.  Internal Human Intervertebral Disc 3D Strains Under Axial Compression Quantified Non-invasively with MRI and Image Registration.  _J Biomech Eng_, 136(11), Nov 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25109533)
 
 Nicholas Said, W. Jeff Elias, Prashant Raghavan, Alan Cupino, Nicholas Tustison, Robert Frysinger, James Patrie,
-Wenjun Xin, Max Wintermark.  Correlation of Diffusion Tensor Tractography and Intraoperative Macro-Stimulation during Deep Brain Stimulation for Parkinson's Disease.  _J Neurosurg_, 25:1-7, Jul 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25061862).
+Wenjun Xin, Max Wintermark.  Correlation of Diffusion Tensor Tractography and Intraoperative Macro-Stimulation during Deep Brain Stimulation for Parkinson's Disease.  _J Neurosurg_, 25:1-7, Jul 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25061862)
 
 Nicholas J. Tustison, Philip A. Cook, Arno Klein, Gang Song, Sandhitsu R. Das, Jeffrey T. Duda, Benjamin M. Kandel, Niels van Strien, James R. Stone, James C. Gee, and Brian B. Avants.  Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements.  _NeuroImage_, 99:166-179, Oct 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24879923)
 
-Max Wintermark, Nicholas J Tustison, William J Elias, James T Patrie, Wenjun Xin, Nicholas Demartini, Matt Eames, Suna Sumer, Benison Lau, Alan Cupino, John Snell, Arik Hananel, Neal Kassell, and Jean-Francois Aubry.  T1-weighted MRI as a substitute to CT for refocusing planning in MR-guided focused ultrasound. _Phys Med Biol_, 59(13):3599, July 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24909357)
+Max Wintermark, Nicholas J Tustison, William J Elias, James T Patrie, Wenjun Xin, Nicholas Demartini, Matt Eames, Suna Sumer, Benison Lau, Alan Cupino, John Snell, Arik Hananel, Neal Kassell, and Jean-Francois Aubry.  T1-weighted MRI as a substitute to CT for refocusing planning in MR-guided focused ultrasound. _Phys Med Biol_, 59(13):3599-614, July 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24909357)
 
 W. Gerald Teague, Nicholas J. Tustison, and Talissa A. Altes.  Ventilation Heterogeneity in Asthma. _Journal of Asthma_, 13:1-30, May 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24823323)
 
 Brian B. Avants,  Nicholas J. Tustison,  Michael Stauffer, Gang Song, Baohua Wu, and James C. Gee.  The Insight ToolKit Image Registration Framework.  _Front Neuroinform_, 8:44. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24817849)
 
-Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzgal, Neal Kassell, and Jeff Elias.  Thalamic Connectivity in Patients with Essential Tremor Treated with MR Imaging-guided Focused Ultrasound: In Vivo Fiber Tracking by Using Diffusion-Tensor MR Imaging.  _Radiology_, 9:132112, Mar 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24620914)
+Max Wintermark, Diane S. Huss, Binit B. Shah,  Nicholas Tustison, T. Jason Druzgal, Neal Kassell, and Jeff Elias.  Thalamic Connectivity in Patients with Essential Tremor Treated with MR Imaging-guided Focused Ultrasound: In Vivo Fiber Tracking by Using Diffusion-Tensor MR Imaging.  _Radiology_, 272(1):202-9, Jul 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/24620914)
 
 Nicholas J Tustison, Brian B Avants, Philip A Cook, Junghoon Kim, John Whyte, James C Gee, and James R Stone. Logical circularity in voxel-based analysis: Normalization strategy may induce statistical bias. _Hum Brain Mapp_, 35:745–759, Mar 2014. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/23151955)
 
