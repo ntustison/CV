@@ -90,8 +90,6 @@ Nicholas J. Tustison, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler I
 
 Brian B. Avants, Hans J. Johnson, Nicholas J. Tustison.  Neuroinformatics and the The Insight ToolKit.  _Front Neuroinform_, [Accepted](http://journal.frontiersin.org/article/10.3389/fninf.2015.00005/full)
 
-Brian Avants, Jeffrey Duda, Emily Kilroy, Kay Jann, Benjamin Kandel, Lirong Yan, Mayank Jog, Nicholas Tustison, Robert Smith, Yi Wang, Kate Krasileva, Mirella Rapretto, and Danny Wang.  The Pediatric Template of Brain Perfusion, _Scientific Data_, [Accepted](http://www.nature.com/articles/sdata20153)
-
 Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, Nicholas Tustison, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _Journal of Applied Physiology_, [Accepted](http://jap.physiology.org/content/early/2014/11/10/japplphysiol.00627.2014)
 
 Nicholas J. Tustison, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with _ANTsR_.  _Neuroinformatics_,  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25433513)
@@ -100,7 +98,9 @@ Kun Qing, Talissa A. Altes, Nicholas J. Tustison, Xue Feng, Xiao Chen, Jaime F. 
 
 Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan Farahani, Justin Kirby, Yuliya Burren, Nicole Porz, Johannes Slotboom, Roland Wiest, Levente Lanczi, Elizabeth Gerstner, Marc-Andre Weber, Tal Arbel, Brian B. Avants, Nicholas Ayache, Patricia Buendia, D. Louis Collins, Nicolas Cordier, Jason J. Corso, Antonio Criminisi, Tilak Das, Herve ́ Delingete, Cagatay Demiralp, Christopher R. Durst, Michel Dojat, Senan Doyle, Joana Festa, Florence Forbes, Ezequiel Geremia, Ben Glocker, Polina Golland, Xiaotao Guo, Andac Hamamci, Khan M. Iftekharuddin, Raj Jena, Nigel M. John, Ender Konukoglu, Danial Lashkari, Jose Antonio Mariz, Raphael Meier, Sergio Pereira, Doina Precup, S. J. Price, Tammy Riklin-Raviv, Syed M. S. Reza, Michael Ryan, Lawrence Schwartz, Hoo-Chang Shin, Jamie Shotton, Carlos A. Silva, Nuno Sousa, Nagesh K. Subbanna, Gabor Szekely, Thomas J. Taylor, Owen M. Thomas, Nicholas J. Tustison, Gozde Unal, Flor Vasseur, Max Wintermark, Dong Hye Ye, Liang Zhao, Binsheng Zhao, Darko Zikic, Marcel Prastawa, Mauricio Reyes, and Koen Van Leemput.  The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS).  _IEEE Trans Med Imaging_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25494501)
 
-CR Durst, N Michael, NJ Tustison, JT Patrie, P Raghavan, M Wintermark, SS Velan. Noninvasive Evaluation of the Regional Variations of GABA using Magnetic Resonance Spectroscopy at 3 Tesla. Magn Reson Imaging, 33(5):611-7, June 2015, [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25708260)
+CR Durst, N Michael, NJ Tustison, JT Patrie, P Raghavan, M Wintermark, SS Velan. Noninvasive Evaluation of the Regional Variations of GABA using Magnetic Resonance Spectroscopy at 3 Tesla. Magn Reson Imaging, 33(5):611-7, June 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25708260)
+
+Brian Avants, Jeffrey Duda, Emily Kilroy, Kay Jann, Benjamin Kandel, Lirong Yan, Mayank Jog, Nicholas Tustison, Robert Smith, Yi Wang, Kate Krasileva, Mirella Rapretto, and Danny Wang.  The Pediatric Template of Brain Perfusion, _Scientific Data_, Feb 2015. [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/25977810)
 
 **2014**
 
