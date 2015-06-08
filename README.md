@@ -86,7 +86,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2015**
 
-__Nicholas J. Tustison__, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar volumes in proton MRI, Submitted.
+__Nicholas J. Tustison__, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar volumes in proton MRI.  _Magn Reson Med_, Accepted.
 
 Brian B. Avants, Hans J. Johnson, __Nicholas J. Tustison__.  Neuroinformatics and the The Insight ToolKit.  _Front Neuroinform_, [Accepted](http://journal.frontiersin.org/article/10.3389/fninf.2015.00005/full)
 
