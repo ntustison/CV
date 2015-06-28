@@ -89,10 +89,6 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 __Nicholas J. Tustison__, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar anatomy in proton MRI.  _Magn Reson Med_, Accepted.
 
-Brian B. Avants, Hans J. Johnson, __Nicholas J. Tustison__.  Neuroinformatics and the The Insight ToolKit.  _Front Neuroinform_, [Accepted](http://journal.frontiersin.org/article/10.3389/fninf.2015.00005/full)
-
-Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, __Nicholas Tustison__, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _Journal of Applied Physiology_, [Accepted](http://jap.physiology.org/content/early/2014/11/10/japplphysiol.00627.2014)
-
 Kun Qing, Talissa A. Altes, __Nicholas J. Tustison__, Xue Feng, Xiao Chen, Jaime F. Mata, G. Wilson Miller, Eduard E. de Lange, William A. Tobias, Gordon D. Cates, Jr., James R. Brookeman, John P. Mugler, III.  Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human Lung in a Single Breath-hold using Compressed Sensing.  _Magn Reson Med_, [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25335080)
 
 Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan Farahani, Justin Kirby, Yuliya Burren, Nicole Porz, Johannes Slotboom, Roland Wiest, Levente Lanczi, Elizabeth Gerstner, Marc-Andre Weber, Tal Arbel, Brian B. Avants, Nicholas Ayache, Patricia Buendia, D. Louis Collins, Nicolas Cordier, Jason J. Corso, Antonio Criminisi, Tilak Das, Herve ́ Delingete, Cagatay Demiralp, Christopher R. Durst, Michel Dojat, Senan Doyle, Joana Festa, Florence Forbes, Ezequiel Geremia, Ben Glocker, Polina Golland, Xiaotao Guo, Andac Hamamci, Khan M. Iftekharuddin, Raj Jena, Nigel M. John, Ender Konukoglu, Danial Lashkari, Jose Antonio Mariz, Raphael Meier, Sergio Pereira, Doina Precup, S. J. Price, Tammy Riklin-Raviv, Syed M. S. Reza, Michael Ryan, Lawrence Schwartz, Hoo-Chang Shin, Jamie Shotton, Carlos A. Silva, Nuno Sousa, Nagesh K. Subbanna, Gabor Szekely, Thomas J. Taylor, Owen M. Thomas, __Nicholas J. Tustison__, Gozde Unal, Flor Vasseur, Max Wintermark, Dong Hye Ye, Liang Zhao, Binsheng Zhao, Darko Zikic, Marcel Prastawa, Mauricio Reyes, and Koen Van Leemput.  The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS).  _IEEE Trans Med Imaging_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25494501)
@@ -100,6 +96,10 @@ Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan F
 CR Durst, N Michael, __NJ Tustison__, JT Patrie, P Raghavan, M Wintermark, SS Velan. Noninvasive Evaluation of the Regional Variations of GABA using Magnetic Resonance Spectroscopy at 3 Tesla. _Magn Reson Imaging_, 33(5):611-7, June 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25708260)
 
 __Nicholas J. Tustison__, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with _ANTsR_.  _Neuroinformatics_,  13(2):209-225, April 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25433513)
+
+Brian B. Avants, Hans J. Johnson, __Nicholas J. Tustison__.  Neuroinformatics and the Insight ToolKit.  _Front Neuroinform_, March 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25859213)
+
+Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, __Nicholas Tustison__, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _J Appl Physiol_, 118(3):377-85, Feb 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25640150)
 
 Brian Avants, Jeffrey Duda, Emily Kilroy, Kay Jann, Benjamin Kandel, Lirong Yan, Mayank Jog, __Nicholas Tustison__, Robert Smith, Yi Wang, Kate Krasileva, Mirella Rapretto, and Danny Wang.  The Pediatric Template of Brain Perfusion, _Scientific Data_, Feb 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25977810)
 
