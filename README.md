@@ -31,6 +31,7 @@
 **Reviewer Duties**
 
    Academic Radiology  
+   American Journal of Neuroradiology
    Annals of Biomedical Engineering  
    Artificial Intelligence in Medicine  
    Computers in Biology and Medicine  
