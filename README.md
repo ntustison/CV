@@ -88,6 +88,8 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2015**
 
+Talissa A. Altes, John P. Mugler III, Kai Ruppert, __Nicholas J. Tustison__, Joanne Gersbach, Sylvia Szentpetery, Craig H. Meyer, Eduard E. de Lange, and W. Gerald Teague.  Clinical Correlates of Lung Ventilation Defects in Children with Asthma.  _J Allergy Clin Immun_, Accepted. 
+
 __Nicholas J. Tustison__, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar anatomy in proton MRI.  _Magn Reson Med_, Accepted.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26222827)
 
 Kun Qing, Talissa A. Altes, __Nicholas J. Tustison__, Xue Feng, Xiao Chen, Jaime F. Mata, G. Wilson Miller, Eduard E. de Lange, William A. Tobias, Gordon D. Cates, Jr., James R. Brookeman, John P. Mugler, III.  Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human Lung in a Single Breath-hold using Compressed Sensing.  _Magn Reson Med_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25335080)
