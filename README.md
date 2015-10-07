@@ -70,7 +70,7 @@ Feb. 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical imag
 Sept. 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).  
 Sept. 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).  
 May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015)
-Oct. 2015:  MICCAI, helped with [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015)
+Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R
