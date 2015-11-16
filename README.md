@@ -89,9 +89,9 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2015**
 
-Khader M. Hasan, Benson Mwangi, Bo Cao, Zafer Keser, __Nicholas J. Tustison__, Peter Kochunov, Richard E. Frye, Mirjana Savatic, Jair Soares.  Entorhinal cortex thickness across the human lifespan.  _J of Neuroimaging_, Accepted.
+Khader M. Hasan, Benson Mwangi, Bo Cao, Zafer Keser, __Nicholas J. Tustison__, Peter Kochunov, Richard E. Frye, Mirjana Savatic, Jair Soares.  Entorhinal cortex thickness across the human lifespan.  _J of Neuroimaging_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26565394)
 
-Talissa A. Altes, John P. Mugler III, Kai Ruppert, __Nicholas J. Tustison__, Joanne Gersbach, Sylvia Szentpetery, Craig H. Meyer, Eduard E. de Lange, and W. Gerald Teague.  Clinical Correlates of Lung Ventilation Defects in Children with Asthma.  _J Allergy Clin Immun_, Accepted. 
+Talissa A. Altes, John P. Mugler III, Kai Ruppert, __Nicholas J. Tustison__, Joanne Gersbach, Sylvia Szentpetery, Craig H. Meyer, Eduard E. de Lange, and W. Gerald Teague.  Clinical Correlates of Lung Ventilation Asthmatic Children.  _J Allergy Clin Immun_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26521043) 
 
 __Nicholas J. Tustison__, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar anatomy in proton MRI.  _Magn Reson Med_, Accepted.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26222827)
 
