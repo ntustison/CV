@@ -91,15 +91,15 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, Accepted.
 
-**2015**
-
 Khader M. Hasan, Benson Mwangi, Bo Cao, Zafer Keser, __Nicholas J. Tustison__, Peter Kochunov, Richard E. Frye, Mirjana Savatic, Jair Soares.  Entorhinal cortex thickness across the human lifespan.  _J of Neuroimaging_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26565394)
 
 Talissa A. Altes, John P. Mugler III, Kai Ruppert, __Nicholas J. Tustison__, Joanne Gersbach, Sylvia Szentpetery, Craig H. Meyer, Eduard E. de Lange, and W. Gerald Teague.  Clinical Correlates of Lung Ventilation in Asthmatic Children.  _J Allergy Clin Immun_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26521043) 
 
 __Nicholas J. Tustison__, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar anatomy in proton MRI.  _Magn Reson Med_, Accepted.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26222827)
 
-Kun Qing, Talissa A. Altes, __Nicholas J. Tustison__, Xue Feng, Xiao Chen, Jaime F. Mata, G. Wilson Miller, Eduard E. de Lange, William A. Tobias, Gordon D. Cates, Jr., James R. Brookeman, John P. Mugler, III.  Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human Lung in a Single Breath-hold using Compressed Sensing.  _Magn Reson Med_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25335080)
+**2015**
+
+Kun Qing, Talissa A. Altes, __Nicholas J. Tustison__, Xue Feng, Xiao Chen, Jaime F. Mata, G. Wilson Miller, Eduard E. de Lange, William A. Tobias, Gordon D. Cates, Jr., James R. Brookeman, John P. Mugler, III.  Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human Lung in a Single Breath-hold using Compressed Sensing.  _Magn Reson Med_, 74(4):1110-5, Oct 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25335080)
 
 Bjoern H. Menze, Andras Jakab, Stefan Bauer, Jayashree Kalpathy-Cramer, Keyvan Farahani, Justin Kirby, Yuliya Burren, Nicole Porz, Johannes Slotboom, Roland Wiest, Levente Lanczi, Elizabeth Gerstner, Marc-Andre Weber, Tal Arbel, Brian B. Avants, Nicholas Ayache, Patricia Buendia, D. Louis Collins, Nicolas Cordier, Jason J. Corso, Antonio Criminisi, Tilak Das, Herve ́ Delingete, Cagatay Demiralp, Christopher R. Durst, Michel Dojat, Senan Doyle, Joana Festa, Florence Forbes, Ezequiel Geremia, Ben Glocker, Polina Golland, Xiaotao Guo, Andac Hamamci, Khan M. Iftekharuddin, Raj Jena, Nigel M. John, Ender Konukoglu, Danial Lashkari, Jose Antonio Mariz, Raphael Meier, Sergio Pereira, Doina Precup, S. J. Price, Tammy Riklin-Raviv, Syed M. S. Reza, Michael Ryan, Lawrence Schwartz, Hoo-Chang Shin, Jamie Shotton, Carlos A. Silva, Nuno Sousa, Nagesh K. Subbanna, Gabor Szekely, Thomas J. Taylor, Owen M. Thomas, __Nicholas J. Tustison__, Gozde Unal, Flor Vasseur, Max Wintermark, Dong Hye Ye, Liang Zhao, Binsheng Zhao, Darko Zikic, Marcel Prastawa, Mauricio Reyes, and Koen Van Leemput.  The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS).  _IEEE Trans Med Imaging_, 34(10):1993-2024, Oct 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25494501)
 
