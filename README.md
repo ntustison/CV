@@ -89,7 +89,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2016**
 
-Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and HBrian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, Accepted.
+Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, Accepted.
 
 **2015**
 
