@@ -89,7 +89,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2016**
 
-Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, Accepted.
+Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, [Accepted](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23110/abstract?campaign=wolearlyview).
 
 Khader M. Hasan, Benson Mwangi, Bo Cao, Zafer Keser, __Nicholas J. Tustison__, Peter Kochunov, Richard E. Frye, Mirjana Savatic, Jair Soares.  Entorhinal cortex thickness across the human lifespan.  _J of Neuroimaging_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26565394)
 
