@@ -1,0 +1,4 @@
+*.aux
+*.bbl
+*.blg
+.DS_Store
