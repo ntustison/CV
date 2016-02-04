@@ -2,12 +2,207 @@
 %% http://bibdesk.sourceforge.net/
 
 
-%% Created for Nick Tustison at 2015-02-05 19:07:49 -0800 
+%% Created for Nick Tustison at 2015-12-21 10:22:19 -0800 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{Qing:2015aa,
+	Abstract = {PURPOSE: To develop and validate a method for acquiring helium-3 ((3) He) and proton ((1) H) three-dimensional (3D) image sets of the human lung with isotropic spatial resolution within a 10-s breath-hold by using compressed sensing (CS) acceleration, and to assess the fidelity of undersampled images compared with fully sampled images.
+METHODS: The undersampling scheme for CS acceleration was optimized and tested using (3) He ventilation data. Rapid 3D acquisition of both (3) He and (1) H data during one breath-hold was then implemented, based on a balanced steady-state free-precession pulse sequence, by random undersampling of k-space with reconstruction by means of minimizing the L1 norm and total variance. CS-reconstruction fidelity was evaluated quantitatively by comparing fully sampled and retrospectively undersampled image sets.
+RESULTS: Helium-3 and (1) H 3D image sets of the lung with isotropic 3.9-mm resolution were acquired during a single breath-hold in 12 s and 8 s using acceleration factors of 2 and 3, respectively. Comparison of fully sampled and retrospectively undersampled (3) He and (1) H images yielded mean absolute errors <10% and structural similarity indices >0.9.
+CONCLUSION: By randomly undersampling k-space and using CS reconstruction, high-quality (3) He and (1) H 3D image sets with isotropic 3.9-mm resolution can be acquired within an 8-s breath-hold.},
+	Author = {Qing, Kun and Altes, Talissa A and Tustison, Nicholas J and Feng, Xue and Chen, Xiao and Mata, Jaime F and Miller, G Wilson and de Lange, Eduard E and Tobias, William A and Cates, Jr, Gordon D and Brookeman, James R and Mugler, 3rd, John P},
+	Date-Added = {2015-12-21 18:15:04 +0000},
+	Date-Modified = {2015-12-21 18:15:04 +0000},
+	Doi = {10.1002/mrm.25499},
+	Journal = {Magn Reson Med},
+	Journal-Full = {Magnetic resonance in medicine},
+	Keywords = {compressed sensing; hyperpolarized gas; pulmonary imaging},
+	Month = {Oct},
+	Number = {4},
+	Pages = {1110-5},
+	Pmc = {PMC4475670},
+	Pmid = {25335080},
+	Pst = {ppublish},
+	Title = {Rapid acquisition of helium-3 and proton three-dimensional image sets of the human lung in a single breath-hold using compressed sensing},
+	Volume = {74},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1002/mrm.25499}}
+
+@article{Tustison:2015ab,
+	Abstract = {Segmenting and quantifying gliomas from MRI is an important task for diagnosis, planning intervention, and for tracking tumor changes over time. However, this task is complicated by the lack of prior knowledge concerning tumor location, spatial extent, shape, possible displacement of normal tissue, and intensity signature. To accommodate such complications, we introduce a framework for supervised segmentation based on multiple modality intensity, geometry, and asymmetry feature sets. These features drive a supervised whole-brain and tumor segmentation approach based on random forest-derived probabilities. The asymmetry-related features (based on optimal symmetric multimodal templates) demonstrate excellent discriminative properties within this framework. We also gain performance by generating probability maps from random forest models and using these maps for a refining Markov random field regularized probabilistic segmentation. This strategy allows us to interface the supervised learning capabilities of the random forest model with regularized probabilistic segmentation using the recently developed ANTsR package--a comprehensive statistical and visualization interface between the popular Advanced Normalization Tools (ANTs) and the R statistical project. The reported algorithmic framework was the top-performing entry in the MICCAI 2013 Multimodal Brain Tumor Segmentation challenge. The challenge data were widely varying consisting of both high-grade and low-grade glioma tumor four-modality MRI from five different institutions. Average Dice overlap measures for the final algorithmic assessment were 0.87, 0.78, and 0.74 for "complete", "core", and "enhanced" tumor components, respectively.},
+	Author = {Tustison, Nicholas J and Shrinidhi, K L and Wintermark, Max and Durst, Christopher R and Kandel, Benjamin M and Gee, James C and Grossman, Murray C and Avants, Brian B},
+	Date-Added = {2015-12-21 18:14:59 +0000},
+	Date-Modified = {2015-12-21 18:21:46 +0000},
+	Doi = {10.1007/s12021-014-9245-2},
+	Journal = {Neuroinformatics},
+	Journal-Full = {Neuroinformatics},
+	Month = {Apr},
+	Number = {2},
+	Pages = {209-25},
+	Pmid = {25433513},
+	Pst = {ppublish},
+	Title = {Optimal Symmetric Multimodal Templates and Concatenated Random Forests for Supervised Brain Tumor Segmentation (Simplified) with ${ANTsR}$},
+	Volume = {13},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s12021-014-9245-2}}
+
+@article{Menze:2015aa,
+	Abstract = {In this paper we report the set-up and results of the Multimodal Brain Tumor Image Segmentation Benchmark (BRATS) organized in conjunction with the MICCAI 2012 and 2013 conferences. Twenty state-of-the-art tumor segmentation algorithms were applied to a set of 65 multi-contrast MR scans of low- and high-grade glioma patients-manually annotated by up to four raters-and to 65 comparable scans generated using tumor image simulation software. Quantitative evaluations revealed considerable disagreement between the human raters in segmenting various tumor sub-regions (Dice scores in the range 74%-85%), illustrating the difficulty of this task. We found that different algorithms worked best for different sub-regions (reaching performance comparable to human inter-rater variability), but that no single algorithm ranked in the top for all sub-regions simultaneously. Fusing several good algorithms using a hierarchical majority vote yielded segmentations that consistently ranked above all individual algorithms, indicating remaining opportunities for further methodological improvements. The BRATS image data and manual annotations continue to be publicly available through an online evaluation system as an ongoing benchmarking resource.},
+	Author = {Menze, Bjoern H and Jakab, Andras and Bauer, Stefan and Kalpathy-Cramer, Jayashree and Farahani, Keyvan and Kirby, Justin and Burren, Yuliya and Porz, Nicole and Slotboom, Johannes and Wiest, Roland and Lanczi, Levente and Gerstner, Elizabeth and Weber, Marc-Andre and Arbel, Tal and Avants, Brian B and Ayache, Nicholas and Buendia, Patricia and Collins, D Louis and Cordier, Nicolas and Corso, Jason J and Criminisi, Antonio and Das, Tilak and Delingette, Herve and Demiralp, Cagatay and Durst, Christopher R and Dojat, Michel and Doyle, Senan and Festa, Joana and Forbes, Florence and Geremia, Ezequiel and Glocker, Ben and Golland, Polina and Guo, Xiaotao and Hamamci, Andac and Iftekharuddin, Khan M and Jena, Raj and John, Nigel M and Konukoglu, Ender and Lashkari, Danial and Mariz, Jose Antonio and Meier, Raphael and Pereira, Sergio and Precup, Doina and Price, Stephen J and Raviv, Tammy Riklin and Reza, Syed M S and Ryan, Michael and Sarikaya, Duygu and Schwartz, Lawrence and Shin, Hoo-Chang and Shotton, Jamie and Silva, Carlos A and Sousa, Nuno and Subbanna, Nagesh K and Szekely, Gabor and Taylor, Thomas J and Thomas, Owen M and Tustison, Nicholas J and Unal, Gozde and Vasseur, Flor and Wintermark, Max and Ye, Dong Hye and Zhao, Liang and Zhao, Binsheng and Zikic, Darko and Prastawa, Marcel and Reyes, Mauricio and Van Leemput, Koen},
+	Date-Added = {2015-12-21 18:14:55 +0000},
+	Date-Modified = {2015-12-21 18:14:55 +0000},
+	Doi = {10.1109/TMI.2014.2377694},
+	Journal = {IEEE Trans Med Imaging},
+	Journal-Full = {IEEE transactions on medical imaging},
+	Month = {Oct},
+	Number = {10},
+	Pages = {1993-2024},
+	Pmid = {25494501},
+	Pst = {ppublish},
+	Title = {The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)},
+	Volume = {34},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1109/TMI.2014.2377694}}
+
+@article{Xin:2015aa,
+	Abstract = {Quantitative analysis of computed tomography (CT) is essential to the study of acute lung injury. However, quantitative CT is made difficult by poor lung aeration, which complicates the critical step of image segmentation. To overcome this obstacle, this study sought to develop and validate a semiautomated, multilandmark, registration-based scheme for lung segmentation that is effective in conditions of poor aeration. Expiratory and inspiratory CT images were obtained in rats (n = 8) with surfactant depletion of incremental severity to mimic worsening aeration. Trained operators manually delineated the images to provide a comparative landmark. Semiautomatic segmentation originated from a single, previously segmented reference image obtained at healthy baseline. Deformable registration of the target images (after surfactant depletion) was performed using the symmetric diffeomorphic transformation model with B-spline regularization. Registration used multiple landmarks (i.e., rib cage, spine, and lung parenchyma) to minimize the effect of poor aeration. Then target images were automatically segmented by applying the calculated transformation function to the reference image contour. Semiautomatically and manually segmented contours proved to be highly similar in all aeration conditions, including those characterized by more severe surfactant depletion and expiration. The Dice similarity coefficient was over 0.9 in most conditions, confirming high agreement, irrespective of poor aeration. Furthermore, CT density-based measurements of gas volume, tissue mass, and lung aeration distribution were minimally affected by the method of segmentation. Moving forward, multilandmark registration has the potential to streamline quantitative CT analysis by enabling semiautomatic image segmentation of lungs with a broad range of injury severity.},
+	Author = {Xin, Yi and Song, Gang and Cereda, Maurizio and Kadlecek, Stephen and Hamedani, Hooman and Jiang, Yunqing and Rajaei, Jennia and Clapp, Justin and Profka, Harrilla and Meeder, Natalie and Wu, Jue and Tustison, Nicholas J and Gee, James C and Rizi, Rahim R},
+	Date-Added = {2015-12-21 18:14:53 +0000},
+	Date-Modified = {2015-12-21 18:14:53 +0000},
+	Doi = {10.1152/japplphysiol.00627.2014},
+	Journal = {J Appl Physiol (1985)},
+	Journal-Full = {Journal of applied physiology (Bethesda, Md. : 1985)},
+	Keywords = {ARDS; computed tomography; image analysis; image registration; semiautomatic segmentation},
+	Mesh = {Animals; Image Processing, Computer-Assisted; Imaging, Three-Dimensional; Lung; Lung Injury; Male; Rats; Rats, Sprague-Dawley; Surface-Active Agents; Tomography, X-Ray Computed},
+	Month = {Feb},
+	Number = {3},
+	Pages = {377-85},
+	Pmc = {PMC4312845},
+	Pmid = {25640150},
+	Pst = {ppublish},
+	Title = {Semiautomatic segmentation of longitudinal computed tomography images in a rat model of lung injury by surfactant depletion},
+	Volume = {118},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1152/japplphysiol.00627.2014}}
+
+@article{Avants:2015ab,
+	Author = {Avants, Brian B and Johnson, Hans J and Tustison, Nicholas J},
+	Date-Added = {2015-12-21 18:14:46 +0000},
+	Date-Modified = {2015-12-21 18:22:19 +0000},
+	Doi = {10.3389/fninf.2015.00005},
+	Journal = {Front Neuroinform},
+	Journal-Full = {Frontiers in neuroinformatics},
+	Keywords = {C++; ITK; open source; registration; segmentation},
+	Pages = {5},
+	Pmc = {PMC4374465},
+	Pmid = {25859213},
+	Pst = {epublish},
+	Title = {Neuroinformatics and the {Insight} {ToolKit}},
+	Volume = {9},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.3389/fninf.2015.00005}}
+
+@article{Durst:2015aa,
+	Abstract = {PURPOSE: Rapid regional fluctuations in GABA may result in inhomogeneous concentrations throughout the brain parenchyma. The goal of this study is to provide further insight into the natural distribution of GABA throughout the brain and thus determine if a surrogate site may be used for spectroscopy when evaluating motor diseases, neurological disorders, or psychiatric dysfunction.
+MATERIALS AND METHODS: In this prospective study, eight healthy volunteers underwent spectroscopic evaluation of the frontal lobe, occipital lobe, lateral temporal lobe, basal ganglia, and both hippocampi using a spin echo variant of a J-difference editing method. Knowledge of the relative peak intensities of the macromolecule peaks at 3ppm and 0.9ppm was used to correct the contribution of co-edited macromolecules to the GABA peak at 3ppm. The GABA values were internally referenced to NAA. Linear regression was used to normalize the effect of regional tissue-fraction variation on the GABA/NAA values. A one-way ANOVA was performed with Tukey's multiple comparison test to compare the normalized GABA/NAA values in each pair of locations.
+RESULTS: After accounting for the macromolecule contribution to the GABA signal and correction for tissue fraction variation, the normalized GABA/NAA ratios differ significantly between the six brain locations (p<0.001). Pairwise comparisons of the corrected normalized GABA/NAA ratios show statistically significant variation between the frontal lobe and the basal ganglia, frontal and lateral temporal lobes, and frontal lobe and right hippocampus. Variations in the normalized GABA/NAA ratios trend toward significance between the frontal lobe and left hippocampus, occipital lobe and the frontal lobe, occipital lobe and basal ganglia, and occipital lobe and right hippocampus.
+CONCLUSION: Our study suggests that GABA concentration is inhomogeneous throughout the parenchyma. Studies evaluating the role of GABA must carefully consider voxel placement when incorporating spectroscopy.},
+	Author = {Durst, Christopher R and Michael, Navin and Tustison, Nicholas J and Patrie, James T and Raghavan, Prashant and Wintermark, Max and Sendhil Velan, S},
+	Date-Added = {2015-12-21 18:14:45 +0000},
+	Date-Modified = {2015-12-21 18:14:45 +0000},
+	Doi = {10.1016/j.mri.2015.02.015},
+	Journal = {Magn Reson Imaging},
+	Journal-Full = {Magnetic resonance imaging},
+	Keywords = {GABA; MRS; Regional variation; Segmentation; Spectroscopy},
+	Month = {Jun},
+	Number = {5},
+	Pages = {611-7},
+	Pmid = {25708260},
+	Pst = {ppublish},
+	Title = {Noninvasive evaluation of the regional variations of GABA using magnetic resonance spectroscopy at 3 Tesla},
+	Volume = {33},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.mri.2015.02.015}}
+
+@article{Avants:2015aa,
+	Abstract = {Magnetic resonance imaging (MRI) captures the dynamics of brain development with multiple modalities that quantify both structure and function. These measurements may yield valuable insights into the neural patterns that mark healthy maturation or that identify early risk for psychiatric disorder. The Pediatric Template of Brain Perfusion (PTBP) is a free and public neuroimaging resource that will help accelerate the understanding of childhood brain development as seen through the lens of multiple modality neuroimaging and in relation to cognitive and environmental factors. The PTBP uses cross-sectional and longitudinal MRI to quantify cortex, white matter, resting state functional connectivity and brain perfusion, as measured by Arterial Spin Labeling (ASL), in 120 children 7-18 years of age. We describe the PTBP and show, as a demonstration of validity, that global summary measurements capture the trajectories that demarcate critical turning points in brain maturation. This novel resource will allow a more detailed understanding of the network-level, structural and functional landmarks that are obtained during normal adolescent brain development.},
+	Author = {Avants, Brian B and Duda, Jeffrey T and Kilroy, Emily and Krasileva, Kate and Jann, Kay and Kandel, Benjamin T and Tustison, Nicholas J and Yan, Lirong and Jog, Mayank and Smith, Robert and Wang, Yi and Dapretto, Mirella and Wang, Danny J J},
+	Date-Added = {2015-12-21 18:14:35 +0000},
+	Date-Modified = {2015-12-21 18:14:35 +0000},
+	Doi = {10.1038/sdata.2015.3},
+	Journal = {Sci Data},
+	Journal-Full = {Scientific data},
+	Mesh = {Adolescent; Adolescent Development; Anatomy, Cross-Sectional; Brain; Child; Child Development; Humans; Image Processing, Computer-Assisted; Magnetic Resonance Imaging; Neuroimaging},
+	Pages = {150003},
+	Pmc = {PMC4413243},
+	Pmid = {25977810},
+	Pst = {epublish},
+	Title = {The pediatric template of brain perfusion},
+	Volume = {2},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1038/sdata.2015.3}}
+
+@article{Tustison:2015aa,
+	Abstract = {PURPOSE: To propose an accurate methodological framework for automatically segmenting pulmonary proton MRI based on an optimal consensus of a spatially normalized library of annotated lung atlases.
+METHODS: A library of 62 manually annotated lung atlases comprising 48 mixed healthy, chronic obstructive pulmonary disease, and asthmatic subjects of a large age range with multiple ventilation levels is used to produce an optimal segmentation in proton MRI, based on a consensus of the spatially normalized library. An extension of this methodology is used to provide best-guess estimates of lobar subdivisions in proton MRI from annotated computed tomography data.
+RESULTS: A leave-one-out evaluation strategy was used for evaluation. Jaccard overlap measures for the left and right lungs were used for performance comparisons relative to the current state-of-the-art (0.966 $\pm$ 0.018 and 0.970 $\pm$ 0.016, respectively). Best-guess estimates for the lobes exhibited comparable performance levels (left upper: 0.882 $\pm$ 0.059, left lower: 0.868 $\pm$ 0.06, right upper: 0.852 $\pm$ 0.067, right middle: 0.657 $\pm$ 0.130, right lower: 0.873 $\pm$ 0.063).
+CONCLUSION: An annotated atlas library approach can be used to provide good lung and lobe estimation in proton MRI. The proposed framework is useful for subsequent anatomically based analysis of structural and/or functional pulmonary image data. Magn Reson Med, 2015. {\copyright} 2015 Wiley Periodicals, Inc.},
+	Author = {Tustison, Nicholas J and Qing, Kun and Wang, Chengbo and Altes, Talissa A and Mugler, 3rd, John P},
+	Date-Added = {2015-12-21 18:14:24 +0000},
+	Date-Modified = {2015-12-21 18:21:07 +0000},
+	Doi = {10.1002/mrm.25824},
+	Journal = {Magn Reson Med},
+	Journal-Full = {Magnetic resonance in medicine},
+	Keywords = {advanced normalization tools; lobe segmentation; lung segmentation; multi-atlas label fusion; pulmonary image registration},
+	Month = {Jul},
+	Pmid = {26222827},
+	Pst = {aheadofprint},
+	Title = {Atlas-based estimation of lung and lobar anatomy in proton {MRI}},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1002/mrm.25824}}
+
+@article{Altes:2015aa,
+	Abstract = {BACKGROUND: Lung ventilation defects identified by using hyperpolarized 3-helium gas ((3)He) lung magnetic resonance imaging (MRI) are prevalent in asthmatic patients, but the clinical importance of ventilation defects is poorly understood.
+OBJECTIVES: We sought to correlate the lung defect volume quantified by using (3)He MRI with clinical features in children with mild and severe asthma.
+METHODS: Thirty-one children with asthma (median age, 10 years; age range, 3-17 years) underwent detailed characterization and (3)He lung MRI. Quantification of the (3)He signal defined ventilation defect and hypoventilated, ventilated, and well-ventilated volumes.
+RESULTS: The ventilation defect to total lung volume fraction ranged from 0.1% to 11.6%. Children with ventilation defect percentages in the upper tercile were more likely to have severe asthma than children in the lower terciles (P = .005). The ventilation defect percentage correlated (P < .05 for all) positively with the inhaled corticosteroid dose, total number of controller medications, and total blood eosinophil counts and negatively with the Asthma Control Test score, FEV1 (percent predicted), FEV1/forced vital capacity ratio (percent predicted), and forced expiratory flow rate from 25% to 75% of expired volume (percent predicted).
+CONCLUSION: The lung defect volume percentage measured by using (3)He MRI correlates with several clinical features of asthma, including severity, symptom score, medication requirement, airway physiology, and atopic markers.},
+	Author = {Altes, Talissa A and Mugler, 3rd, John P and Ruppert, Kai and Tustison, Nicholas J and Gersbach, Joanne and Szentpetery, Sylvia and Meyer, Craig H and de Lange, Eduard E and Teague, W Gerald},
+	Date-Added = {2015-12-21 18:14:23 +0000},
+	Date-Modified = {2015-12-21 18:14:23 +0000},
+	Doi = {10.1016/j.jaci.2015.08.045},
+	Journal = {J Allergy Clin Immunol},
+	Journal-Full = {The Journal of allergy and clinical immunology},
+	Keywords = {(3)He magnetic resonance imaging; Hyperpolarized; childhood asthma; severe asthma; ventilation defects; ventilation heterogeneity},
+	Month = {Oct},
+	Pmid = {26521043},
+	Pst = {aheadofprint},
+	Title = {Clinical correlates of lung ventilation defects in asthmatic children},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.jaci.2015.08.045}}
+
+@article{Hasan:2015aa,
+	Abstract = {BACKGROUND AND PURPOSE: Human entorhinal cortex (ERC) connects the temporal neocortex with hippocampus and is essential for memory retrieval and navigation. Markedly, there have been only few quantitative MRI works on the ERC geometric measurements in pediatric and adult healthy subjects across the lifespan. Here, we sought to fill this gap in knowledge by quantifying the ERC thickness in a very large cohort of subjects spanning 9 decades of life.
+METHODS: Using magnetic resonance imaging data from multiple centers (IXI, MMRR, NKI, OASIS combined with the NIH-Child Dev database and locally recruited healthy subjects), we analyzed the lifespan trajectory of ERC thickness in 1,660 healthy controls ranging from 2 to 94 years of age.
+RESULTS: The ERC thickness increased with age, reached a peak at about 44 years, and then decreased with age. ERC thickness is hemispherically rightward-asymmetric with no gender differences. Mean ERC thickness was found to vary between 2.943 $\pm$ .438 mm and 3.525 $\pm$ .355 mm across different age populations. Also, more pronounced loss of the ERC thickness in healthy aging men was noticeable.
+DISCUSSION: Our report with high spatial resolution brain MRI data from 1,660 healthy controls provided important clues about ERC thickness across lifespan. We believe that our report will pave the way for the future studies investigating distinct neural pathologies related with cognitive dysfunctions.},
+	Author = {Hasan, Khader M and Mwangi, Benson and Cao, Bo and Keser, Zafer and Tustison, Nicholas J and Kochunov, Peter and Frye, Richard E and Savatic, Mirjana and Soares, Jair},
+	Date-Added = {2015-12-21 18:14:14 +0000},
+	Date-Modified = {2015-12-21 18:14:14 +0000},
+	Doi = {10.1111/jon.12297},
+	Journal = {J Neuroimaging},
+	Journal-Full = {Journal of neuroimaging : official journal of the American Society of Neuroimaging},
+	Keywords = {Big data; FreeSurfer; MRI; cortical thickness; entorhinal cortex; lifespan},
+	Month = {Oct},
+	Pmid = {26565394},
+	Pst = {aheadofprint},
+	Title = {Entorhinal Cortex Thickness across the Human Lifespan},
+	Year = {2015},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1111/jon.12297}}
 
 @article{Tustison:2014ad,
 	Abstract = {Recent discussions within the neuroimaging community have highlighted the problematic presence of selection bias in experimental design. Although initially centering on the selection of voxels during the course of fMRI studies, we demonstrate how this bias can potentially corrupt voxel-based analyses. For such studies, template-based registration plays a critical role in which a representative template serves as the normalized space for group alignment. A standard approach maps each subject's image to a representative template before performing statistical comparisons between different groups. We analytically demonstrate that in these scenarios the popular sum of squared difference (SSD) intensity metric, implicitly surrogating as a quantification of anatomical alignment, instead explicitly maximizes effect size--an experimental design flaw referred to as "circularity bias." We illustrate how this selection bias varies in strength with the similarity metric used during registration under the hypothesis that while SSD-related metrics, such as Demons, will manifest similar effects, other metrics which are not formulated based on absolute intensity differences will produce less of an effect. Consequently, given the variability in voxel-based analysis outcomes with similarity metric choice, we caution researchers specifically in the use of SSD and SSD-related measures where normalization and statistical analysis involve the same image set. Instead, we advocate a more cautious approach where normalization of the individual subject images to the reference space occurs through corresponding image sets which are independent of statistical testing. Alternatively, one can use similarity terms that are less sensitive to this bias.},
@@ -49,25 +244,6 @@ CONCLUSION: A multi-input, single output imaging model may predict the extent of
 	Volume = {56},
 	Year = {2014},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s00234-013-1308-9}}
-
-@article{Qing:2014aa,
-	Abstract = {PURPOSE: To develop and validate a method for acquiring helium-3 ((3) He) and proton ((1) H) three-dimensional (3D) image sets of the human lung with isotropic spatial resolution within a 10-s breath-hold by using compressed sensing (CS) acceleration, and to assess the fidelity of undersampled images compared with fully sampled images.
-METHODS: The undersampling scheme for CS acceleration was optimized and tested using (3) He ventilation data. Rapid 3D acquisition of both (3) He and (1) H data during one breath-hold was then implemented, based on a balanced steady-state free-precession pulse sequence, by random undersampling of k-space with reconstruction by means of minimizing the L1 norm and total variance. CS-reconstruction fidelity was evaluated quantitatively by comparing fully sampled and retrospectively undersampled image sets.
-RESULTS: Helium-3 and (1) H 3D image sets of the lung with isotropic 3.9-mm resolution were acquired during a single breath-hold in 12 s and 8 s using acceleration factors of 2 and 3, respectively. Comparison of fully sampled and retrospectively undersampled (3) He and (1) H images yielded mean absolute errors <10% and structural similarity indices >0.9.
-CONCLUSION: By randomly undersampling k-space and using CS reconstruction, high-quality (3) He and (1) H 3D image sets with isotropic 3.9-mm resolution can be acquired within an 8-s breath-hold. Magn Reson Med, 2014. {\copyright} 2014 Wiley Periodicals, Inc.},
-	Author = {Qing, Kun and Altes, Talissa A and Tustison, Nicholas J and Feng, Xue and Chen, Xiao and Mata, Jaime F and Miller, G Wilson and de Lange, Eduard E and Tobias, William A and Cates, Jr, Gordon D and Brookeman, James R and Mugler, 3rd, John P},
-	Date-Added = {2014-12-07 05:41:50 +0000},
-	Date-Modified = {2014-12-07 05:41:50 +0000},
-	Doi = {10.1002/mrm.25499},
-	Journal = {Magn Reson Med},
-	Journal-Full = {Magnetic resonance in medicine : official journal of the Society of Magnetic Resonance in Medicine / Society of Magnetic Resonance in Medicine},
-	Keywords = {compressed sensing; hyperpolarized gas; pulmonary imaging},
-	Month = {Oct},
-	Pmid = {25335080},
-	Pst = {aheadofprint},
-	Title = {Rapid acquisition of helium-3 and proton three-dimensional image sets of the human lung in a single breath-hold using compressed sensing},
-	Year = {2014},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1002/mrm.25499}}
 
 @article{Yoder:2014aa,
 	Abstract = {Study objectives were to develop, validate, and apply a method to measure three-dimensional (3D) internal strains in intact human discs under axial compression. A custom-built loading device applied compression and permitted load-relaxation outside of the magnet while also maintaining compression and hydration during imaging. Strain was measured through registration of 300 μm isotropic resolution images. Excellent registration accuracy was achieved, with 94% and 65% overlap of disc volume and lamellae compared to manual segmentation, and an average Hausdorff, a measure of distance error, of 0.03 and 0.12 mm for disc volume and lamellae boundaries, respectively. Strain maps enabled qualitative visualization and quantitative regional annulus fibrosus (AF) strain analysis. Axial and circumferential strains were highest in the lateral AF and lowest in the anterior and posterior AF. Radial strains were lowest in the lateral AF, but highly variable. Overall, this study provided new methods that will be valuable in the design and evaluation surgical procedures and therapeutic interventions.},
@@ -222,21 +398,6 @@ CONCLUSION: DT MR imaging after MR imaging-guided focused ultrasound thalamotomy
 	Volume = {7},
 	Year = {2013},
 	Bdsk-Url-1 = {http://dx.doi.org/10.3389/fninf.2013.00039}}
-
-@article{Tustison:2014aa,
-	Abstract = {Segmenting and quantifying gliomas from MRI is an important task for diagnosis, planning intervention, and for tracking tumor changes over time. However, this task is complicated by the lack of prior knowledge concerning tumor location, spatial extent, shape, possible displacement of normal tissue, and intensity signature. To accommodate such complications, we introduce a framework for supervised segmentation based on multiple modality intensity, geometry, and asymmetry feature sets. These features drive a supervised whole-brain and tumor segmentation approach based on random forest-derived probabilities. The asymmetry-related features (based on optimal symmetric multimodal templates) demonstrate excellent discriminative properties within this framework. We also gain performance by generating probability maps from random forest models and using these maps for a refining Markov random field regularized probabilistic segmentation. This strategy allows us to interface the supervised learning capabilities of the random forest model with regularized probabilistic segmentation using the recently developed ANTsR package-a comprehensive statistical and visualization interface between the popular Advanced Normalization Tools (ANTs) and the R statistical project. The reported algorithmic framework was the top-performing entry in the MICCAI 2013 Multimodal Brain Tumor Segmentation challenge. The challenge data were widely varying consisting of both high-grade and low-grade glioma tumor four-modality MRI from five different institutions. Average Dice overlap measures for the final algorithmic assessment were 0.87, 0.78, and 0.74 for "complete", "core", and "enhanced" tumor components, respectively.},
-	Author = {Tustison, Nicholas J and Shrinidhi, K L and Wintermark, Max and Durst, Christopher R and Kandel, Benjamin M and Gee, James C and Grossman, Murray C and Avants, Brian B},
-	Date-Added = {2014-12-07 05:41:26 +0000},
-	Date-Modified = {2014-12-07 05:43:58 +0000},
-	Doi = {10.1007/s12021-014-9245-2},
-	Journal = {Neuroinformatics},
-	Journal-Full = {Neuroinformatics},
-	Month = {Nov},
-	Pmid = {25433513},
-	Pst = {aheadofprint},
-	Title = {Optimal Symmetric Multimodal Templates and Concatenated Random Forests for Supervised Brain Tumor Segmentation (Simplified) with {$ANTsR$}},
-	Year = {2014},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s12021-014-9245-2}}
 
 @article{siqueira2008,
 	Author = {Marcelo Siqueira and Longin J. Latecki and Nicholas J. Tustison and J. Gallier and James C. Gee},
