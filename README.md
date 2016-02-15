@@ -35,7 +35,7 @@
    American Journal of Neuroradiology  
    Annals of Biomedical Engineering  
    Artificial Intelligence in Medicine  
-   Biomedical Signal Processing and Control 
+   Biomedical Signal Processing and Control  
    Computers in Biology and Medicine  
    Computerized Medical Imaging and Graphics  
    Focused Ultrasound Foundation ad hoc grant reviewer  
