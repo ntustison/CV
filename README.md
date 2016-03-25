@@ -39,6 +39,7 @@
    Computers in Biology and Medicine  
    Computerized Medical Imaging and Graphics  
    Focused Ultrasound Foundation ad hoc grant reviewer  
+   Human Brain Mapping  
    Image and Vision Computing  
    International Journal of Pattern Recognition and Artificial Intelligence  
    IEEE Transactions on Medical Imaging  
