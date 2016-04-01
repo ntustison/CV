@@ -112,7 +112,7 @@ CR Durst, N Michael, __NJ Tustison__, JT Patrie, P Raghavan, M Wintermark, SS Ve
 
 __Nicholas J. Tustison__, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with _ANTsR_.  _Neuroinformatics_,  13(2):209-225, April 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25433513)
 
-Brian B. Avants, Hans J. Johnson, __Nicholas J. Tustison__.  Neuroinformatics and the Insight ToolKit.  _Front Neuroinform_, March 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25859213)
+Brian B. Avants, Hans J. Johnson, __Nicholas J. Tustison__.  Neuroinformatics and the Insight ToolKit.  _Front Neuroinform_, 9:5, March 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25859213)
 
 Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, __Nicholas Tustison__, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _J Appl Physiol_, 118(3):377-85, Feb 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25640150)
 
