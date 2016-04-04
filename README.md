@@ -35,10 +35,11 @@
    American Journal of Neuroradiology  
    Annals of Biomedical Engineering  
    Artificial Intelligence in Medicine  
-   Biomedical Signal Processing and Control 
+   Biomedical Signal Processing and Control  
    Computers in Biology and Medicine  
    Computerized Medical Imaging and Graphics  
    Focused Ultrasound Foundation ad hoc grant reviewer  
+   Human Brain Mapping  
    Image and Vision Computing  
    International Journal of Pattern Recognition and Artificial Intelligence  
    IEEE Transactions on Medical Imaging  
@@ -91,7 +92,9 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2016**
 
-Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, [Accepted](http://onlinelibrary.wiley.com/doi/10.1002/hbm.23110/abstract?campaign=wolearlyview).
+Genevera I Allen, Nicola Amoroso, Catalina Anghel, Venkat Balagurusamy, Christopher J Bare, Derek Beaton, Roberto Bellotti, David A Bennett, Kevin Boehme, Paul C Boutros, Laura Caberlotto, Cristian Caloian, Frederick Campbell, Elias Chaibub Neto, Yu- Chuan Chang, Beibei Chen, Chien-Yu Chen, Ting-Ying Chien, Tim Clark, Sudeshna Das, Christos Davatzikos, Jieyao Deng, Donna Dillenberger, Richard JB Dobson, Qilin Dong, Jimit Doshi, Denise Duma, Rosangela Errico, Guray Erus, Evan Everett, David W Fardo, Stephen H Friend, Holger Fröhlich, Jessica Gan, Peter St George-Hyslop, Satrajit S Ghosh, Enrico Glaab, Robert C Green, Yuanfang Guan, Ming-Yi Hong, Chao Huang, Jinseub Hwang, Joseph Ibrahim, Paolo Inglese, Qijia Jiang, Yuriko Katsumata, John SK Kauwe, Arno Klein, Dehan Kong, Roland Krause, Emilie Lalonde, Mario Lauria, Eunjee Lee, Xihui Lin, Zhandong Liu, Julie Livingstone, Benjamin A Logsdon, Simon Lovestone, Anandhi Lyappan, Michelle Ma, Ashutosh Malhotra, Lara M Mangravite, Taylor J Maxwell, Emily Merrill, John Nagorski, Aishwarya Namasivayam, Manjari Narayan, Mufassra Naz, Stephen J Newhouse, Thea C Norman, Ramil N Nurtdinov, Yen-Jen Oyang, Yudi Pawitan, Shengwen Peng, Mette A Peters, Stephen R Piccolo, Paurush Praveen, Corrado Priami, Veronica Y Sabelnykova, Philipp Senger, Xia Shen, Andrew Simmons, Aristeidis Sotiras, Gustavo Stolovitzky, Sabina Tangaro, Andrea Tateo, Yi-An Tung, __Nicholas J Tustison__, Erdem Varol, George Vradenburg, Michael W Weiner, Guanghua Xiao, Lei Xie, Yang Xie, Jia Xu, Hojin Yang, Xiaowei Zhan, Yunyun Zhou, Fan Zhu, Hongtu Zhu, Shanfeng Zhu, Alzheimer's Disease Neuroimaging Initiative.  Crowdsourced estimation of cognitive decline and resilience in Alzheimer's disease.  _Alzheimers Dement_,  Accepted.
+
+Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, Accepted.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26756101)
 
 Khader M. Hasan, Benson Mwangi, Bo Cao, Zafer Keser, __Nicholas J. Tustison__, Peter Kochunov, Richard E. Frye, Mirjana Savatic, Jair Soares.  Entorhinal cortex thickness across the human lifespan.  _J of Neuroimaging_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26565394)
 
@@ -109,7 +112,7 @@ CR Durst, N Michael, __NJ Tustison__, JT Patrie, P Raghavan, M Wintermark, SS Ve
 
 __Nicholas J. Tustison__, K. L. Shrinhidi, Max Wintermark, Christopher R. Durst, Benjamin M. Kandel, James C. Gee, Murray C. Grossman, and Brian B. Avants. Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with _ANTsR_.  _Neuroinformatics_,  13(2):209-225, April 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25433513)
 
-Brian B. Avants, Hans J. Johnson, __Nicholas J. Tustison__.  Neuroinformatics and the Insight ToolKit.  _Front Neuroinform_, March 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25859213)
+Brian B. Avants, Hans J. Johnson, __Nicholas J. Tustison__.  Neuroinformatics and the Insight ToolKit.  _Front Neuroinform_, 9:5, March 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25859213)
 
 Yi Xin, Gang Song, Maurizio Cereda, Stephen Kadlecek, Hooman Hamedani, Yunqing Jiang, Jennia Rajaei, Justin Clapp, Harrilla Profka, Natalie Meeder, Jue Wu, __Nicholas Tustison__, James Gee, and Rahim Rizi.  Semi-Automatic Segmentation of Longitudinal Computed Tomography Images in a Rat Model of Lung Injury by Surfactant Depletion.  _J Appl Physiol_, 118(3):377-85, Feb 2015. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/25640150)
 
