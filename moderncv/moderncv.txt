@@ -1,10 +1,13 @@
-%% start of file `template.tex'.
-%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
-%
-% This work may be distributed and/or modified under the
-% conditions of the LaTeX Project Public License version 1.3c,
-% available at http://www.latex-project.org/lppl/.
+---
+author:
+- '% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).'
+bibliography: 'references.bib'
+title: '% start of file \`template.tex''.'
+...
 
+% This work may be distributed and/or modified under the % conditions of
+the LaTeX Project Public License version 1.3c, % available at
+http://www.latex-project.org/lppl/.
 
 \documentclass[10pt,letterpaper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
 
@@ -31,17 +34,17 @@
 \firstname{Nick}
 \familyname{Tustison}
 \title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
-\address{4173 Cardamon Circle}{Home office}{Corona, CA  U.S.A.}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
+\address{1238 Old Trail Drive}{Crozet, VA}{U.S.A.}% optional, remove / comment the line if not wanted; the "postcode city" and "country" arguments can be omitted or provided empty
 \mobile{+1~(540)~383~2719}                   % optional, remove / comment the line if not wanted; the optional "type" of the phone can be "mobile" (default), "fixed" or "fax"
 %\phone[fixed]{+2~(345)~678~901}
 %\phone[fax]{+3~(456)~789~012}
 \email{ntustison@virginia.edu}                     % optional, remove / comment the line if not wanted
 %\homepage{www.johndoe.com}                         % optional, remove / comment the line if not wanted
-%\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
+\social[linkedin]{john.doe}                        % optional, remove / comment the line if not wanted
 %\social[twitter]{jdoe}                             % optional, remove / comment the line if not wanted
 \social[github]{ntustison}                          % optional, remove / comment the line if not wanted
 %\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
-%\photo[100pt][0.4pt]{nick_tustison.jpg}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+\photo[100pt][0.4pt]{PatrickHenryHalfMarathon2013-2.jpg}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
 %\quote{Some quote}                                 % optional, remove / comment the line if not wanted
 
 % to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
@@ -59,6 +62,7 @@
 %----------------------------------------------------------------------------------
 %            content
 %----------------------------------------------------------------------------------
+
 \begin{document}
 %\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
 %-----       resume       ---------------------------------------------------------
@@ -87,7 +91,6 @@
 \section{Professional Appointments}
 %\subsection{Vocational}
 \cventry{2010--}{Assistant Professor}{Department of Radiology and Medical Imaging}{University of Virginia}{Charlottesville, VA}{}
-\cventry{2016--}{Visiting Assistant Researcher}{Department of Neurobiology and Behavior}{University of California, Irvine}{Irvine, CA}{}
 %General description no longer than 1--2 lines.
 %\newline{}%
 %Detailed achievements:%
@@ -120,50 +123,40 @@
   \subsection{Reviewer Duties}
   \begin{cvcolumns}
     \cvcolumn{}{
-		Academic Radiology \\
-		American Journal of Neuroradiology \\
-		Annals of Biomedical Engineering \\
-		Artificial Intelligence in Medicine \\
-		Biomedical Signal Processing and Control \\
-		Computers in Biology and Medicine \\
-		Computerized Medical Imaging and Graphics \\
-		Focused Ultrasound Foundation ad hoc grant reviewer \\
-		Image and Vision Computing \\
-		International Journal of Pattern Recognition and Artificial Intelligence \\
-		IEEE Transactions on Medical Imaging \\
-		IEEE Transactions on Pattern Analysis and Machine Intelligence \\
-		IEEE Transactions on Biomedical Engineering \\
-		Insight Journal \\
-		International Conf. on Medical Image Computing and Computer Assisted Intervention\\
-  International Journal of Biomedical Imaging\\
-		International Journal of Computer Vision \\
-		International Workshop on Medical Imaging and Augmented Reality \\
-		IEEE International Symposium on Biomedical Imaging: From Nano to Macro \\
-		Journal of Computed Tomography \\
-		Journal of Electronic Imaging \\
-		Journal of Magnetic Resonance Imaging \\
-		Journal of Neurotrauma \\
-		Journal of the Optical Society of America A \\
-		Magnetic Resonance in Medicine \\
-		Medical Physics \\
-		Medical Image Analysis \\
-		Neurobiology of Aging  \\
-		NeuroImage \\
-		NeuroImage:  Clinical \\
-		Neuroradiology \\
-		PLOS ONE \\
-		Respirology \\
-		SIAM Journal on Imaging Sciences
+        Academic Radiology \\
+        Annals of Biomedical Engineering \\
+        Computers in Biology and Medicine \\
+        Computers in Medical Imaging and Graphics \\
+        Focused Ultrasound Foundation ad hoc grant reviewer \\
+        Image and Vision Computing \\
+        International Journal of Pattern Recognition and Artificial Intelligence \\
+        IEEE Transactions on Medical Imaging \\
+        IEEE Transactions on Pattern Analysis and Machine Intelligence \\
+        IEEE Transactions on Biomedical Engineering \\
+        Insight Journal \\
+        International Conf. on Medical Image Computing and Computer Assisted Intervention\\
+        International Journal of Biomedical Imaging\\ 
+        International Journal of Computer Vision \\
+        International Workshop on Medical Imaging and Augmented Reality \\
+        IEEE International Symposium on Biomedical Imaging: From Nano to Macro \\
+        Journal of Computed Tomography \\
+        Journal of Electronic Imaging \\
+        Journal of Magnetic Resonance Imaging \\ 
+        Journal of Neurotrauma \\
+        Journal of the Optical Society of America A \\
+        Magnetic Resonance in Medicine \\
+        Medical Physics \\
+        Medical Image Analysis \\
+        NeuroImage \\
+        Neuroradiology \\
+        Respirology 
     }
-  \end{cvcolumns}
-  \subsection{Invited Talks/Participation}
-    \cventry{Feb 2012}{SPIE conference}{Open source tools for medical image analysis}{}{}{}
-    \cventry{Sept 2012}{MICCAI}{provided canonical registrations for Grand Challenge and Workshop on Multi-Atlas Labeling}{}{}{}
-    \cventry{Sept 2013}{MICCAI}{provided canonical registrations for SATA challenge workshop}{}{}{}
-    \cventry{Oct 2014}{Laboratory of Neuroimaging}{ANTs and the perils of circularity}{}{}{}
+  \end{cvcolumns}  
+  \subsection{Invited Talks}
+    \cventry{2012}{SPIE conference}{Open source tools for medical image analysis}{}{}{}
 
 
-\section{Computer Skills}
+\section{Computer skills}
 \cvitem{Languages}{C++, perl, bash, \LaTeX, R}
 %\cvitem{Platforms}{OSX, Linux}
 \cvitem{Tools and Libraries}{Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, Matlab, PBS/SGE qsub}
@@ -171,7 +164,7 @@
 \section{Awards}
   \cventry{2010}{1st place}{EMPIRE10 lung registration competition}{MICCAI Conference 2010}{}{}
   \cventry{2013}{1st place}{BRATS2013 multimodal brain tumor segmentation competition}{MICCAI Conference 2013}{}{}
-  \cventry{2014}{Best paper award}{STACOM2014 cardiac motion estimation challenge}{MICCAI Conference 2014}{}{}
+
 
 
 %\section{Interests}
@@ -209,18 +202,18 @@
 \bibliographystylejournal{plainyr-rev}
 \bibliographyjournal{references}
 
-%\nocitechapters{*}
-%\bibliographystylechapters{plainyr-rev}
-%\bibliographychapters{references-chapters}                   % 'publications' is the name of a
-%
-%                        % 'publications' is the name of a BibTeX file
-%\nociteconferences{*}
-%\bibliographystyleconferences{plainyr-rev}
-%\bibliographyconferences{references-conference}                   % 'publications' is the name of a BibTeX file
-%
-%\nocitesoftware{*}
-%\bibliographystylesoftware{plainyr-rev}
-%\bibliographysoftware{references-software}                   % 'publications' is the name of a BibTeX file
+\nocitechapters{*}
+\bibliographystylechapters{plainyr-rev}
+\bibliographychapters{references-chapters}                   % 'publications' is the name of a 
+
+                        % 'publications' is the name of a BibTeX file
+\nociteconferences{*}
+\bibliographystyleconferences{plainyr-rev}
+\bibliographyconferences{references-conference}                   % 'publications' is the name of a BibTeX file
+
+\nocitesoftware{*}
+\bibliographystylesoftware{plainyr-rev}
+\bibliographysoftware{references-software}                   % 'publications' is the name of a BibTeX file
 
 % Publications from a BibTeX file using the multibib package
 %\section{Publications}
@@ -231,34 +224,34 @@
 %\bibliographystylemisc{plain}
 %\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
 
-%\section{References}
-%\begin{cvcolumns}
-%  \cvcolumn{}{
-%    \begin{itemize}
-%      \item James C. Gee \\
-%            Associate Professor of Radiologic Science in Radiology \\
-%            Director: Penn Image Computing and Science Laboratory University of Pennsylvania \\
-%            T: (215) 662-7109 \\
-%            james.gee@uphs.upenn.edu
-%      \item Amir A. Amini \\
-%            Professor and Endowed Chair in Bioimaging \\
-%            Director: Medical Image Computing Laboratory University of Louisville \\
-%            T: (502) 852-4767 \\
-%            amir.amini@louisville.edu
-%      \item James R. Brookeman \\
-%            Professor of Radiology of Biomedical Engineering University of Virginia \\
-%            T: (434) 243-4969 \\
-%            jrb5m@virginia.edu
-%      \item Talissa A. Altes \\
-%            Associate Professor of Radiology \\
-%            Section Head of Pediatric Radiology University of Virginia \\
-%            T: (434) 982-6018 \\
-%            taa2c@virginia.edu
-%    \end{itemize}
-%    }
-%%  \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
-%%  \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
-%\end{cvcolumns}
+\section{References}
+\begin{cvcolumns}
+  \cvcolumn{}{
+    \begin{itemize}
+      \item James C. Gee \\
+            Associate Professor of Radiologic Science in Radiology \\
+            Director: Penn Image Computing and Science Laboratory University of Pennsylvania \\
+            T: (215) 662-7109 \\
+            james.gee@uphs.upenn.edu
+      \item Amir A. Amini \\
+            Professor and Endowed Chair in Bioimaging \\
+            Director: Medical Image Computing Laboratory University of Louisville \\
+            T: (502) 852-4767 \\
+            amir.amini@louisville.edu
+      \item James R. Brookeman \\
+            Professor of Radiology of Biomedical Engineering University of Virginia \\
+            T: (434) 243-4969 \\
+            jrb5m@virginia.edu
+      \item Talissa A. Altes \\
+            Associate Professor of Radiology \\
+            Section Head of Pediatric Radiology University of Virginia \\
+            T: (434) 982-6018 \\
+            taa2c@virginia.edu     
+    \end{itemize}
+    }
+%  \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
+%  \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
+\end{cvcolumns}
 
 
 %\clearpage
