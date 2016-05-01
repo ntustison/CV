@@ -84,6 +84,29 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 * 1st place, BRATS2013 multimodal brain tumor segmentation competition, MICCAI Conference 2013 (Team:  Nick Tustison, Max Wintermark, Chris Durst, Brian Avants).
 * Best paper award, STACOM2014 cardiac motion estimation challenge, MICCAI Conference 2014 (Team:  Nick Tustison, Yang Yang, Michael Salerno).
 
+## Areas of research interest
+
+* Quantitative image analysis
+    * methodological development
+        * image registration
+        * image segmentation
+        * feature extraction
+        * computer-aided diagnosis
+    * applications
+        * neuroimaging
+            * structural (e.g., cortical thickness estimation, diffusion tensor imaging)
+            * functional (e.g., fMRI)
+        * pulmonary image analysis
+            * kinematic estimation
+            * segmentation (CT and MRI)
+            * functional ventilation using hyperpolarized gas imaging
+        * cardiac kinematics
+        * breast imaging
+* Open source software
+     * [The Insight Toolkit](http://www.itk.org)
+     * [Advanced Normalization Tools](https://github.com/stnava/ANTs)
+     * [Advanced Normalization Tools in R](https://github.com/stnava/ANTsR)
+
 ## Journal Publications
 
 **In Progress**
