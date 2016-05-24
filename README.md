@@ -84,23 +84,48 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 * 1st place, BRATS2013 multimodal brain tumor segmentation competition, MICCAI Conference 2013 (Team:  Nick Tustison, Max Wintermark, Chris Durst, Brian Avants).
 * Best paper award, STACOM2014 cardiac motion estimation challenge, MICCAI Conference 2014 (Team:  Nick Tustison, Yang Yang, Michael Salerno).
 
+## Areas of research interest
+
+* Quantitative image analysis
+    * methodological development
+        * image registration
+        * image segmentation
+        * feature extraction
+        * computer-aided diagnosis
+    * applications
+        * neuroimaging
+            * structural (e.g., cortical thickness estimation, diffusion tensor imaging)
+            * functional (e.g., fMRI)
+        * pulmonary image analysis
+            * kinematic estimation
+            * segmentation (CT and MRI)
+            * functional ventilation using hyperpolarized gas imaging
+        * cardiac kinematics
+        * breast imaging
+* Open source software
+     * [The Insight Toolkit](http://www.itk.org)
+     * [Advanced Normalization Tools](https://github.com/stnava/ANTs)
+     * [Advanced Normalization Tools in R](https://github.com/stnava/ANTsR)
+
 ## Journal Publications
 
+<!--
 **In Progress**
 
 __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation MRI.
+--> 
 
 **2016**
 
-Genevera I Allen, Nicola Amoroso, Catalina Anghel, Venkat Balagurusamy, Christopher J Bare, Derek Beaton, Roberto Bellotti, David A Bennett, Kevin Boehme, Paul C Boutros, Laura Caberlotto, Cristian Caloian, Frederick Campbell, Elias Chaibub Neto, Yu- Chuan Chang, Beibei Chen, Chien-Yu Chen, Ting-Ying Chien, Tim Clark, Sudeshna Das, Christos Davatzikos, Jieyao Deng, Donna Dillenberger, Richard JB Dobson, Qilin Dong, Jimit Doshi, Denise Duma, Rosangela Errico, Guray Erus, Evan Everett, David W Fardo, Stephen H Friend, Holger Fröhlich, Jessica Gan, Peter St George-Hyslop, Satrajit S Ghosh, Enrico Glaab, Robert C Green, Yuanfang Guan, Ming-Yi Hong, Chao Huang, Jinseub Hwang, Joseph Ibrahim, Paolo Inglese, Qijia Jiang, Yuriko Katsumata, John SK Kauwe, Arno Klein, Dehan Kong, Roland Krause, Emilie Lalonde, Mario Lauria, Eunjee Lee, Xihui Lin, Zhandong Liu, Julie Livingstone, Benjamin A Logsdon, Simon Lovestone, Anandhi Lyappan, Michelle Ma, Ashutosh Malhotra, Lara M Mangravite, Taylor J Maxwell, Emily Merrill, John Nagorski, Aishwarya Namasivayam, Manjari Narayan, Mufassra Naz, Stephen J Newhouse, Thea C Norman, Ramil N Nurtdinov, Yen-Jen Oyang, Yudi Pawitan, Shengwen Peng, Mette A Peters, Stephen R Piccolo, Paurush Praveen, Corrado Priami, Veronica Y Sabelnykova, Philipp Senger, Xia Shen, Andrew Simmons, Aristeidis Sotiras, Gustavo Stolovitzky, Sabina Tangaro, Andrea Tateo, Yi-An Tung, __Nicholas J Tustison__, Erdem Varol, George Vradenburg, Michael W Weiner, Guanghua Xiao, Lei Xie, Yang Xie, Jia Xu, Hojin Yang, Xiaowei Zhan, Yunyun Zhou, Fan Zhu, Hongtu Zhu, Shanfeng Zhu, Alzheimer's Disease Neuroimaging Initiative.  Crowdsourced estimation of cognitive decline and resilience in Alzheimer's disease.  _Alzheimers Dement_,  Accepted.
-
-Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, Accepted.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26756101)
-
-Khader M. Hasan, Benson Mwangi, Bo Cao, Zafer Keser, __Nicholas J. Tustison__, Peter Kochunov, Richard E. Frye, Mirjana Savatic, Jair Soares.  Entorhinal cortex thickness across the human lifespan.  _J of Neuroimaging_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26565394)
-
-Talissa A. Altes, John P. Mugler III, Kai Ruppert, __Nicholas J. Tustison__, Joanne Gersbach, Sylvia Szentpetery, Craig H. Meyer, Eduard E. de Lange, and W. Gerald Teague.  Clinical Correlates of Lung Ventilation in Asthmatic Children.  _J Allergy Clin Immun_, Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26521043) 
+Genevera I Allen, Nicola Amoroso, Catalina Anghel, Venkat Balagurusamy, Christopher J Bare, Derek Beaton, Roberto Bellotti, David A Bennett, Kevin Boehme, Paul C Boutros, Laura Caberlotto, Cristian Caloian, Frederick Campbell, Elias Chaibub Neto, Yu- Chuan Chang, Beibei Chen, Chien-Yu Chen, Ting-Ying Chien, Tim Clark, Sudeshna Das, Christos Davatzikos, Jieyao Deng, Donna Dillenberger, Richard JB Dobson, Qilin Dong, Jimit Doshi, Denise Duma, Rosangela Errico, Guray Erus, Evan Everett, David W Fardo, Stephen H Friend, Holger Fröhlich, Jessica Gan, Peter St George-Hyslop, Satrajit S Ghosh, Enrico Glaab, Robert C Green, Yuanfang Guan, Ming-Yi Hong, Chao Huang, Jinseub Hwang, Joseph Ibrahim, Paolo Inglese, Qijia Jiang, Yuriko Katsumata, John SK Kauwe, Arno Klein, Dehan Kong, Roland Krause, Emilie Lalonde, Mario Lauria, Eunjee Lee, Xihui Lin, Zhandong Liu, Julie Livingstone, Benjamin A Logsdon, Simon Lovestone, Anandhi Lyappan, Michelle Ma, Ashutosh Malhotra, Lara M Mangravite, Taylor J Maxwell, Emily Merrill, John Nagorski, Aishwarya Namasivayam, Manjari Narayan, Mufassra Naz, Stephen J Newhouse, Thea C Norman, Ramil N Nurtdinov, Yen-Jen Oyang, Yudi Pawitan, Shengwen Peng, Mette A Peters, Stephen R Piccolo, Paurush Praveen, Corrado Priami, Veronica Y Sabelnykova, Philipp Senger, Xia Shen, Andrew Simmons, Aristeidis Sotiras, Gustavo Stolovitzky, Sabina Tangaro, Andrea Tateo, Yi-An Tung, __Nicholas J Tustison__, Erdem Varol, George Vradenburg, Michael W Weiner, Guanghua Xiao, Lei Xie, Yang Xie, Jia Xu, Hojin Yang, Xiaowei Zhan, Yunyun Zhou, Fan Zhu, Hongtu Zhu, Shanfeng Zhu, Alzheimer's Disease Neuroimaging Initiative.  Crowdsourced estimation of cognitive decline and resilience in Alzheimer's disease.  _Alzheimers Dement_,  Accepted. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/27079753)
 
 __Nicholas J. Tustison__, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar anatomy in proton MRI.  _Magn Reson Med_, Accepted.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26222827)
+
+Khader M. Hasan, Benson Mwangi, Bo Cao, Zafer Keser, __Nicholas J. Tustison__, Peter Kochunov, Richard E. Frye, Mirjana Savatic, Jair Soares.  Entorhinal cortex thickness across the human lifespan.  _J of Neuroimaging_, 26(3):278-82, May 2016. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26565394)
+
+Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, 37(4):1405-21, Apr 2016.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26756101)
+
+Talissa A. Altes, John P. Mugler III, Kai Ruppert, __Nicholas J. Tustison__, Joanne Gersbach, Sylvia Szentpetery, Craig H. Meyer, Eduard E. de Lange, and W. Gerald Teague.  Clinical Correlates of Lung Ventilation in Asthmatic Children.  _J Allergy Clin Immun_, 137(3):789-796, Mar 2016. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26521043) 
 
 **2015**
 
