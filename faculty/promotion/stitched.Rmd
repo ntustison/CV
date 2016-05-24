@@ -1,0 +1,169 @@
+---
+output:
+  pdf_document:
+    fig_caption: true
+    latex_engine: xelatex
+    keep_tex: yes
+header-includes:
+   - \usepackage{booktabs}
+   - \usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
+   - \linespread{1.0}
+   - \usepackage[compact]{titlesec}
+   - \usepackage{enumitem}
+   - \usepackage{tikz}
+   - \def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+   - \setlist{nolistsep}
+   - \titlespacing{\section}{2pt}{*0}{*0}
+   - \titlespacing{\subsection}{2pt}{*0}{*0}
+   - \titlespacing{\subsubsection}{2pt}{*0}{*0}
+   - \setlength{\parskip}{3pt}
+bibliography:
+csl:
+fontsize: 12pt
+mainfont: Georgia
+geometry: margin=1.0in
+---
+
+<!--
+   - \setlength{\parskip}{3pt}
+   - \setlength{\topsep}{0pt}
+   - \setlength{\partopsep}{0pt}
+   - \setlength{\itemsep}{0pt}
+   - \setlength{\floatsep}{0pt}
+   - \setlength{\intextsep}{2pt}
+   - \setlength{\abovecaptionskip}{2pt}
+   - \setlength{\belowcaptionskip}{0pt}
+-->
+
+
+<style type="text/css">
+body,
+code.bash{
+  font-size: 8px;
+}
+pre {
+  font-size: 8px
+}
+</style>
+
+<!-- https://grants.nih.gov/grants/ElectronicReceipt/pdf_guidelines.htm -->
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set( cache=TRUE )
+```
+
+\pagenumbering{gobble}
+
+# Personal Statement
+_Nicholas J. Tustison, DSc_
+
+<!--
+The Personal Statement is your voice during the Promotion Process. During
+you Annual Review, build and add to your Personal Statement. Ask a trusted
+friend or advisor to read your Personal Statement for clarity, appeal and
+distinction.
+
+The Personal Statement is an “I” document. It is all about conveying
+(in your words) what your contributions and successes have been.
+
+* Take credit for what you have done.
+* Explain your role in collaborations.
+* Highlight important activities, such as, service on an important committee.
+* Demonstrate your growth.
+* Talk about your science/productivity, including recognitions; NOTE:
+  the collegiate promotion committee, while smart people, are not experts
+  in you field. Explain your science/productivity.
+* Explain issues, problems or challenges, and what actions you took to address concerns.
+
+Areas of Your Personal Statement
+* Teaching
+    * Demonstrate how learners improved: higher scores, better residency match, etc.
+    * Highlight unique (created/enhanced) teaching programs or materials.
+    * Review teaching evaluations; address issues found in evaluations
+* Scholarship
+    * Describe what you do and your expertise; show why your work is important.
+    * Share one or two of your best articles and the impact of your science/productivity.
+    * Tenure/Research Track – being a primary investigator is good; collaborating
+      in a group is good and be sure your area of contribution & recognition is decided
+      early on; highlight your contribution to the team; talk about grants received &
+      your role in obtaining the grants; book chapters or reviews do not help.
+    * Clinical Track – share your contributions/enhancements/creations to curriculum,
+      bedside care, clinical care; if involved in clinical trials, tell your role; to
+      assess impact, measure before/after or evaluate the impact; write an article for
+      publication.
+* Service
+    * Broad category.
+    * Service is academic in nature such as, serving on committees, interviewing.
+      fellows/residents, being on department reviews, being a journal reviewer, etc.
+    * Be astute and strategic in accepting service requests; seek out Service that
+      will be a spring board; learn to say no; focus mostly on your teaching and
+      science/scholarship/scholarly productivity.
+    * Service in this area does not mean clinical care.
+-->
+
+
+
+I am a data scientist specializing in medical image analysis with technical expertise
+and international recognition in the development of high-quality, open-source software
+with targeted application in clinical areas such as neuro, pulmonary, and cardiac imaging
+research.  Ever since returning to the University of Virginia in 2010, I have been the
+lead technical scientist for various projects in multiple departments across multiple
+institutions charged with the development and deployment of computational techniques
+for generating salient imaging biomarkers in small- and large-scale studies.
+
+Following my undergraduate studies in physics and computer science, I completed master's
+and doctoral degrees in biomedical engineering from the University of Virginia and
+Washington University in Saint Louis, respectively, where my work included the
+development of mathematical models for quantification of lung and cardiac imaging
+biomarkers.  Following my graduate training, I continued my post-graduate
+education at the University of Pennsylvania under the direction of Dr. James C. Gee,
+a technical pioneer in the area of medical image registration.  While at the University
+of Pennsylvania, my colleague, Dr. Brian B. Avants, and I began development of the
+Advanced Normalization Tools (ANTs)---a software package which has since become
+one of the most widely used toolkits in the field for imaging processing  and analysis.  
+Not only is it used
+by many premier academic research groups, including widespread use in various
+departments at the University of Virginia, but, due to its open-source nature,
+companies such as General Electric (G.E.) and International Business Machines (I.B.M.)
+also employ ANTs.  These contributions to the field complement my many other
+software and algorithmic inclusions in the Insight Toolkit ---the largest open-source,
+medical image analysis software package in the world with origins linked to the
+Visible Human Project and supported by the National Library of Medicine of the National
+Institutes of Health with significant investments on the part of both industrial and
+academic institutions.  In fact, I am one of the top contributors in terms of new
+software modules having recently been part of the team which completely refactored
+the image registration framework.
+
+Since all too often in our field "papers are simply advertisements for the science,"
+my colleagues and I have participated in several unbiased competitions in order to
+properly evaluate our data science approaches.  For example, the ANTs-based Symmetric
+Normalization (SyN) image registration framework was deemed independently to be the
+top-performing algorithm for both brain and lung image normalization in addition to being
+the only algorithm that not only is publicly available but available for uses beyond
+strictly research.  In 2013 my colleagues and I won an international competition
+in Nagoya, Japan for automatically segmenting brain tumor tissue from multi-modal MRI.
+The machine learning technique that we developed for the competition has since been used
+by several other groups in addition to our generation of new technology for segmenting cohorts
+with white matter lesions associated with multiple sclerosis and white matter hyperintensities
+associated with traumatic brain injury.  In 2014, we won the best paper award for
+cardiac motion correction.  Most recently, in 2015, my colleagues and I published
+and provided to the public a complete pipeline for extracting cortical thickness
+measures in the brain from MRI which was shown to outperform the only other such
+available approach, viz., the well-known FreeSurfer package of Harvard University.  Such
+measures are extremely salient in identifying neurodegeneration in diseases such
+as Alzheimers and other conditions which affect brain development.
+
+Given my role in the development of such widely used data science approaches, I have given numerous
+tutorials at various conferences and to such recognized groups as the Laboratory of
+NeuroImaging (LONI) at the University of Southern California and the Montreal
+Neurological Institute associated with McGill University.  This has led to
+an expansion of my circle of collaborators beyond the University of Virginia to
+include a joint appointment at the University of California, Irvine and a pending
+appointment at the University of Pennsylvania.
+
+I am honored to be affiliated with the University of Virginia and feel extremely
+fortunate to work with its high quality faculty in exploring interesting research
+questions.  I look forward to continuing my career path at UVa where I plan to continue
+focusing on innovations related to computational medical image analysis and offering
+crucial expertise in for imaging data science.
