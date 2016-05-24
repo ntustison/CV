@@ -7,7 +7,7 @@ output:
 header-includes:
    - \usepackage{booktabs}
    - \usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
-   - \linespread{1.0}
+   - \linespread{1.1}
    - \usepackage[compact]{titlesec}
    - \usepackage{enumitem}
    - \usepackage{tikz}
@@ -16,7 +16,7 @@ header-includes:
    - \titlespacing{\section}{2pt}{*0}{*0}
    - \titlespacing{\subsection}{2pt}{*0}{*0}
    - \titlespacing{\subsubsection}{2pt}{*0}{*0}
-   - \setlength{\parskip}{3pt}
+   - \setlength{\parskip}{6pt}
 bibliography:
 csl:
 fontsize: 12pt

@@ -65,9 +65,8 @@ education at the University of Pennsylvania under the direction of Dr. James C. 
 a technical pioneer in the area of medical image registration.  While at the University
 of Pennsylvania, my colleague, Dr. Brian B. Avants, and I began development of the
 Advanced Normalization Tools (ANTs)---a software package which has since become
-one of the most widely used toolkits in the field for imaging processing  and analysis.  
-Not only is it used
-by many premier academic research groups, including widespread use in various
+one of the most widely used toolkits in the field for imaging processing  and analysis.
+Not only is it used by many premier academic research groups, including widespread use in various
 departments at the University of Virginia, but, due to its open-source nature,
 companies such as General Electric (G.E.) and International Business Machines (I.B.M.)
 also employ ANTs.  These contributions to the field complement my many other
