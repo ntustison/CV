@@ -105,12 +105,13 @@ Areas of Your Personal Statement
 
 
 I am a data scientist specializing in medical image analysis with technical expertise
-and international recognition in the development of high-quality, open-source software
-with targeted application in clinical areas such as neuro, pulmonary, and cardiac imaging
-research.  Ever since returning to the University of Virginia in 2010, I have been the
+and international recognition in the development of high-quality, open-source
+computational strategies for clinically oriented research.  Ever since returning to
+the University of Virginia in 2010 as research
+faculty in the Department of Radiology and Medical Imaging, I have been the
 lead technical scientist for various projects in multiple departments across multiple
 institutions charged with the development and deployment of computational techniques
-for generating salient imaging biomarkers in small- and large-scale studies.
+for small-, medium-, and large-scale studies.
 
 Following my undergraduate studies in physics and computer science, I completed master's
 and doctoral degrees in biomedical engineering from the University of Virginia and
@@ -121,35 +122,35 @@ education at the University of Pennsylvania under the direction of Dr. James C. 
 a technical pioneer in the area of medical image registration.  While at the University
 of Pennsylvania, my colleague, Dr. Brian B. Avants, and I began development of the
 Advanced Normalization Tools (ANTs)---a software package which has since become
-one of the most widely used toolkits in the field for imaging processing  and analysis.
-Not only is it used by many premier academic research groups, including widespread use in various
-departments at the University of Virginia, but, due to its open-source nature,
+one of the most widely used toolkits in the field for imaging data munging and analysis.
+Not only is it used by many premier academic research groups, including those
+at the University of Virginia, but, due to its open-source nature,
 companies such as General Electric (G.E.) and International Business Machines (I.B.M.)
 also employ ANTs.  These contributions to the field complement my many other
 software and algorithmic inclusions in the Insight Toolkit ---the largest open-source,
 medical image analysis software package in the world with origins linked to the
-Visible Human Project and supported by the National Library of Medicine of the National
-Institutes of Health with significant investments on the part of both industrial and
-academic institutions.  In fact, I am one of the top contributors in terms of new
+Visible Human Project.  In fact, I am one of the top contributors in terms of new
 software modules having recently been part of the team which completely refactored
 the image registration framework.
 
-Since all too often in our field "papers are simply advertisements for the science,"
+<!--
+ and supported by the National Library of Medicine of the National
+Institutes of Health with significant investments on the part of both industrial and
+academic institutions.
+-->
+
+Since all too often "papers are simply advertisements for the science,"
 my colleagues and I have participated in several unbiased competitions in order to
-properly evaluate our data science approaches.  For example, the ANTs-based Symmetric
-Normalization (SyN) image registration framework was deemed independently to be the
-top-performing algorithm for both brain and lung image normalization in addition to being
-the only algorithm that not only is publicly available but available for uses beyond
-strictly research.  In 2013 my colleagues and I won an international competition
+properly evaluate and compare our work.  For example, the ANTs-based Symmetric
+Normalization (SyN) image registration framework has been deemed independently to be
+a top-performing algorithm for brain, lung, and cardiac image normalization (in
+ addition to being one of the only algorithms that can be labeled true "open-source").
+In 2013 my colleagues and I won an international competition
 in Nagoya, Japan for automatically segmenting brain tumor tissue from multi-modal MRI.
 The machine learning technique that we developed for the competition has since been used
-by several other groups in addition to our generation of new technology for segmenting cohorts
-with white matter lesions associated with multiple sclerosis and white matter hyperintensities
-associated with traumatic brain injury.  In 2014, we won the best paper award for
-cardiac motion correction.  Most recently, in 2015, my colleagues and I published
-and provided to the public a complete pipeline for extracting cortical thickness
-measures in the brain from MRI which was shown to outperform the only other such
-available approach, viz., the well-known FreeSurfer package of Harvard University.  Such
+by several other groups.  Most recently, in 2015, my colleagues and I developed a complete
+pipeline for extracting cortical thickness in the brain which has since been adopted by several
+research groups.  These
 measures are extremely salient in identifying neurodegeneration in diseases such
 as Alzheimers and other conditions which affect brain development.
 
@@ -163,6 +164,6 @@ appointment at the University of Pennsylvania.
 
 I am honored to be affiliated with the University of Virginia and feel extremely
 fortunate to work with its high quality faculty in exploring interesting research
-questions.  I look forward to continuing my career path at UVa where I plan to continue
+questions.  I look forward to pursuing my career path at UVa where I plan to continue
 focusing on innovations related to computational medical image analysis and offering
 crucial expertise in for imaging data science.
