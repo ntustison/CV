@@ -1,0 +1,182 @@
+\documentclass[12pt,]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+    \setmainfont{Georgia}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1.0in]{geometry}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{}
+  \pretitle{\vspace{\droptitle}}
+  \posttitle{}
+  \author{}
+  \preauthor{}\postauthor{}
+  \date{}
+  \predate{}\postdate{}
+
+\usepackage{booktabs}
+\usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
+\linespread{1.1}
+\usepackage[compact]{titlesec}
+\usepackage{enumitem}
+\usepackage{tikz}
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+\setlist{nolistsep}
+\titlespacing{\section}{2pt}{*0}{*0}
+\titlespacing{\subsection}{2pt}{*0}{*0}
+\titlespacing{\subsubsection}{2pt}{*0}{*0}
+\setlength{\parskip}{6pt}
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\begin{document}
+\maketitle
+
+\pagenumbering{gobble}
+
+\section{Personal Statement}\label{personal-statement}
+
+\emph{Nicholas J. Tustison, DSc}
+
+I am a data scientist specializing in medical image analysis with
+technical expertise and international recognition in the development of
+high-quality, open-source software with targeted application in clinical
+areas such as neuro, pulmonary, and cardiac imaging research. Ever since
+returning to the University of Virginia in 2010, I have been the lead
+technical scientist for various projects in multiple departments across
+multiple institutions charged with the development and deployment of
+computational techniques for generating salient imaging biomarkers in
+small- and large-scale studies.
+
+Following my undergraduate studies in physics and computer science, I
+completed master's and doctoral degrees in biomedical engineering from
+the University of Virginia and Washington University in Saint Louis,
+respectively, where my work included the development of mathematical
+models for quantification of lung and cardiac imaging biomarkers.
+Following my graduate training, I continued my post-graduate education
+at the University of Pennsylvania under the direction of Dr.~James C.
+Gee, a technical pioneer in the area of medical image registration.
+While at the University of Pennsylvania, my colleague, Dr.~Brian B.
+Avants, and I began development of the Advanced Normalization Tools
+(ANTs)---a software package which has since become one of the most
+widely used toolkits in the field for imaging processing and analysis.
+Not only is it used by many premier academic research groups, including
+widespread use in various departments at the University of Virginia,
+but, due to its open-source nature, companies such as General Electric
+(G.E.) and International Business Machines (I.B.M.) also employ ANTs.
+These contributions to the field complement my many other software and
+algorithmic inclusions in the Insight Toolkit ---the largest
+open-source, medical image analysis software package in the world with
+origins linked to the Visible Human Project and supported by the
+National Library of Medicine of the National Institutes of Health with
+significant investments on the part of both industrial and academic
+institutions. In fact, I am one of the top contributors in terms of new
+software modules having recently been part of the team which completely
+refactored the image registration framework.
+
+Since all too often in our field ``papers are simply advertisements for
+the science,'' my colleagues and I have participated in several unbiased
+competitions in order to properly evaluate our data science approaches.
+For example, the ANTs-based Symmetric Normalization (SyN) image
+registration framework was deemed independently to be the top-performing
+algorithm for both brain and lung image normalization in addition to
+being the only algorithm that not only is publicly available but
+available for uses beyond strictly research. In 2013 my colleagues and I
+won an international competition in Nagoya, Japan for automatically
+segmenting brain tumor tissue from multi-modal MRI. The machine learning
+technique that we developed for the competition has since been used by
+several other groups in addition to our generation of new technology for
+segmenting cohorts with white matter lesions associated with multiple
+sclerosis and white matter hyperintensities associated with traumatic
+brain injury. In 2014, we won the best paper award for cardiac motion
+correction. Most recently, in 2015, my colleagues and I published and
+provided to the public a complete pipeline for extracting cortical
+thickness measures in the brain from MRI which was shown to outperform
+the only other such available approach, viz., the well-known FreeSurfer
+package of Harvard University. Such measures are extremely salient in
+identifying neurodegeneration in diseases such as Alzheimers and other
+conditions which affect brain development.
+
+Given my role in the development of such widely used data science
+approaches, I have given numerous tutorials at various conferences and
+to such recognized groups as the Laboratory of NeuroImaging (LONI) at
+the University of Southern California and the Montreal Neurological
+Institute associated with McGill University. This has led to an
+expansion of my circle of collaborators beyond the University of
+Virginia to include a joint appointment at the University of California,
+Irvine and a pending appointment at the University of Pennsylvania.
+
+I am honored to be affiliated with the University of Virginia and feel
+extremely fortunate to work with its high quality faculty in exploring
+interesting research questions. I look forward to continuing my career
+path at UVa where I plan to continue focusing on innovations related to
+computational medical image analysis and offering crucial expertise in
+for imaging data science.
+
+\end{document}
