@@ -1,0 +1,162 @@
+\documentclass[12pt,]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+    \setmainfont{Georgia}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1.0in]{geometry}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{}
+  \pretitle{\vspace{\droptitle}}
+  \posttitle{}
+  \author{}
+  \preauthor{}\postauthor{}
+  \date{}
+  \predate{}\postdate{}
+
+\usepackage{booktabs}
+\usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
+\linespread{1.05}
+\usepackage[compact]{titlesec}
+\usepackage{enumitem}
+\usepackage{tikz}
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+\setlist{nolistsep}
+\titlespacing{\section}{2pt}{*0}{*0}
+\titlespacing{\subsection}{2pt}{*0}{*0}
+\titlespacing{\subsubsection}{2pt}{*0}{*0}
+\setlength{\parskip}{6pt}
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\begin{document}
+\maketitle
+
+\pagenumbering{gobble}
+
+\section{Personal Statement}\label{personal-statement}
+
+\emph{Nicholas J. Tustison, DSc}
+
+I am a data scientist specializing in medical image analysis with
+technical expertise and international recognition in the development of
+high-quality, open-source computational strategies for clinically
+oriented research. Ever since returning to the University of Virginia in
+2010, I have been the lead technical scientist for multiple projects
+charged with the development and deployment of computational techniques
+for image-oriented studies.
+
+Following my undergraduate studies in physics and computer science, I
+completed master's and doctoral degrees in biomedical engineering from
+the University of Virginia and Washington University in Saint Louis,
+respectively, where my work included the development of mathematical
+models for quantification of lung and cardiac imaging biomarkers. I
+continued my post-graduate education at the University of Pennsylvania
+under the direction of Dr.~James C. Gee, a pioneer in the area of
+medical image registration. While at the University of Pennsylvania, my
+colleague, Dr.~Brian B. Avants, and I began development of the Advanced
+Normalization Tools (ANTs)---a software package which has become one of
+the most widely used toolkits in the field for imaging data munging and
+analysis. These contributions complement my many other software and
+algorithmic inclusions in the Insight Toolkit ---the largest
+open-source, medical image analysis software package in the world with
+origins linked to the Visible Human Project.
+
+Since all too often ``papers are simply advertisements for the
+science,'' my colleagues and I have participated in several unbiased
+competitions in order to properly evaluate our work. For example, the
+ANTs-based Symmetric Normalization (SyN) image registration framework
+has been independently deemed to be a top-performing algorithm for
+brain, lung, and cardiac image normalization (in addition to being one
+of the only algorithms that can be labeled as true ``open-source''). In
+2013 my colleagues and I won an international competition in Nagoya,
+Japan for automatically segmenting brain tumors from multi-modal MRI.
+Most recently, in 2015, my colleagues and I developed a complete
+pipeline for extracting cortical thickness in the brain which has since
+been adopted by several research groups. These measures are extremely
+salient in identifying neurodegeneration in diseases such as Alzheimers
+and other conditions which affect brain development.
+
+Given my role in the development of such widely used data science
+approaches, I have given numerous tutorials at various conferences and
+to such recognized groups as the Laboratory of NeuroImaging (LONI) at
+the University of Southern California and the Montreal Neurological
+Institute associated with McGill University. This has led to an
+expansion of my circle of collaborators beyond the University of
+Virginia to include a joint appointment at the University of California,
+Irvine and a pending appointment at the University of Pennsylvania.
+
+I am honored to be affiliated with the University of Virginia and feel
+extremely fortunate to work with its high quality faculty in exploring
+interesting research questions. I look forward to pursuing my career
+path at UVa where I plan to continue focusing on innovations related to
+computational medical image analysis and offering crucial expertise in
+for imaging data science.
+
+\end{document}

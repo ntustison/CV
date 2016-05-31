@@ -7,7 +7,7 @@ output:
 header-includes:
    - \usepackage{booktabs}
    - \usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
-   - \linespread{1.1}
+   - \linespread{1.05}
    - \usepackage[compact]{titlesec}
    - \usepackage{enumitem}
    - \usepackage{tikz}

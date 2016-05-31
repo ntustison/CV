@@ -23,7 +23,7 @@ formatFile <- "format.Rmd"
 cat( '\n Pandoc rendering', stitchedFile, '\n' )
 render( stitchedFile, output_format = "all" )
 
-soloFiles <- c( "personalStatement.Rmd",
+soloFiles <- c( "personalStatementSinglePage.Rmd",
                  "referees.Rmd"
               )
 for( i in 1:length( soloFiles ) )

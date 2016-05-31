@@ -1,0 +1,155 @@
+---
+output:
+  pdf_document:
+    fig_caption: true
+    latex_engine: xelatex
+    keep_tex: yes
+header-includes:
+   - \usepackage{booktabs}
+   - \usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
+   - \linespread{1.05}
+   - \usepackage[compact]{titlesec}
+   - \usepackage{enumitem}
+   - \usepackage{tikz}
+   - \def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+   - \setlist{nolistsep}
+   - \titlespacing{\section}{2pt}{*0}{*0}
+   - \titlespacing{\subsection}{2pt}{*0}{*0}
+   - \titlespacing{\subsubsection}{2pt}{*0}{*0}
+   - \setlength{\parskip}{6pt}
+bibliography:
+csl:
+fontsize: 12pt
+mainfont: Georgia
+geometry: margin=1.0in
+---
+
+<!--
+   - \setlength{\parskip}{3pt}
+   - \setlength{\topsep}{0pt}
+   - \setlength{\partopsep}{0pt}
+   - \setlength{\itemsep}{0pt}
+   - \setlength{\floatsep}{0pt}
+   - \setlength{\intextsep}{2pt}
+   - \setlength{\abovecaptionskip}{2pt}
+   - \setlength{\belowcaptionskip}{0pt}
+-->
+
+
+<style type="text/css">
+body,
+code.bash{
+  font-size: 8px;
+}
+pre {
+  font-size: 8px
+}
+</style>
+
+<!-- https://grants.nih.gov/grants/ElectronicReceipt/pdf_guidelines.htm -->
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set( cache=TRUE )
+```
+
+\pagenumbering{gobble}
+
+# Personal Statement
+_Nicholas J. Tustison, DSc_
+
+<!--
+The Personal Statement is your voice during the Promotion Process. During
+you Annual Review, build and add to your Personal Statement. Ask a trusted
+friend or advisor to read your Personal Statement for clarity, appeal and
+distinction.
+
+The Personal Statement is an “I” document. It is all about conveying
+(in your words) what your contributions and successes have been.
+
+* Take credit for what you have done.
+* Explain your role in collaborations.
+* Highlight important activities, such as, service on an important committee.
+* Demonstrate your growth.
+* Talk about your science/productivity, including recognitions; NOTE:
+  the collegiate promotion committee, while smart people, are not experts
+  in you field. Explain your science/productivity.
+* Explain issues, problems or challenges, and what actions you took to address concerns.
+
+Areas of Your Personal Statement
+* Teaching
+    * Demonstrate how learners improved: higher scores, better residency match, etc.
+    * Highlight unique (created/enhanced) teaching programs or materials.
+    * Review teaching evaluations; address issues found in evaluations
+* Scholarship
+    * Describe what you do and your expertise; show why your work is important.
+    * Share one or two of your best articles and the impact of your science/productivity.
+    * Tenure/Research Track – being a primary investigator is good; collaborating
+      in a group is good and be sure your area of contribution & recognition is decided
+      early on; highlight your contribution to the team; talk about grants received &
+      your role in obtaining the grants; book chapters or reviews do not help.
+    * Clinical Track – share your contributions/enhancements/creations to curriculum,
+      bedside care, clinical care; if involved in clinical trials, tell your role; to
+      assess impact, measure before/after or evaluate the impact; write an article for
+      publication.
+* Service
+    * Broad category.
+    * Service is academic in nature such as, serving on committees, interviewing.
+      fellows/residents, being on department reviews, being a journal reviewer, etc.
+    * Be astute and strategic in accepting service requests; seek out Service that
+      will be a spring board; learn to say no; focus mostly on your teaching and
+      science/scholarship/scholarly productivity.
+    * Service in this area does not mean clinical care.
+-->
+
+
+
+I am a data scientist specializing in medical image analysis with technical expertise
+and international recognition in the development of high-quality, open-source
+computational strategies for clinically oriented research.  Ever since returning to
+the University of Virginia in 2010, I have been the lead technical scientist for
+multiple projects charged with the development and deployment of computational techniques
+for image-oriented studies.
+
+Following my undergraduate studies in physics and computer science, I completed master's
+and doctoral degrees in biomedical engineering from the University of Virginia and
+Washington University in Saint Louis, respectively, where my work included the
+development of mathematical models for quantification of lung and cardiac imaging
+biomarkers.  I continued my post-graduate
+education at the University of Pennsylvania under the direction of Dr. James C. Gee,
+a pioneer in the area of medical image registration.  While at the University
+of Pennsylvania, my colleague, Dr. Brian B. Avants, and I began development of the
+Advanced Normalization Tools (ANTs)---a software package which has become
+one of the most widely used toolkits in the field for imaging data munging and analysis.
+These contributions complement my many other
+software and algorithmic inclusions in the Insight Toolkit ---the largest open-source,
+medical image analysis software package in the world with origins linked to the
+Visible Human Project.  
+
+Since all too often "papers are simply advertisements for the science,"
+my colleagues and I have participated in several unbiased competitions in order to
+properly evaluate our work.  For example, the ANTs-based Symmetric
+Normalization (SyN) image registration framework has been independently deemed to be
+a top-performing algorithm for brain, lung, and cardiac image normalization (in
+ addition to being one of the only algorithms that can be labeled as true "open-source").
+In 2013 my colleagues and I won an international competition
+in Nagoya, Japan for automatically segmenting brain tumors from multi-modal MRI.
+Most recently, in 2015, my colleagues and I developed a complete
+pipeline for extracting cortical thickness in the brain which has since been adopted by several
+research groups.  These
+measures are extremely salient in identifying neurodegeneration in diseases such
+as Alzheimers and other conditions which affect brain development.
+
+Given my role in the development of such widely used data science approaches, I have given numerous
+tutorials at various conferences and to such recognized groups as the Laboratory of
+NeuroImaging (LONI) at the University of Southern California and the Montreal
+Neurological Institute associated with McGill University.  This has led to
+an expansion of my circle of collaborators beyond the University of Virginia to
+include a joint appointment at the University of California, Irvine and a pending
+appointment at the University of Pennsylvania.
+
+I am honored to be affiliated with the University of Virginia and feel extremely
+fortunate to work with its high quality faculty in exploring interesting research
+questions.  I look forward to pursuing my career path at UVa where I plan to continue
+focusing on innovations related to computational medical image analysis and offering
+crucial expertise in for imaging data science.
