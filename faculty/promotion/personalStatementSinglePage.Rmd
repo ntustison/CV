@@ -66,7 +66,7 @@ of Pennsylvania, my colleague, Dr. Brian B. Avants, and I began development of t
 Advanced Normalization Tools (ANTs)---a software package which has become
 one of the most widely used toolkits in the field for imaging data munging and analysis.
 These contributions complement my many other
-software and algorithmic inclusions in the Insight Toolkit ---the largest open-source,
+software and algorithmic inclusions in the Insight Toolkit---the largest open-source,
 medical image analysis software package in the world with origins linked to the
 Visible Human Project.  
 
@@ -86,8 +86,7 @@ as Alzheimers and other conditions which affect brain development.
 
 Given my role in the development of such widely used data science approaches, I have given numerous
 tutorials at various conferences and to such recognized groups as the Laboratory of
-NeuroImaging (LONI) at the University of Southern California and the Montreal
-Neurological Institute associated with McGill University.  This has led to
+NeuroImaging (LONI) at the University of Southern California.  This has led to
 an expansion of my circle of collaborators beyond the University of Virginia to
 include a joint appointment at the University of California, Irvine and a pending
 appointment at the University of Pennsylvania.
