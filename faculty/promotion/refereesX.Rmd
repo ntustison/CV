@@ -80,27 +80,28 @@ https://faculty.med.virginia.edu/facultyaffairs/files/2015/05/Referee-letter-cri
 * Samuel E. Gandy, Professor, The Mount Sinai Hospital, samuel.gandy@mssm.edu, 212-241-7076
 
 
+<!--
 # Possible independent referees (co-authors on competition papers)
-* Josien Pluim, Professor, Eindhoven University of Technology, j.pluim@tue.nl, +31 40 - 247 8853             (X - EMPIRE paper)
+-->
+
+# External referees
+
+* James C. Gee, Professor, University of Pennsylvania, gee@mail.med.upenn.edu, 215-746-6295
+* Amir A. Amini, Professor, University of Louisville, amir.amini@louisville.edu, (502) 852 4767
+* Talissa A. Altes, Professor, University of Missouri-Columbia, altest@health.missouri.edu, (573) 882-1026
+* Michael Yassa, Associate Professor, University of California, Irvine, myassa@uci.edu, (949) 824 1687
+* Paul Yushkevich, Associate Professor, University of Pennsylvania, pauly2@mail.med.upenn.edu, 215-746-6924
 * D. Louis Collins,  Professor, McGill University, louis.collins@mcgill.ca, 1 514–398–4227       (X - BRATS paper)
+* Josien Pluim, Professor, Eindhoven University of Technology, j.pluim@tue.nl, +31 40 - 247 8853             (X - EMPIRE paper)
 * Erin Bigler, Professor, Brigham Young University, erin_bigler@byu.edu, 801-422-4289                   (X - WMH paper)
-* Dawn Elliot, Professor, University of Delaware, delliott@udel.edu,                 (X - Jonathon's paper)
+* Dawn Elliot, Professor, University of Delaware, delliott@udel.edu,                 (X - disc paper)
 * Mauricio Reyes, Associate Professor, University of Bern, mauricio.reyes@istb.unibe.ch, (+41) 31 631 59 20 (X - BRATS paper)
 * Edward DiBella, Professor, University of Utah, edward.dibella@hsc.utah.edu, (801) 585-5543       (X - the group cardiac paper)
 * Alistair Young, Professor, University of Auckland, a.young@auckland.ac.nz, +64 9 923 6115     (X - the group cardiac paper)
-
-
-<!--
-# External referees
-
-* James C. Gee, Associate Professor, University of Pennsylvania, gee@mail.med.upenn.edu, 215-746-6295
-* Amir A. Amini, Professor, University of Louisville, amir.amini@louisville.edu, (502) 852 4767
-* Talissa A. Altes, Professor, University of Missouri-Columbia, altest@health.missouri.edu, (573) 882-1026
 * Khader Hassan, Associate Professor, University of Texas Health Science Center at Houston, (713) 500-7684
 
 # Internal referees
 
-* John P. Mugler, Professor, University of Virginia, jpm7r@virginia.edu
-* James R. Stone, Associate Professor, University of Virginia
-* Fred Epstein, Professor, University of Virginia
--->
+* John P. Mugler III, Professor, University of Virginia, jpm7r@virginia.edu
+* James R. Stone, Associate Professor, University of Virginia, jrs7r@virginia.edu, (434) 924-9401
+* Jonathon Kipnis, Professor, University of Virginia, kipnis@virginia.edu, 434.982.3858
