@@ -118,7 +118,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 **2016**
 
 Anthony J. Filiano, Yang Xu, __Nicholas J. Tustison__, Rachel L. Marsh, Wendy Baker, Igor Smirnov,
-Christopher C. Overall, Sachin P. Gadani, Stephen D. Turner, Zhiping Weng, Sayeda Najamussahar Peerzade, Hao Chen, Kevin S. Lee, Michael M. Scott, Mark P. Beenhakker, Vladimir Litvak, and Jonathan Kipnis.  Unexpected role of interferon-γ in regulating neuronal connectivity and social behaviour, _Nature_, Accepted.
+Christopher C. Overall, Sachin P. Gadani, Stephen D. Turner, Zhiping Weng, Sayeda Najamussahar Peerzade, Hao Chen, Kevin S. Lee, Michael M. Scott, Mark P. Beenhakker, Vladimir Litvak, and Jonathan Kipnis.  Unexpected role of interferon-γ in regulating neuronal connectivity and social behaviour, _Nature_, 2016. [Accepted](http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18626.html)
 
 __Nicholas J. Tustison__, Kun Qing, Chengbo Wang, Talissa A. Altes, John P. Mugler III.  Atlas-based estimation of lung and lobar anatomy in proton MRI.  _Magn Reson Med_, 76(1):315-20, Jul 2016.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26222827)
 
