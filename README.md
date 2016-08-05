@@ -117,7 +117,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2016**
 
-James R. Stone, Elisabeth A. Wilde, Brian A. Taylor, David F. Tate,  Harvey Levin,  Erin D. Bigler, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer,  Tracy Abildskov, Garrett M. Black4, Michael J. Lennon, Gerald E. York,  Rajan Agarwal,  Jorge DeVillasante, John L. Ritter, Peter B. Walker, Stephen T. Ahlers, and Nicholas J. Tustison.  Supervised learning technique for the automated identification of white matter hyperintensities in traumatic brain injury, _Brain Inury_, 2016, Accepted.
+James R. Stone, Elisabeth A. Wilde, Brian A. Taylor, David F. Tate,  Harvey Levin,  Erin D. Bigler, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer,  Tracy Abildskov, Garrett M. Black4, Michael J. Lennon, Gerald E. York,  Rajan Agarwal,  Jorge DeVillasante, John L. Ritter, Peter B. Walker, Stephen T. Ahlers, and __Nicholas J. Tustison__.  Supervised learning technique for the automated identification of white matter hyperintensities in traumatic brain injury, _Brain Inury_, 2016, Accepted.
 
 Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 2016. Accepted
 
