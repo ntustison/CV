@@ -1,0 +1,384 @@
+\documentclass[11pt,]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+    \setmainfont{Georgia}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1.0in]{geometry}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{}
+  \pretitle{\vspace{\droptitle}}
+  \posttitle{}
+  \author{}
+  \preauthor{}\postauthor{}
+  \date{}
+  \predate{}\postdate{}
+
+\usepackage{booktabs}
+\usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
+\linespread{1.25}
+\usepackage[compact]{titlesec}
+\usepackage{enumitem}
+\usepackage{tikz}
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+\setlist{nolistsep}
+\titlespacing{\section}{2pt}{*0}{*0}
+\titlespacing{\subsection}{2pt}{*0}{*0}
+\titlespacing{\subsubsection}{2pt}{*0}{*0}
+\setlength{\parskip}{6pt}
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\begin{document}
+\maketitle
+
+\pagenumbering{gobble}
+
+\section{Research Portfolio}\label{research-portfolio}
+
+\emph{Nicholas J. Tustison, DSc}
+
+\subsection{I. Research Statement}\label{i.-research-statement}
+
+As research support faculty in the Department of Radiology and Medical
+Imaging at UVa, my primary research focus is the development of high
+quality and robust software for processing of medical imaging data and
+corresponding analysis strategies for these data. To put it simply and
+generally, I am a data scientist who operates at the nexus of ``big
+data'', statistical science (including machine learning), and software
+development for gaining insight into human systems (specifically brain,
+lung, and heart).
+
+\subsubsection{A. Major Contributor to The Insight
+Toolkit}\label{a.-major-contributor-to-the-insight-toolkit}
+
+Addressing the deficiency of image processing tools for analyzing the
+Visible Human Project in 1999, the National Library of Medicine (NLM) of
+the National Institutes of Health (NIH) funded the Insight Toolkit (ITK)
+initiative bringing together such academic institutions as the
+University of Pennsylvania and the University of North Carolina, along
+with various industrial partners, such as GE Research. This effort
+resulted in the Insight Toolkit---a comprehensive, open-source suite of
+codified algorithms for medical image analysis. Development and
+expansion continues to the present and is heavily utilized by industry
+and academia worldwide and, due to its generalizability, has been
+adopted by the French space agency (CNES) for the processing of
+remote-sensing imagery.
+
+\textbf{Open source software contributions.} I have provided several key
+developments to the Insight Toolkit which is one of the primary venues
+for my software contributions and influence in the field. These
+contributions are listed in the accompanying CV in Section IX,
+Subsection C \emph{Open-Source Software Short Communications}. Starting
+from my first contribution in 2005 (\emph{\(N\)-D \(C^k\) B-Spline
+Scattered Data Approximation}), I have continued to provide open-source
+algorithmic implementations to the Insight Toolkit including my latest
+contribution made recently on August 27, 2016 (\emph{Two Luis Miguel
+fans walk into a bar in Nagoya ---\textgreater{} (yada, yada, yada)
+---\textgreater{} an ITK-implementation of a popular patch-based
+denoising filter}). Other important contributions include operations for
+image convolution (\emph{Image Kernel Convolution}), faux Colormapping
+(\emph{Meeting Andy Warhol Somewhere Over the Rainbow: RGB Colormapping
+and ITK}), and fundamental measures for evaluating segmentation results
+(\emph{Introducing Dice, Jaccard, and Other Label Overlap Measures To
+ITK}). These software classes have been downloaded over 67,413 times
+(average = 2,931 downloads).
+
+\textbf{N4 for MRI bias correction.} Of all these contributions, perhaps
+my most significant is a method for removing the low frequency
+inhomogeneity artifacts common to MR images as an important
+preprocessing step for MR image analysis. This algorithm is commonly
+referred to in the literature as ``N4'' or ``Nick's nonparametric
+nonuniform intensity normalization'' which is described in the following
+publication:
+
+\begin{quote}
+Tustison NJ, Avants BB, Cook PA, Egan A, Zheng Y, Yushkevich PA, and Gee
+JC. N4ITK: Improved N3 Bias Correction, \emph{IEEE Trans Med Imaging},
+29(6):1310--1320, June 2010. Cited 367 times; IF = 3.390; Rank 5 out of
+100 computer science, interdisciplinary applications, 12 out of 76
+biomedical engineering, 18 out of 249 electrical \& electronic
+engineering, 3 out of 24 imaging science \& photographic technology, 21
+out of 125 radiology, nuclear medicine \& medical imaging.
+\end{quote}
+
+It is a significant extension of the popular N3 algorithm\footnote{Sled
+  JG, Zijdenbos AP, and Evans AC. A nonparametric method for automatic
+  correction of intensity nonuniformity in MRI data. \emph{IEEE Trans
+  Med Imaging}, 17(1):87-97, Feb 1998.} (introduced in 1998 with
+currently \textasciitilde{}3,000 citations). Prior to the N4 formal
+publication, it was provided as open-source software to the ITK
+community:
+
+\begin{quote}
+Tustison NJ, Gee JC: N4ITK: Nick's N3 ITK Implementation for MRI Bias
+Field Correction, \emph{Insight Journal}, 2009,
+\url{http://hdl.handle.net/10380/3053}.
+\end{quote}
+
+where it has been downloaded over 10,000 times.
+
+\textbf{ITKv4 Image Registration Refactoring.} Image registration (or
+the alignment of corresponding features between two images) is a
+fundamental component in medical image processing and analysis. In 2011
+the NIH-NLM sponsored a large-scale funding effort to ``modernize'' the
+Insight Toolkit. One of the three major contracts was to provide modern
+image registration techniques requiring a complete refactoring of the
+existing image registration framework. This contract was awarded to a
+joint team consisting of myself and collaborators from the University of
+Pennsylvania (under the direction of Professor James C. Gee):
+
+\begin{quote}
+Sponsor: NIH-NLM\\
+Title: \emph{Fundamental Refactoring of Deformable Image Registration in
+ITK with Distributed Computing and GPU Acceleration}\\
+Role: Principle investigator of UVa subcontract\\
+Period: 7/1/2011 -- 6/30/2012
+\end{quote}
+
+This team provided several major image registration upgrades to the
+algorithmic toolkit where I wrote a significant portion of the actual
+software code. Not only did we implement current image registration
+technologies for inclusion but we also developed new and innovative
+techniques which were also included:
+
+\begin{quote}
+Tustison NJ and Avants BB. Explicit B-spline regularization in
+diffeomorphic image registration. \emph{Front Neuroinform}, 7:39, 2013.
+Cited 21 times; IF = 3.261; Rank 8 out of 57 mathematical \&
+computational biology, 105 out of 252 neurosciences.
+\end{quote}
+
+\begin{quote}
+Avants BB, Tustison NJ, Stauffer M, Song G, Wu B, and Gee JC. The
+Insight ToolKit Image Registration Framework. \emph{Front Neuroinform},
+8:44, 2014. Cited 29 times; IF = 3.261; Rank 8 out of 57 mathematical \&
+computational biology, 105 out of 252 neurosciences.
+\end{quote}
+
+\textbf{ITK-Lung: A Software Framework for Lung Image Processing and
+Analysis.} Consistent with our previous work, Professor James C. Gee and
+I recently submitted an NIH R01 grant for the development of ITK-Lung, a
+set of open-source software tools for CT, PET, MRI pulmonary image
+analysis based on the Insight ToolKit. Specifically, we plan to provide
+core algorithms for specific pulmonary image analysis tasks across
+multiple modalities, many of which I have included with previous
+publications. These basic tasks include intra- and inter-modal pulmonary
+image registration, template building for cross-sectional and
+longitudinal (i.e., respiratory cycle) analyses, functional and
+structural lung image segmentation, perfusion analysis, and computation
+of quantitative image indices as potential imaging biomarkers. These
+efforts would facilitate other NIH-sponsored projects which interface
+specific pulmonary algorithms (e.g., CT nodule detection) with clinical
+and research applications. Over the course of this 5-year project, the
+following UVa faculty and staff will be engaged:
+
+\begin{itemize}
+\tightlist
+\item
+  Nicholas J. Tustison, DSc, Principal Investigator (50\% / year)
+\item
+  Kun Qing, PhD, Co-investigator (15\% / year)
+\item
+  Y. Michael Shim, MD, Co-investigator (2\% / year)
+\item
+  W. Gerald Teague, MD, Co-investigator (2\% / year)
+\end{itemize}
+
+\subsubsection{B. Co-Founder and Developer of the Advanced Normalization
+Tools
+(ANTs)}\label{b.-co-founder-and-developer-of-the-advanced-normalization-tools-ants}
+
+In the late 2000s my longtime colleague, Dr.~Brian Avants, and I
+co-founded the Advanced Normalization Tools (ANTs). ANTs is popularly
+considered a state-of-the-art medical image registration and
+segmentation toolkit based on ITK. It is used by multiple academic
+institutions, research facilities (e.g., the Allen Brain Institute, the
+Montreal Neurological Institute, the Laboratory of Neuroimaging at the
+University of Southern California), and industry leaders (e.g., IBM
+Watson, GE Research). In addition to providing well-performing basic
+processing components, we have also engineered advanced pipelines for
+obtaining key biomarkers for specific applications. For example,
+measuring the thickness of the cortical gray matter of the brain from
+MRI has long been used for assessing various neuropathologies and normal
+longitudinal changes in the brain. For a long time, the only publicly
+available resource for performing this type of measurement was a
+software program called ``FreeSurfer'' which is developed and made
+available from Mass General Hospital of Harvard University. Recently,
+however, I (along with several colleagues) created an ANTs-based
+pipeline which outperformed FreeSurfer on a large, publicly available
+data set. This work is described in
+
+\begin{quote}
+Tustison NJ, Cook PA, Klein A, Song G, Das SR, Duda JT, Kandel BM, van
+Strien N, Stone JR, Gee JC, and Avants BB. Large-Scale Evaluation of
+ANTs and FreeSurfer Cortical Thickness Measurements. \emph{NeuroImage},
+99:166-179, Oct 2014. Cited 46 times; IF = 6.357; Rank 1 out of 14
+neuroimaging, 24 out of 252 neurosciences, 3 out of 125 radiology,
+nuclear medicine \& medical imaging.
+\end{quote}
+
+All resulting quantities and corresponding scripts and analyses were
+made publicly available for other people to use. In fact, these
+measurements were used recently for investigating other hypotheses:
+
+\begin{quote}
+Hasan KM, Mwangi B, Cao B, Keser Z, Tustison NJ, Kochunov P, Frye RE,
+Savatic M, and Soares J. Entorhinal cortex thickness across the human
+lifespan. J of Neuroimaging, 26(3) :278-82, May 2016. Cited 0 times; IF
+= 1.734; Rank 128 out of 192 clinical neurology, 12 out of 14
+neuroimaging, and 65 out of 125 radiology, nuclear medicine \& medical
+imaging.
+\end{quote}
+
+\textbf{Competitions.} Over the years our ANTs-based tools have won
+several international competitions:
+
+\begin{itemize}
+\item
+  finished in the first rank in the Klein 2009 international brain
+  mapping competition,\footnote{Klein et al., Evaluation of 14 nonlinear
+    deformation algorithms applied to human brain MRI registration.
+    \emph{NeuroImage}, 46(3):786-802, Jul 2009.}
+\item
+  finished first overall in the EMPIRE10 international lung mapping
+  competition,\footnote{Murphy et al., Evaluation of registration
+    methods on thoracic CT: the EMPIRE10 challenge. \emph{IEEE Trans Med
+    Imaging}, 30(11):1901-20, Nov 2011.}
+\item
+  was the standard registration tool for the MICCAI 2013 segmentation
+  competitions,\footnote{\url{http://www.miccai2013.org}}
+\item
+  finished first in the BRATS 2013 challenge,\footnote{\url{http://martinos.org/qtim/miccai2013/}}
+  and
+\item
+  won the best paper award at the STACOM 2014 challenge.\footnote{\url{http://www.springer.com/us/book/9783319146775}}
+\end{itemize}
+
+We have provided these winning protocols to the public as open-source
+for continued development.
+
+\textbf{Tutorials and Other ANTs Informational Fora.} I have given
+several in-person workshops at the request of various research groups so
+that they can better understand the various algorithms and pipelines of
+the ANTs toolkit. These include the following:
+
+\begin{itemize}
+\item
+  ANTs workshop, MD Anderson, Houston, TX, USA. August 2016.
+\item
+  ANTs Workshop for the Chronic Effects of Neurotrauma Consortium
+  (CENC), Baylor College, Houston, TX, USA. October 2015.
+\item
+  SimpleITK tutorial, MICCAI, Munich, Germany. October 2015.
+\item
+  ANTs workshop, Laboratory of Neuroimaging, Marina Del Rey, USA. July
+  2015.
+\item
+  CREATE-MIA Summer Workshop, ANTs Workshop, Montreal, Canada. May 2015.
+\item
+  SPIE Medical Imaging Workshop, Open source tools for medical image
+  analysis, San Diego, USA. February 2012.
+\end{itemize}
+
+In addition to these workshops, I typically answer 3--4 ANTs inquiries
+per day originating from our Sourceforge or Github ANTs repositories.
+These inquiries range from instructions for specific programs to
+providing analysis guidelines for large-scale studies.
+
+\textbf{ANTsR}
+
+\subsubsection{C. Provide support for UVa
+faculty}\label{c.-provide-support-for-uva-faculty}
+
+\begin{itemize}
+\item
+  Tumor work with Max Wintermark
+\item
+  Hyperpolarized gas work
+\item
+  Cardiac work with Mike Salerno
+\item
+  fMRI processing for Jonathon Kipnis and Mark Beernhaker (also mention
+  pending grants)
+\end{itemize}
+
+\subsubsection{D. External
+collaborations}\label{d.-external-collaborations}
+
+\begin{itemize}
+\item
+  Work with Jim
+\item
+  Work with Martha
+\item
+  Work with Mike
+\end{itemize}
+
+\end{document}

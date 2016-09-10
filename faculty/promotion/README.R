@@ -20,11 +20,11 @@ formatFile <- "format.Rmd"
 #  system( cmd )
 #  }
 
-cat( '\n Pandoc rendering', stitchedFile, '\n' )
-render( stitchedFile, output_format = "all" )
+# cat( '\n Pandoc rendering', stitchedFile, '\n' )
+# render( stitchedFile, output_format = "all" )
 
-soloFiles <- c( "personalStatementSinglePage.Rmd",
-                 "referees.Rmd"
+soloFiles <- c(
+                "researchPortfolio.Rmd"
               )
 for( i in 1:length( soloFiles ) )
   {
