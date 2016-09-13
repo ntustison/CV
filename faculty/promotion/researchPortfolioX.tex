@@ -74,7 +74,7 @@
 
 \usepackage{booktabs}
 \usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
-\linespread{1.25}
+\linespread{1.1}
 \usepackage[compact]{titlesec}
 \usepackage{enumitem}
 \usepackage{tikz}
@@ -100,11 +100,9 @@
 
 \pagenumbering{gobble}
 
-\section{Research Portfolio}\label{research-portfolio}
+\section{Research Statement}\label{research-statement}
 
 \emph{Nicholas J. Tustison, DSc}
-
-\subsection{I. Research Statement}\label{i.-research-statement}
 
 As research support faculty in the Department of Radiology and Medical
 Imaging at UVa, my primary research focus is the development of high
@@ -115,8 +113,9 @@ data'', statistical science (including machine learning), and software
 development for gaining insight into human systems (specifically brain,
 lung, and heart).
 
-\subsubsection{A. Major Contributor to The Insight
-Toolkit}\label{a.-major-contributor-to-the-insight-toolkit}
+\subsection{I. Principal Developer and Contributor of The Insight
+Toolkit (National Library of Medicine of the National Institutes of
+Health)}\label{i.-principal-developer-and-contributor-of-the-insight-toolkit-national-library-of-medicine-of-the-national-institutes-of-health}
 
 Addressing the deficiency of image processing tools for analyzing the
 Visible Human Project in 1999, the National Library of Medicine (NLM) of
@@ -125,38 +124,43 @@ initiative bringing together such academic institutions as the
 University of Pennsylvania and the University of North Carolina, along
 with various industrial partners, such as GE Research. This effort
 resulted in the Insight Toolkit---a comprehensive, open-source suite of
-codified algorithms for medical image analysis. Development and
+implemented algorithms for medical image analysis. Development and
 expansion continues to the present and is heavily utilized by industry
 and academia worldwide and, due to its generalizability, has been
 adopted by the French space agency (CNES) for the processing of
 remote-sensing imagery.
 
-\textbf{Open source software contributions.} I have provided several key
-developments to the Insight Toolkit which is one of the primary venues
-for my software contributions and influence in the field. These
-contributions are listed in the accompanying CV in Section IX,
-Subsection C \emph{Open-Source Software Short Communications}. Starting
-from my first contribution in 2005 (\emph{\(N\)-D \(C^k\) B-Spline
-Scattered Data Approximation}), I have continued to provide open-source
-algorithmic implementations to the Insight Toolkit including my latest
-contribution made recently on August 27, 2016 (\emph{Two Luis Miguel
-fans walk into a bar in Nagoya ---\textgreater{} (yada, yada, yada)
----\textgreater{} an ITK-implementation of a popular patch-based
-denoising filter}). Other important contributions include operations for
-image convolution (\emph{Image Kernel Convolution}), faux Colormapping
-(\emph{Meeting Andy Warhol Somewhere Over the Rainbow: RGB Colormapping
-and ITK}), and fundamental measures for evaluating segmentation results
+\subsubsection{A. Major developer of open source software
+contributions}\label{a.-major-developer-of-open-source-software-contributions}
+
+I have provided several key developments to the Insight Toolkit which is
+one of the primary venues for my software contributions and influence in
+the field. These contributions are listed in the accompanying CV in
+Section IX, Subsection C \emph{Open-Source Software Short
+Communications}. Starting from my first contribution in 2005
+(\emph{\(N\)-D \(C^k\) B-Spline Scattered Data Approximation}), I have
+continued to provide open-source algorithmic implementations to the
+Insight Toolkit including my latest contribution made recently on August
+27, 2016 (\emph{Two Luis Miguel fans walk into a bar in Nagoya
+---\textgreater{} (yada, yada, yada) ---\textgreater{} an
+ITK-implementation of a popular patch-based denoising filter}). Other
+important contributions include operations for image convolution
+(\emph{Image Kernel Convolution}), faux Colormapping (\emph{Meeting Andy
+Warhol Somewhere Over the Rainbow: RGB Colormapping and ITK}), and
+fundamental measures for evaluating segmentation results
 (\emph{Introducing Dice, Jaccard, and Other Label Overlap Measures To
 ITK}). These software classes have been downloaded over 67,413 times
-(average = 2,931 downloads).
+(average number of downloads per publication = 2,931).
 
-\textbf{N4 for MRI bias correction.} Of all these contributions, perhaps
-my most significant is a method for removing the low frequency
-inhomogeneity artifacts common to MR images as an important
-preprocessing step for MR image analysis. This algorithm is commonly
-referred to in the literature as ``N4'' or ``Nick's nonparametric
-nonuniform intensity normalization'' which is described in the following
-publication:
+\subsubsection{B. Inventor of the N4 method for MRI bias
+correction}\label{b.-inventor-of-the-n4-method-for-mri-bias-correction}
+
+Of all these contributions, perhaps my most significant is a method for
+removing the low frequency inhomogeneity artifacts common to MR images
+as an important preprocessing step for MR image analysis. This algorithm
+is commonly referred to in the literature as ``N4'' or ``Nick's
+nonparametric nonuniform intensity normalization'' which is described in
+the following publication:
 
 \begin{quote}
 Tustison NJ, Avants BB, Cook PA, Egan A, Zheng Y, Yushkevich PA, and Gee
@@ -184,15 +188,19 @@ Field Correction, \emph{Insight Journal}, 2009,
 
 where it has been downloaded over 10,000 times.
 
-\textbf{ITKv4 Image Registration Refactoring.} Image registration (or
-the alignment of corresponding features between two images) is a
-fundamental component in medical image processing and analysis. In 2011
-the NIH-NLM sponsored a large-scale funding effort to ``modernize'' the
-Insight Toolkit. One of the three major contracts was to provide modern
-image registration techniques requiring a complete refactoring of the
-existing image registration framework. This contract was awarded to a
-joint team consisting of myself and collaborators from the University of
-Pennsylvania (under the direction of Professor James C. Gee):
+\subsubsection{C. Co-investigator and principal developer of the ITKv4
+image registration
+refactoring}\label{c.-co-investigator-and-principal-developer-of-the-itkv4-image-registration-refactoring}
+
+Image registration (or the alignment of corresponding features between
+two images) is a fundamental component in medical image processing and
+analysis. In 2011 the NIH-NLM sponsored a large-scale funding effort to
+``modernize'' the Insight Toolkit. One of the three major contracts was
+to provide modern image registration techniques requiring a complete
+refactoring of the existing image registration framework. This contract
+was awarded to a joint team consisting of myself and collaborators from
+the University of Pennsylvania (under the direction of Professor James
+C. Gee):
 
 \begin{quote}
 Sponsor: NIH-NLM\\
@@ -222,22 +230,26 @@ Insight ToolKit Image Registration Framework. \emph{Front Neuroinform},
 computational biology, 105 out of 252 neurosciences.
 \end{quote}
 
-\textbf{ITK-Lung: A Software Framework for Lung Image Processing and
-Analysis.} Consistent with our previous work, Professor James C. Gee and
-I recently submitted an NIH R01 grant for the development of ITK-Lung, a
-set of open-source software tools for CT, PET, MRI pulmonary image
-analysis based on the Insight ToolKit. Specifically, we plan to provide
-core algorithms for specific pulmonary image analysis tasks across
-multiple modalities, many of which I have included with previous
-publications. These basic tasks include intra- and inter-modal pulmonary
-image registration, template building for cross-sectional and
-longitudinal (i.e., respiratory cycle) analyses, functional and
-structural lung image segmentation, perfusion analysis, and computation
-of quantitative image indices as potential imaging biomarkers. These
-efforts would facilitate other NIH-sponsored projects which interface
-specific pulmonary algorithms (e.g., CT nodule detection) with clinical
-and research applications. Over the course of this 5-year project, the
-following UVa faculty and staff will be engaged:
+\subsubsection{\texorpdfstring{D. Co-investigator and principal
+developer of \emph{ITK-Lung: A Software Framework for Lung Image
+Processing and
+Analysis}}{D. Co-investigator and principal developer of ITK-Lung: A Software Framework for Lung Image Processing and Analysis}}\label{d.-co-investigator-and-principal-developer-of-itk-lung-a-software-framework-for-lung-image-processing-and-analysis}
+
+Consistent with our previous work, Professor James C. Gee and I recently
+submitted an NIH R01 grant for the development of ITK-Lung, a set of
+open-source software tools for CT, PET, MRI pulmonary image analysis
+based on the Insight ToolKit. Specifically, we plan to provide core
+algorithms for specific pulmonary image analysis tasks across multiple
+modalities, many of which I have included with previous publications.
+These basic tasks include intra- and inter-modal pulmonary image
+registration, template building for cross-sectional and longitudinal
+(i.e., respiratory cycle) analyses, functional and structural lung image
+segmentation, perfusion analysis, and computation of quantitative image
+indices as potential imaging biomarkers. These efforts would facilitate
+other NIH-sponsored projects which interface specific pulmonary
+algorithms (e.g., CT nodule detection) with clinical and research
+applications. Over the course of this 5-year project, the following UVa
+faculty and staff will be engaged:
 
 \begin{itemize}
 \tightlist
@@ -251,23 +263,27 @@ following UVa faculty and staff will be engaged:
   W. Gerald Teague, MD, Co-investigator (2\% / year)
 \end{itemize}
 
-\subsubsection{B. Co-Founder and Developer of the Advanced Normalization
+\subsection{II. Co-Founder and Developer of the Advanced Normalization
 Tools
-(ANTs)}\label{b.-co-founder-and-developer-of-the-advanced-normalization-tools-ants}
+(ANTs)}\label{ii.-co-founder-and-developer-of-the-advanced-normalization-tools-ants}
 
-In the late 2000s my longtime colleague, Dr.~Brian Avants, and I
-co-founded the Advanced Normalization Tools (ANTs). ANTs is popularly
-considered a state-of-the-art medical image registration and
-segmentation toolkit based on ITK. It is used by multiple academic
-institutions, research facilities (e.g., the Allen Brain Institute, the
-Montreal Neurological Institute, the Laboratory of Neuroimaging at the
-University of Southern California), and industry leaders (e.g., IBM
-Watson, GE Research). In addition to providing well-performing basic
-processing components, we have also engineered advanced pipelines for
-obtaining key biomarkers for specific applications. For example,
-measuring the thickness of the cortical gray matter of the brain from
+In 2006 my longtime colleague, Dr.~Brian Avants, and I co-founded the
+Advanced Normalization Tools (ANTs). ANTs is popularly considered a
+state-of-the-art medical image registration and segmentation toolkit
+based on ITK. It is used by multiple academic institutions, research
+facilities (e.g., the Allen Brain Institute, the Montreal Neurological
+Institute, the Laboratory of Neuroimaging at the University of Southern
+California), and industry leaders (e.g., IBM Watson, GE Research). In
+addition to providing well-performing basic processing components, we
+have also engineered advanced pipelines for obtaining key biomarkers for
+specific applications.
+
+\subsubsection{A. The ANTs cortical thickness
+pipeline}\label{a.-the-ants-cortical-thickness-pipeline}
+
+Measuring the thickness of the cortical gray matter of the brain from
 MRI has long been used for assessing various neuropathologies and normal
-longitudinal changes in the brain. For a long time, the only publicly
+longitudinal changes in the brain. Up until recently the only publicly
 available resource for performing this type of measurement was a
 software program called ``FreeSurfer'' which is developed and made
 available from Mass General Hospital of Harvard University. Recently,
@@ -284,9 +300,10 @@ neuroimaging, 24 out of 252 neurosciences, 3 out of 125 radiology,
 nuclear medicine \& medical imaging.
 \end{quote}
 
-All resulting quantities and corresponding scripts and analyses were
-made publicly available for other people to use. In fact, these
-measurements were used recently for investigating other hypotheses:
+All resulting quantities and corresponding scripts and analyses have
+been made publicly available for external use. In fact, these
+measurements were used recently for investigating other hypotheses
+concerning the longitudinal development of the entorhinal cortex:
 
 \begin{quote}
 Hasan KM, Mwangi B, Cao B, Keser Z, Tustison NJ, Kochunov P, Frye RE,
@@ -297,8 +314,12 @@ neuroimaging, and 65 out of 125 radiology, nuclear medicine \& medical
 imaging.
 \end{quote}
 
-\textbf{Competitions.} Over the years our ANTs-based tools have won
-several international competitions:
+\subsubsection{B. Participant in international medical image analysis
+competitions}\label{b.-participant-in-international-medical-image-analysis-competitions}
+
+Over the years our ANTs-based tools have won several international
+competitions for a wide variety of applications involving several key
+UVa collaborators:
 
 \begin{itemize}
 \item
@@ -324,10 +345,12 @@ several international competitions:
 We have provided these winning protocols to the public as open-source
 for continued development.
 
-\textbf{Tutorials and Other ANTs Informational Fora.} I have given
-several in-person workshops at the request of various research groups so
-that they can better understand the various algorithms and pipelines of
-the ANTs toolkit. These include the following:
+\subsubsection{C. Educator via tutorials and other ANTs informational
+fora}\label{c.-educator-via-tutorials-and-other-ants-informational-fora}
+
+I have given several workshops to disseminate a better hands-on
+knowledge of the various algorithms and pipelines of the ANTs and ITK
+toolkits. These include the following:
 
 \begin{itemize}
 \item
@@ -347,38 +370,365 @@ the ANTs toolkit. These include the following:
   analysis, San Diego, USA. February 2012.
 \end{itemize}
 
-In addition to these workshops, I typically answer 3--4 ANTs inquiries
-per day originating from our Sourceforge or Github ANTs repositories.
-These inquiries range from instructions for specific programs to
-providing analysis guidelines for large-scale studies.
+In addition to these workshops, I respond to several ANTs queries per
+week originating from our Sourceforge or Github ANTs repositories. These
+inquiries range from instructions for specific programs to providing
+analysis guidelines for large-scale studies.
 
-\textbf{ANTsR}
+\textbf{Developer for the ANTsR project.} ANTs (Advanced Normalization
+Tools) is designed to provide high performance image processing
+techniques for medical image analysis. During the evolution of the
+toolkit, it became clear that robust statistical machinery was lacking
+for making inferences from data produced from ANTs processing and
+visualization. As part of a collaborative effort, I am part of the ANTsR
+development team which provides an interface between ANTs and the R
+project for statistical computing and visualization thus providing a
+complete set of tools for multivariate image analysis. ANTsR intends to
+provide a modern framework for medical analytics, with a focus on
+imaging-assisted prediction and statistical power. The ANTsR package is
+publicly available on the github project hosting service
 
-\subsubsection{C. Provide support for UVa
-faculty}\label{c.-provide-support-for-uva-faculty}
+\subsection{III. Research Support}\label{iii.-research-support}
+
+As research faculty, I have played a supportive role for the various
+faculty research efforts. These include the following (with
+corresponding publications and other items of note):
+
+\subsubsection{A. UVa collaborations}\label{a.-uva-collaborations}
 
 \begin{itemize}
 \item
-  Tumor work with Max Wintermark
+  As part of the Hyperpolarized Gas group at UVa, I support efforts for
+  quantitative assessment of functional lung imaging using
+  hyperpolarized gases. Collaborators include Talissa Altes (now at
+  University of Missouri, Columbia), John Mugler, Eduard de Lange, Kun
+  Qing, Jaime Mata, Lucia Flors-Basco, W. Gerald Teague, and Mike Shim.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These collaborative efforts have resulted in several publications
+    including the following:
+  \end{itemize}
+
+  \begin{quote}
+  Flors L, Mugler JP, De Lange EE, Miller GW, Mata JF, Tustison N, Ruset
+  IC, Hersman WW, and Altes TA. Hyperpolarized Gas Magnetic Resonance
+  Lung Imaging in Children and Young Adults, \emph{J Thorac Imag},
+  31(5):285-295, Sep 2016. Cited 0 times; IF = 1.723; Rank 71 out of 124
+  radiology, nuclear medicine, and medical imaging.
+  \end{quote}
+
+  \begin{quote}
+  Tustison NJ, Qing K, Wang C, Altes TA, and Mugler III JP. Atlas-based
+  estimation of lung and lobar anatomy in proton MRI. \emph{Magn Reson
+  Med}, 76(1):315-20, Jul 2016. Cited 1 times; IF = 3.571; Rank 20 out
+  of 125 radiology, nuclear medicine \& medical imaging
+  \end{quote}
+
+  \begin{quote}
+  Altes TA, Mugler JP, III, Ruppert K, Tustison NJ, Gersbach J,
+  Szentpetery S, Meyer CH, de Lange EE, and Teague WG. Clinical
+  Correlates of Lung Ventilation in Asthmatic Children. \emph{J Allergy
+  Clin Immun}, 137(3) :789-796, Mar 2016. Cited 2 times; IF = 11.476;
+  Rank 1 out of 24 allergy, 6 out of 148 immunology.
+  \end{quote}
+
+  \begin{quote}
+  Qing K, Altes TA, Tustison NJ, Feng X, Chen X, Mata JF, Miller GW, de
+  Lange EE, Tobias WA, Cates GD, Jr., Brookeman JR, and Mugler JP, III.
+  Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human
+  Lung in a Single Breath-hold using Compressed Sensing. \emph{Magn
+  Reson Med}, 74(4):1110-5, October 2015. Cited 3 time; IF = 3.571; Rank
+  20 out of 125 radiology, nuclear medicine \& medical imaging.
+  \end{quote}
+
+  \begin{quote}
+  Teague WG, Tustison NJ, and Altes TA. Ventilation Heterogeneity in
+  Asthma. \emph{J Asthma}, 51(7):677-84, Sept 2014. Cited 7 times; IF =
+  1.854; Rank 18 out of 25 allergy, 39 out of 58 respiratory system.
+  \end{quote}
+
+  \begin{quote}
+  Tustison NJ*, Avants BB, Altes TA, de Lange EE, Mugler III JP, and Gee
+  JC. Ventilation-Based Segmentation of the Lungs Using Hyperpolarized
+  3He MRI, \emph{J Magn Reson Imaging}, 34(4):831--841, October 2011.
+  Cited 26 times; IF = 3.210; Rank 23 out of 125 radiology, nuclear
+  medicine and medical imaging.
+  \end{quote}
+
+  \begin{quote}
+  Tustison NJ, Altes TA, Song G, de Lange EE, Mugler III JP, and Gee JC.
+  Feature Analysis of Hyperpolarized Helium-3 Pulmonary MRI: A Study of
+  Asthmatics versus Non-Asthmatics, \emph{Magn Reson Med},
+  63(6):1448--1455, June 2010. Cited 31 times; IF = 3.571; Rank 20 out
+  of 125 radiology, nuclear medicine \& medical imaging.
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Past funding sources:
+  \end{itemize}
+
+  \begin{quote}
+  Sponsor: NIH-NHLBI\\
+  Title: Simultaneous Xe129 MRI of Regional Lung Ventilation and Gas
+  Uptake in COPD\\
+  Role: Co-investigator\\
+  Period: 7/1/2011 -- 5/31/2016
+  \end{quote}
+
+  \begin{quote}
+  Sponsor: NIH-NHLBI\\
+  Title: Single-session bronchial thermoplasty for severe asthmatics
+  guided by Hxe MRI Role: Principal investigator on UVa subcontract\\
+  Period: 9/1/2011 -- 1/31/2015
+  \end{quote}
+
+  \begin{quote}
+  Sponsor: NIH-NHLBI\\
+  Title: Regulatory Advancement of HXe as an MRI Contrast Agent\\
+  Role: Co-investigator\\
+  Period: 9/1/2011 -- 1/31/2015
+  \end{quote}
+
+  \begin{quote}
+  Sponsor: Novartis Pharmaceuticals Corp.\\
+  Title: Hyperpolarized noble-gas enhanced imaging of b2-agonist
+  pharmacodynamics and pharmacokinetics in mild to moderate asthma\\
+  Role: Co-investigator\\
+  Period: 10/15/2010 -- 5/31/2014
+  \end{quote}
+
+  \begin{quote}
+  Sponsor: Vertex Pharmaceuticals, Inc.\\
+  Title: A Phase II, Single-Blind, Placebo-Controlled Crossover Study to
+  Evaluate the Effect of VX-770 on Hyperpolarized Helium-3 Magnetic
+  Resonance Imaging in Subjects with Cystic Fibrosis, the G551D Mutation
+  and FEV1 ≥40\% Predicted\\
+  Role: Physicist\\
+  Period: 9/9/2010 -- 9/8/2012
+  \end{quote}
+
+  \begin{itemize}
+  \item
+    In order to support ongoing software development efforts associated
+    with these collaborations and other external collaborations at the
+    University of Pennsylvania (cf Subsection D. External
+    collaborations), my colleague Dr.~James C. Gee and I recently (Oct.
+    2016) submitted an R01 grant titled \emph{ITK-Lung: A Software
+    Framework for Lung Image Processing and Analysis} (cf Section I D).
+  \item
+    Other current and pending grants:
+  \end{itemize}
+
+  \begin{quote}
+  Title: Hyperpolarized Xenon-129 MRI: a new multi-dimensional biomarker
+  to determine pulmonary physiologic responses to COPD therapeutics\\
+  Role: Co-investigator\\
+  Period: 5 years
+  \end{quote}
+
+  \begin{quote}
+  Sponsor: NIH-NHLBI\\
+  Title: Xe129 MRI of the lung: A new technology to assess treatment for
+  COPD\\
+  Role: Co-investigator\\
+  Period: 7/1/2016 -- 6/30/2017
+  \end{quote}
 \item
-  Hyperpolarized gas work
+  One of my principal collaborators is James Stone with whom I have been
+  developing quantitative methods for traumatic brain injury although
+  much of our work has been of much more general neuorimaging
+  application.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    These collaborative efforts have resulted in several publications
+    including the following:
+  \end{itemize}
+
+  \begin{quote}
+  Stone JR, Wilde EA, Taylor BA, Tate DF, Levin H, Bigler ED, Scheibel
+  RS, Newsome MR, Mayer AR, Abildskov T, Black GM, Lennon MJ, York GE,
+  Agarwal R, DeVillasante J, Ritter JL, Walker PB, Ahlers ST, and
+  Tustison NJ. Supervised learning technique for the automated
+  identification of white matter hyperintensities in traumatic brain
+  injury, \emph{Brain Inj}, In press. Cited 0 times; IF = 1.822; Rank
+  187 out of 256 neurosciences and 17 out of 65 rehabilitation.
+  \end{quote}
+
+  \begin{quote}
+  Wilde EA, Bigler ED, Huff TJ, Wang H, Black GM, Christensen Z,
+  Goodrich-Hunsaker N, Petrie JA, Abildskov T, Taylor BA, Stone JR,
+  Tustison NJ, Newsome MR, Levin HS, Chu ZD, York GE, and Tate DF.
+  Quantitative Structural Neuroimaging of Mild Traumatic Brain Injury in
+  the Chronic Effects of Neurotrauma Consortium (CENC): Comparison of
+  Volumetric Data within and across Scanners, \emph{Brain Inj}, In
+  press. Cited 0 times; IF = 1.822; Rank 187 out of 256 neurosciences
+  and 17 out of 65 rehabilitation.
+  \end{quote}
+
+  \begin{quote}
+  Tustison NJ, Cook PA, Klein A, Song G, Das SR, Duda JT, Kandel BM, van
+  Strien N, Stone JR, Gee JC, and Avants BB. Large-Scale Evaluation of
+  ANTs and FreeSurfer Cortical Thickness Measurements.
+  \emph{NeuroImage}, 99:166-179, Oct 2014. Cited 46 times; IF = 6.357;
+  Rank 1 out of 14 neuroimaging, 24 out of 252 neurosciences, 3 out of
+  125 radiology, nuclear medicine \& medical imaging.
+  \end{quote}
+
+  \begin{quote}
+  Tustison NJ, Avants BB, Cook PA, Kim J, Whyte J, Gee JC, and Stone JR.
+  Logical Circularity in voxel-based analysis: normalization strategy
+  may induce statistical bias. \emph{Hum Brain Mapp}, 35:745-759, March
+  2014. Cited 21 times; IF = 5.969; Rank 2 out of 14 neuroimaging, 27
+  out of 252 neurosciences, 5 out of 125 radiology, nuclear medicine \&
+  medical imaging.
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Past funding sources:
+  \end{itemize}
+
+  \begin{quote}
+  Sponsor: The Geneva Foundation\\
+  Title: Brain Injury Biomarkers and Behavioral Characterization of mTBI
+  in Soldiers Following Repeated, Low-Level Blast Exposure\\
+  Role: Co-investigator\\
+  Period: 1/1/2013 -- 5/31/2015
+  \end{quote}
+
+  \begin{quote}
+  Sponsor: Naval Medical Research Center\\
+  Title: Experienced Breacher Study\\
+  Role: Co-investigator -- UVa subcontract\\
+  Period: 6/1/2012 -- 5/30/2014
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Current and pending funding sources:
+  \end{itemize}
+
+  \begin{quote}
+  Sponsor: NASA/Medical University of South Carolina\\
+  Title: Human Cerebral Vascular Autoregulation and Venous Outflow In
+  Response to Microgravity-Induced Cephalad Fluid Redistribution\\
+  Role: Co-investigator\\
+  Period: 5/16/2013 -- 5/15/2018
+  \end{quote}
+
+  \begin{quote}
+  Member Chronic Effects of Neurotrauma Consortium\\
+  Funding period: 2/2016 - 8/2018
+  \end{quote}
 \item
-  Cardiac work with Mike Salerno
-\item
-  fMRI processing for Jonathon Kipnis and Mark Beernhaker (also mention
-  pending grants)
+  Other successful collaborations with UVa faculty include:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Automatic segmentation of brain tumor from multi-modal MRI with
+    collaborators Max Wintermark (now at Stanford) and former radiology
+    fellow Christopher Durst. Our team won the international 2013
+    Multimodal Brain Tumor Segmentation Challenge (BRATS) which resulted
+    in the following publications:
+  \end{itemize}
+
+  \begin{quote}
+  Tustison NJ, Shrinhidi KL, Wintermark M, Durst CR, Kandel BM, Gee JC,
+  Grossman MC, and Avants BB. Optimal symmetric multimodal templates and
+  concatenated random forests for supervised brain tumor segmentation
+  (simplified) with ANTsR. Neuroinformatics, 13(2):209-225, April 2015.
+  Cited 17 times; IF =2.825; Rank 13 out of 102 computer science,
+  interdisciplinary applications, 124 out of 252 neurosciences.
+  \end{quote}
+
+  \begin{quote}
+  Menze BH, Jakab A, Bauer S, Kalpathy-Cramer J, Farahani K, Kirby J,
+  Burren Y, Porz N, Slotboom J, Wiest R, Lanczi L, Gerstner E, Weber
+  M-A, Arbel T, Avants BB, Ayache N, Buendia P, Collins DL, Cordier N,
+  Corso JJ, Criminisi A, Das T, Delingete H, Demiralp C, Durst CR, Dojat
+  M, Doyle S, Festa J, Forbes F, Geremia E, Glocker B, Golland P, Guo X,
+  Hamamci A, Iftekharuddin KM, Jena R, John NM, Konukoglu E, Lashkari D,
+  Mariz JA, Meier R, Pereira S, Precup D, Price SJ, Riklin-Raviv T, Reza
+  SMS, Ryan M, Schwartz L, Shin H-C, Shotton J, Silva CA, Sousa N,
+  Subbanna NK, Szekely G, Taylor TJ, Thomas OM, Tustison NJ, Unal G,
+  Vasseur F, Wintermark M, Ye DH, Zhao L, Zhao B, Zikic D, Prastawa M,
+  Reyes M, and Leemput KV. The Multimodal Brain Tumor Image Segmentation
+  Benchmark (BRATS). IEEE Trans Med Imaging, 34(10):1993-2024, October
+  2015. Cited 131 times; IF = 3.390; Rank 5 out of 100 computer science,
+  interdisciplinary applications, 12 out of 76 biomedical engineering,
+  18 out of 249 electrical \& electronic engineering, 3 out of 24
+  imaging science \& photographic technology, 21 out of 125 radiology,
+  nuclear medicine \& medical imaging.
+  \end{quote}
+
+  \begin{itemize}
+  \item
+    ANTs image registration techniques are currently used as part of
+    Mike Salerno's (Cardiac, Radiology \& Medical Imaging, and
+    Biomedical Engineering Departments) ongoing development of novel
+    cardiac MRI acquisition techniques. As part of this collaborative
+    work, Mike and I won the best paper award at the Statistical Atlases
+    and Computational Modelling of the Heart (STACOM) motion estimation
+    challenge held in Boston, 2014 as part of the international Medical
+    Image Computing and Computer-Assisted Intervention (MICCAI)
+    conference.
+  \item
+    Recently, Tony Filiano and Jonathon Kipnis of the Neuroscience
+    Department of UVa published a breakthrough paper in Nature
+    concerning the relationship between immunity and social deficits. I
+    was instrumental in that publication in performing the resting state
+    fMRI analysis using some of the software I developed within the
+    ANTsR package:
+  \end{itemize}
+
+  \begin{quote}
+  Filiano AJ, Xu Y, Tustison NJ, Marsh RL, Baker W, Smirnov I, Overall
+  CC, Gadani SP, Turner SD, Weng Z, Peerzade SN, Chen H, Lee KS, Scott
+  MM, Beenhakker MP, Litvak V, and Kipnis J*. Unexpected role of
+  interferon-γ in regulating neuronal connectivity and social behaviour,
+  Nature, 535(7612):425-9, Jul 2016. Cited 3 times; IF = 38.138; Rank 1
+  out of 63 multidisciplinary sciences.
+  \end{quote}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Other current research collaborators include Spencer Payne and Larry
+    Borish (Medicine), Carlos Leiva Salinas (Radiology and Medical
+    Imaging), and Stuart Berr (Radiology \& Medical Imaging and
+    Biomedical Engineering).
+  \end{itemize}
 \end{itemize}
 
-\subsubsection{D. External
-collaborations}\label{d.-external-collaborations}
+\subsubsection{B. External
+collaborations}\label{b.-external-collaborations}
 
 \begin{itemize}
 \item
-  Work with Jim
+  Jim Gee is an Associate Professor in the Department of Radiology at
+  the University of Pennsylvania and the Director of the Penn Image
+  Computing and Science Laboratory. He was also my post-doc mentor from
+  2004 -- 2010. We continue to work together on multiple projects
+  including the ITK Lung grant previously described. Short-term future
+  plans include a planned ANTs software maintenance R01 grant to be
+  submitted in the February 2017 cycle.
 \item
-  Work with Martha
-\item
-  Work with Mike
+  Mike Yassa is an Associate Professor in the Department of Neurobiology
+  and Behavior and the Director of the Center for the Neurobiology of
+  Learning \& Member. He runs the Yassa Translational Neurobiology Lab
+  where I currently have a joint appointment with UC Irvine as a
+  Visiting Assistant Researcher. As a long-time user and promoter of the
+  ANTs software, Mike and I have several shared projects related to
+  Alzheimer's disease and other neurobiological research questions.
 \end{itemize}
 
 \end{document}

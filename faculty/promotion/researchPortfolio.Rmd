@@ -42,10 +42,8 @@ Research Activities
 -->
 
 
-# Research Portfolio
+# Research Statement
 _Nicholas J. Tustison, DSc_
-
-## I.  Research Statement
 
 As research support faculty in the Department of Radiology and Medical Imaging at
 UVa, my primary research focus is the development of high quality and robust
@@ -55,7 +53,7 @@ who operates at the nexus of "big data", statistical science (including machine
 learning), and software development for gaining insight into human systems
 (specifically brain, lung, and heart).  
 
-### A.  Major Contributor to The Insight Toolkit
+## I.  Principal Developer and Contributor of The Insight Toolkit (National Library of Medicine of the National Institutes of Health)
 
 Addressing the deficiency of image processing tools for analyzing the Visible
 Human Project in 1999, the National Library of Medicine (NLM) of the National Institutes
@@ -63,13 +61,14 @@ of Health (NIH) funded the Insight Toolkit (ITK) initiative bringing together su
 academic institutions as the University of Pennsylvania and the University of North
 Carolina, along with various industrial partners, such as GE Research.  This
 effort resulted in the Insight Toolkit---a comprehensive, open-source suite of
-codified algorithms for medical image analysis.  Development and expansion continues
+implemented algorithms for medical image analysis.  Development and expansion continues
 to the present and is heavily utilized by industry and academia worldwide and, due
 to its generalizability, has been adopted by the French space agency (CNES) for the
 processing of remote-sensing imagery.  
 
-__Open source software contributions.__  I have provided several key developments to
-the Insight Toolkit which is one of the
+### A. Major developer of open source software contributions
+
+I have provided several key developments to the Insight Toolkit which is one of the
 primary venues for my software contributions and influence in the field.
 These contributions are listed in the accompanying CV in Section IX, Subsection C
 _Open-Source Software Short Communications_.  Starting
@@ -82,9 +81,10 @@ operations for image convolution (_Image Kernel Convolution_), faux Colormapping
 (_Meeting Andy Warhol Somewhere Over the Rainbow: RGB Colormapping and ITK_), and
 fundamental measures for evaluating segmentation results (_Introducing Dice,
 Jaccard, and Other Label Overlap Measures To ITK_).   These software classes have
-been downloaded over 67,413 times (average = 2,931 downloads).  
+been downloaded over 67,413 times (average number of downloads per publication = 2,931).  
 
-__N4 for MRI bias correction.__
+### B. Inventor of the N4 method for MRI bias correction
+
 Of all these contributions, perhaps my most significant is a method for removing
 the low frequency inhomogeneity artifacts common to MR images as an important preprocessing step for
 MR image analysis.  This algorithm is commonly referred to in the literature as
@@ -111,7 +111,8 @@ sum: 67413
 count: 23
 -->
 
-__ITKv4 Image Registration Refactoring.__
+### C.  Co-investigator and principal developer of the ITKv4 image registration refactoring
+
 Image registration (or the alignment of corresponding features between two images)
 is a fundamental component in medical image processing and analysis.
 In 2011 the NIH-NLM sponsored a large-scale funding effort to "modernize" the Insight
@@ -135,7 +136,8 @@ developed new and innovative techniques which were also included:
 
 >  Avants BB, Tustison NJ, Stauffer M, Song G, Wu B, and Gee JC. The Insight ToolKit Image Registration Framework. _Front Neuroinform_, 8:44, 2014.  Cited 29 times; IF = 3.261; Rank 8 out of 57 mathematical & computational biology, 105 out of 252 neurosciences.
 
-__ITK-Lung:  A Software Framework for Lung Image Processing and Analysis.__
+### D.  Co-investigator and principal developer of _ITK-Lung:  A Software Framework for Lung Image Processing and Analysis_
+
 Consistent with our previous work, Professor James C. Gee and I recently submitted
 an NIH R01 grant for the development of ITK-Lung, a set of open-source software
 tools for CT, PET, MRI pulmonary image analysis based on the Insight ToolKit.
@@ -155,16 +157,21 @@ following UVa faculty and staff will be engaged:
 * Y. Michael Shim, MD, Co-investigator (2% / year)
 * W. Gerald Teague, MD, Co-investigator (2% / year)
 
-### B. Co-Founder and Developer of the Advanced Normalization Tools (ANTs)
+## II. Co-Founder and Developer of the Advanced Normalization Tools (ANTs)
 
-In the late 2000s my longtime colleague, Dr. Brian Avants, and I co-founded the Advanced Normalization
+In 2006 my longtime colleague, Dr. Brian Avants, and I co-founded the Advanced Normalization
 Tools (ANTs). ANTs is popularly considered a state-of-the-art medical image registration and segmentation toolkit based on ITK.  It is used by multiple academic institutions, research facilities (e.g., the Allen
 Brain Institute, the Montreal Neurological Institute, the Laboratory of Neuroimaging at the University
 of Southern California), and industry leaders (e.g., IBM Watson, GE Research).  In addition to
 providing well-performing basic processing components, we have also engineered advanced pipelines
-for obtaining key biomarkers for specific applications.  For example, measuring the thickness of
+for obtaining key biomarkers for specific applications.  
+
+
+### A. The ANTs cortical thickness pipeline
+
+Measuring the thickness of
 the cortical gray matter of the brain from MRI has long been used for assessing various neuropathologies and
-normal longitudinal changes in the brain.  For a long time, the only publicly available resource
+normal longitudinal changes in the brain.  Up until recently the only publicly available resource
 for performing this type of measurement was a software program called "FreeSurfer" which is developed
 and made available from Mass General Hospital of Harvard University.  Recently, however,
 I (along with several colleagues) created an ANTs-based pipeline which outperformed
@@ -172,13 +179,15 @@ FreeSurfer on a large, publicly available data set.  This work is described in
 
 >	Tustison NJ, Cook PA, Klein A, Song G, Das SR, Duda JT, Kandel BM, van Strien N, Stone JR, Gee JC, and Avants BB. Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements. _NeuroImage_, 99:166-179, Oct 2014.  Cited 46 times; IF = 6.357; Rank 1 out of 14 neuroimaging, 24 out of 252 neurosciences, 3 out of 125 radiology, nuclear medicine & medical imaging.
 
-All resulting quantities and corresponding scripts and analyses were made publicly available
-for other people to use.  In fact, these measurements were used recently for investigating other
-hypotheses:
+All resulting quantities and corresponding scripts and analyses have been made publicly available
+for external use.  In fact, these measurements were used recently for investigating other
+hypotheses concerning the longitudinal development of the entorhinal cortex:
 
 > Hasan KM, Mwangi B, Cao B, Keser Z, Tustison NJ, Kochunov P, Frye RE, Savatic M, and Soares J. Entorhinal cortex thickness across the human lifespan. J of Neuroimaging, 26(3) :278-82, May 2016.  Cited 0 times; IF = 1.734;  Rank 128 out of 192 clinical neurology, 12 out of 14 neuroimaging, and 65 out of 125 radiology, nuclear medicine & medical imaging.
 
-__Competitions.__ Over the years our ANTs-based tools have won several international competitions:
+### B. Participant in international medical image analysis competitions
+
+Over the years our ANTs-based tools have won several international competitions for a wide variety of applications involving several key UVa collaborators:
 
 * finished in the first rank in the Klein 2009 international brain mapping competition,[^2]
 
@@ -203,10 +212,9 @@ __Competitions.__ Over the years our ANTs-based tools have won several internati
 We have provided these winning protocols to the public as open-source for continued
 development.
 
-__Tutorials and Other ANTs Informational Fora.__  I have given several
-in-person workshops at the request of various research groups so that they can
-better understand the various algorithms and pipelines of the ANTs toolkit.
-These include the following:
+### C. Educator via tutorials and other ANTs informational fora
+
+I have given several workshops to disseminate a better hands-on knowledge of the various algorithms and pipelines of the ANTs and ITK toolkits.  These include the following:
 
 * ANTs workshop, MD Anderson, Houston, TX, USA.  August 2016.
 
@@ -220,31 +228,129 @@ These include the following:
 
 * SPIE Medical Imaging Workshop, Open source tools for medical image analysis, San Diego, USA.  February 2012.
 
-In addition to these workshops, I typically answer 3--4 ANTs inquiries per day
-originating from our Sourceforge or Github ANTs
-repositories.  These inquiries range from instructions for specific programs to
+In addition to these workshops, I respond to several ANTs queries per week
+originating from our Sourceforge or Github ANTs repositories.  These
+inquiries range from instructions for specific programs to
 providing analysis guidelines for large-scale studies.  
 
-__ANTsR__
+D.  __Developer for the ANTsR project.__  ANTs (Advanced Normalization Tools) is designed to provide high performance image processing techniques for medical image analysis.  During the evolution of the toolkit, it became clear that robust statistical machinery was lacking for making inferences from data produced from ANTs processing and visualization.  As part of a collaborative effort, I am part of the ANTsR development team which provides an interface between ANTs and the R project for statistical computing and visualization thus providing a complete set of tools for multivariate image analysis. ANTsR intends to provide a modern framework for medical analytics, with a focus on imaging-assisted prediction and statistical power.  The ANTsR package is publicly available on the github project hosting service
+
+##  III. Research Support
+
+As research faculty, I have played a supportive role for the various faculty research efforts.  These include the following (with corresponding publications and other items of note):
+
+### A. UVa collaborations
+
+* As part of the Hyperpolarized Gas group at UVa, I support efforts for quantitative assessment of functional lung imaging using hyperpolarized gases.  Collaborators include Talissa Altes (now at University of Missouri, Columbia), John Mugler, Eduard de Lange, Kun Qing, Jaime Mata, Lucia Flors-Basco, W. Gerald Teague, and Mike Shim.
+    * These collaborative efforts have resulted in several publications including the following:
+
+    > Flors L, Mugler JP, De Lange EE, Miller GW, Mata JF, Tustison N, Ruset IC, Hersman WW, and Altes TA. Hyperpolarized Gas Magnetic Resonance Lung Imaging in Children and Young Adults, _J Thorac Imag_, 31(5):285-295, Sep 2016.  Cited 0 times; IF = 1.723; Rank 71 out of 124 radiology, nuclear medicine, and medical imaging.
+
+    > Tustison NJ, Qing K, Wang C, Altes TA, and Mugler III JP. Atlas-based estimation of lung and lobar anatomy in proton MRI. _Magn Reson Med_, 76(1):315-20, Jul 2016.  Cited 1 times; IF = 3.571; Rank 20 out of 125 radiology, nuclear medicine & medical imaging
+
+    > Altes TA, Mugler JP, III, Ruppert K, Tustison NJ, Gersbach J, Szentpetery S, Meyer CH, de Lange EE, and Teague WG. Clinical Correlates of Lung Ventilation in Asthmatic Children. _J Allergy Clin Immun_, 137(3) :789-796, Mar 2016.  Cited 2 times; IF = 11.476; Rank 1 out of 24 allergy, 6 out of 148 immunology.
+
+    > Qing K, Altes TA, Tustison NJ, Feng X, Chen X, Mata JF, Miller GW, de Lange EE, Tobias WA, Cates GD, Jr., Brookeman JR, and Mugler JP, III. Rapid Acquisition of Helium-3 and Proton 3D Image Sets of the Human Lung in a Single Breath-hold using Compressed Sensing. _Magn Reson Med_, 74(4):1110-5, October 2015.  Cited 3 time; IF = 3.571; Rank 20 out of 125 radiology, nuclear medicine & medical imaging.
+
+    > Teague WG, Tustison NJ, and Altes TA.  Ventilation Heterogeneity in Asthma. _J Asthma_, 51(7):677-84, Sept 2014.  Cited 7 times; IF = 1.854; Rank 18 out of 25 allergy, 39 out of 58 respiratory system.
+
+    > Tustison NJ*, Avants BB, Altes TA, de Lange EE, Mugler III JP, and Gee JC. Ventilation-Based Segmentation of the Lungs Using Hyperpolarized 3He MRI, _J Magn Reson Imaging_, 34(4):831–841, October 2011. Cited 26 times; IF = 3.210; Rank 23 out of 125 radiology, nuclear medicine and medical imaging.
+
+    > Tustison NJ, Altes TA, Song G, de Lange EE, Mugler III JP, and Gee JC. Feature Analysis of Hyperpolarized Helium-3 Pulmonary MRI: A Study of Asthmatics versus Non-Asthmatics, _Magn Reson Med_, 63(6):1448–1455, June 2010. Cited 31 times; IF = 3.571; Rank 20 out of 125 radiology, nuclear medicine & medical imaging.
+
+    * Past funding sources:
+
+    > Sponsor: NIH-NHLBI  
+    > Title: Simultaneous Xe129 MRI of Regional Lung Ventilation and Gas Uptake in COPD  
+    > Role:	Co-investigator  
+    > Period: 	7/1/2011 – 5/31/2016  
+
+    > Sponsor: NIH-NHLBI  
+    > Title: Single-session bronchial thermoplasty for severe asthmatics guided by Hxe MRI
+    > Role:		Principal investigator on UVa subcontract  
+    > Period:     	9/1/2011 – 1/31/2015  
+
+    > Sponsor: NIH-NHLBI  
+    > Title:    		Regulatory Advancement of HXe as an MRI Contrast Agent  
+    > Role:		Co-investigator  
+    > Period:     	9/1/2011 – 1/31/2015  
+
+    > Sponsor:  	Novartis Pharmaceuticals Corp.  
+    > Title:    		Hyperpolarized noble-gas enhanced imaging of b2-agonist pharmacodynamics and pharmacokinetics in mild to moderate asthma  
+    > Role:		Co-investigator  
+    > Period:     	10/15/2010 – 5/31/2014  
+
+    > Sponsor: 	Vertex Pharmaceuticals, Inc.  
+    > Title:		A Phase II, Single-Blind, Placebo-Controlled Crossover Study to Evaluate the Effect of VX-770 on Hyperpolarized Helium-3 Magnetic Resonance Imaging in Subjects with Cystic Fibrosis, the G551D Mutation and FEV1 ≥40% Predicted  
+    > Role:		Physicist  
+    > Period:     	9/9/2010 – 9/8/2012  
+
+    * In order to support ongoing software development efforts associated with these collaborations and other external collaborations at the University of Pennsylvania (cf Subsection D. External collaborations), my colleague Dr. James C. Gee and I recently (Oct. 2016) submitted an R01 grant titled  _ITK-Lung:  A Software Framework for Lung Image Processing and Analysis_ (cf Section I D).
+
+    * Other current and pending grants:
+
+    > Title: Hyperpolarized Xenon-129 MRI: a new multi-dimensional biomarker to determine pulmonary physiologic responses to COPD therapeutics  
+    > Role:  		Co-investigator  
+    > Period:  5 years  
+
+    > Sponsor: NIH-NHLBI  
+    > Title:  	Xe129 MRI of the lung:  A new technology to assess treatment for COPD  
+    > Role:  		Co-investigator  
+    > Period:  7/1/2016 – 6/30/2017  
+
+* One of my principal collaborators is James Stone with whom I have been developing quantitative methods for traumatic brain injury although much of our work has been of much more general neuorimaging application.
+    * These collaborative efforts have resulted in several publications including the following:
+
+    >	Stone JR, Wilde EA, Taylor BA, Tate DF, Levin H, Bigler ED, Scheibel RS, Newsome MR, Mayer AR, Abildskov T, Black GM, Lennon MJ, York GE, Agarwal R, DeVillasante J, Ritter JL, Walker PB, Ahlers ST, and Tustison NJ. Supervised learning technique for the automated identification of white matter hyperintensities in traumatic brain injury, _Brain Inj_, In press.  Cited 0 times; IF = 1.822; Rank 187 out of 256 neurosciences and 17 out of 65 rehabilitation.
+
+    > Wilde EA, Bigler ED, Huff TJ, Wang H, Black GM, Christensen Z, Goodrich-Hunsaker N, Petrie JA, Abildskov T, Taylor BA, Stone JR, Tustison NJ, Newsome MR, Levin HS, Chu ZD, York GE, and Tate DF. Quantitative Structural Neuroimaging of Mild Traumatic Brain Injury in the Chronic Effects of Neurotrauma Consortium (CENC): Comparison of Volumetric Data within and across Scanners, _Brain Inj_, In press.  Cited 0 times; IF = 1.822; Rank 187 out of 256 neurosciences and 17 out of 65 rehabilitation.
+
+    > Tustison NJ, Cook PA, Klein A, Song G, Das SR, Duda JT, Kandel BM, van Strien N, Stone JR, Gee JC, and Avants BB. Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements. _NeuroImage_, 99:166-179, Oct 2014.  Cited 46 times; IF = 6.357; Rank 1 out of 14 neuroimaging, 24 out of 252 neurosciences, 3 out of 125 radiology, nuclear medicine & medical imaging.
+
+    > Tustison NJ, Avants BB, Cook PA, Kim J, Whyte J, Gee JC, and Stone JR. Logical Circularity in voxel-based analysis: normalization strategy may induce statistical bias. _Hum Brain Mapp_, 35:745-759, March 2014. Cited 21 times; IF = 5.969; Rank 2 out of 14 neuroimaging, 27 out of 252 neurosciences, 5 out of 125 radiology, nuclear medicine & medical imaging.
+
+    * Past funding sources:
+
+    > Sponsor:  	The Geneva Foundation  
+    > Title:    		Brain Injury Biomarkers and Behavioral Characterization of mTBI in Soldiers Following Repeated, Low-Level Blast Exposure  
+    > Role:		Co-investigator  
+    > Period:     	1/1/2013 – 5/31/2015  
+
+    > Sponsor:  	Naval Medical Research Center  
+    > Title:    		Experienced Breacher Study  
+    > Role:		Co-investigator – UVa subcontract  
+    > Period:     	6/1/2012 – 5/30/2014  
+
+    * Current and pending funding sources:
+
+    > Sponsor:  	NASA/Medical University of South Carolina  
+    > Title:    		Human Cerebral Vascular Autoregulation and Venous Outflow In Response to Microgravity-Induced Cephalad Fluid Redistribution  
+    > Role:		Co-investigator  
+    > Period:     	5/16/2013 – 5/15/2018  
+
+    > Member Chronic Effects of Neurotrauma Consortium  
+    > Funding period:  2/2016 - 8/2018  
 
 
-###  C. Provide support for UVa faculty
+* Other successful collaborations with UVa faculty include:
 
-* Tumor work with Max Wintermark
+    * Automatic segmentation of brain tumor from multi-modal MRI with collaborators Max Wintermark (now at Stanford) and former radiology fellow Christopher Durst.  Our team won the international 2013 Multimodal Brain Tumor Segmentation Challenge (BRATS) which resulted in the following publications:
 
-* Hyperpolarized gas work
+    >	Tustison NJ, Shrinhidi KL, Wintermark M, Durst CR, Kandel BM, Gee JC, Grossman MC, and Avants BB.  Optimal symmetric multimodal templates and concatenated random forests for supervised brain tumor segmentation (simplified) with ANTsR. Neuroinformatics, 13(2):209-225, April 2015.  Cited 17 times; IF =2.825; Rank 13 out of 102 computer science, interdisciplinary applications, 124 out of 252 neurosciences.
 
-* Cardiac work with Mike Salerno
+    > Menze BH, Jakab A, Bauer S, Kalpathy-Cramer J, Farahani K, Kirby J, Burren Y, Porz N, Slotboom J, Wiest R, Lanczi L, Gerstner E, Weber M-A, Arbel T, Avants BB, Ayache N, Buendia P, Collins DL, Cordier N, Corso JJ, Criminisi A, Das T, Delingete H, Demiralp C, Durst CR, Dojat M, Doyle S, Festa J, Forbes F, Geremia E, Glocker B, Golland P, Guo X, Hamamci A, Iftekharuddin KM, Jena R, John NM, Konukoglu E, Lashkari D, Mariz JA, Meier R, Pereira S, Precup D, Price SJ, Riklin-Raviv T, Reza SMS, Ryan M, Schwartz L, Shin H-C, Shotton J, Silva CA, Sousa N, Subbanna NK, Szekely G, Taylor TJ, Thomas OM, Tustison NJ, Unal G, Vasseur F, Wintermark M, Ye DH, Zhao L, Zhao B, Zikic D, Prastawa M, Reyes M, and Leemput KV. The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS). IEEE Trans Med Imaging, 34(10):1993-2024, October 2015. Cited 131 times; IF = 3.390; Rank 5 out of 100 computer science, interdisciplinary applications, 12 out of 76 biomedical engineering, 18 out of 249 electrical & electronic engineering, 3 out of 24 imaging science & photographic technology, 21 out of 125 radiology, nuclear medicine & medical imaging.
 
+    * ANTs image registration techniques are currently used as part of Mike Salerno's (Cardiac, Radiology & Medical Imaging, and Biomedical Engineering Departments) ongoing development of novel cardiac MRI acquisition techniques.  As part of this collaborative work, Mike and I won the best paper award at the Statistical Atlases and Computational Modelling of the Heart (STACOM) motion estimation challenge held in Boston, 2014 as part of the international Medical Image Computing and Computer-Assisted Intervention (MICCAI) conference.  
 
+    * Recently, Tony Filiano and Jonathon Kipnis of the Neuroscience Department of UVa published a breakthrough paper in Nature concerning the relationship between immunity and social deficits.     I was instrumental in that publication in performing the resting state fMRI analysis using some of the software I developed within the ANTsR package:
 
-* fMRI processing for Jonathon Kipnis  and Mark Beernhaker
-(also mention pending grants)
+    > Filiano AJ, Xu Y, Tustison NJ, Marsh RL, Baker W, Smirnov I, Overall CC, Gadani SP, Turner SD, Weng Z, Peerzade SN, Chen H, Lee KS, Scott MM, Beenhakker MP, Litvak V, and Kipnis J*. Unexpected role of interferon-γ in regulating neuronal connectivity and social behaviour, Nature, 535(7612):425-9, Jul 2016.  Cited 3 times; IF = 38.138; Rank 1 out of 63 multidisciplinary sciences.
 
-###  D. External collaborations
+    * Other current research collaborators include Spencer Payne and Larry Borish (Medicine), Carlos Leiva Salinas (Radiology and Medical Imaging), and Stuart Berr (Radiology & Medical Imaging and Biomedical Engineering).
 
-* Work with Jim
+###  B. External collaborations
 
-* Work with Martha
+* Jim Gee is an Associate Professor in the Department of Radiology at the University of
+Pennsylvania  and the Director of the Penn Image Computing and Science Laboratory.  He was also my post-doc mentor from 2004 -- 2010.  We continue to work together on multiple projects including the ITK Lung grant previously described.  Short-term future plans include a planned ANTs software maintenance R01 grant to be submitted in the February 2017 cycle.  
 
-* Work with Mike
+* Mike Yassa is an Associate Professor in the Department of Neurobiology and Behavior and the Director of the Center for the Neurobiology of Learning & Member.  He runs the Yassa Translational Neurobiology Lab where I currently have a joint appointment with UC Irvine as a Visiting Assistant Researcher.  As a long-time user and promoter of the ANTs software, Mike and I have several shared projects related to Alzheimer's disease and other neurobiological research questions.  
