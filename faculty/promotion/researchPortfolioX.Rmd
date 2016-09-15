@@ -98,42 +98,42 @@ Research Activities
 -->
 
 
-# Research Statement
-_Nicholas J. Tustison, DSc_
+\begin{center}
+{\Large \bf Research Statement}  
+
+{\em Nicholas J. Tustison}
+\end{center}
 
 As research support faculty in the Department of Radiology and Medical Imaging at
-UVa, my primary research focus is the development of high quality and robust
-software for processing of medical imaging data and corresponding analysis
+UVa, my primary research focus is the development of robust and accurate
+software for large-scale processing of medical imaging data and corresponding analysis
 strategies for these data.  To put it simply and generally, I am a data scientist
 who operates at the nexus of "big data", statistical science (including machine
-learning), and software development for gaining insight into human systems
-(specifically brain, lung, and heart).  
+learning), and software development for gaining insight into human systems.  
 
-## I.  Principal Developer and Contributor of The Insight Toolkit (National Library of Medicine of the National Institutes of Health)
+## I.  Principal Developer and Contributor of The Insight Toolkit
 
 Addressing the deficiency of image processing tools for analyzing the Visible
 Human Project in 1999, the National Library of Medicine (NLM) of the National Institutes
-of Health (NIH) funded the Insight Toolkit (ITK) initiative bringing together such
-academic institutions as the University of Pennsylvania and the University of North
-Carolina, along with various industrial partners, such as GE Research.  This
-effort resulted in the Insight Toolkit---a comprehensive, open-source suite of
+of Health (NIH) funded the Insight Toolkit (ITK) initiative bringing together multiple
+academic institutions and various industrial partners, such as GE Research.  This
+collaborative effort resulted in the Insight Toolkit---a comprehensive, open-source suite of
 implemented algorithms for medical image analysis.  Development and expansion continues
-to the present and is heavily utilized by industry and academia worldwide and, due
+to the present and is heavily utilized by industry and academic groups worldwide and, due
 to its generalizability, has been adopted by the French space agency (CNES) for the
 processing of remote-sensing imagery.  
 
-### A. Major developer of open source software contributions
+### A. Major developer of NIH-sponsored open-source software
 
-I have provided several key developments to the Insight Toolkit which is one of the
-primary venues for my software contributions and influence in the field.
-These contributions are listed in the accompanying CV in Section IX, Subsection C
+I have provided several key developments to the Insight Toolkit.
+These contributions are listed in the accompanying CV (Section IX, Subsection C)
 _Open-Source Software Short Communications_.  Starting
-from my first contribution in 2005 (_$N$-D $C^k$ B-Spline Scattered Data Approximation_),
-I have continued to provide open-source algorithmic implementations to the Insight Toolkit
+with my first contribution in 2005 (_$N$-D $C^k$ B-Spline Scattered Data Approximation_),
+I have continued to provide well-known, open-source algorithmic implementations to the Insight Toolkit
 including my latest contribution made recently on August 27, 2016 (_Two Luis Miguel fans walk into a
 bar in Nagoya ---> (yada, yada, yada) ---> an ITK-implementation of a popular
 patch-based denoising filter_).  Other important contributions include
-operations for image convolution (_Image Kernel Convolution_), faux Colormapping
+operations for image convolution (_Image Kernel Convolution_), faux colormapping
 (_Meeting Andy Warhol Somewhere Over the Rainbow: RGB Colormapping and ITK_), and
 fundamental measures for evaluating segmentation results (_Introducing Dice,
 Jaccard, and Other Label Overlap Measures To ITK_).   These software classes have
@@ -144,10 +144,12 @@ been downloaded over 67,413 times (average number of downloads per publication =
 Of all these contributions, perhaps my most significant is a method for removing
 the low frequency inhomogeneity artifacts common to MR images as an important preprocessing step for
 MR image analysis.  This algorithm is commonly referred to in the literature as
-"N4" or "Nick's nonparametric nonuniform intensity normalization" which is
-described in the following publication:
+"N4" or "Nick's nonparametric nonuniform intensity normalization" which was
+formally introduced in the following publication:
 
-> Tustison NJ, Avants BB, Cook PA, Egan A, Zheng Y, Yushkevich PA, and Gee JC.  N4ITK: Improved N3 Bias Correction, _IEEE Trans Med Imaging_, 29(6):1310–1320, June 2010. Cited 367 times; IF = 3.390; Rank 5 out of 100 computer science, interdisciplinary applications, 12 out of 76 biomedical engineering, 18 out of 249 electrical & electronic engineering, 3 out of 24 imaging science & photographic technology, 21 out of 125 radiology, nuclear medicine & medical imaging.
+> Tustison NJ, Avants BB, Cook PA, Egan A, Zheng Y, Yushkevich PA, and Gee JC.  N4ITK: Improved N3 Bias Correction, _IEEE Trans Med Imaging_, 29(6):1310–1320, June 2010. Cited 367 times; IF = 3.390; Rank 5 out of 100 computer science, interdisciplinary applications, 12 out of 76 biomedical engineering, 18 out of 249 electrical & electronic engineering, 3 out of 24 imaging science & photographic technology, 21 out of 125 radiology, nuclear medicine & medical imaging.[^11]
+
+[^11]: Included as a representative publication.  
 
 It is a significant extension of the popular N3 algorithm[^1] (introduced in 1998
 with currently ~3,000 citations).  Prior to the N4 formal publication, it was provided
@@ -169,14 +171,14 @@ count: 23
 
 ### C.  Co-investigator and principal developer of the ITKv4 image registration refactoring
 
-Image registration (or the alignment of corresponding features between two images)
+Image registration (or the mapping of corresponding features between two images)
 is a fundamental component in medical image processing and analysis.
 In 2011 the NIH-NLM sponsored a large-scale funding effort to "modernize" the Insight
 Toolkit.  One of the three major contracts was to provide modern image registration
-techniques requiring a complete refactoring of the existing image registration
+techniques to the toolkit requiring a complete refactoring of the existing image registration
 framework.  This contract was awarded to a joint team consisting of
 myself and collaborators from the University of Pennsylvania (under the direction
- of Professor James C. Gee):  
+ of Professor Jim Gee):  
 
 > Sponsor:  	NIH-NLM  
 > Title:    	_Fundamental Refactoring of Deformable Image Registration in ITK with Distributed Computing and GPU Acceleration_  
@@ -184,9 +186,9 @@ myself and collaborators from the University of Pennsylvania (under the directio
 > Period:    7/1/2011 – 6/30/2012  
 
 This team provided several major image registration upgrades to the algorithmic
-toolkit where I wrote a significant portion of the actual software code.  Not only
-did we implement current image registration technologies for inclusion but we also
-developed new and innovative techniques which were also included:
+toolkit and I wrote a significant portion of the actual software code.  Not only
+did we implement current image registration technologies for inclusion into the
+toolkit but we also were responsible for new and innovative techniques:
 
 >  Tustison NJ and Avants BB. Explicit B-spline regularization in diffeomorphic image registration. _Front Neuroinform_, 7:39, 2013.  Cited 21 times; IF = 3.261; Rank 8 out of 57 mathematical & computational biology, 105 out of 252 neurosciences.
 
@@ -194,11 +196,12 @@ developed new and innovative techniques which were also included:
 
 ### D.  Co-investigator and principal developer of _ITK-Lung:  A Software Framework for Lung Image Processing and Analysis_
 
-Consistent with our previous work, Professor James C. Gee and I recently submitted
+Jim Gee and I recently submitted
 an NIH R01 grant for the development of ITK-Lung, a set of open-source software
 tools for CT, PET, MRI pulmonary image analysis based on the Insight ToolKit.
 Specifically, we plan to provide core algorithms for specific pulmonary image
-analysis tasks across multiple modalities, many of which I have included with
+analysis tasks across multiple modalities, many of which I have implemented and
+made available with
 previous publications. These basic tasks include intra- and inter-modal pulmonary
 image registration, template building for cross-sectional and longitudinal (i.e.,
 respiratory cycle) analyses, functional and structural lung image segmentation,
@@ -206,7 +209,7 @@ perfusion analysis, and computation of quantitative image indices as potential
 imaging biomarkers. These efforts would facilitate other NIH-sponsored projects
 which interface specific pulmonary algorithms (e.g., CT nodule detection) with
 clinical and research applications.  Over the course of this 5-year project, the
-following UVa faculty and staff will be engaged:
+following UVa faculty will be engaged:
 
 * Nicholas J. Tustison, DSc, Principal Investigator (50% / year)
 * Kun Qing, PhD, Co-investigator (15% / year)
@@ -220,7 +223,14 @@ Tools (ANTs). ANTs is popularly considered a state-of-the-art medical image regi
 Brain Institute, the Montreal Neurological Institute, the Laboratory of Neuroimaging at the University
 of Southern California), and industry leaders (e.g., IBM Watson, GE Research).  In addition to
 providing well-performing basic processing components, we have also engineered advanced pipelines
-for obtaining key biomarkers for specific applications.  
+for obtaining key biomarkers for specific applications.  The major publication
+associated with this tool,
+
+> Avants BB, Tustison NJ, Song G, Cook PA, Klein A, and Gee JC. A Reproducible Evaluation of ANTs Similarity Metric Performance in Brain Image Registration, NeuroImage, 54(3):2033–2044, February 2011. Cited 448 times; IF = 6.357; Rank 1 out of 14 neuroimaging, 24 out of 252 neurosciences, 3 out of 125 radiology, nuclear medicine & medical imaging.[^12]
+
+is one of the most cited recent papers from the journal _NeuroImage_.
+
+[^12]: Included as a representative publication.  
 
 
 ### A. The ANTs cortical thickness pipeline
@@ -231,15 +241,18 @@ normal longitudinal changes in the brain.  Up until recently the only publicly a
 for performing this type of measurement was a software program called "FreeSurfer" which is developed
 and made available from Mass General Hospital of Harvard University.  Recently, however,
 I (along with several colleagues) created an ANTs-based pipeline which outperformed
-FreeSurfer on a large, publicly available data set.  This work is described in
+FreeSurfer on multiple, publicly available data sets.  This work is described in
 
 >	Tustison NJ, Cook PA, Klein A, Song G, Das SR, Duda JT, Kandel BM, van Strien N, Stone JR, Gee JC, and Avants BB. Large-Scale Evaluation of ANTs and FreeSurfer Cortical Thickness Measurements. _NeuroImage_, 99:166-179, Oct 2014.  Cited 46 times; IF = 6.357; Rank 1 out of 14 neuroimaging, 24 out of 252 neurosciences, 3 out of 125 radiology, nuclear medicine & medical imaging.
 
+and is currently being employed by multiple groups and several institutions.
 All resulting quantities and corresponding scripts and analyses have been made publicly available
 for external use.  In fact, these measurements were used recently for investigating other
 hypotheses concerning the longitudinal development of the entorhinal cortex:
 
-> Hasan KM, Mwangi B, Cao B, Keser Z, Tustison NJ, Kochunov P, Frye RE, Savatic M, and Soares J. Entorhinal cortex thickness across the human lifespan. J of Neuroimaging, 26(3) :278-82, May 2016.  Cited 0 times; IF = 1.734;  Rank 128 out of 192 clinical neurology, 12 out of 14 neuroimaging, and 65 out of 125 radiology, nuclear medicine & medical imaging.
+> Hasan KM, Mwangi B, Cao B, Keser Z, Tustison NJ, Kochunov P, Frye RE, Savatic M, and Soares J. Entorhinal cortex thickness across the human lifespan. J of Neuroimaging, 26(3) :278-82, May 2016.  Cited 0 times; IF = 1.734;  Rank 128 out of 192 clinical neurology, 12 out of 14 neuroimaging, and 65 out of 125 radiology, nuclear medicine & medical imaging.[^13]
+
+[^13]: Included as a representative publication.  
 
 ### B. Participant in international medical image analysis competitions
 
@@ -289,7 +302,9 @@ originating from our Sourceforge or Github ANTs repositories.  These
 inquiries range from instructions for specific programs to
 providing analysis guidelines for large-scale studies.  
 
-__Developer for the ANTsR project.__  ANTs (Advanced Normalization Tools) is designed to provide high performance image processing techniques for medical image analysis.  During the evolution of the toolkit, it became clear that robust statistical machinery was lacking for making inferences from data produced from ANTs processing and visualization.  As part of a collaborative effort, I am part of the ANTsR development team which provides an interface between ANTs and the R project for statistical computing and visualization thus providing a complete set of tools for multivariate image analysis. ANTsR intends to provide a modern framework for medical analytics, with a focus on imaging-assisted prediction and statistical power.  The ANTsR package is publicly available on the github project hosting service
+### D. Developer for the ANTsR project
+
+ANTs (Advanced Normalization Tools) is designed to provide high performance image processing techniques for medical image analysis.  During the evolution of the toolkit, it became clear that robust statistical machinery was lacking for making inferences from data produced from ANTs processing and visualization.  As part of a collaborative effort, I am part of the ANTsR development team which provides an interface between ANTs and the R project for statistical computing and visualization thus providing a complete set of tools for multivariate image analysis. ANTsR intends to provide a modern framework for medical analytics, with a focus on imaging-assisted prediction and statistical power.  The ANTsR package is publicly available on the github project hosting service
 
 ##  III. Research Support
 

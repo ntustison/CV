@@ -100,54 +100,51 @@
 
 \pagenumbering{gobble}
 
-\section{Research Statement}\label{research-statement}
+\begin{center}
+{\Large \bf Research Statement}  
 
-\emph{Nicholas J. Tustison, DSc}
+{\em Nicholas J. Tustison}
+\end{center}
 
 As research support faculty in the Department of Radiology and Medical
-Imaging at UVa, my primary research focus is the development of high
-quality and robust software for processing of medical imaging data and
-corresponding analysis strategies for these data. To put it simply and
-generally, I am a data scientist who operates at the nexus of ``big
+Imaging at UVa, my primary research focus is the development of robust
+and accurate software for large-scale processing of medical imaging data
+and corresponding analysis strategies for these data. To put it simply
+and generally, I am a data scientist who operates at the nexus of ``big
 data'', statistical science (including machine learning), and software
-development for gaining insight into human systems (specifically brain,
-lung, and heart).
+development for gaining insight into human systems.
 
 \subsection{I. Principal Developer and Contributor of The Insight
-Toolkit (National Library of Medicine of the National Institutes of
-Health)}\label{i.-principal-developer-and-contributor-of-the-insight-toolkit-national-library-of-medicine-of-the-national-institutes-of-health}
+Toolkit}\label{i.-principal-developer-and-contributor-of-the-insight-toolkit}
 
 Addressing the deficiency of image processing tools for analyzing the
 Visible Human Project in 1999, the National Library of Medicine (NLM) of
 the National Institutes of Health (NIH) funded the Insight Toolkit (ITK)
-initiative bringing together such academic institutions as the
-University of Pennsylvania and the University of North Carolina, along
-with various industrial partners, such as GE Research. This effort
+initiative bringing together multiple academic institutions and various
+industrial partners, such as GE Research. This collaborative effort
 resulted in the Insight Toolkit---a comprehensive, open-source suite of
 implemented algorithms for medical image analysis. Development and
 expansion continues to the present and is heavily utilized by industry
-and academia worldwide and, due to its generalizability, has been
+and academic groups worldwide and, due to its generalizability, has been
 adopted by the French space agency (CNES) for the processing of
 remote-sensing imagery.
 
-\subsubsection{A. Major developer of open source software
-contributions}\label{a.-major-developer-of-open-source-software-contributions}
+\subsubsection{A. Major developer of NIH-sponsored open-source
+software}\label{a.-major-developer-of-nih-sponsored-open-source-software}
 
-I have provided several key developments to the Insight Toolkit which is
-one of the primary venues for my software contributions and influence in
-the field. These contributions are listed in the accompanying CV in
-Section IX, Subsection C \emph{Open-Source Software Short
-Communications}. Starting from my first contribution in 2005
-(\emph{\(N\)-D \(C^k\) B-Spline Scattered Data Approximation}), I have
-continued to provide open-source algorithmic implementations to the
-Insight Toolkit including my latest contribution made recently on August
-27, 2016 (\emph{Two Luis Miguel fans walk into a bar in Nagoya
----\textgreater{} (yada, yada, yada) ---\textgreater{} an
-ITK-implementation of a popular patch-based denoising filter}). Other
-important contributions include operations for image convolution
-(\emph{Image Kernel Convolution}), faux Colormapping (\emph{Meeting Andy
-Warhol Somewhere Over the Rainbow: RGB Colormapping and ITK}), and
-fundamental measures for evaluating segmentation results
+I have provided several key developments to the Insight Toolkit. These
+contributions are listed in the accompanying CV (Section IX, Subsection
+C) \emph{Open-Source Software Short Communications}. Starting with my
+first contribution in 2005 (\emph{\(N\)-D \(C^k\) B-Spline Scattered
+Data Approximation}), I have continued to provide well-known,
+open-source algorithmic implementations to the Insight Toolkit including
+my latest contribution made recently on August 27, 2016 (\emph{Two Luis
+Miguel fans walk into a bar in Nagoya ---\textgreater{} (yada, yada,
+yada) ---\textgreater{} an ITK-implementation of a popular patch-based
+denoising filter}). Other important contributions include operations for
+image convolution (\emph{Image Kernel Convolution}), faux colormapping
+(\emph{Meeting Andy Warhol Somewhere Over the Rainbow: RGB Colormapping
+and ITK}), and fundamental measures for evaluating segmentation results
 (\emph{Introducing Dice, Jaccard, and Other Label Overlap Measures To
 ITK}). These software classes have been downloaded over 67,413 times
 (average number of downloads per publication = 2,931).
@@ -159,8 +156,8 @@ Of all these contributions, perhaps my most significant is a method for
 removing the low frequency inhomogeneity artifacts common to MR images
 as an important preprocessing step for MR image analysis. This algorithm
 is commonly referred to in the literature as ``N4'' or ``Nick's
-nonparametric nonuniform intensity normalization'' which is described in
-the following publication:
+nonparametric nonuniform intensity normalization'' which was formally
+introduced in the following publication:
 
 \begin{quote}
 Tustison NJ, Avants BB, Cook PA, Egan A, Zheng Y, Yushkevich PA, and Gee
@@ -169,7 +166,8 @@ JC. N4ITK: Improved N3 Bias Correction, \emph{IEEE Trans Med Imaging},
 100 computer science, interdisciplinary applications, 12 out of 76
 biomedical engineering, 18 out of 249 electrical \& electronic
 engineering, 3 out of 24 imaging science \& photographic technology, 21
-out of 125 radiology, nuclear medicine \& medical imaging.
+out of 125 radiology, nuclear medicine \& medical imaging.\footnote{Included
+  as a representative publication.}
 \end{quote}
 
 It is a significant extension of the popular N3 algorithm\footnote{Sled
@@ -192,15 +190,15 @@ where it has been downloaded over 10,000 times.
 image registration
 refactoring}\label{c.-co-investigator-and-principal-developer-of-the-itkv4-image-registration-refactoring}
 
-Image registration (or the alignment of corresponding features between
-two images) is a fundamental component in medical image processing and
+Image registration (or the mapping of corresponding features between two
+images) is a fundamental component in medical image processing and
 analysis. In 2011 the NIH-NLM sponsored a large-scale funding effort to
 ``modernize'' the Insight Toolkit. One of the three major contracts was
-to provide modern image registration techniques requiring a complete
-refactoring of the existing image registration framework. This contract
-was awarded to a joint team consisting of myself and collaborators from
-the University of Pennsylvania (under the direction of Professor James
-C. Gee):
+to provide modern image registration techniques to the toolkit requiring
+a complete refactoring of the existing image registration framework.
+This contract was awarded to a joint team consisting of myself and
+collaborators from the University of Pennsylvania (under the direction
+of Professor Jim Gee):
 
 \begin{quote}
 Sponsor: NIH-NLM\\
@@ -211,10 +209,10 @@ Period: 7/1/2011 -- 6/30/2012
 \end{quote}
 
 This team provided several major image registration upgrades to the
-algorithmic toolkit where I wrote a significant portion of the actual
+algorithmic toolkit and I wrote a significant portion of the actual
 software code. Not only did we implement current image registration
-technologies for inclusion but we also developed new and innovative
-techniques which were also included:
+technologies for inclusion into the toolkit but we also were responsible
+for new and innovative techniques:
 
 \begin{quote}
 Tustison NJ and Avants BB. Explicit B-spline regularization in
@@ -235,21 +233,20 @@ developer of \emph{ITK-Lung: A Software Framework for Lung Image
 Processing and
 Analysis}}{D. Co-investigator and principal developer of ITK-Lung: A Software Framework for Lung Image Processing and Analysis}}\label{d.-co-investigator-and-principal-developer-of-itk-lung-a-software-framework-for-lung-image-processing-and-analysis}
 
-Consistent with our previous work, Professor James C. Gee and I recently
-submitted an NIH R01 grant for the development of ITK-Lung, a set of
-open-source software tools for CT, PET, MRI pulmonary image analysis
-based on the Insight ToolKit. Specifically, we plan to provide core
-algorithms for specific pulmonary image analysis tasks across multiple
-modalities, many of which I have included with previous publications.
-These basic tasks include intra- and inter-modal pulmonary image
-registration, template building for cross-sectional and longitudinal
-(i.e., respiratory cycle) analyses, functional and structural lung image
-segmentation, perfusion analysis, and computation of quantitative image
-indices as potential imaging biomarkers. These efforts would facilitate
-other NIH-sponsored projects which interface specific pulmonary
-algorithms (e.g., CT nodule detection) with clinical and research
-applications. Over the course of this 5-year project, the following UVa
-faculty and staff will be engaged:
+Jim Gee and I recently submitted an NIH R01 grant for the development of
+ITK-Lung, a set of open-source software tools for CT, PET, MRI pulmonary
+image analysis based on the Insight ToolKit. Specifically, we plan to
+provide core algorithms for specific pulmonary image analysis tasks
+across multiple modalities, many of which I have implemented and made
+available with previous publications. These basic tasks include intra-
+and inter-modal pulmonary image registration, template building for
+cross-sectional and longitudinal (i.e., respiratory cycle) analyses,
+functional and structural lung image segmentation, perfusion analysis,
+and computation of quantitative image indices as potential imaging
+biomarkers. These efforts would facilitate other NIH-sponsored projects
+which interface specific pulmonary algorithms (e.g., CT nodule
+detection) with clinical and research applications. Over the course of
+this 5-year project, the following UVa faculty will be engaged:
 
 \begin{itemize}
 \tightlist
@@ -276,7 +273,19 @@ Institute, the Laboratory of Neuroimaging at the University of Southern
 California), and industry leaders (e.g., IBM Watson, GE Research). In
 addition to providing well-performing basic processing components, we
 have also engineered advanced pipelines for obtaining key biomarkers for
-specific applications.
+specific applications. The major publication associated with this tool,
+
+\begin{quote}
+Avants BB, Tustison NJ, Song G, Cook PA, Klein A, and Gee JC. A
+Reproducible Evaluation of ANTs Similarity Metric Performance in Brain
+Image Registration, NeuroImage, 54(3):2033--2044, February 2011. Cited
+448 times; IF = 6.357; Rank 1 out of 14 neuroimaging, 24 out of 252
+neurosciences, 3 out of 125 radiology, nuclear medicine \& medical
+imaging.\footnote{Included as a representative publication.}
+\end{quote}
+
+is one of the most cited recent papers from the journal
+\emph{NeuroImage}.
 
 \subsubsection{A. The ANTs cortical thickness
 pipeline}\label{a.-the-ants-cortical-thickness-pipeline}
@@ -288,8 +297,8 @@ available resource for performing this type of measurement was a
 software program called ``FreeSurfer'' which is developed and made
 available from Mass General Hospital of Harvard University. Recently,
 however, I (along with several colleagues) created an ANTs-based
-pipeline which outperformed FreeSurfer on a large, publicly available
-data set. This work is described in
+pipeline which outperformed FreeSurfer on multiple, publicly available
+data sets. This work is described in
 
 \begin{quote}
 Tustison NJ, Cook PA, Klein A, Song G, Das SR, Duda JT, Kandel BM, van
@@ -300,9 +309,10 @@ neuroimaging, 24 out of 252 neurosciences, 3 out of 125 radiology,
 nuclear medicine \& medical imaging.
 \end{quote}
 
-All resulting quantities and corresponding scripts and analyses have
-been made publicly available for external use. In fact, these
-measurements were used recently for investigating other hypotheses
+and is currently being employed by multiple groups and several
+institutions. All resulting quantities and corresponding scripts and
+analyses have been made publicly available for external use. In fact,
+these measurements were used recently for investigating other hypotheses
 concerning the longitudinal development of the entorhinal cortex:
 
 \begin{quote}
@@ -311,7 +321,7 @@ Savatic M, and Soares J. Entorhinal cortex thickness across the human
 lifespan. J of Neuroimaging, 26(3) :278-82, May 2016. Cited 0 times; IF
 = 1.734; Rank 128 out of 192 clinical neurology, 12 out of 14
 neuroimaging, and 65 out of 125 radiology, nuclear medicine \& medical
-imaging.
+imaging.\footnote{Included as a representative publication.}
 \end{quote}
 
 \subsubsection{B. Participant in international medical image analysis
@@ -375,18 +385,21 @@ week originating from our Sourceforge or Github ANTs repositories. These
 inquiries range from instructions for specific programs to providing
 analysis guidelines for large-scale studies.
 
-\textbf{Developer for the ANTsR project.} ANTs (Advanced Normalization
-Tools) is designed to provide high performance image processing
-techniques for medical image analysis. During the evolution of the
-toolkit, it became clear that robust statistical machinery was lacking
-for making inferences from data produced from ANTs processing and
-visualization. As part of a collaborative effort, I am part of the ANTsR
-development team which provides an interface between ANTs and the R
-project for statistical computing and visualization thus providing a
-complete set of tools for multivariate image analysis. ANTsR intends to
-provide a modern framework for medical analytics, with a focus on
-imaging-assisted prediction and statistical power. The ANTsR package is
-publicly available on the github project hosting service
+\subsubsection{D. Developer for the ANTsR
+project}\label{d.-developer-for-the-antsr-project}
+
+ANTs (Advanced Normalization Tools) is designed to provide high
+performance image processing techniques for medical image analysis.
+During the evolution of the toolkit, it became clear that robust
+statistical machinery was lacking for making inferences from data
+produced from ANTs processing and visualization. As part of a
+collaborative effort, I am part of the ANTsR development team which
+provides an interface between ANTs and the R project for statistical
+computing and visualization thus providing a complete set of tools for
+multivariate image analysis. ANTsR intends to provide a modern framework
+for medical analytics, with a focus on imaging-assisted prediction and
+statistical power. The ANTsR package is publicly available on the github
+project hosting service
 
 \subsection{III. Research Support}\label{iii.-research-support}
 
