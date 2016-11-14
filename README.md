@@ -42,6 +42,7 @@
    Human Brain Mapping  
    Image and Vision Computing  
    International Journal of Pattern Recognition and Artificial Intelligence  
+   IEEE Transactions on Cybernetics  
    IEEE Transactions on Medical Imaging  
    IEEE Transactions on Pattern Analysis and Machine Intelligence  
    IEEE Transactions on Biomedical Engineering  
