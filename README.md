@@ -113,10 +113,11 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 <!--
 **In Progress**
 
-__Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation MRI.
 --> 
 
 **2016**
+
+__Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation magnetic resonance imaging, Submitted.
 
 James R. Stone, Elisabeth A. Wilde, Brian A. Taylor, David F. Tate,  Harvey Levin,  Erin D. Bigler, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer,  Tracy Abildskov, Garrett M. Black4, Michael J. Lennon, Gerald E. York,  Rajan Agarwal,  Jorge DeVillasante, John L. Ritter, Peter B. Walker, Stephen T. Ahlers, and __Nicholas J. Tustison__.  Supervised learning technique for the automated identification of white matter hyperintensities in traumatic brain injury, _Brain Inury_, 2016, Accepted.
 
