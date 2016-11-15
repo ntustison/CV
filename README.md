@@ -122,9 +122,11 @@ James R. Stone, Elisabeth A. Wilde, Brian A. Taylor, David F. Tate,  Harvey Levi
 
 Elisabeth A. Wilde, Erin D. Bigler, Trevor J. Huff, Haonan Wang, Garrett M. Black, Zachary Christensen, Naomi Goodrich-Hunsaker, Jo Ann Petrie, Tracy Abildskov, Brian A. Taylor, James R. Stone, __Nicholas J. Tustison__, Mary R. Newsome, Harvey S. Levin, Zili D. Chu, Gerald E. York, David F. Tate. Quantitative Structural Neuroimaging of Mild Traumatic Brain Injury in the Chronic Effects of Neurotrauma Consortium (CENC): Comparison of Volumetric Data within and across Scanners, _Brain Injury_, 2016, Accepted.
 
+<!--
 Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 2016. Accepted
+-->
 
-Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 2016.  Accepted
+Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 2016.  [Accepted](http://ieeexplore.ieee.org/document/7542127/)
 
 Lucia Flors, John P. Mugler, Eduard E. De Lange, Grady W. Miller, Jaime F. Mata, __Nick Tustison__, Iulian C. Ruset,  William W. Hersman, and Talissa A. Altes. Hyperpolarized Gas Magnetic Resonance Lung Imaging in Children and Young Adults, _J Thorac Imaging_, 2016.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/27428024)
 
