@@ -42,6 +42,7 @@
    Human Brain Mapping  
    Image and Vision Computing  
    International Journal of Pattern Recognition and Artificial Intelligence  
+   IEEE Transactions on Cybernetics  
    IEEE Transactions on Medical Imaging  
    IEEE Transactions on Pattern Analysis and Machine Intelligence  
    IEEE Transactions on Biomedical Engineering  
@@ -112,20 +113,27 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 <!--
 **In Progress**
 
-__Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation MRI.
 --> 
 
 **2016**
 
-James R. Stone, Elisabeth A. Wilde, Brian A. Taylor, David F. Tate,  Harvey Levin,  Erin D. Bigler, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer,  Tracy Abildskov, Garrett M. Black4, Michael J. Lennon, Gerald E. York,  Rajan Agarwal,  Jorge DeVillasante, John L. Ritter, Peter B. Walker, Stephen T. Ahlers, and __Nicholas J. Tustison__.  Supervised learning technique for the automated identification of white matter hyperintensities in traumatic brain injury, _Brain Inury_, 2016, Accepted.
+<!--
+__Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation magnetic resonance imaging, Submitted.
+-->
 
-Elisabeth A. Wilde, Erin D. Bigler, Trevor J. Huff, Haonan Wang, Garrett M. Black, Zachary Christensen, Naomi Goodrich-Hunsaker, Jo Ann Petrie, Tracy Abildskov, Brian A. Taylor, James R. Stone, __Nicholas J. Tustison__, Mary R. Newsome, Harvey S. Levin, Zili D. Chu, Gerald E. York, David F. Tate. Quantitative Structural Neuroimaging of Mild Traumatic Brain Injury in the Chronic Effects of Neurotrauma Consortium (CENC): Comparison of Volumetric Data within and across Scanners, _Brain Injury_, 2016, Accepted.
-
+<!--
 Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 2016. Accepted
+-->
 
-Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 2016.  Accepted
+Talissa A. Altes, Mac Johnson, Meredith Fidler, Martyn Botfield, __Nicholas J. Tustison__, Carlos Leiva-Salinas, Eduard E. de Lange, Deborah Froh, and John P. Mugler III.  Use of hyperpolarized helium-3 MRI to assess response to ivacaftor treatment in patients with cystic fibrosis, _Journal of Cystic Fibrosis_, [In press](http://www.cysticfibrosisjournal.com/article/S1569-1993(16)30673-7/abstract)
 
-Lucia Flors, John P. Mugler, Eduard E. De Lange, Grady W. Miller, Jaime F. Mata, __Nick Tustison__, Iulian C. Ruset,  William W. Hersman, and Talissa A. Altes. Hyperpolarized Gas Magnetic Resonance Lung Imaging in Children and Young Adults, _J Thorac Imaging_, 2016.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/27428024)
+Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 2016.  [Accepted](http://ieeexplore.ieee.org/document/7542127/)
+
+Elisabeth A. Wilde, Erin D. Bigler, Trevor J. Huff, Haonan Wang, Garrett M. Black, Zachary Christensen, Naomi Goodrich-Hunsaker, Jo Ann Petrie, Tracy Abildskov, Brian A. Taylor, James R. Stone, __Nicholas J. Tustison__, Mary R. Newsome, Harvey S. Levin, Zili D. Chu, Gerald E. York, David F. Tate. Quantitative Structural Neuroimaging of Mild Traumatic Brain Injury in the Chronic Effects of Neurotrauma Consortium (CENC): Comparison of Volumetric Data within and across Scanners, _Brain Injury_, 30(12):1442-1451, 2016. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27834540)
+
+James R. Stone, Elisabeth A. Wilde, Brian A. Taylor, David F. Tate,  Harvey Levin,  Erin D. Bigler, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer,  Tracy Abildskov, Garrett M. Black4, Michael J. Lennon, Gerald E. York,  Rajan Agarwal,  Jorge DeVillasante, John L. Ritter, Peter B. Walker, Stephen T. Ahlers, and __Nicholas J. Tustison__.  Supervised learning technique for the automated identification of white matter hyperintensities in traumatic brain injury, _Brain Inury_, 30(12):1458-1468, 2016. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27834541)
+
+Lucia Flors, John P. Mugler, Eduard E. De Lange, Grady W. Miller, Jaime F. Mata, __Nick Tustison__, Iulian C. Ruset,  William W. Hersman, and Talissa A. Altes. Hyperpolarized Gas Magnetic Resonance Lung Imaging in Children and Young Adults, _J Thorac Imaging_, 31(5):285-95, Sep 2016.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/27428024)
 
 Anthony J. Filiano, Yang Xu, __Nicholas J. Tustison__, Rachel L. Marsh, Wendy Baker, Igor Smirnov,
 Christopher C. Overall, Sachin P. Gadani, Stephen D. Turner, Zhiping Weng, Sayeda Najamussahar Peerzade, Hao Chen, Kevin S. Lee, Michael M. Scott, Mark P. Beenhakker, Vladimir Litvak, and Jonathan Kipnis.  Unexpected role of interferon-γ in regulating neuronal connectivity and social behaviour, _Nature_, 535(7612):425-9, Jul 2016. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/27409813)
