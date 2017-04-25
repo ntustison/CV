@@ -115,7 +115,6 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 
 --> 
 
-**2016**
 
 <!--
 __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation magnetic resonance imaging, Submitted.
@@ -125,7 +124,14 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 2016. Accepted
 -->
 
-Talissa A. Altes, Mac Johnson, Meredith Fidler, Martyn Botfield, __Nicholas J. Tustison__, Carlos Leiva-Salinas, Eduard E. de Lange, Deborah Froh, and John P. Mugler III.  Use of hyperpolarized helium-3 MRI to assess response to ivacaftor treatment in patients with cystic fibrosis, _Journal of Cystic Fibrosis_, [In press](http://www.cysticfibrosisjournal.com/article/S1569-1993(16)30673-7/abstract)
+**2017**
+
+A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_.  [Accepted]()
+
+
+Talissa A. Altes, Mac Johnson, Meredith Fidler, Martyn Botfield, __Nicholas J. Tustison__, Carlos Leiva-Salinas, Eduard E. de Lange, Deborah Froh, and John P. Mugler III.  Use of hyperpolarized helium-3 MRI to assess response to ivacaftor treatment in patients with cystic fibrosis, _Journal of Cystic Fibrosis_, 16(2):267-274, Mar 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28132845)
+
+**2016**
 
 Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 2016.  [Accepted](http://ieeexplore.ieee.org/document/7542127/)
 
