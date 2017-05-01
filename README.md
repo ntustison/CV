@@ -126,8 +126,9 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2017**
 
-A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_.  [Accepted]()
+Yi Xin, ..., __Nicholas J. Tustison__, ..., and Maurizio Cereda.  Tidal Changes on Computed Tomography and Progression of ARDS, _Thorax_.  [Accepted]()
 
+A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_.  [Accepted]()
 
 Talissa A. Altes, Mac Johnson, Meredith Fidler, Martyn Botfield, __Nicholas J. Tustison__, Carlos Leiva-Salinas, Eduard E. de Lange, Deborah Froh, and John P. Mugler III.  Use of hyperpolarized helium-3 MRI to assess response to ivacaftor treatment in patients with cystic fibrosis, _Journal of Cystic Fibrosis_, 16(2):267-274, Mar 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28132845)
 
