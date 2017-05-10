@@ -126,6 +126,8 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2017**
 
+Amy C. Ladd, David G. Browhan, Ravindar R. Thomas, Paula M. Keeney, Stuart B. Berr, Shaharyar M. Khan, Francisco R. Portell, Meiram Z. Shakenov, Patrick F. Antkowiak, Bijoy Kundu, __Nicholas J. Tustison__, James P. Bennett, Jr.  RNA-seq Analyses Reveal that Cervical Spinal Cords and Anterior Motor Neurons from Amyotrophic Lateral Sclerosis Subjects Show Reduced Expression of Mitochondrial DNA-Encoded Respiratory Genes, and rhTFAM May Correct This Respiratory Deficiency, _Brain Research_.  [Accepted]()
+
 Yi Xin, ..., __Nicholas J. Tustison__, ..., and Maurizio Cereda.  Tidal Changes on Computed Tomography and Progression of ARDS, _Thorax_.  [Accepted]()
 
 A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_.  [Accepted]()
