@@ -128,7 +128,7 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2017**
 
-Yi Xin, ..., __Nicholas J. Tustison__, ..., and Maurizio Cereda.  Tidal Changes on Computed Tomography and Progression of ARDS, _Thorax_.  [Accepted]()
+Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_.  [Accepted](http://thorax.bmj.com/content/early/2017/06/19/thoraxjnl-2016-209833)
 
 A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_.  [Accepted]()
 
