@@ -132,7 +132,7 @@ E. Mortani Barbosa Jr., S. Simpson, J.C. Lee, __N. Tustison__, J. Gee, and H. Sh
 
 Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28634220)
 
-A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28656622)
+A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_, 231(3):433-443, Sep 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28656622)
 
 Amy C. Ladd, David G. Browhan, Ravindar R. Thomas, Paula M. Keeney, Stuart B. Berr, Shaharyar M. Khan, Francisco R. Portell, Meiram Z. Shakenov, Patrick F. Antkowiak, Bijoy Kundu, __Nicholas J. Tustison__, James P. Bennett, Jr.  RNA-seq Analyses Reveal that Cervical Spinal Cords and Anterior Motor Neurons from Amyotrophic Lateral Sclerosis Subjects Show Reduced Expression of Mitochondrial DNA-Encoded Respiratory Genes, and rhTFAM May Correct This Respiratory Deficiency, _Brain Research_ 1667:74-83, Jul 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28511992)
 
