@@ -128,6 +128,8 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2017**
 
+E. Mortani Barbosa Jr., H. Shou, S. Simpson, __N. Tustison__, J. Gee, and J.C. Lee, Quantitative CT metrics from the transplanted lung can predict FEV1 after lung transplantationn, _Journal of Thoracic Imaging_. [(Accepted)]()
+
 E. Mortani Barbosa Jr., S. Simpson, J.C. Lee, __N. Tustison__, J. Gee, and H. Shou, Multivariate modeling using quantitative CT metrics may improve accuracy of diagnosis of bronchiolitis obliterans syndrome after lung transplantation, _Computers in Biology and Medicine_. [(In Press)](http://www.sciencedirect.com/science/article/pii/S0010482517302755)
 
 Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28634220)
