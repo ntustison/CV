@@ -2,12 +2,73 @@
 %% http://bibdesk.sourceforge.net/
 
 
-%% Created for Nick Tustison at 2017-07-05 09:18:56 -0700 
+%% Created for Nick Tustison at 2017-09-07 15:33:13 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{Barbosa:2017aa,
+	Abstract = {BACKGROUND: To assess how quantitative CT (qCT) metrics compare to pulmonary function testing (PFT) and semi-quantitative image scores (SQS) to diagnose bronchiolitis obliterans syndrome (BOS), manifestation of chronic lung allograft dysfunction after lung transplantation (LTx), according to the type of LTx (unilateral or bilateral).
+METHODS: Paired inspiratory-expiratory CT scans and PFTs of 176 LTx patients were analyzed retrospectively, and separated into BOS (78) and non-BOS (98) cohorts. SQS were assessed by 2 radiologists and graded (0-3) for features including mosaic attenuation and bronchiectasis. qCT metrics included lung volumes and air trapping volumes. Multivariate logistic regression (MVLR) and support vector machines (SVM) were used for the classification task.
+RESULTS: MVLR and SVM models using PFT metrics demonstrated highest accuracy for bilateral LTx (max AUC 0.771), whereas models using qCT metrics-only outperformed models using SQS or PFTs in unilateral LTx (max AUC 0.817), to diagnose BOS. Adding PC (principal components) from qCT on top of PFT improved model diagnostic accuracy for all transplant types.
+CONCLUSIONS: Combinations of qCT metrics augment the diagnostic performance of PFTs, are superior to SQS to predict BOS status, and outperform PFTs in the unilateral LTx group. This suggests that latent information on paired volumetric CT may allow early diagnosis of BOS in LTx patients, particularly in unilateral LTx.},
+	Author = {Barbosa, Jr, E Mortani and Simpson, S and Lee, J C and Tustison, N and Gee, J and Shou, H},
+	Date-Added = {2017-09-07 22:32:49 +0000},
+	Date-Modified = {2017-09-07 22:32:49 +0000},
+	Doi = {10.1016/j.compbiomed.2017.08.016},
+	Journal = {Comput Biol Med},
+	Journal-Full = {Computers in biology and medicine},
+	Keywords = {Bronchiolitis obliterans syndrome (BOS); Lung transplantation (LTx); Multivariate logistic regression (MVLR); Quantitative CT (qCT) metrics; Support vector machines (SVM)},
+	Month = {Aug},
+	Pages = {275-281},
+	Pmid = {28850899},
+	Pst = {aheadofprint},
+	Title = {Multivariate modeling using quantitative CT metrics may improve accuracy of diagnosis of bronchiolitis obliterans syndrome after lung transplantation},
+	Volume = {89},
+	Year = {2017},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.compbiomed.2017.08.016}}
+
+@article{Cereda:2017aa,
+	Abstract = {BACKGROUND: Uncertain prediction of outcome in acute respiratory distress syndrome (ARDS) impedes individual patient management and clinical trial design.
+OBJECTIVES: To develop a radiological metric of injurious inflation derived from matched inspiratory and expiratory CT scans, calibrate it in a model of experimental lung injury, and test it in patients with ARDS.
+METHODS: 73 anaesthetised rats (acid aspiration model) were ventilated (protective or non-protective) for up to 4 hours to generate a spectrum of lung injury. CT was performed (inspiratory and expiratory) at baseline each hour, paired inspiratory and expiratory images were superimposed and voxels tracked in sequential scans. In nine patients with ARDS, paired inspiratory and expiratory CT scans from the first intensive care unit week were analysed.
+RESULTS: In experimental studies, regions of lung with unstable inflation (ie, partial or reversible airspace filling reflecting local strain) were the areas in which subsequent progression of injury was greatest in terms of progressive infiltrates (R=0.77) and impaired compliance (R=0.67, p<0.01). In patients with ARDS, a threshold fraction of tissue with unstable inflation was apparent: >28% in all patients who died and ≤28% in all who survived, whereas segregation of survivors versus non-survivors was not possible based on oxygenation or lung mechanics.
+CONCLUSIONS: A single set of superimposed inspiratory-expiratory CT scans may predict progression of lung injury and outcome in ARDS; if these preliminary results are validated, this could facilitate clinical trial recruitment and individualised care.},
+	Author = {Cereda, Maurizio and Xin, Yi and Hamedani, Hooman and Bellani, Giacomo and Kadlecek, Stephen and Clapp, Justin and Guerra, Luca and Meeder, Natalie and Rajaei, Jennia and Tustison, Nicholas J and Gee, James C and Kavanagh, Brian P and Rizi, Rahim R},
+	Date-Added = {2017-09-07 22:32:33 +0000},
+	Date-Modified = {2017-09-07 22:32:33 +0000},
+	Doi = {10.1136/thoraxjnl-2016-209833},
+	Journal = {Thorax},
+	Journal-Full = {Thorax},
+	Keywords = {acute lung injury; artificial respiration; computed tomography; diagnostic imaging; ventilator-induced lung injury\},
+	Month = {Jun},
+	Pmid = {28634220},
+	Pst = {aheadofprint},
+	Title = {Tidal changes on CT and progression of ARDS},
+	Year = {2017},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1136/thoraxjnl-2016-209833}}
+
+@article{Maga:2017aa,
+	Abstract = {Laboratory mice are staples for evo/devo and genetics studies. Inbred strains provide a uniform genetic background to manipulate and understand gene-environment interactions, while their crosses have been instrumental in studies of genetic architecture, integration and modularity, and mapping of complex biological traits. Recently, there have been multiple large-scale studies of laboratory mice to further our understanding of the developmental basis, evolution, and genetic control of shape variation in the craniofacial skeleton (i.e. skull and mandible). These experiments typically use micro-computed tomography (micro-CT) to capture the craniofacial phenotype in 3D and rely on manually annotated anatomical landmarks to conduct statistical shape analysis. Although the common choice for imaging modality and phenotyping provides the potential for collaborative research for even larger studies with more statistical power, the investigator (or lab-specific) nature of the data collection hampers these efforts. Investigators are rightly concerned that subtle differences in how anatomical landmarks were recorded will create systematic bias between studies that will eventually influence scientific findings. Even if researchers are willing to repeat landmark annotation on a combined dataset, different lab practices and software choices may create obstacles for standardization beyond the underlying imaging data. Here, we propose a freely available analysis system that could assist in the standardization of micro-CT studies in the mouse. Our proposal uses best practices developed in biomedical imaging and takes advantage of existing open-source software and imaging formats. Our first contribution is the creation of a synthetic template for the adult mouse craniofacial skeleton from 25 inbred strains and five F1 crosses that are widely used in biological research. The template contains a fully segmented cranium, left and right hemi-mandibles, endocranial space, and the first few cervical vertebrae. We have been using this template in our lab to segment and isolate cranial structures in an automated fashion from a mixed population of mice, including craniofacial mutants, aged 4-12.5 weeks. As a secondary contribution, we demonstrate an application of nearly automated shape analysis, using symmetric diffeomorphic image registration. This approach, which we call diGPA, closely approximates the popular generalized Procrustes analysis (GPA) but negates the collection of anatomical landmarks. We achieve our goals by using the open-source advanced normalization tools (ANT) image quantification library, as well as its associated R library (ANTsR) for statistical image analysis. Finally, we make a plea to investigators to commit to using open imaging standards and software in their labs to the extent possible to increase the potential for data exchange and improve the reproducibility of findings. Future work will incorporate more anatomical detail (such as individual cranial bones, turbinals, dentition, middle ear ossicles) and more diversity into the template.},
+	Author = {Maga, A Murat and Tustison, Nicholas J and Avants, Brian B},
+	Date-Added = {2017-09-07 22:31:50 +0000},
+	Date-Modified = {2017-09-07 22:31:50 +0000},
+	Doi = {10.1111/joa.12645},
+	Journal = {J Anat},
+	Journal-Full = {Journal of anatomy},
+	Keywords = {geometrics morphometrics; image processing; image-based shape analysis; landmarking; microCT; segmentation},
+	Month = {Sep},
+	Number = {3},
+	Pages = {433-443},
+	Pmc = {PMC5554826},
+	Pmid = {28656622},
+	Pst = {ppublish},
+	Title = {A population level atlas of Mus musculus craniofacial skeleton and automated image-based shape analysis},
+	Volume = {231},
+	Year = {2017},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1111/joa.12645}}
 
 @article{Ladd:2017aa,
 	Abstract = {Amyotrophic lateral sclerosis (ALS) is a generally fatal neurodegenerative disease of adults that produces weakness and atrophy due to dysfunction and death of upper and lower motor neurons. We used RNA-sequencing (RNA-seq) to analyze expression of all mitochondrial DNA (mtDNA)-encoded respiratory genes in ALS and CTL human cervical spinal cords (hCSC) and isolated motor neurons. We analyzed with RNA-seq mtDNA gene expression in human neural stem cells (hNSC) exposed to recombinant human mitochondrial transcription factor A (rhTFAM), visualized in 3-dimensions clustered gene networks activated by rhTFAM, quantitated their interactions with other genes and determined their gene ontology (GO) families. RNA-seq and quantitative PCR (qPCR) analyses showed reduced mitochondrial gene expression in ALS hCSC and ALS motor neurons isolated by laser capture microdissection (LCM), and revealed that hNSC and CTL human cervical spinal cords were similar. Rats treated with i.v. rhTFAM showed a dose-response increase in brain respiration and an increase in spinal cord mitochondrial gene expression. Treatment of hNSC with rhTFAM increased expression of mtDNA-encoded respiratory genes and produced one major and several minor clusters of gene interactions. Gene ontology (GO) analysis of rhTFAM-stimulated gene clusters revealed enrichment in GO families involved in RNA and mRNA metabolism, suggesting mitochondrial-nuclear signaling. In postmortem ALS hCSC and LCM-isolated motor neurons we found reduced expression of mtDNA respiratory genes. In hNSC's rhTFAM increased mtDNA gene expression and stimulated mRNA metabolism by unclear mechanisms. rhTFAM may be useful in improving bioenergetic function in ALS.},
