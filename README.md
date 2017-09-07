@@ -128,17 +128,21 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2017**
 
-Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_.  [Accepted](http://thorax.bmj.com/content/early/2017/06/19/thoraxjnl-2016-209833)
+E. Mortani Barbosa Jr., H. Shou, S. Simpson, __N. Tustison__, J. Gee, and J.C. Lee, Quantitative CT metrics from the transplanted lung can predict FEV1 after lung transplantation, _Journal of Thoracic Imaging_. [(Accepted)]()
 
-A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_.  [Accepted]()
+E. Mortani Barbosa Jr., S. Simpson, J.C. Lee, __N. Tustison__, J. Gee, and H. Shou, Multivariate modeling using quantitative CT metrics may improve accuracy of diagnosis of bronchiolitis obliterans syndrome after lung transplantation, _Computers in Biology and Medicine_. [(In Press)](http://www.sciencedirect.com/science/article/pii/S0010482517302755)
+
+Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28634220)
+
+A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_, 231(3):433-443, Sep 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28656622)
+
+Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 21(5):1315-1326, Sep 2017.  [(Accepted)](http://ieeexplore.ieee.org/document/7542127/)
 
 Amy C. Ladd, David G. Browhan, Ravindar R. Thomas, Paula M. Keeney, Stuart B. Berr, Shaharyar M. Khan, Francisco R. Portell, Meiram Z. Shakenov, Patrick F. Antkowiak, Bijoy Kundu, __Nicholas J. Tustison__, James P. Bennett, Jr.  RNA-seq Analyses Reveal that Cervical Spinal Cords and Anterior Motor Neurons from Amyotrophic Lateral Sclerosis Subjects Show Reduced Expression of Mitochondrial DNA-Encoded Respiratory Genes, and rhTFAM May Correct This Respiratory Deficiency, _Brain Research_ 1667:74-83, Jul 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28511992)
 
 Talissa A. Altes, Mac Johnson, Meredith Fidler, Martyn Botfield, __Nicholas J. Tustison__, Carlos Leiva-Salinas, Eduard E. de Lange, Deborah Froh, and John P. Mugler III.  Use of hyperpolarized helium-3 MRI to assess response to ivacaftor treatment in patients with cystic fibrosis, _Journal of Cystic Fibrosis_, 16(2):267-274, Mar 2017. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28132845)
 
 **2016**
-
-Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 2016.  [Accepted](http://ieeexplore.ieee.org/document/7542127/)
 
 Elisabeth A. Wilde, Erin D. Bigler, Trevor J. Huff, Haonan Wang, Garrett M. Black, Zachary Christensen, Naomi Goodrich-Hunsaker, Jo Ann Petrie, Tracy Abildskov, Brian A. Taylor, James R. Stone, __Nicholas J. Tustison__, Mary R. Newsome, Harvey S. Levin, Zili D. Chu, Gerald E. York, David F. Tate. Quantitative Structural Neuroimaging of Mild Traumatic Brain Injury in the Chronic Effects of Neurotrauma Consortium (CENC): Comparison of Volumetric Data within and across Scanners, _Brain Injury_, 30(12):1442-1451, 2016. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/27834540)
 
