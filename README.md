@@ -136,7 +136,7 @@ Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Jus
 
 A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_, 231(3):433-443, Sep 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28656622)
 
-Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 21(5):1315-1326, Sep 2017.  [(Accepted)](http://ieeexplore.ieee.org/document/7542127/)
+Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 21(5):1315-1326, Sep 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28880152)
 
 Amy C. Ladd, David G. Browhan, Ravindar R. Thomas, Paula M. Keeney, Stuart B. Berr, Shaharyar M. Khan, Francisco R. Portell, Meiram Z. Shakenov, Patrick F. Antkowiak, Bijoy Kundu, __Nicholas J. Tustison__, James P. Bennett, Jr.  RNA-seq Analyses Reveal that Cervical Spinal Cords and Anterior Motor Neurons from Amyotrophic Lateral Sclerosis Subjects Show Reduced Expression of Mitochondrial DNA-Encoded Respiratory Genes, and rhTFAM May Correct This Respiratory Deficiency, _Brain Research_ 1667:74-83, Jul 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28511992)
 
