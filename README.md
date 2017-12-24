@@ -132,7 +132,7 @@ E. Mortani Barbosa Jr., H. Shou, S. Simpson, J. Gee, __N. Tustison__, and J.C. L
 
 E. Mortani Barbosa Jr., S. Simpson, J.C. Lee, __N. Tustison__, J. Gee, and H. Shou, Multivariate modeling using quantitative CT metrics may improve accuracy of diagnosis of bronchiolitis obliterans syndrome after lung transplantation, _Computers in Biology and Medicine_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28850899)
 
-Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28634220)
+Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_, 72(11):981-989, Nov 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28634220)
 
 A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_, 231(3):433-443, Sep 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28656622)
 
