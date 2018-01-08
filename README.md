@@ -86,6 +86,7 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 * 1st place, EMPIRE10 lung registration competition, MICCAI Conference 2010 (Team:  Gang Song, Nick Tustison, Brian Avants, Jim Gee).
 * 1st place, BRATS2013 multimodal brain tumor segmentation competition, MICCAI Conference 2013 (Team:  Nick Tustison, Max Wintermark, Chris Durst, Brian Avants).
 * Best paper award, STACOM2014 cardiac motion estimation challenge, MICCAI Conference 2014 (Team:  Nick Tustison, Yang Yang, Michael Salerno).
+* December 2017: NVIDIA academic GPU grant (Titan Xp)
 
 ## Areas of research interest
 
