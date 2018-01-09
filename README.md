@@ -86,6 +86,7 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 * 1st place, EMPIRE10 lung registration competition, MICCAI Conference 2010 (Team:  Gang Song, Nick Tustison, Brian Avants, Jim Gee).
 * 1st place, BRATS2013 multimodal brain tumor segmentation competition, MICCAI Conference 2013 (Team:  Nick Tustison, Max Wintermark, Chris Durst, Brian Avants).
 * Best paper award, STACOM2014 cardiac motion estimation challenge, MICCAI Conference 2014 (Team:  Nick Tustison, Yang Yang, Michael Salerno).
+* December 2017: NVIDIA academic GPU grant (Titan Xp)
 
 ## Areas of research interest
 
@@ -128,15 +129,15 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2017**
 
-E. Mortani Barbosa Jr., H. Shou, S. Simpson, __N. Tustison__, J. Gee, and J.C. Lee, Quantitative CT metrics from the transplanted lung can predict FEV1 after lung transplantation, _Journal of Thoracic Imaging_. [(Accepted)]()
+E. Mortani Barbosa Jr., H. Shou, S. Simpson, J. Gee, __N. Tustison__, and J.C. Lee, Quantitative CT metrics from the transplanted lung can predict FEV1 after lung transplantation, _Journal of Thoracic Imaging_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29135627)
 
-E. Mortani Barbosa Jr., S. Simpson, J.C. Lee, __N. Tustison__, J. Gee, and H. Shou, Multivariate modeling using quantitative CT metrics may improve accuracy of diagnosis of bronchiolitis obliterans syndrome after lung transplantation, _Computers in Biology and Medicine_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28850899)
+Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_, 72(11):981-989, Nov 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28634220)
 
-Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28634220)
+E. Mortani Barbosa Jr., S. Simpson, J.C. Lee, __N. Tustison__, J. Gee, and H. Shou, Multivariate modeling using quantitative CT metrics may improve accuracy of diagnosis of bronchiolitis obliterans syndrome after lung transplantation, _Computers in Biology and Medicine_, 89:275-281, Oct 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28850899)
 
 A. Murat Maga, __Nicholas J. Tustison__, and Brian B. Avants. A population level atlas of _Mus musculus_ craniofacial skeleton and automated image based shape analysis, _Journal of Anatomy_, 231(3):433-443, Sep 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28656622)
 
-Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 21(5):1315-1326, Sep 2017.  [(Accepted)](http://ieeexplore.ieee.org/document/7542127/)
+Beau Pontré, Brett R. Cowan, Edward DiBella, Sancgeetha Kulaseharan, Devavrat Likhite, Nils Noorman, Lennart Tautz, __Nicholas Tustison__, Gert Wollny, Alistair A. Young, and Avan Suinesiaputra.  An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI, _IEEE Journal of Biomedical and Health Informatics_, 21(5):1315-1326, Sep 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28880152)
 
 Amy C. Ladd, David G. Browhan, Ravindar R. Thomas, Paula M. Keeney, Stuart B. Berr, Shaharyar M. Khan, Francisco R. Portell, Meiram Z. Shakenov, Patrick F. Antkowiak, Bijoy Kundu, __Nicholas J. Tustison__, James P. Bennett, Jr.  RNA-seq Analyses Reveal that Cervical Spinal Cords and Anterior Motor Neurons from Amyotrophic Lateral Sclerosis Subjects Show Reduced Expression of Mitochondrial DNA-Encoded Respiratory Genes, and rhTFAM May Correct This Respiratory Deficiency, _Brain Research_ 1667:74-83, Jul 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28511992)
 
