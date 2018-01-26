@@ -127,6 +127,10 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 2016. Accepted
 -->
 
+**2018**
+
+Sandhitsu Das, Long Xie, Laura Wisse, Ranjit Ittyerah, __Nicholas Tustison__, Bradford Dickerson, Paul Yushkevich, and David Wolk. Longitudinal and cross-sectional structural MRI correlates of AV-1451 uptake, _Neurobiology of Aging_.  [conditionally accepted]()
+
 **2017**
 
 E. Mortani Barbosa Jr., H. Shou, S. Simpson, J. Gee, __N. Tustison__, and J.C. Lee, Quantitative CT metrics from the transplanted lung can predict FEV1 after lung transplantation, _Journal of Thoracic Imaging_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29135627)
