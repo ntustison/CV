@@ -67,7 +67,7 @@
    Neuroradiology  
    Neuroscience and Biobehavioral Reviews  
    PLOS ONE  
-   Psychiatric Research:  Neuroimaging
+   Psychiatric Research:  Neuroimaging  
    Respirology  
    SIAM Journal on Imaging Sciences  
 
