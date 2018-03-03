@@ -14,8 +14,9 @@
 
 ## Professional Appointments
 * 2017-present:  **Associate Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
-* 2016-present:  **Visiting Assistant Researcher**, _Department of Neurobiology and Behavior_, University of California, Irvine, Irvine, CA.
+* 2018-present:  **Visiting Associate Researcher**, _Department of Neurobiology and Behavior_, University of California, Irvine, Irvine, CA.
 * 2010-2017:  **Assistant Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
+* 2016-2018:  **Visiting Assistant Researcher**, _Department of Neurobiology and Behavior_, University of California, Irvine, Irvine, CA.
 * 2005-2010:    **Senior Research Investigator**, _Department of Radiology_, University of Pennsylvania, Philadelphia, PA.
 * 2004-2005:    **Research Fellow**, _Department of Radiology_, University of Pennsylvania, Philadelphia, PA.
 
