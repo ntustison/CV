@@ -137,9 +137,9 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 53\. Sandhitsu Das, Long Xie, Laura Wisse, Ranjit Ittyerah, __Nicholas Tustison__, Bradford Dickerson, Paul Yushkevich, and David Wolk. Longitudinal and cross-sectional structural MRI correlates of AV-1451 uptake, _Neurobiology of Aging_.  [conditionally accepted]()
 
-**2017**
+52\. E. Mortani Barbosa Jr., H. Shou, S. Simpson, J. Gee, __N. Tustison__, and J.C. Lee, Quantitative CT metrics from the transplanted lung can predict FEV1 after lung transplantation, _Journal of Thoracic Imaging_, 33(2):112-123, Mar 2018. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29135627)
 
-52\. E. Mortani Barbosa Jr., H. Shou, S. Simpson, J. Gee, __N. Tustison__, and J.C. Lee, Quantitative CT metrics from the transplanted lung can predict FEV1 after lung transplantation, _Journal of Thoracic Imaging_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29135627)
+**2017**
 
 51\. Maurizio Cereda, Yi Xin, Hooman Hamedani, Giacomo Bellani, Stephen Kadlecek, Justin Clapp, Luca Guerra, Natalie Meeder, Jennia Rajaei, __Nicholas J. Tustison__, James C. Gee Brian P. Kavanagh, and Rahim R. Rizi.  Tidal Changes on CT and Progression of ARDS, _Thorax_, 72(11):981-989, Nov 2017.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/28634220)
 
