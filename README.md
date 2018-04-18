@@ -133,6 +133,8 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2018**
 
+XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _Submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
+
 55\. Zachariah M. Reagh, Jessica A. Noche, __Nicholas J. Tustison__, Derek Delisle, Elizabeth A. Murray, and Michael A. Yassa. Functional Imbalance of Anterolateral Entorhinal Cortex and Hippocampal Dentate/CA3 Underlies Age-Related Object Pattern Separation Deficits, _Neuron_.  [In press](http://www.cell.com/neuron/fulltext/S0896-6273(18)30064-3)
 
 54\. Yi Xin, Maurizio Cereda, Hooman Hamedani, Mehrdad Pourfathi, Sarmad Siddiqui, Natalie Meeder, Stephen Kadlacek, Ian Duncan, Harrilla Profka, Jennia Rajaei, __Nicholas Tustison__, James Gee, Brian Kavanagh, and Rahim Rizi.  Unstable Inflation Causing Injury: Insight from Prone Position and Paired CT Scans, _American Journal of Respiratory and Critical Care Medicine_. [conditionally accepted]()
