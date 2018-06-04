@@ -114,6 +114,7 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
      * [The Insight Toolkit](http://www.itk.org)
      * [Advanced Normalization Tools](https://github.com/stnava/ANTs)
      * [Advanced Normalization Tools in R](https://github.com/stnava/ANTsR)
+     * [ANTsRNet](https://github.com/ANTsX/ANTsRNet)
 
 ## Journal Publications
 
