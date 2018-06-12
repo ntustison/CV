@@ -114,6 +114,7 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
      * [The Insight Toolkit](http://www.itk.org)
      * [Advanced Normalization Tools](https://github.com/stnava/ANTs)
      * [Advanced Normalization Tools in R](https://github.com/stnava/ANTsR)
+     * [ANTsRNet](https://github.com/ANTsX/ANTsRNet)
 
 ## Journal Publications
 
@@ -134,6 +135,8 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 **2018**
 
 XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _Submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
+
+56\. Neha Sinha, Chelsie N., Berg, __Nicholas J. Tustison__, Ashlee Shaw, Diane Hill, Michael A. Yassa, and Mark A. Gluck.  APOE ε4 Status in Healthy Older African Americans is Associated with Deficits in Pattern Separation and Hippocampal Hyperactivation,  _Neurobiology of Aging_. [(accepted)](https://www.sciencedirect.com/science/article/pii/S019745801830191X)
 
 55\. Yi Xin, Maurizio Cereda, Hooman Hamedani, Mehrdad Pourfathi, Sarmad Siddiqui, Natalie Meeder, Stephen Kadlacek, Ian Duncan, Harrilla Profka, Jennia Rajaei, __Nicholas Tustison__, James Gee, Brian Kavanagh, and Rahim Rizi.  Unstable Inflation Causing Injury: Insight from Prone Position and Paired CT Scans, _American Journal of Respiratory and Critical Care Medicine_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29420904)
 
