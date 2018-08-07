@@ -136,6 +136,8 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _Submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
 
+57\. __Nicholas J. Tustison__, Brian B. Avants, Zixuan Lin, Xue Feng, Nicholas Cullen, Jaime F. Mata, Lucia Flors, James C. Gee, Talissa A. Altes, John P. Mugler III, and Kun Qing.  Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification, _Academic Radiology_. [Accepted](https://github.com/ntustison/DeepVentNet)
+
 56\. Yi Xin, Maurizio Cereda, Hooman Hamedani, Mehrdad Pourfathi, Sarmad Siddiqui, Natalie Meeder, Stephen Kadlacek, Ian Duncan, Harrilla Profka, Jennia Rajaei, __Nicholas Tustison__, James Gee, Brian Kavanagh, and Rahim Rizi.  Unstable Inflation Causing Injury: Insight from Prone Position and Paired CT Scans, _American Journal of Respiratory and Critical Care Medicine_, 198(2):197-207, Jul 2018. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29420904)
 
 55\. Neha Sinha, Chelsie N., Berg, __Nicholas J. Tustison__, Ashlee Shaw, Diane Hill, Michael A. Yassa, and Mark A. Gluck.  APOE ε4 Status in Healthy Older African Americans is Associated with Deficits in Pattern Separation and Hippocampal Hyperactivation,  _Neurobiology of Aging_, 26;69:221-229, May 2018. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29909179)
