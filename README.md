@@ -136,12 +136,12 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _Submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
 
-59\. Andrew T. Grainger, __Nicholas J. Tustison__, Kun Qing, Rene Roy, Stuart S. Berr, and Weibin Shi.  Deep learning-based quantification of abdominal fat on magnetic resonance images. _PLOS ONE_.  [Accepted](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0204071)
+59\. __Nicholas J. Tustison__, Brian B. Avants, Zixuan Lin, Xue Feng, Nicholas Cullen, Jaime F. Mata, Lucia Flors, James C. Gee, Talissa A. Altes, John P. Mugler III, and Kun Qing.  Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30195415)
+
+58\. K Qing , __NJ Tustison__, JP Mugler 3rd, JF Mata, Z Lin, L Zhao, D Wang, X Feng, JY Shin JY, SJ Callahan, MP Bergman, K Ruppert, TA Altes, JM Cassani, and YM Shim.  Probing Changes in Lung Physiology in COPD Using CT, Perfusion MRI, and Hyperpolarized Xenon-129 MRI, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30087065)
+
+57\. Andrew T. Grainger, __Nicholas J. Tustison__, Kun Qing, Rene Roy, Stuart S. Berr, and Weibin Shi.  Deep learning-based quantification of abdominal fat on magnetic resonance images. _PLoS One_, 13(9):e0204071, Sep 2018.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30235253)
  
-58\. __Nicholas J. Tustison__, Brian B. Avants, Zixuan Lin, Xue Feng, Nicholas Cullen, Jaime F. Mata, Lucia Flors, James C. Gee, Talissa A. Altes, John P. Mugler III, and Kun Qing.  Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30195415)
-
-57\. K Qing , __NJ Tustison__, JP Mugler 3rd, JF Mata, Z Lin, L Zhao, D Wang, X Feng, JY Shin JY, SJ Callahan, MP Bergman, K Ruppert, TA Altes, JM Cassani, and YM Shim.  Probing Changes in Lung Physiology in COPD Using CT, Perfusion MRI, and Hyperpolarized Xenon-129 MRI, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30087065)
-
 56\. Yi Xin, Maurizio Cereda, Hooman Hamedani, Mehrdad Pourfathi, Sarmad Siddiqui, Natalie Meeder, Stephen Kadlacek, Ian Duncan, Harrilla Profka, Jennia Rajaei, __Nicholas Tustison__, James Gee, Brian Kavanagh, and Rahim Rizi.  Unstable Inflation Causing Injury: Insight from Prone Position and Paired CT Scans, _American Journal of Respiratory and Critical Care Medicine_, 198(2):197-207, Jul 2018. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29420904)
 
 55\. Neha Sinha, Chelsie N., Berg, __Nicholas J. Tustison__, Ashlee Shaw, Diane Hill, Michael A. Yassa, and Mark A. Gluck.  APOE ε4 Status in Healthy Older African Americans is Associated with Deficits in Pattern Separation and Hippocampal Hyperactivation,  _Neurobiology of Aging_, 26;69:221-229, May 2018. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29909179)
