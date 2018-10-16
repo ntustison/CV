@@ -136,6 +136,8 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _Submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
 
+60\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_. (Accepted)
+
 59\. __Nicholas J. Tustison__, Brian B. Avants, Zixuan Lin, Xue Feng, Nicholas Cullen, Jaime F. Mata, Lucia Flors, James C. Gee, Talissa A. Altes, John P. Mugler III, and Kun Qing.  Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30195415)
 
 58\. K Qing , __NJ Tustison__, JP Mugler 3rd, JF Mata, Z Lin, L Zhao, D Wang, X Feng, JY Shin JY, SJ Callahan, MP Bergman, K Ruppert, TA Altes, JM Cassani, and YM Shim.  Probing Changes in Lung Physiology in COPD Using CT, Perfusion MRI, and Hyperpolarized Xenon-129 MRI, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30087065)
