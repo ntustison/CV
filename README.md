@@ -96,20 +96,7 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 
 * Quantitative image analysis
     * methodological development
-        * image registration
-        * image segmentation
-        * feature extraction
-        * computer-aided diagnosis
     * applications
-        * neuroimaging
-            * structural (e.g., cortical thickness estimation, diffusion tensor imaging)
-            * functional (e.g., fMRI)
-        * pulmonary image analysis
-            * kinematic estimation
-            * segmentation (CT and MRI)
-            * functional ventilation using hyperpolarized gas imaging
-        * cardiac kinematics
-        * breast imaging
 * Open source software
      * [The Insight Toolkit](http://www.itk.org)
      * [Advanced Normalization Tools](https://github.com/stnava/ANTs)
