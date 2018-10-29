@@ -125,9 +125,9 @@ XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Rob
 
 62\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. (Accepted)
 
-61\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30328104).
+61\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30328104)
 
-60\. Neha Sinha, Zachariah M. Reagh, __Nicholas J. Tustison__, Chelsie N. Berg, Ashlee Shaw, Catherine E. Myers, Diane Hill, Michael A. Yassa, and Mark A. Gluck. ABCA7 Risk Variant in Healthy Older African Americans is Associated with a Functionally Isolated Entorhinal Cortex Mediating Deficient Generalization of Prior Discrimination Training. _Hippocampus_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30318785).
+60\. Neha Sinha, Zachariah M. Reagh, __Nicholas J. Tustison__, Chelsie N. Berg, Ashlee Shaw, Catherine E. Myers, Diane Hill, Michael A. Yassa, and Mark A. Gluck. ABCA7 Risk Variant in Healthy Older African Americans is Associated with a Functionally Isolated Entorhinal Cortex Mediating Deficient Generalization of Prior Discrimination Training. _Hippocampus_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30318785)
 
 59\. __Nicholas J. Tustison__, Brian B. Avants, Zixuan Lin, Xue Feng, Nicholas Cullen, Jaime F. Mata, Lucia Flors, James C. Gee, Talissa A. Altes, John P. Mugler III, and Kun Qing.  Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30195415)
 
