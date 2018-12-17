@@ -123,6 +123,8 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _Submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
 
+63\. Nasreen Sayed, Changho Choi, __Nicholas Tustison__, Jared Roberts, Michael Yassa, Erin Van Enkevort, Alyson Nakamura, Elena I Ivleva, Prabha Sunderajan, David A Khan, Miguel Vazquez, Bruce McEwen, Alexandra Kulikova, Traci Holmes, and Sherwood Brown.  A Randomized, Double-Blind, Placebo-Controlled Trial of Lamotrigine for Prescription Corticosteroid Effects on the Human Hippocampus, _European Neuropsychopharmacology_. [(accepted)]()
+
 62\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
 61\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30328104)
