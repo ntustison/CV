@@ -121,6 +121,8 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2018**
 
+XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based transformations via convolutional neural networks: a review.  _Submitted_.  [preprint](https://drive.google.com/file/d/1MJPadpNBCiyMZjVo8b1gJR-P6ZcsPZrM/view) 
+
 XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _Submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
 
 63\. Nasreen Sayed, Changho Choi, __Nicholas Tustison__, Jared Roberts, Michael Yassa, Erin Van Enkevort, Alyson Nakamura, Elena I Ivleva, Prabha Sunderajan, David A Khan, Miguel Vazquez, Bruce McEwen, Alexandra Kulikova, Traci Holmes, and Sherwood Brown.  A Randomized, Double-Blind, Placebo-Controlled Trial of Lamotrigine for Prescription Corticosteroid Effects on the Human Hippocampus, _European Neuropsychopharmacology_. [(accepted)]()
