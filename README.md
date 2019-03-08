@@ -61,6 +61,7 @@
    Journal of Magnetic Resonance Imaging  
    Journal of Neurotrauma  
    Journal of the Optical Society of America A  
+   MRI  
    Magnetic Resonance in Medicine  
    Medical Physics  
    Medical Image Analysis  
