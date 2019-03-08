@@ -119,17 +119,15 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 2016. Accepted
 -->
 
-**2019**
-
 XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
 
 XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  _submitted_.  [preprint](https://drive.google.com/file/d/1MJPadpNBCiyMZjVo8b1gJR-P6ZcsPZrM/view) 
 
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
 
-64\. Xue Feng, Kun Qing, __Nicholas J. Tustison__, Craig H. Meyer, and Quan Chen. Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images.  _Medical Physics_. [(accepted)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13466)
+**2019**
 
-**2018**
+64\. Xue Feng, Kun Qing, __Nicholas J. Tustison__, Craig H. Meyer, and Quan Chen. Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images.  _Medical Physics_. [(accepted)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13466)
 
 63\. Nasreen Sayed, Changho Choi, __Nicholas Tustison__, Jared Roberts, Michael Yassa, Erin Van Enkevort, Alyson Nakamura, Elena I Ivleva, Prabha Sunderajan, David A Khan, Miguel Vazquez, Bruce McEwen, Alexandra Kulikova, Traci Holmes, and Sherwood Brown.  A Randomized, Double-Blind, Placebo-Controlled Trial of Lamotrigine for Prescription Corticosteroid Effects on the Human Hippocampus, _European Neuropsychopharmacology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30612854)
 
@@ -139,9 +137,11 @@ XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for
 
 60\. Neha Sinha, Zachariah M. Reagh, __Nicholas J. Tustison__, Chelsie N. Berg, Ashlee Shaw, Catherine E. Myers, Diane Hill, Michael A. Yassa, and Mark A. Gluck. ABCA7 Risk Variant in Healthy Older African Americans is Associated with a Functionally Isolated Entorhinal Cortex Mediating Deficient Generalization of Prior Discrimination Training. _Hippocampus_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30318785)
 
-59\. __Nicholas J. Tustison__, Brian B. Avants, Zixuan Lin, Xue Feng, Nicholas Cullen, Jaime F. Mata, Lucia Flors, James C. Gee, Talissa A. Altes, John P. Mugler III, and Kun Qing.  Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30195415)
+59\. __Nicholas J. Tustison__, Brian B. Avants, Zixuan Lin, Xue Feng, Nicholas Cullen, Jaime F. Mata, Lucia Flors, James C. Gee, Talissa A. Altes, John P. Mugler III, and Kun Qing.  Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification, _Academic Radiology_, 26(3):412-423, Mar 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30195415)
 
-58\. K Qing , __NJ Tustison__, JP Mugler 3rd, JF Mata, Z Lin, L Zhao, D Wang, X Feng, JY Shin JY, SJ Callahan, MP Bergman, K Ruppert, TA Altes, JM Cassani, and YM Shim.  Probing Changes in Lung Physiology in COPD Using CT, Perfusion MRI, and Hyperpolarized Xenon-129 MRI, _Academic Radiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30087065)
+58\. K Qing, __NJ Tustison__, JP Mugler 3rd, JF Mata, Z Lin, L Zhao, D Wang, X Feng, JY Shin JY, SJ Callahan, MP Bergman, K Ruppert, TA Altes, JM Cassani, and YM Shim.  Probing Changes in Lung Physiology in COPD Using CT, Perfusion MRI, and Hyperpolarized Xenon-129 MRI, _Academic Radiology_, 26(3):326-334, Mar 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30087065)
+
+**2018**
 
 57\. Andrew T. Grainger, __Nicholas J. Tustison__, Kun Qing, Rene Roy, Stuart S. Berr, and Weibin Shi.  Deep learning-based quantification of abdominal fat on magnetic resonance images. _PLoS One_, 13(9):e0204071, Sep 2018.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30235253)
  
