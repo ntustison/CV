@@ -121,9 +121,13 @@ Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A.
 
 **2019**
 
-XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  _Submitted_.  [preprint](https://drive.google.com/file/d/1MJPadpNBCiyMZjVo8b1gJR-P6ZcsPZrM/view) 
+XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
 
-XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _Submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
+XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  _submitted_.  [preprint](https://drive.google.com/file/d/1MJPadpNBCiyMZjVo8b1gJR-P6ZcsPZrM/view) 
+
+XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
+
+64\. Xue Feng, Kun Qing, __Nicholas J. Tustison__, Craig H. Meyer, and Quan Chen. Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images.  _Medical Physics_. [(accepted)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13466)
 
 **2018**
 
