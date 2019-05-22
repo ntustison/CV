@@ -121,13 +121,15 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 2016. Accepted
 -->
 
-XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
-
-XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  _submitted_.  [preprint](https://drive.google.com/file/d/1MJPadpNBCiyMZjVo8b1gJR-P6ZcsPZrM/view) 
+ 
 
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
 
+XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  _under review_.  [preprint](https://bitbucket.org/ntustison/deepmap/src/master/Manuscript/stitched.pdf) 
+
 **2019**
+
+65\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study.  _Journal of Alzheimer's Disease_. [(accepted)](https://www.biorxiv.org/content/early/2017/07/30/170209)
 
 64\. Xue Feng, Kun Qing, __Nicholas J. Tustison__, Craig H. Meyer, and Quan Chen. Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images.  _Medical Physics_. [(accepted)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13466)
 
