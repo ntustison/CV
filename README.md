@@ -129,7 +129,7 @@ XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image
 
 **2019**
 
-65\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study.  _Journal of Alzheimer's Disease_. [(accepted)](https://www.biorxiv.org/content/early/2017/07/30/170209)
+65\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study.  _Journal of Alzheimer's Disease_. [(accepted)](https://github.com/ntustison/CrossLong/raw/master/Manuscript/JAD/stitched.pdf?raw=true)
 
 64\. Xue Feng, Kun Qing, __Nicholas J. Tustison__, Craig H. Meyer, and Quan Chen. Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images.  _Medical Physics_. [(accepted)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13466)
 
