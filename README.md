@@ -126,9 +126,9 @@ XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for
 
 **2019**
 
-67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  _MRI_  [(accepted)](https://bitbucket.org/ntustison/deepmap/src/master/Manuscript/stitched.pdf) 
+67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _MRI_.  [(accepted)](https://bitbucket.org/ntustison/deepmap/src/master/Manuscript/stitched.pdf) 
 
-66\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study.  _Journal of Alzheimer's Disease_. [(accepted)](https://github.com/ntustison/CrossLong/raw/master/Manuscript/JAD/stitched.pdf?raw=true)
+66\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study,  _Journal of Alzheimer's Disease_. [(accepted)](https://github.com/ntustison/CrossLong/raw/master/Manuscript/JAD/stitched.pdf?raw=true)
 
 65\.  Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_. [(accepted)](https://ieeexplore.ieee.org/document/8721153)
 
