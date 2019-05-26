@@ -124,9 +124,9 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
 
-XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  _under review_.  [preprint](https://bitbucket.org/ntustison/deepmap/src/master/Manuscript/stitched.pdf) 
-
 **2019**
+
+67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  [(accepted)](https://bitbucket.org/ntustison/deepmap/src/master/Manuscript/stitched.pdf) 
 
 66\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study.  _Journal of Alzheimer's Disease_. [(accepted)](https://github.com/ntustison/CrossLong/raw/master/Manuscript/JAD/stitched.pdf?raw=true)
 
