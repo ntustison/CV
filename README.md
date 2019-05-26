@@ -83,7 +83,7 @@ Sep 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop
 May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015).  
 Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).  
 May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).  
-Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/)
+Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R
