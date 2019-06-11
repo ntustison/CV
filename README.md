@@ -128,7 +128,7 @@ XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for
 
 68\. E. Brown, Alexandra Kulikova, Erin Van Enkevort, Alyson Nakamura, Elena Ivleva, __Nicholas Tustison__, Jared Roberts, Michael Yassa, changho choi, Alan Frol, David Khan, Miguel Vazquez, Traci Holmes, and Kendra Malone.  A Randomized Trial of an NMDA Receptor Antagonist for Reversing Corticosteroid Effects on the Human Hippocampus, _Neuropsychopharmacology_. (accepted)
 
-67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _Magnetic Resonance Imaging_.  [(accepted)](https://bitbucket.org/ntustison/deepmap/src/master/Manuscript/stitched.pdf) 
+67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _Magnetic Resonance Imaging_.  [(accepted)](https://www.sciencedirect.com/science/article/pii/S0730725X19300037?fbclid=IwAR3_EAS2h9fMwDEqo9TLCzjtLRzD1ZmklLhwIgcUbAfyfPqe_AJk2Mazk8o) 
 
 66\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study,  _Journal of Alzheimer's Disease_. [(accepted)](https://github.com/ntustison/CrossLong/raw/master/Manuscript/JAD/stitched.pdf?raw=true)
 
