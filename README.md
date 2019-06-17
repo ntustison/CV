@@ -77,11 +77,13 @@
 
 **Invited Talks/Participation**
 
-Feb. 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical image analysis*.  
-Sept. 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).  
-Sept. 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).  
+Feb 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical image analysis*.  
+Sep 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).  
+Sep 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).  
 May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015).  
-Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).
+Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).  
+May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).  
+Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R
@@ -116,27 +118,31 @@ Oct. 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutor
 __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation magnetic resonance imaging, Submitted.
 -->
 
-<!--
-Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 2016. Accepted
--->
 
-XX\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. The ANTs Longitudinal Cortical Thickness Pipeline.  _submitted_.  [preprint](https://www.biorxiv.org/content/early/2017/07/30/170209) 
 
-XX\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review.  _submitted_.  [preprint](https://drive.google.com/file/d/1MJPadpNBCiyMZjVo8b1gJR-P6ZcsPZrM/view) 
+ 
 
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
 
 **2019**
 
-64\. Xue Feng, Kun Qing, __Nicholas J. Tustison__, Craig H. Meyer, and Quan Chen. Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images.  _Medical Physics_. [(accepted)](https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.13466)
+68\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _Magnetic Resonance Imaging_.  [(accepted)](https://www.sciencedirect.com/science/article/pii/S0730725X19300037?fbclid=IwAR3_EAS2h9fMwDEqo9TLCzjtLRzD1ZmklLhwIgcUbAfyfPqe_AJk2Mazk8o) 
 
-63\. Nasreen Sayed, Changho Choi, __Nicholas Tustison__, Jared Roberts, Michael Yassa, Erin Van Enkevort, Alyson Nakamura, Elena I Ivleva, Prabha Sunderajan, David A Khan, Miguel Vazquez, Bruce McEwen, Alexandra Kulikova, Traci Holmes, and Sherwood Brown.  A Randomized, Double-Blind, Placebo-Controlled Trial of Lamotrigine for Prescription Corticosteroid Effects on the Human Hippocampus, _European Neuropsychopharmacology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30612854)
+67\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study,  _Journal of Alzheimer's Disease_. [(accepted)](https://github.com/ntustison/CrossLong/raw/master/Manuscript/JAD/stitched.pdf?raw=true)
 
-62\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+66\. E. Brown, Alexandra Kulikova, Erin Van Enkevort, Alyson Nakamura, Elena Ivleva, __Nicholas Tustison__, Jared Roberts, Michael Yassa, changho choi, Alan Frol, David Khan, Miguel Vazquez, Traci Holmes, and Kendra Malone.  A Randomized Trial of an NMDA Receptor Antagonist for Reversing Corticosteroid Effects on the Human Hippocampus, _Neuropsychopharmacology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31181564)
 
-61\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30328104)
+65\.  Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31135366)
 
-60\. Neha Sinha, Zachariah M. Reagh, __Nicholas J. Tustison__, Chelsie N. Berg, Ashlee Shaw, Catherine E. Myers, Diane Hill, Michael A. Yassa, and Mark A. Gluck. ABCA7 Risk Variant in Healthy Older African Americans is Associated with a Functionally Isolated Entorhinal Cortex Mediating Deficient Generalization of Prior Discrimination Training. _Hippocampus_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30318785)
+64\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+
+63\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30328104)
+
+62\. Neha Sinha, Zachariah M. Reagh, __Nicholas J. Tustison__, Chelsie N. Berg, Ashlee Shaw, Catherine E. Myers, Diane Hill, Michael A. Yassa, and Mark A. Gluck. ABCA7 Risk Variant in Healthy Older African Americans is Associated with a Functionally Isolated Entorhinal Cortex Mediating Deficient Generalization of Prior Discrimination Training. _Hippocampus_, 29(6):527-538, Jun 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30318785)
+
+61\. Xue Feng, Kun Qing, __Nicholas J. Tustison__, Craig H. Meyer, and Quan Chen. Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images.  _Medical Physics_, 46(5):2169-2180, May 2019.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30830685)
+
+60\. Nasreen Sayed, Changho Choi, __Nicholas Tustison__, Jared Roberts, Michael Yassa, Erin Van Enkevort, Alyson Nakamura, Elena I Ivleva, Prabha Sunderajan, David A Khan, Miguel Vazquez, Bruce McEwen, Alexandra Kulikova, Traci Holmes, and Sherwood Brown.  A Randomized, Double-Blind, Placebo-Controlled Trial of Lamotrigine for Prescription Corticosteroid Effects on the Human Hippocampus, _European Neuropsychopharmacology_, 29(3):376-383, Mar 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30612854)
 
 59\. __Nicholas J. Tustison__, Brian B. Avants, Zixuan Lin, Xue Feng, Nicholas Cullen, Jaime F. Mata, Lucia Flors, James C. Gee, Talissa A. Altes, John P. Mugler III, and Kun Qing.  Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification, _Academic Radiology_, 26(3):412-423, Mar 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30195415)
 
