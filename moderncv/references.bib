@@ -1,12 +1,452 @@
 %% This BibTeX bibliography file was created using BibDesk.
 %% http://bibdesk.sourceforge.net/
 
-%% Created for Nicholas Tustison at 2019-01-10 20:09:48 -1000 
+%% Created for Nicholas Tustison at 2019-06-17 09:21:11 -0700 
 
 
 %% Saved with string encoding Unicode (UTF-8) 
 
 
+
+@article{Durst:2014ab,
+	Abstract = {INTRODUCTION: Gliomas remain difficult to treat, in part, due to our inability to accurately delineate the margins of the tumor. The goal of our study was to evaluate if a combination of advanced MR imaging techniques and a multimodal imaging model could be used to predict tumor infiltration in patients with diffuse gliomas.
+METHODS: Institutional review board approval and written consent were obtained. This prospective pilot study enrolled patients undergoing stereotactic biopsy for a suspected de novo glioma. Stereotactic biopsy coordinates were coregistered with multiple standard and advanced neuroimaging sequences in 10 patients. Objective imaging values were assigned to the biopsy sites for each of the imaging sequences. A principal component analysis was performed to reduce the dimensionality of the imaging dataset without losing important information. A univariate analysis was performed to identify the statistically relevant principal components. Finally, a multivariate analysis was used to build the final model describing nuclear density.
+RESULTS: A univariate analysis identified three principal components as being linearly associated with the observed nuclear density (p values 0.021, 0.016, and 0.046, respectively). These three principal component composite scores are predominantly comprised of DTI (mean diffusivity or average diffusion coefficient and fractional anisotropy) and PWI data (rMTT, Ktrans). The p value of the model was <0.001. The correlation between the predicted and observed nuclear density was 0.75.
+CONCLUSION: A multi-input, single output imaging model may predict the extent of glioma invasion with significant correlation with histopathology.},
+	Author = {Durst, Christopher R and Raghavan, Prashant and Shaffrey, Mark E and Schiff, David and Lopes, M Beatriz and Sheehan, Jason P and Tustison, Nicholas J and Patrie, James T and Xin, Wenjun and Elias, W Jeff and Liu, Kenneth C and Helm, Greg A and Cupino, A and Wintermark, Max},
+	Date-Added = {2019-06-17 09:17:28 -0700},
+	Date-Modified = {2019-06-17 09:17:28 -0700},
+	Doi = {10.1007/s00234-013-1308-9},
+	Journal = {Neuroradiology},
+	Journal-Full = {Neuroradiology},
+	Mesh = {Adult; Aged; Algorithms; Brain Neoplasms; Computer Simulation; Female; Glioma; Humans; Image Enhancement; Image Interpretation, Computer-Assisted; Magnetic Resonance Imaging; Male; Middle Aged; Models, Statistical; Multimodal Imaging; Neoplasm Invasiveness; Pilot Projects; Reproducibility of Results; Sensitivity and Specificity; Young Adult},
+	Month = {Feb},
+	Number = {2},
+	Pages = {107-15},
+	Pmid = {24337609},
+	Pst = {ppublish},
+	Title = {Multimodal MR imaging model to predict tumor infiltration in patients with gliomas},
+	Volume = {56},
+	Year = {2014},
+	Bdsk-Url-1 = {https://doi.org/10.1007/s00234-013-1308-9}}
+
+@article{Avants:2014ab,
+	Abstract = {Publicly available scientific resources help establish evaluation standards, provide a platform for teaching and improve reproducibility. Version 4 of the Insight ToolKit (ITK(4)) seeks to establish new standards in publicly available image registration methodology. ITK(4) makes several advances in comparison to previous versions of ITK. ITK(4) supports both multivariate images and objective functions; it also unifies high-dimensional (deformation field) and low-dimensional (affine) transformations with metrics that are reusable across transform types and with composite transforms that allow arbitrary series of geometric mappings to be chained together seamlessly. Metrics and optimizers take advantage of multi-core resources, when available. Furthermore, ITK(4) reduces the parameter optimization burden via principled heuristics that automatically set scaling across disparate parameter types (rotations vs. translations). A related approach also constrains steps sizes for gradient-based optimizers. The result is that tuning for different metrics and/or image pairs is rarely necessary allowing the researcher to more easily focus on design/comparison of registration strategies. In total, the ITK(4) contribution is intended as a structure to support reproducible research practices, will provide a more extensive foundation against which to evaluate new work in image registration and also enable application level programmers a broad suite of tools on which to build. Finally, we contextualize this work with a reference registration evaluation study with application to pediatric brain labeling. },
+	Author = {Avants, Brian B and Tustison, Nicholas J and Stauffer, Michael and Song, Gang and Wu, Baohua and Gee, James C},
+	Date-Added = {2019-06-17 09:17:26 -0700},
+	Date-Modified = {2019-06-17 09:17:26 -0700},
+	Doi = {10.3389/fninf.2014.00044},
+	Journal = {Front Neuroinform},
+	Journal-Full = {Frontiers in neuroinformatics},
+	Keywords = {MRI; brain; death; open-source; registration},
+	Pages = {44},
+	Pmc = {PMC4009425},
+	Pmid = {24817849},
+	Pst = {epublish},
+	Title = {The Insight ToolKit image registration framework},
+	Volume = {8},
+	Year = {2014},
+	Bdsk-Url-1 = {https://doi.org/10.3389/fninf.2014.00044}}
+
+@article{Menze:2015ab,
+	Abstract = {In this paper we report the set-up and results of the Multimodal Brain Tumor Image Segmentation Benchmark (BRATS) organized in conjunction with the MICCAI 2012 and 2013 conferences. Twenty state-of-the-art tumor segmentation algorithms were applied to a set of 65 multi-contrast MR scans of low- and high-grade glioma patients-manually annotated by up to four raters-and to 65 comparable scans generated using tumor image simulation software. Quantitative evaluations revealed considerable disagreement between the human raters in segmenting various tumor sub-regions (Dice scores in the range 74%-85%), illustrating the difficulty of this task. We found that different algorithms worked best for different sub-regions (reaching performance comparable to human inter-rater variability), but that no single algorithm ranked in the top for all sub-regions simultaneously. Fusing several good algorithms using a hierarchical majority vote yielded segmentations that consistently ranked above all individual algorithms, indicating remaining opportunities for further methodological improvements. The BRATS image data and manual annotations continue to be publicly available through an online evaluation system as an ongoing benchmarking resource. },
+	Author = {Menze, Bjoern H and Jakab, Andras and Bauer, Stefan and Kalpathy-Cramer, Jayashree and Farahani, Keyvan and Kirby, Justin and Burren, Yuliya and Porz, Nicole and Slotboom, Johannes and Wiest, Roland and Lanczi, Levente and Gerstner, Elizabeth and Weber, Marc-Andr{\'e} and Arbel, Tal and Avants, Brian B and Ayache, Nicholas and Buendia, Patricia and Collins, D Louis and Cordier, Nicolas and Corso, Jason J and Criminisi, Antonio and Das, Tilak and Delingette, Herv{\'e} and Demiralp, {\c C}a{\u g}atay and Durst, Christopher R and Dojat, Michel and Doyle, Senan and Festa, Joana and Forbes, Florence and Geremia, Ezequiel and Glocker, Ben and Golland, Polina and Guo, Xiaotao and Hamamci, Andac and Iftekharuddin, Khan M and Jena, Raj and John, Nigel M and Konukoglu, Ender and Lashkari, Danial and Mariz, Jos{\'e} Antoni{\'o} and Meier, Raphael and Pereira, S{\'e}rgio and Precup, Doina and Price, Stephen J and Raviv, Tammy Riklin and Reza, Syed M S and Ryan, Michael and Sarikaya, Duygu and Schwartz, Lawrence and Shin, Hoo-Chang and Shotton, Jamie and Silva, Carlos A and Sousa, Nuno and Subbanna, Nagesh K and Szekely, Gabor and Taylor, Thomas J and Thomas, Owen M and Tustison, Nicholas J and Unal, Gozde and Vasseur, Flor and Wintermark, Max and Ye, Dong Hye and Zhao, Liang and Zhao, Binsheng and Zikic, Darko and Prastawa, Marcel and Reyes, Mauricio and Van Leemput, Koen},
+	Date-Added = {2019-06-17 09:17:21 -0700},
+	Date-Modified = {2019-06-17 09:17:21 -0700},
+	Doi = {10.1109/TMI.2014.2377694},
+	Journal = {IEEE Trans Med Imaging},
+	Journal-Full = {IEEE transactions on medical imaging},
+	Mesh = {Algorithms; Benchmarking; Glioma; Humans; Magnetic Resonance Imaging; Neuroimaging},
+	Month = {Oct},
+	Number = {10},
+	Pages = {1993-2024},
+	Pmc = {PMC4833122},
+	Pmid = {25494501},
+	Pst = {ppublish},
+	Title = {The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)},
+	Volume = {34},
+	Year = {2015},
+	Bdsk-Url-1 = {https://doi.org/10.1109/TMI.2014.2377694}}
+
+@article{Hasan:2016aa,
+	Abstract = {BACKGROUND AND PURPOSE: Human entorhinal cortex (ERC) connects the temporal neocortex with hippocampus and is essential for memory retrieval and navigation. Markedly, there have been only few quantitative MRI works on the ERC geometric measurements in pediatric and adult healthy subjects across the lifespan. Here, we sought to fill this gap in knowledge by quantifying the ERC thickness in a very large cohort of subjects spanning 9 decades of life.
+METHODS: Using magnetic resonance imaging data from multiple centers (IXI, MMRR, NKI, OASIS combined with the NIH-Child Dev database and locally recruited healthy subjects), we analyzed the lifespan trajectory of ERC thickness in 1,660 healthy controls ranging from 2 to 94 years of age.
+RESULTS: The ERC thickness increased with age, reached a peak at about 44 years, and then decreased with age. ERC thickness is hemispherically rightward-asymmetric with no gender differences. Mean ERC thickness was found to vary between 2.943 $\pm$ .438 mm and 3.525 $\pm$ .355 mm across different age populations. Also, more pronounced loss of the ERC thickness in healthy aging men was noticeable.
+DISCUSSION: Our report with high spatial resolution brain MRI data from 1,660 healthy controls provided important clues about ERC thickness across lifespan. We believe that our report will pave the way for the future studies investigating distinct neural pathologies related with cognitive dysfunctions.},
+	Author = {Hasan, Khader M and Mwangi, Benson and Cao, Bo and Keser, Zafer and Tustison, Nicholas J and Kochunov, Peter and Frye, Richard E and Savatic, Mirjana and Soares, Jair},
+	Date-Added = {2019-06-17 09:17:17 -0700},
+	Date-Modified = {2019-06-17 09:17:17 -0700},
+	Doi = {10.1111/jon.12297},
+	Journal = {J Neuroimaging},
+	Journal-Full = {Journal of neuroimaging : official journal of the American Society of Neuroimaging},
+	Keywords = {Big data; FreeSurfer; MRI; cortical thickness; entorhinal cortex; lifespan},
+	Mesh = {Adult; Aged; Aged, 80 and over; Aging; Atrophy; Child; Child, Preschool; Cohort Studies; Entorhinal Cortex; Evaluation Studies as Topic; Female; Humans; Infant, Newborn; Magnetic Resonance Imaging; Male; Middle Aged; Reference Values; Young Adult},
+	Month = {05},
+	Number = {3},
+	Pages = {278-82},
+	Pmc = {PMC4826319},
+	Pmid = {26565394},
+	Pst = {ppublish},
+	Title = {Entorhinal Cortex Thickness across the Human Lifespan},
+	Volume = {26},
+	Year = {2016},
+	Bdsk-Url-1 = {https://doi.org/10.1111/jon.12297}}
+
+@article{Pustina:2016ab,
+	Abstract = {The gold standard for identifying stroke lesions is manual tracing, a method that is known to be observer dependent and time consuming, thus impractical for big data studies. We propose LINDA (Lesion Identification with Neighborhood Data Analysis), an automated segmentation algorithm capable of learning the relationship between existing manual segmentations and a single T1-weighted MRI. A dataset of 60 left hemispheric chronic stroke patients is used to build the method and test it with k-fold and leave-one-out procedures. With respect to manual tracings, predicted lesion maps showed a mean dice overlap of 0.696 $\pm$ 0.16, Hausdorff distance of 17.9 $\pm$ 9.8 mm, and average displacement of 2.54 $\pm$ 1.38 mm. The manual and predicted lesion volumes correlated at r = 0.961. An additional dataset of 45 patients was utilized to test LINDA with independent data, achieving high accuracy rates and confirming its cross-institutional applicability. To investigate the cost of moving from manual tracings to automated segmentation, we performed comparative lesion-to-symptom mapping (LSM) on five behavioral scores. Predicted and manual lesions produced similar neuro-cognitive maps, albeit with some discussed discrepancies. Of note, region-wise LSM was more robust to the prediction error than voxel-wise LSM. Our results show that, while several limitations exist, our current results compete with or exceed the state-of-the-art, producing consistent predictions, very low failure rates, and transferable knowledge between labs. This work also establishes a new viewpoint on evaluating automated methods not only with segmentation accuracy but also with brain-behavior relationships. LINDA is made available online with trained models from over 100 patients.},
+	Author = {Pustina, Dorian and Coslett, H Branch and Turkeltaub, Peter E and Tustison, Nicholas and Schwartz, Myrna F and Avants, Brian},
+	Date-Added = {2019-06-17 09:17:16 -0700},
+	Date-Modified = {2019-06-17 09:17:16 -0700},
+	Doi = {10.1002/hbm.23110},
+	Journal = {Hum Brain Mapp},
+	Journal-Full = {Human brain mapping},
+	Keywords = {VLSM; automatic; hierarchical; machine learning; random forests; subacute},
+	Mesh = {Aged; Diffusion Magnetic Resonance Imaging; Female; Humans; Image Interpretation, Computer-Assisted; Male; Middle Aged; Statistics as Topic; Stroke},
+	Month = {Apr},
+	Number = {4},
+	Pages = {1405-21},
+	Pmc = {PMC4783237},
+	Pmid = {26756101},
+	Pst = {ppublish},
+	Title = {Automated segmentation of chronic stroke lesions using LINDA: Lesion identification with neighborhood data analysis},
+	Volume = {37},
+	Year = {2016},
+	Bdsk-Url-1 = {https://doi.org/10.1002/hbm.23110}}
+
+@article{Filiano:2016ab,
+	Abstract = {Immune dysfunction is commonly associated with several neurological and mental disorders. Although the mechanisms by which peripheral immunity may influence neuronal function are largely unknown, recent findings implicate meningeal immunity influencing behaviour, such as spatial learning and memory. Here we show that meningeal immunity is also critical for social behaviour; mice deficient in adaptive immunity exhibit social deficits and hyper-connectivity of fronto-cortical brain regions. Associations between rodent transcriptomes from brain and cellular transcriptomes in response to T-cell-derived cytokines suggest a strong interaction between social behaviour and interferon-γ (IFN-γ)-driven responses. Concordantly, we demonstrate that inhibitory neurons respond to IFN-γ and increase GABAergic (γ-aminobutyric-acid) currents in projection neurons, suggesting that IFN-γ is a molecular link between meningeal immunity and neural circuits recruited for social behaviour. Meta-analysis of the transcriptomes of a range of organisms reveals that rodents, fish, and flies elevate IFN-γ/JAK-STAT-dependent gene signatures in a social context, suggesting that the IFN-γ signalling pathway could mediate a co-evolutionary link between social/aggregation behaviour and an efficient anti-pathogen response. This study implicates adaptive immune dysfunction, in particular IFN-γ, in disorders characterized by social dysfunction and suggests a co-evolutionary link between social behaviour and an anti-pathogen immune response driven by IFN-γ signalling.},
+	Author = {Filiano, Anthony J and Xu, Yang and Tustison, Nicholas J and Marsh, Rachel L and Baker, Wendy and Smirnov, Igor and Overall, Christopher C and Gadani, Sachin P and Turner, Stephen D and Weng, Zhiping and Peerzade, Sayeda Najamussahar and Chen, Hao and Lee, Kevin S and Scott, Michael M and Beenhakker, Mark P and Litvak, Vladimir and Kipnis, Jonathan},
+	Date-Added = {2019-06-17 09:17:14 -0700},
+	Date-Modified = {2019-06-17 09:17:14 -0700},
+	Doi = {10.1038/nature18626},
+	Journal = {Nature},
+	Journal-Full = {Nature},
+	Mesh = {Animals; Drosophila melanogaster; Female; GABAergic Neurons; Interferon-gamma; Male; Meninges; Mice; Mice, Inbred C57BL; Neural Pathways; Prefrontal Cortex; Rats; Signal Transduction; Social Behavior; T-Lymphocytes; Transcriptome; Zebrafish},
+	Month = {07},
+	Number = {7612},
+	Pages = {425-9},
+	Pmc = {PMC4961620},
+	Pmid = {27409813},
+	Pst = {ppublish},
+	Title = {Unexpected role of interferon-γ in regulating neuronal connectivity and social behaviour},
+	Volume = {535},
+	Year = {2016},
+	Bdsk-Url-1 = {https://doi.org/10.1038/nature18626}}
+
+@article{Ladd:2017ab,
+	Abstract = {Amyotrophic lateral sclerosis (ALS) is a generally fatal neurodegenerative disease of adults that produces weakness and atrophy due to dysfunction and death of upper and lower motor neurons. We used RNA-sequencing (RNA-seq) to analyze expression of all mitochondrial DNA (mtDNA)-encoded respiratory genes in ALS and CTL human cervical spinal cords (hCSC) and isolated motor neurons. We analyzed with RNA-seq mtDNA gene expression in human neural stem cells (hNSC) exposed to recombinant human mitochondrial transcription factor A (rhTFAM), visualized in 3-dimensions clustered gene networks activated by rhTFAM, quantitated their interactions with other genes and determined their gene ontology (GO) families. RNA-seq and quantitative PCR (qPCR) analyses showed reduced mitochondrial gene expression in ALS hCSC and ALS motor neurons isolated by laser capture microdissection (LCM), and revealed that hNSC and CTL human cervical spinal cords were similar. Rats treated with i.v. rhTFAM showed a dose-response increase in brain respiration and an increase in spinal cord mitochondrial gene expression. Treatment of hNSC with rhTFAM increased expression of mtDNA-encoded respiratory genes and produced one major and several minor clusters of gene interactions. Gene ontology (GO) analysis of rhTFAM-stimulated gene clusters revealed enrichment in GO families involved in RNA and mRNA metabolism, suggesting mitochondrial-nuclear signaling. In postmortem ALS hCSC and LCM-isolated motor neurons we found reduced expression of mtDNA respiratory genes. In hNSC's rhTFAM increased mtDNA gene expression and stimulated mRNA metabolism by unclear mechanisms. rhTFAM may be useful in improving bioenergetic function in ALS.},
+	Author = {Ladd, Amy C and Brohawn, David G and Thomas, Ravindar R and Keeney, Paula M and Berr, Stuart S and Khan, Shaharyar M and Portell, Francisco R and Shakenov, Meiram Zh and Antkowiak, Patrick F and Kundu, Bijoy and Tustison, Nicholas and Bennett, James P},
+	Date-Added = {2019-06-17 09:17:05 -0700},
+	Date-Modified = {2019-06-17 09:17:05 -0700},
+	Doi = {10.1016/j.brainres.2017.05.010},
+	Journal = {Brain Res},
+	Journal-Full = {Brain research},
+	Keywords = {ALS; Genomics; Mitochondria; RNA expression; TFAM},
+	Mesh = {Amyotrophic Lateral Sclerosis; Animals; Brain; Cells, Cultured; Cervical Cord; DNA, Mitochondrial; DNA-Binding Proteins; Gene Expression; Glucose; Humans; Laser Capture Microdissection; Male; Mitochondrial Proteins; Motor Neurons; Neural Stem Cells; Rats, Sprague-Dawley; Recombinant Proteins; Sequence Analysis, RNA; Transcription Factors},
+	Month = {07},
+	Pages = {74-83},
+	Pmid = {28511992},
+	Pst = {ppublish},
+	Title = {RNA-seq analyses reveal that cervical spinal cords and anterior motor neurons from amyotrophic lateral sclerosis subjects show reduced expression of mitochondrial DNA-encoded respiratory genes, and rhTFAM may correct this respiratory deficiency},
+	Volume = {1667},
+	Year = {2017},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.brainres.2017.05.010}}
+
+@article{Barbosa:2017ab,
+	Abstract = {BACKGROUND: To assess how quantitative CT (qCT) metrics compare to pulmonary function testing (PFT) and semi-quantitative image scores (SQS) to diagnose bronchiolitis obliterans syndrome (BOS), manifestation of chronic lung allograft dysfunction after lung transplantation (LTx), according to the type of LTx (unilateral or bilateral).
+METHODS: Paired inspiratory-expiratory CT scans and PFTs of 176 LTx patients were analyzed retrospectively, and separated into BOS (78) and non-BOS (98) cohorts. SQS were assessed by 2 radiologists and graded (0-3) for features including mosaic attenuation and bronchiectasis. qCT metrics included lung volumes and air trapping volumes. Multivariate logistic regression (MVLR) and support vector machines (SVM) were used for the classification task.
+RESULTS: MVLR and SVM models using PFT metrics demonstrated highest accuracy for bilateral LTx (max AUC 0.771), whereas models using qCT metrics-only outperformed models using SQS or PFTs in unilateral LTx (max AUC 0.817), to diagnose BOS. Adding PC (principal components) from qCT on top of PFT improved model diagnostic accuracy for all transplant types.
+CONCLUSIONS: Combinations of qCT metrics augment the diagnostic performance of PFTs, are superior to SQS to predict BOS status, and outperform PFTs in the unilateral LTx group. This suggests that latent information on paired volumetric CT may allow early diagnosis of BOS in LTx patients, particularly in unilateral LTx.},
+	Author = {Barbosa, Jr, E Mortani and Simpson, S and Lee, J C and Tustison, N and Gee, J and Shou, H},
+	Date-Added = {2019-06-17 09:17:04 -0700},
+	Date-Modified = {2019-06-17 09:17:04 -0700},
+	Doi = {10.1016/j.compbiomed.2017.08.016},
+	Journal = {Comput Biol Med},
+	Journal-Full = {Computers in biology and medicine},
+	Keywords = {Bronchiolitis obliterans syndrome (BOS); Lung transplantation (LTx); Multivariate logistic regression (MVLR); Quantitative CT (qCT) metrics; Support vector machines (SVM)},
+	Mesh = {Adult; Aged; Allografts; Bronchiolitis Obliterans; Female; Humans; Lung Transplantation; Male; Middle Aged; Models, Biological; Primary Graft Dysfunction; Respiratory Function Tests; Syndrome; Tomography, X-Ray Computed},
+	Month = {10},
+	Pages = {275-281},
+	Pmid = {28850899},
+	Pst = {ppublish},
+	Title = {Multivariate modeling using quantitative CT metrics may improve accuracy of diagnosis of bronchiolitis obliterans syndrome after lung transplantation},
+	Volume = {89},
+	Year = {2017},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.compbiomed.2017.08.016}}
+
+@article{Pontre:2017ab,
+	Abstract = {Cardiac magnetic resonance perfusion examinations enable noninvasive quantification of myocardial blood flow. However, motion between frames due to breathing must be corrected for quantitative analysis. Although several methods have been proposed, there is a lack of widely available benchmarks to compare different algorithms. We sought to compare many algorithms from several groups in an open benchmark challenge. Nine clinical studies from two different centers comprising normal and diseased myocardium at both rest and stress were made available for this study. The primary validation measure was regional myocardial blood flow based on the transfer coefficient (Ktrans), which was computed using a compartment model and the myocardial perfusion reserve (MPR) index. The ground truth was calculated using contours drawn manually on all frames by a single observer, and visually inspected by a second observer. Six groups participated and 19 different motion correction algorithms were compared. Each method used one of three different motion models: rigid, global affine, or local deformation. The similarity metric also varied with methods employing either sum-of-squared differences, mutual information, or cross correlation. There were no significant differences in Ktrans or MPR compared across different motion models or similarity metrics. Compared with the ground truth, only Ktrans for the sum-of-squared differences metric, and for local deformation motion models, had significant bias. In conclusion, the open benchmark enabled evaluation of clinical perfusion indices over a wide range of methods. In particular, there was no benefit of nonrigid registration techniques over the other methods evaluated in this study. The benchmark data and results are available from the Cardiac Atlas Project ( www.cardiacatlas.org).},
+	Author = {Pontre, Beau and Cowan, Brett R and DiBella, Edward and Kulaseharan, Sancgeetha and Likhite, Devavrat and Noorman, Nils and Tautz, Lennart and Tustison, Nicholas and Wollny, Gert and Young, Alistair A and Suinesiaputra, Avan},
+	Date-Added = {2019-06-17 09:17:01 -0700},
+	Date-Modified = {2019-06-17 09:17:01 -0700},
+	Doi = {10.1109/JBHI.2016.2597145},
+	Journal = {IEEE J Biomed Health Inform},
+	Journal-Full = {IEEE journal of biomedical and health informatics},
+	Mesh = {Algorithms; Benchmarking; Cardiac Imaging Techniques; Heart; Humans; Image Processing, Computer-Assisted; Magnetic Resonance Angiography; Movement},
+	Month = {09},
+	Number = {5},
+	Pages = {1315-1326},
+	Pmc = {PMC5658235},
+	Pmid = {28880152},
+	Pst = {ppublish},
+	Title = {An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI},
+	Volume = {21},
+	Year = {2017},
+	Bdsk-Url-1 = {https://doi.org/10.1109/JBHI.2016.2597145}}
+
+@article{Xin:2018ab,
+	Abstract = {RATIONALE: It remains unclear how prone positioning improves survival in acute respiratory distress syndrome. Using serial computed tomography (CT), we previously reported that "unstable" inflation (i.e., partial aeration with large tidal density swings, indicating increased local strain) is associated with injury progression.
+OBJECTIVES: We prospectively tested whether prone position contains the early propagation of experimental lung injury by stabilizing inflation.
+METHODS: Injury was induced by tracheal hydrochloric acid in rats; after randomization to supine or prone position, injurious ventilation was commenced using high tidal volume and low positive end-expiratory pressure. Paired end-inspiratory (EI) and end-expiratory (EE) CT scans were acquired at baseline and hourly up to 3 hours. Each sequential pair (EI, EE) of CT images was superimposed in parametric response maps to analyze inflation. Unstable inflation was then measured in each voxel in both dependent and nondependent lung. In addition, five pigs were imaged (EI and EE) prone versus supine, before and (1 hour) after hydrochloric acid aspiration.
+MEASUREMENTS AND MAIN RESULTS: In rats, prone position limited lung injury propagation and increased survival (11/12 vs. 7/12 supine; P = 0.01). EI-EE densities, respiratory mechanics, and blood gases deteriorated more in supine versus prone rats. At baseline, more voxels with unstable inflation occurred in dependent versus nondependent regions when supine (41 $\pm$ 6% vs. 18 $\pm$ 7%; P < 0.01) but not when prone. In supine pigs, unstable inflation predominated in dorsal regions and was attenuated by prone positioning.
+CONCLUSIONS: Prone position limits the radiologic progression of early lung injury. Minimizing unstable inflation in this setting may alleviate the burden of acute respiratory distress syndrome.},
+	Author = {Xin, Yi and Cereda, Maurizio and Hamedani, Hooman and Pourfathi, Mehrdad and Siddiqui, Sarmad and Meeder, Natalie and Kadlecek, Stephen and Duncan, Ian and Profka, Harrilla and Rajaei, Jennia and Tustison, Nicholas J and Gee, James C and Kavanagh, Brian P and Rizi, Rahim R},
+	Date-Added = {2019-06-17 09:16:58 -0700},
+	Date-Modified = {2019-06-17 09:16:58 -0700},
+	Doi = {10.1164/rccm.201708-1728OC},
+	Journal = {Am J Respir Crit Care Med},
+	Journal-Full = {American journal of respiratory and critical care medicine},
+	Keywords = {acute respiratory distress syndrome; computed tomography; parametric response mapping; prone position ventilation; ventilator-associated lung injury},
+	Month = {Jul},
+	Number = {2},
+	Pages = {197-207},
+	Pmc = {PMC6058981},
+	Pmid = {29420904},
+	Pst = {ppublish},
+	Title = {Unstable Inflation Causing Injury. Insight from Prone Position and Paired Computed Tomography Scans},
+	Volume = {198},
+	Year = {2018},
+	Bdsk-Url-1 = {https://doi.org/10.1164/rccm.201708-1728OC}}
+
+@article{Reagh:2018ab,
+	Abstract = {The entorhinal cortex (EC) is among the earliest brain areas to deteriorate in Alzheimer's disease (AD). However, the extent to which functional properties of the EC are altered in the aging brain, even in the absence of clinical symptoms, is not understood. Recent human fMRI studies have identified a functional dissociation within the EC, similar to what is found in rodents. Here, we used high-resolution fMRI to identify a specific hypoactivity in the anterolateral EC (alEC) commensurate with major behavioral deficits on an object pattern separation task in asymptomatic older adults. Only subtle deficits were found in a comparable spatial condition, with no associated differences in posteromedial EC between young and older adults. We additionally linked this condition to dentate/CA3 hyperactivity, and the ratio of activity between the regions was associated with object mnemonic discrimination impairment. These results provide novel evidence of alEC-dentate/CA3 circuit dysfunction in cognitively normal aged humans.},
+	Author = {Reagh, Zachariah M and Noche, Jessica A and Tustison, Nicholas J and Delisle, Derek and Murray, Elizabeth A and Yassa, Michael A},
+	Date-Added = {2019-06-17 09:16:53 -0700},
+	Date-Modified = {2019-06-17 09:16:53 -0700},
+	Doi = {10.1016/j.neuron.2018.01.039},
+	Journal = {Neuron},
+	Journal-Full = {Neuron},
+	Keywords = {CA3; LEC; aging; alEC; dentate gyrus; entorhinal; fMRI; lateral entohrinal; memory; pattern separation},
+	Month = {Mar},
+	Number = {5},
+	Pages = {1187-1198.e4},
+	Pmc = {PMC5937538},
+	Pmid = {29518359},
+	Pst = {ppublish},
+	Title = {Functional Imbalance of Anterolateral Entorhinal Cortex and Hippocampal Dentate/CA3 Underlies Age-Related Object Pattern Separation Deficits},
+	Volume = {97},
+	Year = {2018},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.neuron.2018.01.039}}
+
+@article{Das:2018ab,
+	Abstract = {We examined the relationship between in vivo estimates of tau deposition as measured by 18F-AV-1451 tau positron emission tomography imaging and cross-sectional cortical thickness, as well as rates of antecedent cortical thinning measured from magnetic resonance imaging in individuals with and without evidence of cerebral amyloid in 63 participants from the Alzheimer's Disease Neuroimaging Initiative study, including 32 cognitively normal individuals (mean age 74 years), 27 patients with mild cognitive impairment (mean age 76.8 years), and 4 patients diagnosed with Alzheimer's disease (mean age 80 years). We hypothesized that structural measures would correlate with 18F-AV-1451 in a spatially local manner and that this correlation would be stronger for longitudinal compared to cross-sectional measures of cortical thickness and in those with cerebral amyloid versus those without. Cross-sectional and longitudinal estimates of voxelwise atrophy were made from whole brain maps of cortical thickness and rates of thickness change. In amyloid-β-positive individuals, the correlation of voxelwise atrophy across the whole brain with a summary measure of medial temporal lobe (MTL) 18F-AV-1451 uptake demonstrated strong local correlations in the MTL with longitudinal atrophy that was weaker in cross-sectional analysis. Similar effects were seen in correlations between 31 bilateral cortical regions of interest. In addition, several nonlocal correlations between atrophy and 18F-AV-1451 uptake were observed, including association between MTL atrophy and 18F-AV-1451 uptake in parietal lobe regions of interest such as the precuneus. Amyloid-β-negative individuals only showed weaker correlations in data uncorrected for multiple comparisons. While these data replicate previous reports of associations between 18F-AV-1451 uptake and cross-sectional structural measures, the current results demonstrate a strong relationship with longitudinal measures of atrophy. These data support the notion that in vivo measures of tau pathology are tightly linked to the rate of neurodegenerative change.},
+	Author = {Das, Sandhitsu R and Xie, Long and Wisse, Laura E M and Ittyerah, Ranjit and Tustison, Nicholas J and Dickerson, Bradford C and Yushkevich, Paul A and Wolk, David A and {Alzheimer's Disease Neuroimaging Initiative}},
+	Date-Added = {2019-06-17 09:16:52 -0700},
+	Date-Modified = {2019-06-17 09:16:52 -0700},
+	Doi = {10.1016/j.neurobiolaging.2018.01.024},
+	Journal = {Neurobiol Aging},
+	Journal-Full = {Neurobiology of aging},
+	Keywords = {(18)FAV-1451; Alzheimer's disease; Amyloid negative; Amyloid positive; Atrophy; Longitudinal; PET; Rate of change; Tau; Thickness correlation; Uptake},
+	Mesh = {Aged; Aged, 80 and over; Alzheimer Disease; Atrophy; Brain; Carbolines; Cognitive Dysfunction; Cross-Sectional Studies; Diffusion Magnetic Resonance Imaging; Female; Fluorine Radioisotopes; Humans; Longitudinal Studies; Male; Neuroimaging; Radiopharmaceuticals; tau Proteins},
+	Month = {06},
+	Pages = {49-58},
+	Pmc = {PMC5924615},
+	Pmid = {29518752},
+	Pst = {ppublish},
+	Title = {Longitudinal and cross-sectional structural magnetic resonance imaging correlates of AV-1451 uptake},
+	Volume = {66},
+	Year = {2018},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.neurobiolaging.2018.01.024}}
+
+@article{Sinha:2018ac,
+	Abstract = {African Americans are 1.4 times more likely than European Americans to carry the apolipoprotein E (APOE) ε4 allele, a risk factor for Alzheimer's disease (AD). However, little is known about the neural correlates of cognitive function in older African Americans and how they relate to genetic risk for AD. In particular, no past study on African Americans has examined the effect of APOE ε4 status on pattern separation-mnemonic discrimination performance and its corresponding neural computations in the hippocampus. Previous work using the mnemonic discrimination paradigm has localized increased activation in the DG/CA3 hippocampal subregions as being correlated with discrimination deficits. In a case-control high-resolution functional magnetic resonance imaging study of 30 healthy African Americans, aged 60 years and older, we observed APOE ε4-related impairments in mnemonic discrimination, coincident with dysfunctional hyperactivation in the DG/CA3, and CA1 regions, despite no evidence of structural differences in the hippocampus between carriers and noncarriers. Our results add to the growing body of evidence that deficits in pattern separation may be an early marker for AD-related neuronal dysfunction.},
+	Author = {Sinha, Neha and Berg, Chelsie N and Tustison, Nicholas J and Shaw, Ashlee and Hill, Diane and Yassa, Michael A and Gluck, Mark A},
+	Date-Added = {2019-06-17 09:16:47 -0700},
+	Date-Modified = {2019-06-17 09:16:47 -0700},
+	Doi = {10.1016/j.neurobiolaging.2018.05.023},
+	Journal = {Neurobiol Aging},
+	Journal-Full = {Neurobiology of aging},
+	Keywords = {APOE; Alzheimer's disease; High-resolution fMRI; Hippocampus; Pattern separation},
+	Mesh = {African Americans; Aged; Alzheimer Disease; Apolipoprotein E4; Brain Mapping; Case-Control Studies; Discrimination (Psychology); Female; Genetic Predisposition to Disease; Hippocampus; Humans; Magnetic Resonance Imaging; Male; Middle Aged},
+	Month = {09},
+	Pages = {221-229},
+	Pmc = {PMC6392014},
+	Pmid = {29909179},
+	Pst = {ppublish},
+	Title = {APOE ε4 status in healthy older African Americans is associated with deficits in pattern separation and hippocampal hyperactivation},
+	Volume = {69},
+	Year = {2018},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.neurobiolaging.2018.05.023}}
+
+@article{Qing:2019aa,
+	Abstract = {RATIONALE AND OBJECTIVES: Chronic obstructive pulmonary disease (COPD) is highly heterogeneous and not well understood. Hyperpolarized xenon-129 (Xe129) magnetic resonance imaging (MRI) provides a unique way to assess important lung functions such as gas uptake. In this pilot study, we exploited multiple imaging modalities, including computed tomography (CT), gadolinium-enhanced perfusion MRI, and Xe129 MRI, to perform a detailed investigation of changes in lung morphology and functions in COPD. Utility and strengths of Xe129 MRI in assessing COPD were also evaluated against the other imaging modalities.
+MATERIALS AND METHODS: Four COPD patients and four age-matched normal subjects participated in this study. Lung tissue density measured by CT, perfusion measures from gadolinium-enhanced MRI, and ventilation and gas uptake measures from Xe129 MRI were calculated for individual lung lobes to assess regional changes in lung morphology and function, and to investigate correlations among the different imaging modalities.
+RESULTS: No significant differences were found for all measures among the five lobes in either the COPD or age-matched normal group. Strong correlations (R > 0.5 or < -0.5, p < 0.001) were found between ventilation and perfusion measures. Also gas uptake by blood as measured by Xe129 MRI showed strong correlations with CT tissue density and ventilation measures (R > 0.5 or < -0.5, p < 0.001) and moderate to strong correlations with perfusion measures (R > 0.4 or < -0.5, p < 0.01). Four distinctive patterns of functional abnormalities were found in patients with COPD.
+CONCLUSION: Xe129 MRI has high potential to uniquely identify multiple changes in lung physiology in COPD using a single breath-hold acquisition.},
+	Author = {Qing, Kun and Tustison, Nicholas J and Mugler, 3rd, John P and Mata, Jaime F and Lin, Zixuan and Zhao, Li and Wang, Da and Feng, Xue and Shin, Ji Young and Callahan, Sean J and Bergman, Michael P and Ruppert, Kai and Altes, Talissa A and Cassani, Joanne M and Shim, Y Michael},
+	Date-Added = {2019-06-17 09:16:45 -0700},
+	Date-Modified = {2019-06-17 09:16:45 -0700},
+	Doi = {10.1016/j.acra.2018.05.025},
+	Journal = {Acad Radiol},
+	Journal-Full = {Academic radiology},
+	Keywords = {CT; Gas exchange; Hyperpolarized xenon-129 MRI; Perfusion; Ventilation},
+	Month = {Mar},
+	Number = {3},
+	Pages = {326-334},
+	Pmc = {PMC6361721},
+	Pmid = {30087065},
+	Pst = {ppublish},
+	Title = {Probing Changes in Lung Physiology in COPD Using CT, Perfusion MRI, and Hyperpolarized Xenon-129 MRI},
+	Volume = {26},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.acra.2018.05.025}}
+
+@article{Tustison:2019ab,
+	Abstract = {RATIONALE AND OBJECTIVES: We propose an automated segmentation pipeline based on deep learning for proton lung MRI segmentation and ventilation-based quantification which improves on our previously reported methodologies in terms of computational efficiency while demonstrating accuracy and robustness. The large data requirement for the proposed framework is made possible by a novel template-based data augmentation strategy. Supporting this work is the open-source ANTsRNet-a growing repository of well-known deep learning architectures first introduced here.
+MATERIALS AND METHODS: Deep convolutional neural network (CNN) models were constructed and trained using a custom multilabel Dice metric loss function and a novel template-based data augmentation strategy. Training (including template generation and data augmentation) employed 205 proton MR images and 73 functional lung MRI. Evaluation was performed using data sets of size 63 and 40 images, respectively.
+RESULTS: Accuracy for CNN-based proton lung MRI segmentation (in terms of Dice overlap) was left lung: 0.93 $\pm$ 0.03, right lung: 0.94 $\pm$ 0.02, and whole lung: 0.94 $\pm$ 0.02. Although slightly less accurate than our previously reported joint label fusion approach (left lung: 0.95 $\pm$ 0.02, right lung: 0.96 $\pm$ 0.01, and whole lung: 0.96 $\pm$ 0.01), processing time is <1 second per subject for the proposed approach versus ∼30 minutes per subject using joint label fusion. Accuracy for quantifying ventilation defects was determined based on a consensus labeling where average accuracy (Dice multilabel overlap of ventilation defect regions plus normal region) was 0.94 for the CNN method; 0.92 for our previously reported method; and 0.90, 0.92, and 0.94 for expert readers.
+CONCLUSION: The proposed framework yields accurate automated quantification in near real time. CNNs drastically reduce processing time after offline model construction and demonstrate significant future potential for facilitating quantitative analysis of functional lung MRI.},
+	Author = {Tustison, Nicholas J and Avants, Brian B and Lin, Zixuan and Feng, Xue and Cullen, Nicholas and Mata, Jaime F and Flors, Lucia and Gee, James C and Altes, Talissa A and Mugler Iii, John P and Qing, Kun},
+	Date-Added = {2019-06-17 09:16:42 -0700},
+	Date-Modified = {2019-06-17 09:16:42 -0700},
+	Doi = {10.1016/j.acra.2018.08.003},
+	Journal = {Acad Radiol},
+	Journal-Full = {Academic radiology},
+	Keywords = {ANTsRNet; Advanced Normalization Tools; Hyperpolarized gas imaging; Neural networks; Proton lung MRI; U-net},
+	Month = {Mar},
+	Number = {3},
+	Pages = {412-423},
+	Pmc = {PMC6397788},
+	Pmid = {30195415},
+	Pst = {ppublish},
+	Title = {Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification},
+	Volume = {26},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.acra.2018.08.003}}
+
+@article{Sinha:2019aa,
+	Abstract = {Using high-resolution resting state functional magnetic resonance imaging (fMRI), the present study tested the hypothesis that ABCA7 genetic risk differentially affects intra-medial temporal lobe (MTL) functional connectivity between MTL subfields, versus internetwork connectivity of the MTL with the medial prefrontal cortex (mPFC), in nondemented older African Americans. Although the association of ABCA7 risk variants with Alzheimer's disease (AD) has been confirmed worldwide, its effect size on the relative odds of being diagnosed with AD is significantly higher in African Americans. However, little is known about the neural correlates of cognitive function in older African Americans and how they relate to AD risk conferred by ABCA7. In a case-control fMRI study of 36 healthy African Americans, we observed ABCA7 related impairments in behavioral generalization that was mediated by dissociation in entorhinal cortex (EC) resting state functional connectivity. Specifically, ABCA7 risk variant was associated with EC-hippocampus hyper-synchronization and EC-mPFC hypo-synchronization. Carriers of the risk genotype also had a significantly smaller anterolateral EC, despite our finding no group differences on standardized neuropsychological tests. Our findings suggest a model where impaired cortical connectivity leads to a more functionally isolated EC at rest, which translates into aberrant EC-hippocampus hyper-synchronization resulting in generalization deficits. While we cannot identify the exact mechanism underlying the observed alterations in EC structure and network function, considering the relevance of Aβ in ABCA7 related AD pathogenesis, the results of our study may reflect the synergistic reinforcement between amyloid and tau pathology in the EC, which significantly increases tau-induced neuronal loss and accelerates synaptic alterations. Finally, our results add to a growing literature suggesting that generalization of learning may be a useful tool for assessing the mild cognitive deficits seen in the earliest phases of prodromal AD, even before the more commonly reported deficits in episodic memory arise.},
+	Author = {Sinha, Neha and Reagh, Zachariah M and Tustison, Nicholas J and Berg, Chelsie N and Shaw, Ashlee and Myers, Catherine E and Hill, Diane and Yassa, Michael A and Gluck, Mark A},
+	Date-Added = {2019-06-17 09:16:39 -0700},
+	Date-Modified = {2019-06-17 09:16:39 -0700},
+	Doi = {10.1002/hipo.23042},
+	Journal = {Hippocampus},
+	Journal-Full = {Hippocampus},
+	Keywords = {ABCA7; African American; Alzheimer's disease; entorhinal cortex; high-resolution fMRI functional connectivity},
+	Month = {Jun},
+	Number = {6},
+	Pages = {527-538},
+	Pmc = {PMC6462424},
+	Pmid = {30318785},
+	Pst = {ppublish},
+	Title = {ABCA7 risk variant in healthy older African Americans is associated with a functionally isolated entorhinal cortex mediating deficient generalization of prior discrimination training},
+	Volume = {29},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1002/hipo.23042}}
+
+@article{Allan-Johnson:2018aa,
+	Abstract = {Methods have been developed to allow quantitative connectivity of the whole fixed mouse brain by means of magnetic resonance imaging (MRI). We have translated what we have learned in clinical imaging to the very special domain of the mouse brain. Diffusion tensor imaging (DTI) of perfusion fixed specimens can now be performed with spatial resolution of 45 μm3 , that is, voxels that are 21,000 times smaller than the human connectome protocol. Specimen preparation has been optimized through an active staining protocol using a Gd chelate. Compressed sensing has been integrated into high performance reconstruction and post processing pipelines allowing acquisition of a whole mouse brain connectome in <12 hr. The methods have been validated against retroviral tracer studies. False positive tracts, which are especially problematic in clinical studies, have been reduced substantially to ~28%. The methods have been streamlined to provide high-fidelity, whole mouse brain connectomes as a routine study. The data package provides holistic insight into the mouse brain with anatomic definition at the meso-scale, quantitative volumes of subfields, scalar DTI metrics, and quantitative tractography.},
+	Author = {Allan Johnson, G and Wang, Nian and Anderson, Robert J and Chen, Min and Cofer, Gary P and Gee, James C and Pratson, Forrest and Tustison, Nicholas and White, Leonard E},
+	Date-Added = {2019-06-17 09:16:37 -0700},
+	Date-Modified = {2019-06-17 09:16:37 -0700},
+	Doi = {10.1002/cne.24560},
+	Journal = {J Comp Neurol},
+	Journal-Full = {The Journal of comparative neurology},
+	Keywords = {Connectomes; MR histology; MRI; mouse brain},
+	Month = {Oct},
+	Pmc = {PMC6467764},
+	Pmid = {30328104},
+	Pst = {aheadofprint},
+	Title = {Whole mouse brain connectomics},
+	Year = {2018},
+	Bdsk-Url-1 = {https://doi.org/10.1002/cne.24560}}
+
+@article{Brown:2019ab,
+	Abstract = {In animals, stress and corticosteroid excess are associated with decreases in memory performance and hippocampal volume that may be prevented with agents that decrease glutamate release. Humans also demonstrate changes in memory and hippocampus with corticosteroids. In this report the effects of glutamate-release inhibitor lamotrigine on hippocampal structure and memory were examined in people receiving medically needed prescription corticosteroid therapy. A total of 54 outpatient adults (n = 28 women) receiving chronic (≥ 6 months) oral corticosteroid therapy were randomized to lamotrigine or placebo for 48 weeks. Declarative memory was assessed using the Rey Auditory Verbal Learning Test (RAVLT); structural magnetic resonance imaging (MRI) as well as single-voxel proton MR spectroscopy (1HMRS) focused on hippocampus were obtained at baseline and week 48. Utilizing a mixed-model approach, structural and biochemical data were examined by separate ANOVAs, and memory was assessed with a multi-level longitudinal model. RAVLT total scores demonstrated significantly better declarative memory performance with lamotrigine than placebo (p = 0.047). Hippocampal subfield volumes were not significantly different between the treatment groups. In summary, lamotrigine was associated with less decline in declarative memory performance than placebo in corticosteroid-treated patients. Findings suggest that, in humans as well as in animal models, glutamate release inhibitors may attenuate some of the effects on the human memory associated with corticosteroids.},
+	Author = {Brown, E Sherwood and Sayed, Nasreen and Choi, Changho and Tustison, Nicholas and Roberts, Jared and Yassa, Michael A and Van Enkevort, Erin and Nakamura, Alyson and Ivleva, Elena I and Sunderajan, Prabha and Khan, David A and Vazquez, Miguel and McEwen, Bruce and Kulikova, Alexandra and Frol, Alan B and Holmes, Traci},
+	Date-Added = {2019-06-17 09:16:35 -0700},
+	Date-Modified = {2019-06-17 09:16:35 -0700},
+	Doi = {10.1016/j.euroneuro.2018.12.012},
+	Journal = {Eur Neuropsychopharmacol},
+	Journal-Full = {European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology},
+	Keywords = {Corticosteroid; Hippocampus; Magnetic resonance imaging; Memory; Prednisone},
+	Month = {03},
+	Number = {3},
+	Pages = {376-383},
+	Pmid = {30612854},
+	Pst = {ppublish},
+	Title = {A randomized, double-blind, placebo-controlled trial of lamotrigine for prescription corticosteroid effects on the human hippocampus},
+	Volume = {29},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.euroneuro.2018.12.012}}
+
+@article{Feng:2019aa,
+	Abstract = {PURPOSE: Automatic segmentation of organs-at-risk (OARs) is a key step in radiation treatment planning to reduce human efforts and bias. Deep convolutional neural networks (DCNN) have shown great success in many medical image segmentation applications but there are still challenges in dealing with large 3D images for optimal results. The purpose of this study is to develop a novel DCNN method for thoracic OARs segmentation using cropped 3D images.
+METHODS: To segment the five organs (left and right lungs, heart, esophagus and spinal cord) from the thoracic CT scans, preprocessing to unify the voxel spacing and intensity was first performed, a 3D U-Net was then trained on resampled thoracic images to localize each organ, then the original images were cropped to only contain one organ and served as the input to each individual organ segmentation network. The segmentation maps were then merged to get the final results. The network structures were optimized for each step, as well as the training and testing strategies. A novel testing augmentation with multiple iterations of image cropping was used. The networks were trained on 36 thoracic CT scans with expert annotations provided by the organizers of the 2017 AAPM Thoracic Auto-segmentation Challenge and tested on the challenge testing dataset as well as a private dataset.
+RESULTS: The proposed method earned second place in the live phase of the challenge and first place in the subsequent ongoing phase using a newly developed testing augmentation approach. It showed superior-than-human performance on average in terms of Dice scores (spinal cord: 0.893 $\pm$ 0.044, right lung: 0.972 $\pm$ 0.021, left lung: 0.979 $\pm$ 0.008, heart: 0.925 $\pm$ 0.015, esophagus: 0.726 $\pm$ 0.094), mean surface distance (spinal cord: 0.662 $\pm$ 0.248 mm, right lung: 0.933 $\pm$ 0.574 mm, left lung: 0.586 $\pm$ 0.285 mm, heart: 2.297 $\pm$ 0.492 mm, esophagus: 2.341 $\pm$ 2.380 mm) and 95% Hausdorff distance (spinal cord: 1.893 $\pm$ 0.627 mm, right lung: 3.958 $\pm$ 2.845 mm, left lung: 2.103 $\pm$ 0.938 mm, heart: 6.570 $\pm$ 1.501 mm, esophagus: 8.714 $\pm$ 10.588 mm). It also achieved good performance in the private dataset and reduced the editing time to 7.5 min per patient following automatic segmentation.
+CONCLUSIONS: The proposed DCNN method demonstrated good performance in automatic OAR segmentation from thoracic CT scans. It has the potential for eventual clinical adoption of deep learning in radiation treatment planning due to improved accuracy and reduced cost for OAR segmentation.},
+	Author = {Feng, Xue and Qing, Kun and Tustison, Nicholas J and Meyer, Craig H and Chen, Quan},
+	Date-Added = {2019-06-17 09:16:34 -0700},
+	Date-Modified = {2019-06-17 09:16:34 -0700},
+	Doi = {10.1002/mp.13466},
+	Journal = {Med Phys},
+	Journal-Full = {Medical physics},
+	Keywords = {3D U-Net; automatic segmentation; convolutional neural network; deep learning; lung cancer},
+	Month = {May},
+	Number = {5},
+	Pages = {2169-2180},
+	Pmid = {30830685},
+	Pst = {ppublish},
+	Title = {Deep convolutional neural network for segmentation of thoracic organs-at-risk using cropped 3D images},
+	Volume = {46},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1002/mp.13466}}
+
+@article{Jahanshad:2019aa,
+	Abstract = {Genome-wide association studies (GWAS) link full genome data to a handful of traits. However, in neuroimaging studies, there is an almost unlimited number of traits that can be extracted for full image-wide big data analyses. Large populations are needed to achieve the necessary power to detect statistically significant effects, emphasizing the need to pool data across multiple studies. Neuroimaging consortia, e.g., ENIGMA and CHARGE, are now analyzing MRI data from over 30,000 individuals. Distributed processing protocols extract harmonized features at each site, and pool together only the cohort statistics using meta analysis to avoid data sharing. To date such MRI projects have focused on single measures such as hippocampal volume, yet voxelwise analyses (e.g., tensor-based morphometry; TBM) may help better localize statistical effects. This can lead to 1013 tests for GWAS and become underpowered. We developed an analytical framework for multi-site TBM by performing multi-channel registration to cohort-specific templates. Our results highlight the reliability of the method and the added power over alternative options while preserving single site specificity and opening the doors for well-powered image-wide genome-wide discoveries.},
+	Author = {Jahanshad, Neda and Faskowitz, Joshua I and Roshchupkin, Gennady and Hibar, Derrek and Gutman, Boris A and Tustison, Nicholas J and Adams, Hieab H H and Niessen, Wiro and Vernooij, Meike W and Ikram, M Arfan and Zwiers, Marcel P and Vasquez, Alejandro Arias and Franke, Barbara and Kroll, Jennifer L and Mwangi, Benson and Soares, Jair C and Ing, Alex and Desrivieres, Sylvane and Schumann, Gunter and Hansell, Narelle K and de Zubicaray, Greig I and McMahon, Katie L and Martin, Nicholas G and Wright, Margaret J and Thompson, Paul M},
+	Date-Added = {2019-06-17 09:16:33 -0700},
+	Date-Modified = {2019-06-17 09:16:33 -0700},
+	Doi = {10.1109/TCBB.2019.2914905},
+	Journal = {IEEE/ACM Trans Comput Biol Bioinform},
+	Journal-Full = {IEEE/ACM transactions on computational biology and bioinformatics},
+	Month = {May},
+	Pmid = {31135366},
+	Pst = {aheadofprint},
+	Title = {MULTI-SITE META-ANALYSIS OF MORPHOMETRY},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1109/TCBB.2019.2914905}}
+
+@article{Brown:2019aa,
+	Abstract = {Preclinical and clinical research indicates that excess corticosteroid is associated with adverse effects on the hippocampus. Animal model data suggest that N-methyl-D-aspartate (NMDA) receptor antagonists may block corticosteroid effect on the hippocampus. This translational clinical trial investigated the effect of memantine vs. placebo on hippocampal subfield volume in humans receiving chronic corticosteroid therapy. Men and women (N = 46) receiving chronic prescription corticosteroid therapy were randomized to memantine or placebo in a double-blind, crossover design (two 24-week treatment periods, separated by a 4-week washout) for 52 weeks. Structural magnetic resonance imaging was obtained at baseline and after each treatment. Data were analyzed using repeated measures analysis of variance. Mean corticosteroid dose was 7.69 $\pm$ 6.41 mg/day and mean duration 4.90 $\pm$ 5.61 years. Controlling for baseline volumes, the left DG/CA3 region was significantly larger following memantine than placebo (p = .011). The findings suggest that an NMDA receptor antagonist attenuates corticosteroid effect in the same hippocampal subfields in humans as in animal models. This finding has both mechanistic and clinical implications. Attenuation of the effect of corticosteroids on the human DG/CA3 region implicates the NMDA receptor in human hippocampal volume losses with corticosteroids. In addition, by suggesting a drug class that may, at least in part, block the effects of corticosteroids on the human DG/CA3 subfield, these results may have clinical relevance for people receiving prescription corticosteroids, as well as to those with cortisol elevations due to medical or psychiatric conditions.},
+	Author = {Brown, E Sherwood and Kulikova, Alexandra and Van Enkevort, Erin and Nakamura, Alyson and Ivleva, Elena I and Tustison, Nicholas J and Roberts, Jared and Yassa, Michael A and Choi, Changho and Frol, Alan and Khan, David A and Vazquez, Miguel and Holmes, Traci and Malone, Kendra},
+	Date-Added = {2019-06-17 09:16:32 -0700},
+	Date-Modified = {2019-06-17 09:16:32 -0700},
+	Doi = {10.1038/s41386-019-0430-8},
+	Journal = {Neuropsychopharmacology},
+	Journal-Full = {Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology},
+	Month = {Jun},
+	Pmid = {31181564},
+	Pst = {aheadofprint},
+	Title = {A randomized trial of an NMDA receptor antagonist for reversing corticosteroid effects on the human hippocampus},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1038/s41386-019-0430-8}}
+
+@article{Tustison:2019aa,
+	Abstract = {Recent methodological innovations in deep learning and associated advancements in computational hardware have significantly impacted the various core subfields of quantitative medical image analysis. The generalizability, computational efficiency and open-source availability of deep learning algorithms and related software, particularly those utilizing convolutional neural networks, have produced paradigm shifts within the field. This impact is evident from topical prevalance in the literature, conference and workshop themes and winning methodologies in relevant competitions. In this work, we review the various state-of-the-art approaches to learning and prediction and/or optimizing image transformations using convolutional neural networks. Although of primary importance within the quantitative imaging domain, image registration algorithmic development, in the context of these deep learning strategies, has received comparatively less attention than its counterparts (e.g., image segmentation). Nevertheless, significant progress has been made in this particular subfield which has been presented in various research venues. We contextualize these contributions within the broader scope of deep learning advancements and, in so doing, attempt to facilitate the leveraging and further development of such techniques within the medical imaging research community.},
+	Author = {Tustison, Nicholas J and Avants, Brian B and Gee, James C},
+	Date-Added = {2019-06-17 09:16:30 -0700},
+	Date-Modified = {2019-06-17 09:16:30 -0700},
+	Doi = {10.1016/j.mri.2019.05.037},
+	Journal = {Magn Reson Imaging},
+	Journal-Full = {Magnetic resonance imaging},
+	Keywords = {Convnets; Deep learning; Diffeomorphisms; Image registration; Spatial normalization},
+	Month = {Jun},
+	Pmid = {31200026},
+	Pst = {aheadofprint},
+	Title = {Learning image-based spatial transformations via convolutional neural networks: a review},
+	Year = {2019},
+	Bdsk-Url-1 = {https://doi.org/10.1016/j.mri.2019.05.037}}
 
 @article{Bigler:2018aa,
 	Abstract = {Automated neuroimaging methods like FreeSurfer ( https://surfer.nmr.mgh.harvard.edu/ ) have revolutionized quantitative neuroimaging analyses. Such analyses provide a variety of metrics used for image quantification, including magnetic resonance imaging (MRI) volumetrics. With the release of FreeSurfer version 6.0, it is important to assess its comparability to the widely-used previous version 5.3. The current study used data from the initial 249 participants in the ongoing Chronic Effects of Neurotrauma Consortium (CENC) multicenter observational study to compare the volumetric output of versions 5.3 and 6.0 across various regions of interest (ROI). In the current investigation, the following ROIs were examined: total intracranial volume, total white matter volume, total ventricular volume, total gray matter volume, and right and left volumes for the thalamus, pallidum, putamen, caudate, amygdala and hippocampus. Absolute ROI volumes derived from FreeSurfer 6.0 differed significantly from those obtained using version 5.3. We also employed a clinically-based evaluation strategy to compare both versions in their prediction of age-mediated volume reductions (or ventricular increase) in the aforementioned structures. Statistical comparison involved both general linear modeling (GLM) and random forest (RF) methods, where cross-validation error was significantly higher using segmentations from FreeSurfer version 5.3 versus version 6.0 (GLM: t = 4.97, df = 99, p value = 2.706e-06; RF: t = 4.85, df = 99, p value = 4.424e-06). Additionally, the relative importance of ROIs used to predict age using RFs differed between FreeSurfer versions, indicating substantial differences in the two versions. However, from the perspective of correlational analyses, fitted regression lines and their slopes were similar between the two versions, regardless of version used. While absolute volumes are not interchangeable between version 5.3 and 6.0, ROI correlational analyses appear to yield similar results, suggesting the interchangeability of ROI volume for correlational studies.},
@@ -83,28 +523,6 @@ CONCLUSION: We developed and evaluated an automated method for quantifying the v
 	Year = {2013},
 	Bdsk-Url-1 = {https://doi.org/10.3389/fninf.2013.00039}}
 
-@article{Wintermark:2014ad,
-	Abstract = {PURPOSE: To use diffusion-tensor (DT) magnetic resonance (MR) imaging in patients with essential tremor who were treated with transcranial MR imaging-guided focused ultrasound lesion inducement to identify the structural connectivity of the ventralis intermedius nucleus of the thalamus and determine how DT imaging changes correlated with tremor changes after lesion inducement.
-MATERIALS AND METHODS: With institutional review board approval, and with prospective informed consent, 15 patients with medication-refractory essential tremor were enrolled in a HIPAA-compliant pilot study and were treated with transcranial MR imaging-guided focused ultrasound surgery targeting the ventralis intermedius nucleus of the thalamus contralateral to their dominant hand. Fourteen patients were ultimately included. DT MR imaging studies at 3.0 T were performed preoperatively and 24 hours, 1 week, 1 month, and 3 months after the procedure. Fractional anisotropy (FA) maps were calculated from the DT imaging data sets for all time points in all patients. Voxels where FA consistently decreased over time were identified, and FA change in these voxels was correlated with clinical changes in tremor over the same period by using Pearson correlation.
-RESULTS: Ipsilateral brain structures that showed prespecified negative correlation values of FA over time of -0.5 or less included the pre- and postcentral subcortical white matter in the hand knob area; the region of the corticospinal tract in the centrum semiovale, in the posterior limb of the internal capsule, and in the cerebral peduncle; the thalamus; the region of the red nucleus; the location of the central tegmental tract; and the region of the inferior olive. The contralateral middle cerebellar peduncle and bilateral portions of the superior vermis also showed persistent decrease in FA over time. There was strong correlation between decrease in FA and clinical improvement in hand tremor 3 months after lesion inducement (P < .001).
-CONCLUSION: DT MR imaging after MR imaging-guided focused ultrasound thalamotomy depicts changes in specific brain structures. The magnitude of the DT imaging changes after thalamic lesion inducement correlates with the degree of clinical improvement in essential tremor.},
-	Author = {Wintermark, Max and Huss, Diane S and Shah, Binit B and Tustison, Nicholas and Druzgal, T Jason and Kassell, Neal and Elias, W Jeff},
-	Date-Added = {2018-10-26 20:24:27 -0700},
-	Date-Modified = {2018-10-26 20:24:27 -0700},
-	Doi = {10.1148/radiol.14132112},
-	Journal = {Radiology},
-	Journal-Full = {Radiology},
-	Mesh = {Aged; Brain Mapping; Diffusion Magnetic Resonance Imaging; Essential Tremor; Female; Humans; Magnetic Resonance Imaging, Interventional; Male; Nerve Fibers, Myelinated; Pilot Projects; Prospective Studies; Thalamus; Treatment Outcome; Ultrasonic Surgical Procedures},
-	Month = {Jul},
-	Number = {1},
-	Pages = {202-9},
-	Pmid = {24620914},
-	Pst = {ppublish},
-	Title = {Thalamic connectivity in patients with essential tremor treated with MR imaging-guided focused ultrasound: in vivo fiber tracking by using diffusion-tensor MR imaging},
-	Volume = {272},
-	Year = {2014},
-	Bdsk-Url-1 = {https://doi.org/10.1148/radiol.14132112}}
-
 @article{Tustison:2014aa,
 	Abstract = {Many studies of the human brain have explored the relationship between cortical thickness and cognition, phenotype, or disease. Due to the subjectivity and time requirements in manual measurement of cortical thickness, scientists have relied on robust software tools for automation which facilitate the testing and refinement of neuroscientific hypotheses. The most widely used tool for cortical thickness studies is the publicly available, surface-based FreeSurfer package. Critical to the adoption of such tools is a demonstration of their reproducibility, validity, and the documentation of specific implementations that are robust across large, diverse imaging datasets. To this end, we have developed the automated, volume-based Advanced Normalization Tools (ANTs) cortical thickness pipeline comprising well-vetted components such as SyGN (multivariate template construction), SyN (image registration), N4 (bias correction), Atropos (n-tissue segmentation), and DiReCT (cortical thickness estimation). In this work, we have conducted the largest evaluation of automated cortical thickness measures in publicly available data, comparing FreeSurfer and ANTs measures computed on 1205 images from four open data sets (IXI, MMRR, NKI, and OASIS), with parcellation based on the recently proposed Desikan-Killiany-Tourville (DKT) cortical labeling protocol. We found good scan-rescan repeatability with both FreeSurfer and ANTs measures. Given that such assessments of precision do not necessarily reflect accuracy or an ability to make statistical inferences, we further tested the neurobiological validity of these approaches by evaluating thickness-based prediction of age and gender. ANTs is shown to have a higher predictive performance than FreeSurfer for both of these measures. In promotion of open science, we make all of our scripts, data, and results publicly available which complements the use of open image data sets and the open source availability of the proposed ANTs cortical thickness pipeline. },
 	Author = {Tustison, Nicholas J and Cook, Philip A and Klein, Arno and Song, Gang and Das, Sandhitsu R and Duda, Jeffrey T and Kandel, Benjamin M and van Strien, Niels and Stone, James R and Gee, James C and Avants, Brian B},
@@ -123,23 +541,6 @@ CONCLUSION: DT MR imaging after MR imaging-guided focused ultrasound thalamotomy
 	Volume = {99},
 	Year = {2014},
 	Bdsk-Url-1 = {https://doi.org/10.1016/j.neuroimage.2014.05.044}}
-
-@article{Avants:2015ac,
-	Author = {Avants, Brian B and Johnson, Hans J and Tustison, Nicholas J},
-	Date-Added = {2018-10-26 20:24:15 -0700},
-	Date-Modified = {2018-10-26 20:24:15 -0700},
-	Doi = {10.3389/fninf.2015.00005},
-	Journal = {Front Neuroinform},
-	Journal-Full = {Frontiers in neuroinformatics},
-	Keywords = {C++; ITK; open source; registration; segmentation},
-	Pages = {5},
-	Pmc = {PMC4374465},
-	Pmid = {25859213},
-	Pst = {epublish},
-	Title = {Neuroinformatics and the The Insight ToolKit},
-	Volume = {9},
-	Year = {2015},
-	Bdsk-Url-1 = {https://doi.org/10.3389/fninf.2015.00005}}
 
 @article{Altes:2016aa,
 	Abstract = {BACKGROUND: Lung ventilation defects identified by using hyperpolarized 3-helium gas ((3)He) lung magnetic resonance imaging (MRI) are prevalent in asthmatic patients, but the clinical importance of ventilation defects is poorly understood.
@@ -208,62 +609,6 @@ CONCLUSIONS: A single set of superimposed inspiratory-expiratory CT scans may pr
 	Year = {2017},
 	Bdsk-Url-1 = {https://doi.org/10.1136/thoraxjnl-2016-209833}}
 
-@article{Sinha:2018ab,
-	Abstract = {African Americans are 1.4 times more likely than European Americans to carry the apolipoprotein E (APOE) ε4 allele, a risk factor for Alzheimer's disease (AD). However, little is known about the neural correlates of cognitive function in older African Americans and how they relate to genetic risk for AD. In particular, no past study on African Americans has examined the effect of APOE ε4 status on pattern separation-mnemonic discrimination performance and its corresponding neural computations in the hippocampus. Previous work using the mnemonic discrimination paradigm has localized increased activation in the DG/CA3 hippocampal subregions as being correlated with discrimination deficits. In a case-control high-resolution functional magnetic resonance imaging study of 30 healthy African Americans, aged 60 years and older, we observed APOE ε4-related impairments in mnemonic discrimination, coincident with dysfunctional hyperactivation in the DG/CA3, and CA1 regions, despite no evidence of structural differences in the hippocampus between carriers and noncarriers. Our results add to the growing body of evidence that deficits in pattern separation may be an early marker for AD-related neuronal dysfunction.},
-	Author = {Sinha, Neha and Berg, Chelsie N and Tustison, Nicholas J and Shaw, Ashlee and Hill, Diane and Yassa, Michael A and Gluck, Mark A},
-	Date-Added = {2018-10-26 20:23:34 -0700},
-	Date-Modified = {2018-10-26 20:23:34 -0700},
-	Doi = {10.1016/j.neurobiolaging.2018.05.023},
-	Journal = {Neurobiol Aging},
-	Journal-Full = {Neurobiology of aging},
-	Keywords = {APOE; Alzheimer's disease; High-resolution fMRI; Hippocampus; Pattern separation},
-	Month = {Sep},
-	Pages = {221-229},
-	Pmid = {29909179},
-	Pst = {ppublish},
-	Title = {APOE ε4 status in healthy older African Americans is associated with deficits in pattern separation and hippocampal hyperactivation},
-	Volume = {69},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1016/j.neurobiolaging.2018.05.023}}
-
-@article{Qing:2018aa,
-	Abstract = {RATIONALE AND OBJECTIVES: Chronic obstructive pulmonary disease (COPD) is highly heterogeneous and not well understood. Hyperpolarized xenon-129 (Xe129) magnetic resonance imaging (MRI) provides a unique way to assess important lung functions such as gas uptake. In this pilot study, we exploited multiple imaging modalities, including computed tomography (CT), gadolinium-enhanced perfusion MRI, and Xe129 MRI, to perform a detailed investigation of changes in lung morphology and functions in COPD. Utility and strengths of Xe129 MRI in assessing COPD were also evaluated against the other imaging modalities.
-MATERIALS AND METHODS: Four COPD patients and four age-matched normal subjects participated in this study. Lung tissue density measured by CT, perfusion measures from gadolinium-enhanced MRI, and ventilation and gas uptake measures from Xe129 MRI were calculated for individual lung lobes to assess regional changes in lung morphology and function, and to investigate correlations among the different imaging modalities.
-RESULTS: No significant differences were found for all measures among the five lobes in either the COPD or age-matched normal group. Strong correlations (R > 0.5 or < -0.5, p < 0.001) were found between ventilation and perfusion measures. Also gas uptake by blood as measured by Xe129 MRI showed strong correlations with CT tissue density and ventilation measures (R > 0.5 or < -0.5, p < 0.001) and moderate to strong correlations with perfusion measures (R > 0.4 or < -0.5, p < 0.01). Four distinctive patterns of functional abnormalities were found in patients with COPD.
-CONCLUSION: Xe129 MRI has high potential to uniquely identify multiple changes in lung physiology in COPD using a single breath-hold acquisition.},
-	Author = {Qing, Kun and Tustison, Nicholas J and Mugler, 3rd, John P and Mata, Jaime F and Lin, Zixuan and Zhao, Li and Wang, Da and Feng, Xue and Shin, Ji Young and Callahan, Sean J and Bergman, Michael P and Ruppert, Kai and Altes, Talissa A and Cassani, Joanne M and Shim, Y Michael},
-	Date-Added = {2018-10-26 20:23:32 -0700},
-	Date-Modified = {2018-10-26 20:23:32 -0700},
-	Doi = {10.1016/j.acra.2018.05.025},
-	Journal = {Acad Radiol},
-	Journal-Full = {Academic radiology},
-	Keywords = {CT; Gas exchange; Hyperpolarized xenon-129 MRI; Perfusion; Ventilation},
-	Month = {Aug},
-	Pmid = {30087065},
-	Pst = {aheadofprint},
-	Title = {Probing Changes in Lung Physiology in COPD Using CT, Perfusion MRI, and Hyperpolarized Xenon-129 MRI},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1016/j.acra.2018.05.025}}
-
-@article{Tustison:2018aa,
-	Abstract = {RATIONALE AND OBJECTIVES: We propose an automated segmentation pipeline based on deep learning for proton lung MRI segmentation and ventilation-based quantification which improves on our previously reported methodologies in terms of computational efficiency while demonstrating accuracy and robustness. The large data requirement for the proposed framework is made possible by a novel template-based data augmentation strategy. Supporting this work is the open-source ANTsRNet-a growing repository of well-known deep learning architectures first introduced here.
-MATERIALS AND METHODS: Deep convolutional neural network (CNN) models were constructed and trained using a custom multilabel Dice metric loss function and a novel template-based data augmentation strategy. Training (including template generation and data augmentation) employed 205 proton MR images and 73 functional lung MRI. Evaluation was performed using data sets of size 63 and 40 images, respectively.
-RESULTS: Accuracy for CNN-based proton lung MRI segmentation (in terms of Dice overlap) was left lung: 0.93 $\pm$ 0.03, right lung: 0.94 $\pm$ 0.02, and whole lung: 0.94 $\pm$ 0.02. Although slightly less accurate than our previously reported joint label fusion approach (left lung: 0.95 $\pm$ 0.02, right lung: 0.96 $\pm$ 0.01, and whole lung: 0.96 $\pm$ 0.01), processing time is <1 second per subject for the proposed approach versus ∼30 minutes per subject using joint label fusion. Accuracy for quantifying ventilation defects was determined based on a consensus labeling where average accuracy (Dice multilabel overlap of ventilation defect regions plus normal region) was 0.94 for the CNN method; 0.92 for our previously reported method; and 0.90, 0.92, and 0.94 for expert readers.
-CONCLUSION: The proposed framework yields accurate automated quantification in near real time. CNNs drastically reduce processing time after offline model construction and demonstrate significant future potential for facilitating quantitative analysis of functional lung MRI.},
-	Author = {Tustison, Nicholas J and Avants, Brian B and Lin, Zixuan and Feng, Xue and Cullen, Nicholas and Mata, Jaime F and Flors, Lucia and Gee, James C and Altes, Talissa A and Mugler Iii, John P and Qing, Kun},
-	Date-Added = {2018-10-26 20:23:29 -0700},
-	Date-Modified = {2018-10-26 20:23:29 -0700},
-	Doi = {10.1016/j.acra.2018.08.003},
-	Journal = {Acad Radiol},
-	Journal-Full = {Academic radiology},
-	Keywords = {ANTsRNet; Advanced Normalization Tools; Hyperpolarized gas imaging; Neural networks; Proton lung MRI; U-net},
-	Month = {Sep},
-	Pmid = {30195415},
-	Pst = {aheadofprint},
-	Title = {Convolutional Neural Networks with Template-Based Data Augmentation for Functional Lung Image Quantification},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1016/j.acra.2018.08.003}}
-
 @article{Grainger:2018aa,
 	Abstract = {Obesity is increasingly prevalent and associated with increased risk of developing type 2 diabetes, cardiovascular diseases, and cancer. Magnetic resonance imaging (MRI) is an accurate method for determination of body fat volume and distribution. However, quantifying body fat from numerous MRI slices is tedious and time-consuming. Here we developed a deep learning-based method for measuring visceral and subcutaneous fat in the abdominal region of mice. Congenic mice only differ from C57BL/6 (B6) Apoe knockout (Apoe-/-) mice in chromosome 9 that is replaced by C3H/HeJ genome. Male congenic mice had lighter body weight than B6-Apoe-/- mice after being fed 14 weeks of Western diet. Axial and coronal T1-weighted sequencing at 1-mm-thickness and 1-mm-gap was acquired with a 7T Bruker ClinScan scanner. A deep learning approach was developed for segmenting visceral and subcutaneous fat based on the U-net architecture made publicly available through the open-source ANTsRNet library-a growing repository of well-known neural networks. The volumes of subcutaneous and visceral fat measured through our approach were highly comparable with those from manual measurements. The Dice score, root-mean-square error (RMSE), and correlation analysis demonstrated the similarity between two methods in quantifying visceral and subcutaneous fat. Analysis with the automated method showed significant reductions in volumes of visceral and subcutaneous fat but not non-fat tissues in congenic mice compared to B6 mice. These results demonstrate the accuracy of deep learning in quantification of abdominal fat and its significance in determining body weight.},
 	Author = {Grainger, Andrew T and Tustison, Nicholas J and Qing, Kun and Roy, Rene and Berr, Stuart S and Shi, Weibin},
@@ -281,77 +626,6 @@ CONCLUSION: The proposed framework yields accurate automated quantification in n
 	Volume = {13},
 	Year = {2018},
 	Bdsk-Url-1 = {https://doi.org/10.1371/journal.pone.0204071}}
-
-@article{Sinha:2018aa,
-	Abstract = {Using high-resolution resting state fMRI, the present study tested the hypothesis that ABCA7 genetic risk differentially affects intra-medial temporal lobe (MTL) functional connectivity between MTL subfields, versus internetwork connectivity of the MTL with the medial prefrontal cortex (mPFC), in non-demented older African Americans. Although the association of ABCA7 risk variants with Alzheimer's disease (AD) has been confirmed worldwide, its effect size on the relative odds of being diagnosed with AD is significantly higher in African Americans. However, little is known about the neural correlates of cognitive function in older African Americans and how they relate to AD risk conferred by ABCA7. In a case-control fMRI study of 36 healthy African Americans, we observed ABCA7 related impairments in behavioral generalization that was mediated by dissociation in entorhinal cortex (EC) resting state functional connectivity. Specifically, ABCA7 risk variant was associated with EC-hippocampus hyper-synchronization and EC-mPFC hypo-synchronization. Carriers of the risk genotype also had a significantly smaller anterolateral EC (alEC), despite our finding no group differences on standardized neuropsychological tests. Our findings suggest a model where impaired cortical connectivity leads to a more functionally isolated EC at rest, which translates into aberrant EC-hippocampus hyper-synchronization resulting in generalization deficits. While we cannot identify the exact mechanism underlying the observed alterations in EC structure and network function, considering the relevance of Aβ in ABCA7 related AD pathogenesis, the results of our study may reflect the synergistic reinforcement between amyloid and tau pathology in the EC, which significantly increases tau-induced neuronal loss and accelerates synaptic alterations. Finally, our results add to a growing literature suggesting that generalization of learning may be a useful tool for assessing the mild cognitive deficits seen in the earliest phases of prodromal AD, even before the more commonly reported deficits in episodic memory arise. This article is protected by copyright. All rights reserved.},
-	Author = {Sinha, Neha and Reagh, Zachariah M and Tustison, Nicholas J and Berg, Chelsie N and Shaw, Ashlee and Myers, Catherine E and Hill, Diane and Yassa, Michael A and Gluck, Mark A},
-	Date-Added = {2018-10-26 20:23:23 -0700},
-	Date-Modified = {2018-10-26 20:23:23 -0700},
-	Doi = {10.1002/hipo.23042},
-	Journal = {Hippocampus},
-	Journal-Full = {Hippocampus},
-	Keywords = {ABCA7; African American; Alzheimer's disease; Entorhinal Cortex; High-resolution fMRI functional connectivity},
-	Month = {Oct},
-	Pmid = {30318785},
-	Pst = {aheadofprint},
-	Title = {ABCA7 Risk Variant in Healthy Older African Americans is Associated with a Functionally Isolated Entorhinal Cortex Mediating Deficient Generalization of Prior Discrimination Training},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1002/hipo.23042}}
-
-@article{Johnson:2018aa,
-	Abstract = {Methods have been developed to allow quantitative connectivity of the whole fixed mouse brain by means of magnetic resonance imaging (MRI). We have translated what we have learned in clinical imaging to the very special domain of the mouse brain. Diffusion tensor imaging (DTI) of perfusion fixed specimens can now be performed with spatial resolution of 45 um3 , i.e. voxels that are 21,000 times smaller than the human connectome protocol. Specimen preparation has been optimized through an active staining protocol using a Gd chelate. Compressed sensing has been integrated into high performance reconstruction and post processing pipelines allowing acquisition of a whole mouse brain connectome in < 12 hrs. The methods have been validated against retroviral tracer studies. False positive tracts, which are especially problematic in clinical studies, have been reduced substantially to ~ 28 %. The methods have been streamlined to provide high-fidelity, whole mouse brain connectomes as a routine study. The data package provides holistic insight into the mouse brain with anatomic definition at the meso scale, quantitative volumes of subfields, scalar DTI metrics, and quantitative tractography. This article is protected by copyright. All rights reserved.},
-	Author = {Johnson, G Allan and Wang, Nian and Anderson, Robert J and Chen, Min and Cofer, Gary P and Gee, James C and Pratson, Forrest and Tustison, Nicholas and White, Leonard E},
-	Date-Added = {2018-10-26 20:23:22 -0700},
-	Date-Modified = {2018-10-26 20:23:22 -0700},
-	Doi = {10.1002/cne.24560},
-	Journal = {J Comp Neurol},
-	Journal-Full = {The Journal of comparative neurology},
-	Keywords = {Connectomes; MR Histology; MRI; Mouse Brain},
-	Month = {Oct},
-	Pmid = {30328104},
-	Pst = {aheadofprint},
-	Title = {Whole Mouse Brain Connectomics},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1002/cne.24560}}
-
-@article{Xin:2018aa,
-	Abstract = {BACKGROUND: It remains unclear how prone positioning improves survival in acute respiratory distress syndrome (ARDS). Using serial computed tomography (CT), we previously reported that 'unstable' inflation, i.e. partial aeration with large tidal density swings (indicating increased local strain) is associated with injury progression. We prospectively tested whether prone position contains the early propagation of experimental lung injury by stabilizing inflation.
-METHODS: Injury was induced by tracheal hydrochloric acid (HCl) in rats; after randomization to supine or prone position, injurious ventilation was commenced using high tidal volume and low PEEP. Paired end-inspiratory (EI) and end-expiratory (EE) CT scans were acquired at baseline and hourly up to 3h. Each sequential pair (EI, EE) of CT images was superimposed in parametric response maps to analyze inflation. Unstable inflation was then measured in each voxel in both dependent and non-dependent lung. In addition, 5 pigs were imaged (EI and EE) prone vs. supine, before and (one hour) after HCl aspiration.
-RESULTS: In rats, prone position limited lung injury propagation and increased survival (11/12 vs. 7/12 supine, P=0.01). EI-EE densities, respiratory mechanics, and blood gases deteriorated more in supine vs. prone rats. At baseline, more voxels with unstable inflation occurred in dependent vs. non-dependent regions when supine (41 6% vs. 18 7%, P<0.01), but not when prone. In supine pigs, unstable inflation predominated in dorsal regions and was attenuated by prone positioning.
-CONCLUSIONS: Prone position limits the radiological progression of early lung injury. Minimizing unstable inflation in this setting may alleviate the burden of ARDS.},
-	Author = {Xin, Yi and Cereda, Maurizio and Hamedani, Hooman and Pourfathi, Mehrdad and Siddiqui, Sarmad and Meeder, Natalie and Kadlecek, Stephen and Duncan, Ian and Profka, Harrilla and Rajaei, Jennia and Tustison, Nicholas J and Gee, James C and Kavanagh, Brian P and Rizi, Rahim R},
-	Date-Added = {2018-06-12 16:27:32 +0000},
-	Date-Modified = {2018-06-12 16:27:32 +0000},
-	Doi = {10.1164/rccm.201708-1728OC},
-	Journal = {Am J Respir Crit Care Med},
-	Journal-Full = {American journal of respiratory and critical care medicine},
-	Keywords = {Acute Respiratory Distress Syndrome (ARDS); Computed Tomography (CT); Parametric Response Mapping (PRM); Prone Position Ventilation; Ventilator-associated Lung Injury (VALI)},
-	Month = {Feb},
-	Pmid = {29420904},
-	Pst = {aheadofprint},
-	Title = {Unstable Inflation Causing Injury: Insight from Prone Position and Paired CT Scans},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1164/rccm.201708-1728OC}}
-
-@article{Reagh:2018aa,
-	Abstract = {The entorhinal cortex (EC) is among the earliest brain areas to deteriorate in Alzheimer's disease (AD). However, the extent to which functional properties of the EC are altered in the aging brain, even in the absence of clinical symptoms, is not understood. Recent human fMRI studies have identified a functional dissociation within the EC, similar to what is found in rodents. Here, we used high-resolution fMRI to identify a specific hypoactivity in the anterolateral EC (alEC) commensurate with major behavioral deficits on an object pattern separation task in asymptomatic older adults. Only subtle deficits were found in a comparable spatial condition, with no associated differences in posteromedial EC between young and older adults. We additionally linked this condition to dentate/CA3 hyperactivity, and the ratio of activity between the regions was associated with object mnemonic discrimination impairment. These results provide novel evidence of alEC-dentate/CA3 circuit dysfunction in cognitively normal aged humans.},
-	Author = {Reagh, Zachariah M and Noche, Jessica A and Tustison, Nicholas J and Delisle, Derek and Murray, Elizabeth A and Yassa, Michael A},
-	Date-Added = {2018-06-12 16:27:17 +0000},
-	Date-Modified = {2018-06-12 16:27:17 +0000},
-	Doi = {10.1016/j.neuron.2018.01.039},
-	Journal = {Neuron},
-	Journal-Full = {Neuron},
-	Keywords = {CA3; LEC; aging; alEC; dentate gyrus; entorhinal; fMRI; lateral entohrinal; memory; pattern separation},
-	Month = {Mar},
-	Number = {5},
-	Pages = {1187-1198.e4},
-	Pmc = {PMC5937538},
-	Pmid = {29518359},
-	Pst = {ppublish},
-	Title = {Functional Imbalance of Anterolateral Entorhinal Cortex and Hippocampal Dentate/CA3 Underlies Age-Related Object Pattern Separation Deficits},
-	Volume = {97},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1016/j.neuron.2018.01.039}}
 
 @article{Mortani-Barbosa:2018aa,
 	Abstract = {PURPOSE: Bronchiolitis obliterans syndrome after lung transplantation (LTx) manifests as a sustained decline in forced expiratory volume in the first second (FEV1). Quantitative computed tomography (QCT) metrics may predict FEV1 better than semiquantitative scores (SQSs), and the transplanted lung may provide better information than the native lung in unilateral LTx.
@@ -374,65 +648,6 @@ CONCLUSIONS: QCT metrics demonstrate stronger correlations with FEV1 and are bet
 	Year = {2018},
 	Bdsk-Url-1 = {https://doi.org/10.1097/RTI.0000000000000307}}
 
-@article{Das:2018aa,
-	Abstract = {We examined the relationship between in vivo estimates of tau deposition as measured by 18F-AV-1451 tau positron emission tomography imaging and cross-sectional cortical thickness, as well as rates of antecedent cortical thinning measured from magnetic resonance imaging in individuals with and without evidence of cerebral amyloid in 63 participants from the Alzheimer's Disease Neuroimaging Initiative study, including 32 cognitively normal individuals (mean age 74 years), 27 patients with mild cognitive impairment (mean age 76.8 years), and 4 patients diagnosed with Alzheimer's disease (mean age 80 years). We hypothesized that structural measures would correlate with 18F-AV-1451 in a spatially local manner and that this correlation would be stronger for longitudinal compared to cross-sectional measures of cortical thickness and in those with cerebral amyloid versus those without. Cross-sectional and longitudinal estimates of voxelwise atrophy were made from whole brain maps of cortical thickness and rates of thickness change. In amyloid-β-positive individuals, the correlation of voxelwise atrophy across the whole brain with a summary measure of medial temporal lobe (MTL) 18F-AV-1451 uptake demonstrated strong local correlations in the MTL with longitudinal atrophy that was weaker in cross-sectional analysis. Similar effects were seen in correlations between 31 bilateral cortical regions of interest. In addition, several nonlocal correlations between atrophy and 18F-AV-1451 uptake were observed, including association between MTL atrophy and 18F-AV-1451 uptake in parietal lobe regions of interest such as the precuneus. Amyloid-β-negative individuals only showed weaker correlations in data uncorrected for multiple comparisons. While these data replicate previous reports of associations between 18F-AV-1451 uptake and cross-sectional structural measures, the current results demonstrate a strong relationship with longitudinal measures of atrophy. These data support the notion that in vivo measures of tau pathology are tightly linked to the rate of neurodegenerative change.},
-	Author = {Das, Sandhitsu R and Xie, Long and Wisse, Laura E M and Ittyerah, Ranjit and Tustison, Nicholas J and Dickerson, Bradford C and Yushkevich, Paul A and Wolk, David A and {Alzheimer's Disease Neuroimaging Initiative}},
-	Date-Added = {2018-06-12 16:26:24 +0000},
-	Date-Modified = {2018-06-12 16:26:24 +0000},
-	Doi = {10.1016/j.neurobiolaging.2018.01.024},
-	Journal = {Neurobiol Aging},
-	Journal-Full = {Neurobiology of aging},
-	Keywords = {(18)FAV-1451; Alzheimer's disease; Amyloid negative; Amyloid positive; Atrophy; Longitudinal; PET; Rate of change; Tau; Thickness correlation; Uptake},
-	Month = {Jun},
-	Pages = {49-58},
-	Pmc = {PMC5924615},
-	Pmid = {29518752},
-	Pst = {ppublish},
-	Title = {Longitudinal and cross-sectional structural magnetic resonance imaging correlates of AV-1451 uptake},
-	Volume = {66},
-	Year = {2018},
-	Bdsk-Url-1 = {https://doi.org/10.1016/j.neurobiolaging.2018.01.024}}
-
-@article{Pontre:2017aa,
-	Abstract = {Cardiac magnetic resonance perfusion examinations enable noninvasive quantification of myocardial blood flow. However, motion between frames due to breathing must be corrected for quantitative analysis. Although several methods have been proposed, there is a lack of widely available benchmarks to compare different algorithms. We sought to compare many algorithms from several groups in an open benchmark challenge. Nine clinical studies from two different centers comprising normal and diseased myocardium at both rest and stress were made available for this study. The primary validation measure was regional myocardial blood flow based on the transfer coefficient (Ktrans), which was computed using a compartment model and the myocardial perfusion reserve (MPR) index. The ground truth was calculated using contours drawn manually on all frames by a single observer, and visually inspected by a second observer. Six groups participated and 19 different motion correction algorithms were compared. Each method used one of three different motion models: rigid, global affine, or local deformation. The similarity metric also varied with methods employing either sum-of-squared differences, mutual information, or cross correlation. There were no significant differences in Ktrans or MPR compared across different motion models or similarity metrics. Compared with the ground truth, only Ktrans for the sum-of-squared differences metric, and for local deformation motion models, had significant bias. In conclusion, the open benchmark enabled evaluation of clinical perfusion indices over a wide range of methods. In particular, there was no benefit of nonrigid registration techniques over the other methods evaluated in this study. The benchmark data and results are available from the Cardiac Atlas Project ( www.cardiacatlas.org).},
-	Author = {Pontre, Beau and Cowan, Brett R and DiBella, Edward and Kulaseharan, Sancgeetha and Likhite, Devavrat and Noorman, Nils and Tautz, Lennart and Tustison, Nicholas and Wollny, Gert and Young, Alistair A and Suinesiaputra, Avan},
-	Date-Added = {2017-11-28 00:52:07 +0000},
-	Date-Modified = {2017-11-28 00:52:07 +0000},
-	Doi = {10.1109/JBHI.2016.2597145},
-	Journal = {IEEE J Biomed Health Inform},
-	Journal-Full = {IEEE journal of biomedical and health informatics},
-	Month = {Sep},
-	Number = {5},
-	Pages = {1315-1326},
-	Pmc = {PMC5658235},
-	Pmid = {28880152},
-	Pst = {ppublish},
-	Title = {An Open Benchmark Challenge for Motion Correction of Myocardial Perfusion MRI},
-	Volume = {21},
-	Year = {2017},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1109/JBHI.2016.2597145}}
-
-@article{Barbosa:2017aa,
-	Abstract = {BACKGROUND: To assess how quantitative CT (qCT) metrics compare to pulmonary function testing (PFT) and semi-quantitative image scores (SQS) to diagnose bronchiolitis obliterans syndrome (BOS), manifestation of chronic lung allograft dysfunction after lung transplantation (LTx), according to the type of LTx (unilateral or bilateral).
-METHODS: Paired inspiratory-expiratory CT scans and PFTs of 176 LTx patients were analyzed retrospectively, and separated into BOS (78) and non-BOS (98) cohorts. SQS were assessed by 2 radiologists and graded (0-3) for features including mosaic attenuation and bronchiectasis. qCT metrics included lung volumes and air trapping volumes. Multivariate logistic regression (MVLR) and support vector machines (SVM) were used for the classification task.
-RESULTS: MVLR and SVM models using PFT metrics demonstrated highest accuracy for bilateral LTx (max AUC 0.771), whereas models using qCT metrics-only outperformed models using SQS or PFTs in unilateral LTx (max AUC 0.817), to diagnose BOS. Adding PC (principal components) from qCT on top of PFT improved model diagnostic accuracy for all transplant types.
-CONCLUSIONS: Combinations of qCT metrics augment the diagnostic performance of PFTs, are superior to SQS to predict BOS status, and outperform PFTs in the unilateral LTx group. This suggests that latent information on paired volumetric CT may allow early diagnosis of BOS in LTx patients, particularly in unilateral LTx.},
-	Author = {Barbosa, Jr, E Mortani and Simpson, S and Lee, J C and Tustison, N and Gee, J and Shou, H},
-	Date-Added = {2017-09-07 22:32:49 +0000},
-	Date-Modified = {2017-11-28 00:53:59 +0000},
-	Doi = {10.1016/j.compbiomed.2017.08.016},
-	Journal = {Comput Biol Med},
-	Journal-Full = {Computers in biology and medicine},
-	Keywords = {Bronchiolitis obliterans syndrome (BOS); Lung transplantation (LTx); Multivariate logistic regression (MVLR); Quantitative CT (qCT) metrics; Support vector machines (SVM)},
-	Month = {Aug},
-	Pages = {275-281},
-	Pmid = {28850899},
-	Pst = {aheadofprint},
-	Title = {Multivariate modeling using quantitative {CT} metrics may improve accuracy of diagnosis of bronchiolitis obliterans syndrome after lung transplantation},
-	Volume = {89},
-	Year = {2017},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.compbiomed.2017.08.016}}
-
 @article{Maga:2017aa,
 	Abstract = {Laboratory mice are staples for evo/devo and genetics studies. Inbred strains provide a uniform genetic background to manipulate and understand gene-environment interactions, while their crosses have been instrumental in studies of genetic architecture, integration and modularity, and mapping of complex biological traits. Recently, there have been multiple large-scale studies of laboratory mice to further our understanding of the developmental basis, evolution, and genetic control of shape variation in the craniofacial skeleton (i.e. skull and mandible). These experiments typically use micro-computed tomography (micro-CT) to capture the craniofacial phenotype in 3D and rely on manually annotated anatomical landmarks to conduct statistical shape analysis. Although the common choice for imaging modality and phenotyping provides the potential for collaborative research for even larger studies with more statistical power, the investigator (or lab-specific) nature of the data collection hampers these efforts. Investigators are rightly concerned that subtle differences in how anatomical landmarks were recorded will create systematic bias between studies that will eventually influence scientific findings. Even if researchers are willing to repeat landmark annotation on a combined dataset, different lab practices and software choices may create obstacles for standardization beyond the underlying imaging data. Here, we propose a freely available analysis system that could assist in the standardization of micro-CT studies in the mouse. Our proposal uses best practices developed in biomedical imaging and takes advantage of existing open-source software and imaging formats. Our first contribution is the creation of a synthetic template for the adult mouse craniofacial skeleton from 25 inbred strains and five F1 crosses that are widely used in biological research. The template contains a fully segmented cranium, left and right hemi-mandibles, endocranial space, and the first few cervical vertebrae. We have been using this template in our lab to segment and isolate cranial structures in an automated fashion from a mixed population of mice, including craniofacial mutants, aged 4-12.5 weeks. As a secondary contribution, we demonstrate an application of nearly automated shape analysis, using symmetric diffeomorphic image registration. This approach, which we call diGPA, closely approximates the popular generalized Procrustes analysis (GPA) but negates the collection of anatomical landmarks. We achieve our goals by using the open-source advanced normalization tools (ANT) image quantification library, as well as its associated R library (ANTsR) for statistical image analysis. Finally, we make a plea to investigators to commit to using open imaging standards and software in their labs to the extent possible to increase the potential for data exchange and improve the reproducibility of findings. Future work will incorporate more anatomical detail (such as individual cranial bones, turbinals, dentition, middle ear ossicles) and more diversity into the template.},
 	Author = {Maga, A Murat and Tustison, Nicholas J and Avants, Brian B},
@@ -452,24 +667,6 @@ CONCLUSIONS: Combinations of qCT metrics augment the diagnostic performance of P
 	Volume = {231},
 	Year = {2017},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1111/joa.12645}}
-
-@article{Ladd:2017aa,
-	Abstract = {Amyotrophic lateral sclerosis (ALS) is a generally fatal neurodegenerative disease of adults that produces weakness and atrophy due to dysfunction and death of upper and lower motor neurons. We used RNA-sequencing (RNA-seq) to analyze expression of all mitochondrial DNA (mtDNA)-encoded respiratory genes in ALS and CTL human cervical spinal cords (hCSC) and isolated motor neurons. We analyzed with RNA-seq mtDNA gene expression in human neural stem cells (hNSC) exposed to recombinant human mitochondrial transcription factor A (rhTFAM), visualized in 3-dimensions clustered gene networks activated by rhTFAM, quantitated their interactions with other genes and determined their gene ontology (GO) families. RNA-seq and quantitative PCR (qPCR) analyses showed reduced mitochondrial gene expression in ALS hCSC and ALS motor neurons isolated by laser capture microdissection (LCM), and revealed that hNSC and CTL human cervical spinal cords were similar. Rats treated with i.v. rhTFAM showed a dose-response increase in brain respiration and an increase in spinal cord mitochondrial gene expression. Treatment of hNSC with rhTFAM increased expression of mtDNA-encoded respiratory genes and produced one major and several minor clusters of gene interactions. Gene ontology (GO) analysis of rhTFAM-stimulated gene clusters revealed enrichment in GO families involved in RNA and mRNA metabolism, suggesting mitochondrial-nuclear signaling. In postmortem ALS hCSC and LCM-isolated motor neurons we found reduced expression of mtDNA respiratory genes. In hNSC's rhTFAM increased mtDNA gene expression and stimulated mRNA metabolism by unclear mechanisms. rhTFAM may be useful in improving bioenergetic function in ALS.},
-	Author = {Ladd, Amy C and Brohawn, David G and Thomas, Ravindar R and Keeney, Paula M and Berr, Stuart S and Khan, Shaharyar M and Portell, Francisco R and Shakenov, Meiram Zh and Antkowiak, Patrick F and Kundu, Bijoy and Tustison, Nicholas and Bennett, James P},
-	Date-Added = {2017-06-19 18:17:45 +0000},
-	Date-Modified = {2017-07-05 15:34:37 +0000},
-	Doi = {10.1016/j.brainres.2017.05.010},
-	Journal = {Brain Res},
-	Journal-Full = {Brain research},
-	Keywords = {ALS; Genomics; Mitochondria; RNA expression; TFAM},
-	Month = {Jul},
-	Pages = {74-83},
-	Pmid = {28511992},
-	Pst = {ppublish},
-	Title = {{RNA}-seq analyses reveal that cervical spinal cords and anterior motor neurons from amyotrophic lateral sclerosis subjects show reduced expression of mitochondrial {DNA}-encoded respiratory genes, and {rhTFAM} may correct this respiratory deficiency},
-	Volume = {1667},
-	Year = {2017},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.brainres.2017.05.010}}
 
 @article{Altes:2017aa,
 	Abstract = {BACKGROUND: This pilot study evaluated the effect of short- and long-term ivacaftor treatment on hyperpolarized (3)He-magnetic resonance imaging (MRI)-defined ventilation defects in patients with cystic fibrosis aged ≥12years with a G551D-CFTR mutation.
@@ -555,26 +752,6 @@ CONCLUSION: Paired with correlative outcome data, supervised learning methods ma
 	Year = {2016},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1097/RTI.0000000000000218}}
 
-@article{Filiano:2016aa,
-	Abstract = {Immune dysfunction is commonly associated with several neurological and mental disorders. Although the mechanisms by which peripheral immunity may influence neuronal function are largely unknown, recent findings implicate meningeal immunity influencing behaviour, such as spatial learning and memory. Here we show that meningeal immunity is also critical for social behaviour; mice deficient in adaptive immunity exhibit social deficits and hyper-connectivity of fronto-cortical brain regions. Associations between rodent transcriptomes from brain and cellular transcriptomes in response to T-cell-derived cytokines suggest a strong interaction between social behaviour and interferon-γ (IFN-γ)-driven responses. Concordantly, we demonstrate that inhibitory neurons respond to IFN-γ and increase GABAergic (γ-aminobutyric-acid) currents in projection neurons, suggesting that IFN-γ is a molecular link between meningeal immunity and neural circuits recruited for social behaviour. Meta-analysis of the transcriptomes of a range of organisms reveals that rodents, fish, and flies elevate IFN-γ/JAK-STAT-dependent gene signatures in a social context, suggesting that the IFN-γ signalling pathway could mediate a co-evolutionary link between social/aggregation behaviour and an efficient anti-pathogen response. This study implicates adaptive immune dysfunction, in particular IFN-γ, in disorders characterized by social dysfunction and suggests a co-evolutionary link between social behaviour and an anti-pathogen immune response driven by IFN-γ signalling.},
-	Author = {Filiano, Anthony J and Xu, Yang and Tustison, Nicholas J and Marsh, Rachel L and Baker, Wendy and Smirnov, Igor and Overall, Christopher C and Gadani, Sachin P and Turner, Stephen D and Weng, Zhiping and Peerzade, Sayeda Najamussahar and Chen, Hao and Lee, Kevin S and Scott, Michael M and Beenhakker, Mark P and Litvak, Vladimir and Kipnis, Jonathan},
-	Date-Added = {2017-06-19 18:15:13 +0000},
-	Date-Modified = {2017-07-05 16:15:25 +0000},
-	Doi = {10.1038/nature18626},
-	Journal = {Nature},
-	Journal-Full = {Nature},
-	Mesh = {Animals; Drosophila melanogaster; Female; GABAergic Neurons; Interferon-gamma; Male; Meninges; Mice; Mice, Inbred C57BL; Neural Pathways; Prefrontal Cortex; Rats; Signal Transduction; Social Behavior; T-Lymphocytes; Transcriptome; Zebrafish},
-	Month = {07},
-	Number = {7612},
-	Pages = {425-9},
-	Pmc = {PMC4961620},
-	Pmid = {27409813},
-	Pst = {ppublish},
-	Title = {Unexpected role of interferon-$\gamma$ in regulating neuronal connectivity and social behaviour},
-	Volume = {535},
-	Year = {2016},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1038/nature18626}}
-
 @article{Tustison:2016aa,
 	Abstract = {PURPOSE: To propose an accurate methodological framework for automatically segmenting pulmonary proton MRI based on an optimal consensus of a spatially normalized library of annotated lung atlases.
 METHODS: A library of 62 manually annotated lung atlases comprising 48 mixed healthy, chronic obstructive pulmonary disease, and asthmatic subjects of a large age range with multiple ventilation levels is used to produce an optimal segmentation in proton MRI, based on a consensus of the spatially normalized library. An extension of this methodology is used to provide best-guess estimates of lobar subdivisions in proton MRI from annotated computed tomography data.
@@ -616,22 +793,6 @@ CONCLUSION: An annotated atlas library approach can be used to provide good lung
 	Year = {2016},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1016/j.jalz.2016.02.006}}
 
-@article{Pustina:2016aa,
-	Abstract = {The gold standard for identifying stroke lesions is manual tracing, a method that is known to be observer dependent and time consuming, thus impractical for big data studies. We propose LINDA (Lesion Identification with Neighborhood Data Analysis), an automated segmentation algorithm capable of learning the relationship between existing manual segmentations and a single T1-weighted MRI. A dataset of 60 left hemispheric chronic stroke patients is used to build the method and test it with k-fold and leave-one-out procedures. With respect to manual tracings, predicted lesion maps showed a mean dice overlap of 0.696 $\pm$ 0.16, Hausdorff distance of 17.9 $\pm$ 9.8 mm, and average displacement of 2.54 $\pm$ 1.38 mm. The manual and predicted lesion volumes correlated at r = 0.961. An additional dataset of 45 patients was utilized to test LINDA with independent data, achieving high accuracy rates and confirming its cross-institutional applicability. To investigate the cost of moving from manual tracings to automated segmentation, we performed comparative lesion-to-symptom mapping (LSM) on five behavioral scores. Predicted and manual lesions produced similar neuro-cognitive maps, albeit with some discussed discrepancies. Of note, region-wise LSM was more robust to the prediction error than voxel-wise LSM. Our results show that, while several limitations exist, our current results compete with or exceed the state-of-the-art, producing consistent predictions, very low failure rates, and transferable knowledge between labs. This work also establishes a new viewpoint on evaluating automated methods not only with segmentation accuracy but also with brain-behavior relationships. LINDA is made available online with trained models from over 100 patients. Hum Brain Mapp, 2016. {\copyright} 2016 Wiley Periodicals, Inc.},
-	Author = {Pustina, Dorian and Coslett, H Branch and Turkeltaub, Peter E and Tustison, Nicholas and Schwartz, Myrna F and Avants, Brian},
-	Date-Added = {2016-02-04 16:25:29 +0000},
-	Date-Modified = {2017-07-05 15:35:25 +0000},
-	Doi = {10.1002/hbm.23110},
-	Journal = {Hum Brain Mapp},
-	Journal-Full = {Human brain mapping},
-	Keywords = {VLSM; automatic; hierarchical; machine learning; random forests; subacute},
-	Month = {Jan},
-	Pmid = {26756101},
-	Pst = {aheadofprint},
-	Title = {Automated segmentation of chronic stroke lesions using {LINDA}: Lesion identification with neighborhood data analysis},
-	Year = {2016},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1002/hbm.23110}}
-
 @article{Qing:2015aa,
 	Abstract = {PURPOSE: To develop and validate a method for acquiring helium-3 ((3) He) and proton ((1) H) three-dimensional (3D) image sets of the human lung with isotropic spatial resolution within a 10-s breath-hold by using compressed sensing (CS) acceleration, and to assess the fidelity of undersampled images compared with fully sampled images.
 METHODS: The undersampling scheme for CS acceleration was optimized and tested using (3) He ventilation data. Rapid 3D acquisition of both (3) He and (1) H data during one breath-hold was then implemented, based on a balanced steady-state free-precession pulse sequence, by random undersampling of k-space with reconstruction by means of minimizing the L1 norm and total variance. CS-reconstruction fidelity was evaluated quantitatively by comparing fully sampled and retrospectively undersampled image sets.
@@ -672,24 +833,6 @@ CONCLUSION: By randomly undersampling k-space and using CS reconstruction, high-
 	Volume = {13},
 	Year = {2015},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s12021-014-9245-2}}
-
-@article{Menze:2015aa,
-	Abstract = {In this paper we report the set-up and results of the Multimodal Brain Tumor Image Segmentation Benchmark (BRATS) organized in conjunction with the MICCAI 2012 and 2013 conferences. Twenty state-of-the-art tumor segmentation algorithms were applied to a set of 65 multi-contrast MR scans of low- and high-grade glioma patients-manually annotated by up to four raters-and to 65 comparable scans generated using tumor image simulation software. Quantitative evaluations revealed considerable disagreement between the human raters in segmenting various tumor sub-regions (Dice scores in the range 74%-85%), illustrating the difficulty of this task. We found that different algorithms worked best for different sub-regions (reaching performance comparable to human inter-rater variability), but that no single algorithm ranked in the top for all sub-regions simultaneously. Fusing several good algorithms using a hierarchical majority vote yielded segmentations that consistently ranked above all individual algorithms, indicating remaining opportunities for further methodological improvements. The BRATS image data and manual annotations continue to be publicly available through an online evaluation system as an ongoing benchmarking resource.},
-	Author = {Menze, Bjoern H and Jakab, Andras and Bauer, Stefan and Kalpathy-Cramer, Jayashree and Farahani, Keyvan and Kirby, Justin and Burren, Yuliya and Porz, Nicole and Slotboom, Johannes and Wiest, Roland and Lanczi, Levente and Gerstner, Elizabeth and Weber, Marc-Andre and Arbel, Tal and Avants, Brian B and Ayache, Nicholas and Buendia, Patricia and Collins, D Louis and Cordier, Nicolas and Corso, Jason J and Criminisi, Antonio and Das, Tilak and Delingette, Herve and Demiralp, Cagatay and Durst, Christopher R and Dojat, Michel and Doyle, Senan and Festa, Joana and Forbes, Florence and Geremia, Ezequiel and Glocker, Ben and Golland, Polina and Guo, Xiaotao and Hamamci, Andac and Iftekharuddin, Khan M and Jena, Raj and John, Nigel M and Konukoglu, Ender and Lashkari, Danial and Mariz, Jose Antonio and Meier, Raphael and Pereira, Sergio and Precup, Doina and Price, Stephen J and Raviv, Tammy Riklin and Reza, Syed M S and Ryan, Michael and Sarikaya, Duygu and Schwartz, Lawrence and Shin, Hoo-Chang and Shotton, Jamie and Silva, Carlos A and Sousa, Nuno and Subbanna, Nagesh K and Szekely, Gabor and Taylor, Thomas J and Thomas, Owen M and Tustison, Nicholas J and Unal, Gozde and Vasseur, Flor and Wintermark, Max and Ye, Dong Hye and Zhao, Liang and Zhao, Binsheng and Zikic, Darko and Prastawa, Marcel and Reyes, Mauricio and Van Leemput, Koen},
-	Date-Added = {2015-12-21 18:14:55 +0000},
-	Date-Modified = {2017-07-05 16:18:56 +0000},
-	Doi = {10.1109/TMI.2014.2377694},
-	Journal = {IEEE Trans Med Imaging},
-	Journal-Full = {IEEE transactions on medical imaging},
-	Month = {Oct},
-	Number = {10},
-	Pages = {1993-2024},
-	Pmid = {25494501},
-	Pst = {ppublish},
-	Title = {The Multimodal Brain Tumor Image Segmentation Benchmark ({BRATS})},
-	Volume = {34},
-	Year = {2015},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1109/TMI.2014.2377694}}
 
 @article{Xin:2015aa,
 	Abstract = {Quantitative analysis of computed tomography (CT) is essential to the study of acute lung injury. However, quantitative CT is made difficult by poor lung aeration, which complicates the critical step of image segmentation. To overcome this obstacle, this study sought to develop and validate a semiautomated, multilandmark, registration-based scheme for lung segmentation that is effective in conditions of poor aeration. Expiratory and inspiratory CT images were obtained in rats (n = 8) with surfactant depletion of incremental severity to mimic worsening aeration. Trained operators manually delineated the images to provide a comparative landmark. Semiautomatic segmentation originated from a single, previously segmented reference image obtained at healthy baseline. Deformable registration of the target images (after surfactant depletion) was performed using the symmetric diffeomorphic transformation model with B-spline regularization. Registration used multiple landmarks (i.e., rib cage, spine, and lung parenchyma) to minimize the effect of poor aeration. Then target images were automatically segmented by applying the calculated transformation function to the reference image contour. Semiautomatically and manually segmented contours proved to be highly similar in all aeration conditions, including those characterized by more severe surfactant depletion and expiration. The Dice similarity coefficient was over 0.9 in most conditions, confirming high agreement, irrespective of poor aeration. Furthermore, CT density-based measurements of gas volume, tissue mass, and lung aeration distribution were minimally affected by the method of segmentation. Moving forward, multilandmark registration has the potential to streamline quantitative CT analysis by enabling semiautomatic image segmentation of lungs with a broad range of injury severity.},
@@ -769,44 +912,6 @@ CONCLUSION: Our study suggests that GABA concentration is inhomogeneous througho
 	Year = {2015},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1038/sdata.2015.3}}
 
-@article{Tustison:2015aa,
-	Abstract = {PURPOSE: To propose an accurate methodological framework for automatically segmenting pulmonary proton MRI based on an optimal consensus of a spatially normalized library of annotated lung atlases.
-METHODS: A library of 62 manually annotated lung atlases comprising 48 mixed healthy, chronic obstructive pulmonary disease, and asthmatic subjects of a large age range with multiple ventilation levels is used to produce an optimal segmentation in proton MRI, based on a consensus of the spatially normalized library. An extension of this methodology is used to provide best-guess estimates of lobar subdivisions in proton MRI from annotated computed tomography data.
-RESULTS: A leave-one-out evaluation strategy was used for evaluation. Jaccard overlap measures for the left and right lungs were used for performance comparisons relative to the current state-of-the-art (0.966 $\pm$ 0.018 and 0.970 $\pm$ 0.016, respectively). Best-guess estimates for the lobes exhibited comparable performance levels (left upper: 0.882 $\pm$ 0.059, left lower: 0.868 $\pm$ 0.06, right upper: 0.852 $\pm$ 0.067, right middle: 0.657 $\pm$ 0.130, right lower: 0.873 $\pm$ 0.063).
-CONCLUSION: An annotated atlas library approach can be used to provide good lung and lobe estimation in proton MRI. The proposed framework is useful for subsequent anatomically based analysis of structural and/or functional pulmonary image data. Magn Reson Med, 2015. {\copyright} 2015 Wiley Periodicals, Inc.},
-	Author = {Tustison, Nicholas J and Qing, Kun and Wang, Chengbo and Altes, Talissa A and Mugler, 3rd, John P},
-	Date-Added = {2015-12-21 18:14:24 +0000},
-	Date-Modified = {2015-12-21 18:21:07 +0000},
-	Doi = {10.1002/mrm.25824},
-	Journal = {Magn Reson Med},
-	Journal-Full = {Magnetic resonance in medicine},
-	Keywords = {advanced normalization tools; lobe segmentation; lung segmentation; multi-atlas label fusion; pulmonary image registration},
-	Month = {Jul},
-	Pmid = {26222827},
-	Pst = {aheadofprint},
-	Title = {Atlas-based estimation of lung and lobar anatomy in proton {MRI}},
-	Year = {2015},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1002/mrm.25824}}
-
-@article{Hasan:2015aa,
-	Abstract = {BACKGROUND AND PURPOSE: Human entorhinal cortex (ERC) connects the temporal neocortex with hippocampus and is essential for memory retrieval and navigation. Markedly, there have been only few quantitative MRI works on the ERC geometric measurements in pediatric and adult healthy subjects across the lifespan. Here, we sought to fill this gap in knowledge by quantifying the ERC thickness in a very large cohort of subjects spanning 9 decades of life.
-METHODS: Using magnetic resonance imaging data from multiple centers (IXI, MMRR, NKI, OASIS combined with the NIH-Child Dev database and locally recruited healthy subjects), we analyzed the lifespan trajectory of ERC thickness in 1,660 healthy controls ranging from 2 to 94 years of age.
-RESULTS: The ERC thickness increased with age, reached a peak at about 44 years, and then decreased with age. ERC thickness is hemispherically rightward-asymmetric with no gender differences. Mean ERC thickness was found to vary between 2.943 $\pm$ .438 mm and 3.525 $\pm$ .355 mm across different age populations. Also, more pronounced loss of the ERC thickness in healthy aging men was noticeable.
-DISCUSSION: Our report with high spatial resolution brain MRI data from 1,660 healthy controls provided important clues about ERC thickness across lifespan. We believe that our report will pave the way for the future studies investigating distinct neural pathologies related with cognitive dysfunctions.},
-	Author = {Hasan, Khader M and Mwangi, Benson and Cao, Bo and Keser, Zafer and Tustison, Nicholas J and Kochunov, Peter and Frye, Richard E and Savatic, Mirjana and Soares, Jair},
-	Date-Added = {2015-12-21 18:14:14 +0000},
-	Date-Modified = {2015-12-21 18:14:14 +0000},
-	Doi = {10.1111/jon.12297},
-	Journal = {J Neuroimaging},
-	Journal-Full = {Journal of neuroimaging : official journal of the American Society of Neuroimaging},
-	Keywords = {Big data; FreeSurfer; MRI; cortical thickness; entorhinal cortex; lifespan},
-	Month = {Oct},
-	Pmid = {26565394},
-	Pst = {aheadofprint},
-	Title = {Entorhinal Cortex Thickness across the Human Lifespan},
-	Year = {2015},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1111/jon.12297}}
-
 @article{Tustison:2014ad,
 	Abstract = {Recent discussions within the neuroimaging community have highlighted the problematic presence of selection bias in experimental design. Although initially centering on the selection of voxels during the course of fMRI studies, we demonstrate how this bias can potentially corrupt voxel-based analyses. For such studies, template-based registration plays a critical role in which a representative template serves as the normalized space for group alignment. A standard approach maps each subject's image to a representative template before performing statistical comparisons between different groups. We analytically demonstrate that in these scenarios the popular sum of squared difference (SSD) intensity metric, implicitly surrogating as a quantification of anatomical alignment, instead explicitly maximizes effect size--an experimental design flaw referred to as "circularity bias." We illustrate how this selection bias varies in strength with the similarity metric used during registration under the hypothesis that while SSD-related metrics, such as Demons, will manifest similar effects, other metrics which are not formulated based on absolute intensity differences will produce less of an effect. Consequently, given the variability in voxel-based analysis outcomes with similarity metric choice, we caution researchers specifically in the use of SSD and SSD-related measures where normalization and statistical analysis involve the same image set. Instead, we advocate a more cautious approach where normalization of the individual subject images to the reference space occurs through corresponding image sets which are independent of statistical testing. Alternatively, one can use similarity terms that are less sensitive to this bias.},
 	Author = {Tustison, Nicholas J and Avants, Brian B and Cook, Philip A and Kim, Junghoon and Whyte, John and Gee, James C and Stone, James R},
@@ -825,28 +930,6 @@ DISCUSSION: Our report with high spatial resolution brain MRI data from 1,660 he
 	Volume = {35},
 	Year = {2014},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1002/hbm.22211}}
-
-@article{Durst:2014aa,
-	Abstract = {INTRODUCTION: Gliomas remain difficult to treat, in part, due to our inability to accurately delineate the margins of the tumor. The goal of our study was to evaluate if a combination of advanced MR imaging techniques and a multimodal imaging model could be used to predict tumor infiltration in patients with diffuse gliomas.
-METHODS: Institutional review board approval and written consent were obtained. This prospective pilot study enrolled patients undergoing stereotactic biopsy for a suspected de novo glioma. Stereotactic biopsy coordinates were coregistered with multiple standard and advanced neuroimaging sequences in 10 patients. Objective imaging values were assigned to the biopsy sites for each of the imaging sequences. A principal component analysis was performed to reduce the dimensionality of the imaging dataset without losing important information. A univariate analysis was performed to identify the statistically relevant principal components. Finally, a multivariate analysis was used to build the final model describing nuclear density.
-RESULTS: A univariate analysis identified three principal components as being linearly associated with the observed nuclear density (p values 0.021, 0.016, and 0.046, respectively). These three principal component composite scores are predominantly comprised of DTI (mean diffusivity or average diffusion coefficient and fractional anisotropy) and PWI data (rMTT, Ktrans). The p value of the model was <0.001. The correlation between the predicted and observed nuclear density was 0.75.
-CONCLUSION: A multi-input, single output imaging model may predict the extent of glioma invasion with significant correlation with histopathology.},
-	Author = {Durst, Christopher R and Raghavan, Prashant and Shaffrey, Mark E and Schiff, David and Lopes, M Beatriz and Sheehan, Jason P and Tustison, Nicholas J and Patrie, James T and Xin, Wenjun and Elias, W Jeff and Liu, Kenneth C and Helm, Greg A and Cupino, A and Wintermark, Max},
-	Date-Added = {2014-12-07 05:41:56 +0000},
-	Date-Modified = {2014-12-07 05:47:32 +0000},
-	Doi = {10.1007/s00234-013-1308-9},
-	Journal = {Neuroradiology},
-	Journal-Full = {Neuroradiology},
-	Mesh = {Adult; Aged; Algorithms; Brain Neoplasms; Computer Simulation; Female; Glioma; Humans; Image Enhancement; Image Interpretation, Computer-Assisted; Magnetic Resonance Imaging; Male; Middle Aged; Models, Statistical; Multimodal Imaging; Neoplasm Invasiveness; Pilot Projects; Reproducibility of Results; Sensitivity and Specificity; Young Adult},
-	Month = {Feb},
-	Number = {2},
-	Pages = {107-15},
-	Pmid = {24337609},
-	Pst = {ppublish},
-	Title = {Multimodal {MR} imaging model to predict tumor infiltration in patients with gliomas},
-	Volume = {56},
-	Year = {2014},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1007/s00234-013-1308-9}}
 
 @article{Yoder:2014aa,
 	Abstract = {Study objectives were to develop, validate, and apply a method to measure three-dimensional (3D) internal strains in intact human discs under axial compression. A custom-built loading device applied compression and permitted load-relaxation outside of the magnet while also maintaining compression and hydration during imaging. Strain was measured through registration of 300 μm isotropic resolution images. Excellent registration accuracy was achieved, with 94% and 65% overlap of disc volume and lamellae compared to manual segmentation, and an average Hausdorff, a measure of distance error, of 0.03 and 0.12 mm for disc volume and lamellae boundaries, respectively. Strain maps enabled qualitative visualization and quantitative regional annulus fibrosus (AF) strain analysis. Axial and circumferential strains were highest in the lateral AF and lowest in the anterior and posterior AF. Radial strains were lowest in the lateral AF, but highly variable. Overall, this study provided new methods that will be valuable in the design and evaluation surgical procedures and therapeutic interventions.},
@@ -925,24 +1008,6 @@ CONCLUSIONS: Caution needs to be exercised when using DTI tractography informati
 	Volume = {51},
 	Year = {2014},
 	Bdsk-Url-1 = {http://dx.doi.org/10.3109/02770903.2014.914535}}
-
-@article{Avants:2014aa,
-	Abstract = {Publicly available scientific resources help establish evaluation standards, provide a platform for teaching and improve reproducibility. Version 4 of the Insight ToolKit (ITK(4)) seeks to establish new standards in publicly available image registration methodology. ITK(4) makes several advances in comparison to previous versions of ITK. ITK(4) supports both multivariate images and objective functions; it also unifies high-dimensional (deformation field) and low-dimensional (affine) transformations with metrics that are reusable across transform types and with composite transforms that allow arbitrary series of geometric mappings to be chained together seamlessly. Metrics and optimizers take advantage of multi-core resources, when available. Furthermore, ITK(4) reduces the parameter optimization burden via principled heuristics that automatically set scaling across disparate parameter types (rotations vs. translations). A related approach also constrains steps sizes for gradient-based optimizers. The result is that tuning for different metrics and/or image pairs is rarely necessary allowing the researcher to more easily focus on design/comparison of registration strategies. In total, the ITK(4) contribution is intended as a structure to support reproducible research practices, will provide a more extensive foundation against which to evaluate new work in image registration and also enable application level programmers a broad suite of tools on which to build. Finally, we contextualize this work with a reference registration evaluation study with application to pediatric brain labeling.},
-	Author = {Avants, Brian B and Tustison, Nicholas J and Stauffer, Michael and Song, Gang and Wu, Baohua and Gee, James C},
-	Date-Added = {2014-12-07 05:41:39 +0000},
-	Date-Modified = {2014-12-07 05:52:12 +0000},
-	Doi = {10.3389/fninf.2014.00044},
-	Journal = {Front Neuroinform},
-	Journal-Full = {Frontiers in neuroinformatics},
-	Keywords = {MRI; brain; death; open-source; registration},
-	Pages = {44},
-	Pmc = {PMC4009425},
-	Pmid = {24817849},
-	Pst = {epublish},
-	Title = {The {Insight} {ToolKit} image registration framework},
-	Volume = {8},
-	Year = {2014},
-	Bdsk-Url-1 = {http://dx.doi.org/10.3389/fninf.2014.00044}}
 
 @article{Wintermark:2014aa,
 	Abstract = {PURPOSE: To use diffusion-tensor (DT) magnetic resonance (MR) imaging in patients with essential tremor who were treated with transcranial MR imaging-guided focused ultrasound lesion inducement to identify the structural connectivity of the ventralis intermedius nucleus of the thalamus and determine how DT imaging changes correlated with tremor changes after lesion inducement.
@@ -1091,29 +1156,6 @@ CONCLUSION: DT MR imaging after MR imaging-guided focused ultrasound thalamotomy
 	Year = {2010},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1002/mrm.22390}}
 
-@article{Tustison:2010aa,
-	Abstract = {PURPOSE: To propose and test the feasibility of a novel method for quantifying 3D regional pulmonary kinematics from hyperpolarized helium-3 tagged MRI in human subjects using a tailored image processing pipeline and a recently developed nonrigid registration framework.
-MATERIALS AND METHODS: Following image acquisition, inspiratory and expiratory tagged (3)He magnetic resonance (MR) images were preprocessed using various image filtering techniques to enhance the tag surfaces. Segmentation of the three orthogonal sets of tag planes in each lung produced distinct point-set representations of the tag surfaces. Using these labeled point-sets, deformation fields and corresponding strain maps were obtained via nonrigid point-set registration. Kinematic analysis was performed on three volunteers.
-RESULTS: Tag lines in inspiratory and expiratory images were coregistered producing a continuous 3D correspondence mapping. Average displacement and directional strains were calculated in three subjects in the inferior, mid, and superior portions of the right and left lungs. As expected, the predominant direction of displacements with expiration is from inferior to superior.
-CONCLUSION: Kinematic quantitation of pulmonary motion using tagged (3)He MRI is feasible using the applied image preprocessing filtering techniques and nonrigid point-set registration. Potential benefits from regional pulmonary kinematic quantitation include the facilitation of diagnosis and local assessment of disease progression.},
-	Author = {Tustison, Nicholas J and Awate, Suyash P and Cai, Jing and Altes, Talissa A and Miller, G Wilson and de Lange, Eduard E and Mugler, 3rd, John P and Gee, James C},
-	Date-Added = {2013-11-07 00:38:26 +0000},
-	Date-Modified = {2013-11-07 00:50:46 +0000},
-	Doi = {10.1002/jmri.22137},
-	Journal = {J Magn Reson Imaging},
-	Journal-Full = {Journal of magnetic resonance imaging : JMRI},
-	Mesh = {Administration, Inhalation; Contrast Media; Female; Helium; Humans; Isotopes; Lung; Magnetic Resonance Imaging; Male; Reproducibility of Results; Respiratory Function Tests; Sensitivity and Specificity},
-	Month = {May},
-	Number = {5},
-	Pages = {1236-41},
-	Pmc = {PMC2997045},
-	Pmid = {20432362},
-	Pst = {ppublish},
-	Title = {Pulmonary kinematics from tagged hyperpolarized helium-3 {MRI}},
-	Volume = {31},
-	Year = {2010},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1002/jmri.22137}}
-
 @article{Avants:2011ab,
 	Abstract = {The United States National Institutes of Health (NIH) commit significant support to open-source data and software resources in order to foment reproducibility in the biomedical imaging sciences. Here, we report and evaluate a recent product of this commitment: Advanced Neuroimaging Tools (ANTs), which is approaching its 2.0 release. The ANTs open source software library consists of a suite of state-of-the-art image registration, segmentation and template building tools for quantitative morphometric analysis. In this work, we use ANTs to quantify, for the first time, the impact of similarity metrics on the affine and deformable components of a template-based normalization study. We detail the ANTs implementation of three similarity metrics: squared intensity difference, a new and faster cross-correlation, and voxel-wise mutual information. We then use two-fold cross-validation to compare their performance on openly available, manually labeled, T1-weighted MRI brain image data of 40 subjects (UCLA's LPBA40 dataset). We report evaluation results on cortical and whole brain labels for both the affine and deformable components of the registration. Results indicate that the best ANTs methods are competitive with existing brain extraction results (Jaccard=0.958) and cortical labeling approaches. Mutual information affine mapping combined with cross-correlation diffeomorphic mapping gave the best cortical labeling results (Jaccard=0.669$\pm$0.022). Furthermore, our two-fold cross-validation allows us to quantify the similarity of templates derived from different subgroups. Our open code, data and evaluation scripts set performance benchmark parameters for this state-of-the-art toolkit. This is the first study to use a consistent transformation framework to provide a reproducible evaluation of the isolated effect of the similarity metric on optimal template construction and brain labeling.},
 	Author = {Avants, Brian B and Tustison, Nicholas J and Song, Gang and Cook, Philip A and Klein, Arno and Gee, James C},
@@ -1249,28 +1291,6 @@ CONCLUSION: Kinematic quantitation of pulmonary motion using tagged (3)He MRI is
 	Volume = {111},
 	Year = {2011},
 	Bdsk-Url-1 = {http://dx.doi.org/10.1152/japplphysiol.00527.2011}}
-
-@article{Tustison:2011aa,
-	Abstract = {PURPOSE: To develop an automated segmentation method to differentiate the ventilated lung volume on (3) He magnetic resonance imaging (MRI).
-MATERIALS AND METHODS: Computational processing (CP) for each subject consisted of the following three essential steps: 1) inhomogeneity bias correction, 2) whole lung segmentation, and 3) subdivision of the lung segmentation into regions of similar ventilation. Evaluation consisted of two comparative analyses: i) comparison of the number of defects scored by two human readers in 43 subjects, and ii) simultaneous truth and performance level estimation (STAPLE) in 18 subjects in which the ventilation defects were manually segmented by four human readers.
-RESULTS: There was excellent correlation between the number of ventilation defects tabulated by CP and reader #1 (intraclass correlation coefficient [ICC] = 0.86), CP and reader #2 (ICC = 0.85), and between the two readers (ICC = 0.97). The STAPLE results from the second analysis yielded the following sensitivity/specificity numbers: CP (0.898/0.905), radiologist #1 (0.743/0.897), radiologist #2 (0.501/0.985), radiologist #3 (0.898/0.848), and the first author (0.600/0.984).
-CONCLUSION: We developed and evaluated an automated method for quantifying the ventilated lung volume on (3) He MRI. The findings strongly indicate that our proposed algorithmic processing may be a reliable, automatic method for quantitating ventilation defects.},
-	Author = {Tustison, Nicholas J and Avants, Brian B and Flors, Lucia and Altes, Talissa A and de Lange, Eduard E and Mugler, 3rd, John P and Gee, James C},
-	Date-Added = {2013-11-07 00:38:10 +0000},
-	Date-Modified = {2013-11-07 01:00:00 +0000},
-	Doi = {10.1002/jmri.22738},
-	Journal = {J Magn Reson Imaging},
-	Journal-Full = {Journal of magnetic resonance imaging : JMRI},
-	Mesh = {Administration, Inhalation; Asthma; Automation; Case-Control Studies; Cystic Fibrosis; Female; Helium; Humans; Image Processing, Computer-Assisted; Lung; Magnetic Resonance Imaging; Male; Pulmonary Gas Exchange; Pulmonary Ventilation; Sensitivity and Specificity},
-	Month = {Oct},
-	Number = {4},
-	Pages = {831-41},
-	Pmid = {21837781},
-	Pst = {ppublish},
-	Title = {Ventilation-based segmentation of the lungs using hyperpolarized (3)He {MRI}},
-	Volume = {34},
-	Year = {2011},
-	Bdsk-Url-1 = {http://dx.doi.org/10.1002/jmri.22738}}
 
 @article{Barbosa:2011aa,
 	Abstract = {RATIONALE AND OBJECTIVES: Obstructive pulmonary disease phenotypes are related to variable combinations of emphysema and small-airway disease, the latter manifested as air trapping (AT) on imaging. The investigators propose a method to extract AT information quantitatively from thoracic multi-detector row high-resolution computed tomography (HRCT), validated by pulmonary function testing (PFT) correlation.
