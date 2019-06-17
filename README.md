@@ -105,6 +105,7 @@ Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thic
      * [Advanced Normalization Tools](https://github.com/stnava/ANTs)
      * [Advanced Normalization Tools in R](https://github.com/stnava/ANTsR)
      * [ANTsRNet](https://github.com/ANTsX/ANTsRNet)
+     * [ANTsPyNet](https://github.com/ntustison/ANTsPyNet)
 
 ## Journal Publications
 
