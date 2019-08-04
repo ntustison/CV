@@ -137,7 +137,7 @@ XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for
 
 64\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
-63\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30328104)
+63\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_, 527(13):2146-2157, Sep 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30328104)
 
 62\. Neha Sinha, Zachariah M. Reagh, __Nicholas J. Tustison__, Chelsie N. Berg, Ashlee Shaw, Catherine E. Myers, Diane Hill, Michael A. Yassa, and Mark A. Gluck. ABCA7 Risk Variant in Healthy Older African Americans is Associated with a Functionally Isolated Entorhinal Cortex Mediating Deficient Generalization of Prior Discrimination Training. _Hippocampus_, 29(6):527-538, Jun 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30318785)
 
