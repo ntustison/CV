@@ -73,7 +73,7 @@
    PLOS ONE  
    Psychiatric Research:  Neuroimaging  
    Respirology  
-   Scientific Reports
+   Scientific Reports  
    SIAM Journal on Imaging Sciences  
 
 **Invited Talks/Participation**
