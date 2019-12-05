@@ -130,7 +130,7 @@ XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for
 
 69\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
-68\. Duc M. Nguyen, Michael A. Yassa, __Nicholas J. Tustison__, Jared M. Roberts, Alexandra Kulikova, Alyson Nakamura, Elena I. Ivleva, Erin Van Enkevort, and E. Sherwood Brown, The Relationship Between Cumulative Exogenous Corticosteroid Exposure and Volumes of Hippocampal Subfields and Surrounding Structures, _Journal of Clinical Psychopharmacology_, 39(6):653-657, Nov/Dec 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31688386)
+68\. Duc M. Nguyen, Michael A. Yassa, __Nicholas J. Tustison__, Jared M. Roberts, Alexandra Kulikova, Alyson Nakamura, Elena I. Ivleva, Erin Van Enkevort, and E. Sherwood Brown, The Relationship Between Cumulative Exogenous Corticosteroid Exposure and Volumes of Hippocampal Subfields and Surrounding Structures. _Journal of Clinical Psychopharmacology_, 39(6):653-657, Nov/Dec 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31688386)
 
 67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _Magnetic Resonance Imaging_, 64:142-153, Dec 2019.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31200026) 
 
