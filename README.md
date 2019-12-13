@@ -88,7 +88,7 @@ Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thic
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R
-* Packages:  Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, Matlab, PBS/SGE qsub
+* Packages:  Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, PBS/SGE qsub
 
 ## Awards
 * 1st place, EMPIRE10 lung registration competition, MICCAI Conference 2010 (Team:  Gang Song, Nick Tustison, Brian Avants, Jim Gee).
@@ -125,6 +125,10 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
  
 
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
+
+XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
+
+XX\. Joanne C. Beer, Nicholas J. Tustison, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/868810v1)
 
 **2019**
 
