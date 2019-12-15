@@ -88,7 +88,7 @@ Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thic
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R
-* Packages:  Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, Matlab, PBS/SGE qsub
+* Packages:  Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, PBS/SGE qsub
 
 ## Awards
 * 1st place, EMPIRE10 lung registration competition, MICCAI Conference 2010 (Team:  Gang Song, Nick Tustison, Brian Avants, Jim Gee).
@@ -126,17 +126,23 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
 
+XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
+
+XX\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/868810v1)
+
 **2019**
 
-68\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study,  _Journal of Alzheimer's Disease_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31356207)
+69\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
-67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _Magnetic Resonance Imaging_.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31200026) 
+68\. Duc M. Nguyen, Michael A. Yassa, __Nicholas J. Tustison__, Jared M. Roberts, Alexandra Kulikova, Alyson Nakamura, Elena I. Ivleva, Erin Van Enkevort, and E. Sherwood Brown, The Relationship Between Cumulative Exogenous Corticosteroid Exposure and Volumes of Hippocampal Subfields and Surrounding Structures. _Journal of Clinical Psychopharmacology_, 39(6):653-657, Nov/Dec 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31688386)
 
-66\. E. Brown, Alexandra Kulikova, Erin Van Enkevort, Alyson Nakamura, Elena Ivleva, __Nicholas Tustison__, Jared Roberts, Michael Yassa, Changho Choi, Alan Frol, David Khan, Miguel Vazquez, Traci Holmes, and Kendra Malone.  A Randomized Trial of an NMDA Receptor Antagonist for Reversing Corticosteroid Effects on the Human Hippocampus, _Neuropsychopharmacology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31181564)
+67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _Magnetic Resonance Imaging_, 64:142-153, Dec 2019.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31200026) 
 
-65\.  Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31135366)
+66\. E. Brown, Alexandra Kulikova, Erin Van Enkevort, Alyson Nakamura, Elena Ivleva, __Nicholas Tustison__, Jared Roberts, Michael Yassa, Changho Choi, Alan Frol, David Khan, Miguel Vazquez, Traci Holmes, and Kendra Malone.  A Randomized Trial of an NMDA Receptor Antagonist for Reversing Corticosteroid Effects on the Human Hippocampus, _Neuropsychopharmacology_, 44(13):2263-2267, Dec 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31181564)
 
-64\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+65\.  Neda Jahanshad, Joshua Faskowitz, Gennady Roshchupkin, Derrek P. Hibar, Boris A. Gutman, __Nicholas J. Tustison__, Hieab H.H. Adams, Wiro J. Niessen, Meike W. Vernooij, M. Arfan Ikram, Marcel P. Zwiers, Alejandro Arias Vasquez, Barbara Franke, Jennifer L. Kroll, Benson Mwangi, Jair C. Soares, Alex Ing, Sylvane Desrivieres, Gunter Schumann, Narelle K. Hansell, Greig I. de Zubicaray, Katie L. McMahon, Nicholas G. Martin, Margaret J. Wright, Paul M. Thompson and the Alzheimer’s Disease Neuroimaging Initiative.  Multi-Site meta-analysis of morphometry, _IEEE/ACM Transactions on Computational Biology & Bioinformatics_, 16(5):1508-1514, Oct 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31135366)
+
+64\. __Nicholas J. Tustison__, Andrew J. Holbrook, Brian B. Avants, Jared M. Roberts, Philip A. Cook, Zachariah M. Reagh, Jeffrey T. Duda, James R. Stone, Daniel L. Gillen, and Michael A. Yassa for the Alzheimer’s Disease Neuroimaging Initiative. Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study,  _Journal of Alzheimer's Disease_, 71(1):165-183, Sep 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31356207)
 
 63\. G. Allan Johnson, Nian Wang, Robert J. Anderson, Min Chen, Gary P Cofer, James C. Gee, Forrest Pratson, __Nicholas J. Tustison__, and Leonard White. Whole Mouse Brain Connectomics, _The Journal of Comparative Neurology_, 527(13):2146-2157, Sep 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30328104)
 
