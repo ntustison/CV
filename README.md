@@ -130,6 +130,8 @@ XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, R
 
 XX\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/868810v1)
 
+XX\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
+
 **2020**
 
 70\. Cuneyt Yilmaz, D. Merrill Dane, __Nicholas Tustison__, Gang Song, James C. Gee, and Connie W. Hsia.  In vivo imaging of canine lung deformation: Effects of posture, pneumonectomy, and inhaled erythropoietin, _Journal of Applied Physiology_. [Accepted]()
