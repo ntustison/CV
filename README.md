@@ -136,7 +136,7 @@ XX\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Mi
 
 **2020**
 
-70\. Cuneyt Yilmaz, D. Merrill Dane, __Nicholas Tustison__, Gang Song, James C. Gee, and Connie W. Hsia.  In vivo imaging of canine lung deformation: Effects of posture, pneumonectomy, and inhaled erythropoietin, _Journal of Applied Physiology_. [Accepted]()
+70\. Cuneyt Yilmaz, D. Merrill Dane, __Nicholas Tustison__, Gang Song, James C. Gee, and Connie W. Hsia.  In vivo imaging of canine lung deformation: Effects of posture, pneumonectomy, and inhaled erythropoietin, _Journal of Applied Physiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31944885)
 
 69\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
