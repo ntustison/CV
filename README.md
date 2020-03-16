@@ -126,13 +126,21 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
 
+XX\. Dana L McMakin, Adam Kimbler,  __Nicholas James Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.01.27.921742v1)
+
 XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
 
 XX\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/868810v1)
 
-**2019**
+XX\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
+
+**2020**
+
+70\. Cuneyt Yilmaz, D. Merrill Dane, __Nicholas Tustison__, Gang Song, James C. Gee, and Connie W. Hsia.  In vivo imaging of canine lung deformation: Effects of posture, pneumonectomy, and inhaled erythropoietin, _Journal of Applied Physiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31944885)
 
 69\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+
+**2019**
 
 68\. Duc M. Nguyen, Michael A. Yassa, __Nicholas J. Tustison__, Jared M. Roberts, Alexandra Kulikova, Alyson Nakamura, Elena I. Ivleva, Erin Van Enkevort, and E. Sherwood Brown, The Relationship Between Cumulative Exogenous Corticosteroid Exposure and Volumes of Hippocampal Subfields and Surrounding Structures. _Journal of Clinical Psychopharmacology_, 39(6):653-657, Nov/Dec 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31688386)
 
