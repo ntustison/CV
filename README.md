@@ -138,7 +138,7 @@ XX\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Mi
 
 72\. ..., __Nicholas J. Tustison__, ...  Single-Session Bronchial Thermoplasty Guided by <sup>129</sup>Xe Magnetic Resonance Imaging, _American Journal of Respiratory and Critical Care Medicine_. [Accepted]()
 
-71\. Xue Feng, __Nicholas James Tustison__, Sohil H. Patel, and Craig H. Meyer.  Brain Tumor Segmentation using an Ensemble of 3D U-Nets and Overall Survival Prediction using Radiomic Features, _Frontiers in Computational Neuroscience_. [Accepted]()
+71\. Xue Feng, __Nicholas James Tustison__, Sohil H. Patel, and Craig H. Meyer.  Brain Tumor Segmentation using an Ensemble of 3D U-Nets and Overall Survival Prediction using Radiomic Features, _Frontiers in Computational Neuroscience_. [Accepted](https://doi.org/10.3389/fncom.2020.00025)
 
 70\. Cuneyt Yilmaz, D. Merrill Dane, __Nicholas Tustison__, Gang Song, James C. Gee, and Connie W. Hsia.  In vivo imaging of canine lung deformation: Effects of posture, pneumonectomy, and inhaled erythropoietin, _Journal of Applied Physiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31944885)
 
