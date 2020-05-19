@@ -134,11 +134,17 @@ XX\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline
 
 XX\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
 
+73\. ..., __Nicholas J. Tustison__, ...  Single-Session Bronchial Thermoplasty Guided by <sup>129</sup>Xe Magnetic Resonance Imaging, _American Journal of Respiratory and Critical Care Medicine_. [Accepted]()
+
+72\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+
 **2020**
 
-70\. Cuneyt Yilmaz, D. Merrill Dane, __Nicholas Tustison__, Gang Song, James C. Gee, and Connie W. Hsia.  In vivo imaging of canine lung deformation: Effects of posture, pneumonectomy, and inhaled erythropoietin, _Journal of Applied Physiology_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31944885)
+71\. Xue Feng, __Nicholas James Tustison__, Sohil H. Patel, and Craig H. Meyer.  Brain Tumor Segmentation using an Ensemble of 3D U-Nets and Overall Survival Prediction using Radiomic Features, _Frontiers in Computational Neuroscience_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/32322196)
 
-69\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+70\. Cuneyt Yilmaz, D. Merrill Dane, __Nicholas Tustison__, Gang Song, James C. Gee, and Connie W. Hsia.  In vivo imaging of canine lung deformation: Effects of posture, pneumonectomy, and inhaled erythropoietin, _Journal of Applied Physiology_, 128(5):1093-1105, May 2020. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31944885)
+
+69\. Xue Feng, __Nicholas James Tustison__, Sohil H. Patel, and Craig H. Meyer.  Brain Tumor Segmentation using an Ensemble of 3D U-Nets and Overall Survival Prediction using Radiomic Features, _Frontiers in Computational Neuroscience_, 14:25, Apr 2020. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/32322196)
 
 **2019**
 
