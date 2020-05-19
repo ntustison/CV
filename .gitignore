@@ -3,3 +3,4 @@
 *.blg
 .DS_Store
 Gemfile
+.*
