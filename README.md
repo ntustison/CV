@@ -136,11 +136,11 @@ XX\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline
 
 XX\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
 
-73\. ..., __Nicholas J. Tustison__, ...  Single-Session Bronchial Thermoplasty Guided by <sup>129</sup>Xe Magnetic Resonance Imaging, _American Journal of Respiratory and Critical Care Medicine_. [Accepted]()
-
-72\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+73\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
 **2020**
+
+72\. Chase S Hall, James D Quirk, Charles W Goss, Daphne Lew, Jim Kozlowski, Robert P Thomen, Jason C Woods, __Nicholas J Tustison__, John P Mugler 3rd, Lora Gallagher, Tammy Koch, Ken B Schechtman, Iulian C Ruset, F William Hersman, Mario Castro.  Single-Session Bronchial Thermoplasty Guided by <sup>129</sup>Xe Magnetic Resonance Imaging, _American Journal of Respiratory and Critical Care Medicine_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32510976/)
 
 71\. Xue Feng, __Nicholas James Tustison__, Sohil H. Patel, and Craig H. Meyer.  Brain Tumor Segmentation using an Ensemble of 3D U-Nets and Overall Survival Prediction using Radiomic Features, _Frontiers in Computational Neuroscience_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/32322196)
 
