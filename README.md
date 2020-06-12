@@ -124,7 +124,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
  
 
-XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  _submitted_
+XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  [(arxiv)](http://arxiv.org/abs/2006.06545)
 
 XX\. James R. Stone, Brian B. Avants, __Nicholas J. Tustison__, ..., Functional and structural neuroimaging correlates of repetitive low-level blast exposure in career breachers. _submitted_
 
