@@ -134,7 +134,7 @@ XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, R
 
 XX\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/868810v1)
 
-XX\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
+74. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  Accepted.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
 
 73\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
