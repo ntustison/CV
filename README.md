@@ -124,21 +124,25 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
  
 
-XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Software for learning multi-view brain embeddings and application to imaging genetics of depression.  _submitted_
+XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  [(arxiv)](http://arxiv.org/abs/2006.06545)
+
+XX\. James R. Stone, Brian B. Avants, __Nicholas J. Tustison__, ..., Functional and structural neuroimaging correlates of repetitive low-level blast exposure in career breachers. _submitted_
 
 XX\. Dana L McMakin, Adam Kimbler,  __Nicholas James Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.01.27.921742v1)
 
 XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
 
-XX\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/868810v1)
+76\. Weibin Shi, Andrew T. Grainger, Michael H. Quinones, Nicholas J. Tustison, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, and Arun Krishnaraj.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  Accepted.  
 
-XX\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
+75\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_. Accepted.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/868810v1)
 
-73\. ..., __Nicholas J. Tustison__, ...  Single-Session Bronchial Thermoplasty Guided by <sup>129</sup>Xe Magnetic Resonance Imaging, _American Journal of Respiratory and Critical Care Medicine_. [Accepted]()
+74\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_, Accepted.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
 
-72\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+73\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
 **2020**
+
+72\. Chase S Hall, James D Quirk, Charles W Goss, Daphne Lew, Jim Kozlowski, Robert P Thomen, Jason C Woods, __Nicholas J Tustison__, John P Mugler 3rd, Lora Gallagher, Tammy Koch, Ken B Schechtman, Iulian C Ruset, F William Hersman, Mario Castro.  Single-Session Bronchial Thermoplasty Guided by <sup>129</sup>Xe Magnetic Resonance Imaging, _American Journal of Respiratory and Critical Care Medicine_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32510976/)
 
 71\. Xue Feng, __Nicholas James Tustison__, Sohil H. Patel, and Craig H. Meyer.  Brain Tumor Segmentation using an Ensemble of 3D U-Nets and Overall Survival Prediction using Radiomic Features, _Frontiers in Computational Neuroscience_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/32322196)
 
