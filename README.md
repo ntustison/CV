@@ -132,6 +132,8 @@ XX\. Dana L McMakin, Adam Kimbler,  __Nicholas James Tustison__, Jeremy W Pettit
 
 XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
 
+77\. J. Sebastian Giudice, Ahmed Alshareef, Taotao Wu, Christina A. Gancayco, Kristen A. Reynier, __Nicholas J. Tustison__, T. Jason Druzgal, and Matthew B. Panzer.  An Image Registration-Based Morphing Technique for Generating Subject-Specific Brain Finite Element Models, _Annals of Biomedical Engineering_.[(accepted)](https://link.springer.com/article/10.1007/s10439-020-02584-z)
+
 76\. Weibin Shi, Andrew T. Grainger, Michael H. Quinones, Nicholas J. Tustison, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, and Arun Krishnaraj.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  Accepted.  
 
 75\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_. Accepted.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/868810v1)
