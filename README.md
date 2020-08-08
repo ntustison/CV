@@ -136,7 +136,7 @@ XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, R
 
 76\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_, Accepted.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
 
-75\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_. Accepted.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
+75\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
 
 74\. J. Sebastian Giudice, Ahmed Alshareef, Taotao Wu, Christina A. Gancayco, Kristen A. Reynier, __Nicholas J. Tustison__, T. Jason Druzgal, and Matthew B. Panzer.  An Image Registration-Based Morphing Technique for Generating Subject-Specific Brain Finite Element Models, _Annals of Biomedical Engineering_.[(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32725547/)
 
