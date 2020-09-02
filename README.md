@@ -132,7 +132,9 @@ XX\. Dana L McMakin, Adam Kimbler,  __Nicholas James Tustison__, Jeremy W Pettit
 
 XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
 
-77\. Weibin Shi, Andrew T. Grainger, Michael H. Quinones, Nicholas J. Tustison, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, and Arun Krishnaraj.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [Accepted](https://www.sciencedirect.com/science/article/abs/pii/S1076633220304268).  
+78\. Eric Aliotta, Sunil W Dutta, Xue Feng, __Nicholas J Tustison__, Prem P Batchala, David Schiff, Maria-Beatriz Lopes, Rajan Jain, Jason Druzgal, Sugoto Mukherjee, Sohil H Patel.  Automated Apparent Diffusion Coefficient Analysis for Genotype Prediction in Lower Grade Glioma:  Association with the T2-FLAIR Mismatch Sign.  _Journal of Neuro-Oncology_. [Accepted].
+
+77\. Weibin Shi, Andrew T. Grainger, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, and Arun Krishnaraj.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [Accepted](https://www.sciencedirect.com/science/article/abs/pii/S1076633220304268).  
 
 76\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_, Accepted.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/19011825v1)
 
