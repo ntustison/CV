@@ -135,7 +135,7 @@ Functional and structural neuroimaging correlates of repetitive low-level blast 
 
 77\. Eric Aliotta, Sunil W Dutta, Xue Feng, __Nicholas J Tustison__, Prem P Batchala, David Schiff, Maria-Beatriz Lopes, Rajan Jain, Jason Druzgal, Sugoto Mukherjee, Sohil H Patel.  Automated Apparent Diffusion Coefficient Analysis for Genotype Prediction in Lower Grade Glioma:  Association with the T2-FLAIR Mismatch Sign.  _Journal of Neuro-Oncology_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32909115/).
 
-76\. Weibin Shi, Andrew T. Grainger, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, and Arun Krishnaraj.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/).  
+76\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/).  
 
 75\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
 
