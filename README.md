@@ -144,7 +144,7 @@ Functional and structural neuroimaging correlates of repetitive low-level blast 
 
 74\. J. Sebastian Giudice, Ahmed Alshareef, Taotao Wu, Christina A. Gancayco, Kristen A. Reynier, __Nicholas J. Tustison__, T. Jason Druzgal, and Matthew B. Panzer.  An Image Registration-Based Morphing Technique for Generating Subject-Specific Brain Finite Element Models, _Annals of Biomedical Engineering_, 48(10):2412-2424, Oct 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32725547/)
 
-73\. Eric Aliotta, Sunil W Dutta, Xue Feng, __Nicholas J Tustison__, Prem P Batchala, David Schiff, Maria-Beatriz Lopes, Rajan Jain, Jason Druzgal, Sugoto Mukherjee, Sohil H Patel.  Automated Apparent Diffusion Coefficient Analysis for Genotype Prediction in Lower Grade Glioma:  Association with the T2-FLAIR Mismatch Sign.  _Journal of Neuro-Oncology_, 149(2):325-335, Sep 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32909115/).
+73\. Eric Aliotta, Sunil W Dutta, Xue Feng, __Nicholas J Tustison__, Prem P Batchala, David Schiff, Maria-Beatriz Lopes, Rajan Jain, Jason Druzgal, Sugoto Mukherjee, Sohil H Patel.  Automated Apparent Diffusion Coefficient Analysis for Genotype Prediction in Lower Grade Glioma:  Association with the T2-FLAIR Mismatch Sign.  _Journal of Neuro-Oncology_, 149(2):325-335, Sep 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32909115/)
 
 72\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_, 12(1):e12068, August 2020.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32875052/)
 
