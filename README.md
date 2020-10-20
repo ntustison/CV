@@ -1,5 +1,9 @@
 # Nick Tustison
-### ntustison@virginia.edu
+
+ntustison@virginia.edu
+
+ntustison@gmail.com
+
 
 **_Curriculum Vitae_** [(.pdf)](https://github.com/ntustison/CV/blob/master/moderncv/moderncv.pdf?raw=true)
 
