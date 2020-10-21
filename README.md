@@ -128,8 +128,6 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 XX\. __Nicholas J. Tustison__, Philip A. Cook, Andrew J. Holbrook, Hans J. Johnson, John Muschelli, Gabriel A. Devenyi, Jeffrey T. Duda, Sandhitsu R. Das, Nicholas C. Cullen, Daniel L. Gillen, Michael A. Yassa, James R. Stone, James C. Gee, and Brian B. Avants for
 the Alzheimer’s Disease Neuroimaging Initiative.  ANTsX: A dynamic ecosystem for quantitative biological and medical imaging.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2020.10.19.20215392v1)
 
-XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  [(arxiv)](http://arxiv.org/abs/2006.06545) 
-
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  [(arxiv)](http://arxiv.org/abs/2006.06545)
 
 XX\. Dana L McMakin, Adam Kimbler,  __Nicholas James Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.01.27.921742v1)
