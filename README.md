@@ -138,9 +138,9 @@ Functional and structural neuroimaging correlates of repetitive low-level blast 
 
 77\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
-76\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
-
 **2020**
+
+76\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_, 220:117129, Oct 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
 
 75\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_, 14(5):1318-1327, Oct 2020. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
 
