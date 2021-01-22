@@ -1,5 +1,9 @@
 # Nick Tustison
-### ntustison@virginia.edu
+
+ntustison@virginia.edu
+
+ntustison@gmail.com
+
 
 **_Curriculum Vitae_** [(.pdf)](https://github.com/ntustison/CV/blob/master/moderncv/moderncv.pdf?raw=true)
 
@@ -103,9 +107,10 @@ Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thic
     * applications
 * Open source software
      * [The Insight Toolkit](http://www.itk.org)
-     * [Advanced Normalization Tools](https://github.com/stnava/ANTs)
-     * [Advanced Normalization Tools in R](https://github.com/stnava/ANTsR)
+     * [Advanced Normalization Tools](https://github.com/ANTsX/ANTs)
+     * [Advanced Normalization Tools in R](https://github.com/ANTsX/ANTsR)
      * [ANTsRNet](https://github.com/ANTsX/ANTsRNet)
+     * [Advanced Normalization Tools in Python](https://github.com/ANTsX/ANTsPy)
      * [ANTsPyNet](https://github.com/ntustison/ANTsPyNet)
 
 ## Journal Publications
@@ -120,9 +125,7 @@ Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thic
 __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation magnetic resonance imaging, Submitted.
 -->
 
-
-
- 
+XX\. __Nicholas J. Tustison__, Philip A. Cook, Andrew J. Holbrook, Hans J. Johnson, John Muschelli, Gabriel A. Devenyi, Jeffrey T. Duda, Sandhitsu R. Das, Nicholas C. Cullen, Daniel L. Gillen, Michael A. Yassa, James R. Stone, James C. Gee, and Brian B. Avants for the Alzheimer’s Disease Neuroimaging Initiative.  ANTsX: A dynamic ecosystem for quantitative biological and medical imaging.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2020.10.19.20215392v1)
 
 XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  [(arxiv)](http://arxiv.org/abs/2006.06545)
 
@@ -133,17 +136,17 @@ XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, R
 78\. James Stone, Brian Avants, __Nicholas Tustison__, Eric Wasserman, Jessica Gill, Elena Polejaeva, Kristine Dell, Walter Carr, Angela Yarnell, Matthew LoPresti, Peter Walker, Meghan O'Brien, Natalie Domeisen, Alycia Quick, Claire Modica, John D. Hughes, Francis Haran, Carl Goforth, and Stephen Ahlers.
 Functional and structural neuroimaging correlates of repetitive low-level blast exposure in career breachers.  _Journal of Neurotrauma_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32928028/)
 
-77\. Eric Aliotta, Sunil W Dutta, Xue Feng, __Nicholas J Tustison__, Prem P Batchala, David Schiff, Maria-Beatriz Lopes, Rajan Jain, Jason Druzgal, Sugoto Mukherjee, Sohil H Patel.  Automated Apparent Diffusion Coefficient Analysis for Genotype Prediction in Lower Grade Glioma:  Association with the T2-FLAIR Mismatch Sign.  _Journal of Neuro-Oncology_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32909115/).
-
-76\. Weibin Shi, Andrew T. Grainger, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, and Arun Krishnaraj.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/).  
-
-75\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
-
-74\. J. Sebastian Giudice, Ahmed Alshareef, Taotao Wu, Christina A. Gancayco, Kristen A. Reynier, __Nicholas J. Tustison__, T. Jason Druzgal, and Matthew B. Panzer.  An Image Registration-Based Morphing Technique for Generating Subject-Specific Brain Finite Element Models, _Annals of Biomedical Engineering_.[(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32725547/)
-
-73\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+77\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
 **2020**
+
+76\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_, 220:117129, Oct 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
+
+75\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_, 14(5):1318-1327, Oct 2020. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
+
+74\. J. Sebastian Giudice, Ahmed Alshareef, Taotao Wu, Christina A. Gancayco, Kristen A. Reynier, __Nicholas J. Tustison__, T. Jason Druzgal, and Matthew B. Panzer.  An Image Registration-Based Morphing Technique for Generating Subject-Specific Brain Finite Element Models, _Annals of Biomedical Engineering_, 48(10):2412-2424, Oct 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32725547/)
+
+73\. Eric Aliotta, Sunil W Dutta, Xue Feng, __Nicholas J Tustison__, Prem P Batchala, David Schiff, Maria-Beatriz Lopes, Rajan Jain, Jason Druzgal, Sugoto Mukherjee, Sohil H Patel.  Automated Apparent Diffusion Coefficient Analysis for Genotype Prediction in Lower Grade Glioma:  Association with the T2-FLAIR Mismatch Sign.  _Journal of Neuro-Oncology_, 149(2):325-335, Sep 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32909115/)
 
 72\. Andrew Holbrook, __Nicholas Tustison__, Freddie Marquez, Jared Roberts,  Michael A. Yassa,  Daniel Gillen.  Anterolateral entorhinal cortex thickness as a new biomarker for early detection of Alzheimer's disease.  _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_, 12(1):e12068, August 2020.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32875052/)
 
