@@ -140,6 +140,8 @@ Functional and structural neuroimaging correlates of repetitive low-level blast 
 
 **2020**
 
+77\. Lukasz Myc, Kun Qing, Mu He, __Nicholas Tustison__, Zixuan Lin, Ani W Manichaikul, James Patrie, Joanne Cassani, Roselove N Nunoo-Asare, Yong Huang, Zaid Obaida, Sina Tafti, Alan M Ropp, Grady Wilson Miller, Jaime Mata, Talissa Altes, John Mugler, and Y Michael Shim.  Characterisation of gas exchange in COPD with dissolved-phase hyperpolarised xenon-129 MRI.  _Thorax_, 76(2):178-181, Nov 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33139449/)
+
 76\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_, 220:117129, Oct 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
 
 75\. Erin D. Bigler, Marc Skiles, Benjamin S.C. Wade, Tracy J. Abildskov, __Nicholas J. Tustison__, Randall S. Scheibel, Mary R. Newsome, Andrew R. Mayer, James R. Stone, Brian A. Taylor, David F. Tate, William C. Walker, Harvey S. Levin, and Elisabeth A. Wilde. FreeSurfer 5.3 versus 6.0: Are volumes comparable? A Chronic Effects of Neurotrauma Consortium Study, _Brain Imaging and Behavior_, 14(5):1318-1327, Oct 2020. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30511116)
