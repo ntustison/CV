@@ -133,12 +133,11 @@ XX\. Dana L McMakin, Adam Kimbler,  __Nicholas James Tustison__, Jeremy W Pettit
 
 XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
 
-78\. James Stone, Brian Avants, __Nicholas Tustison__, Eric Wasserman, Jessica Gill, Elena Polejaeva, Kristine Dell, Walter Carr, Angela Yarnell, Matthew LoPresti, Peter Walker, Meghan O'Brien, Natalie Domeisen, Alycia Quick, Claire Modica, John D. Hughes, Francis Haran, Carl Goforth, and Stephen Ahlers.
-Functional and structural neuroimaging correlates of repetitive low-level blast exposure in career breachers.  _Journal of Neurotrauma_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32928028/)
-
-77\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+79\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
 **2020**
+
+78\. James Stone, Brian Avants, __Nicholas Tustison__, Eric Wasserman, Jessica Gill, Elena Polejaeva, Kristine Dell, Walter Carr, Angela Yarnell, Matthew LoPresti, Peter Walker, Meghan O'Brien, Natalie Domeisen, Alycia Quick, Claire Modica, John D. Hughes, Francis Haran, Carl Goforth, and Stephen Ahlers.  Functional and structural neuroimaging correlates of repetitive low-level blast exposure in career breachers.  _Journal of Neurotrauma_, 37(23):2468-2481, Dec 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32928028/)
 
 77\. Lukasz Myc, Kun Qing, Mu He, __Nicholas Tustison__, Zixuan Lin, Ani W Manichaikul, James Patrie, Joanne Cassani, Roselove N Nunoo-Asare, Yong Huang, Zaid Obaida, Sina Tafti, Alan M Ropp, Grady Wilson Miller, Jaime Mata, Talissa Altes, John Mugler, and Y Michael Shim.  Characterisation of gas exchange in COPD with dissolved-phase hyperpolarised xenon-129 MRI.  _Thorax_, 76(2):178-181, Nov 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33139449/)
 
