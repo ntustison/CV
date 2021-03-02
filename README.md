@@ -127,15 +127,17 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 XX\. __Nicholas J. Tustison__, Philip A. Cook, Andrew J. Holbrook, Hans J. Johnson, John Muschelli, Gabriel A. Devenyi, Jeffrey T. Duda, Sandhitsu R. Das, Nicholas C. Cullen, Daniel L. Gillen, Michael A. Yassa, James R. Stone, James C. Gee, and Brian B. Avants for the Alzheimer’s Disease Neuroimaging Initiative.  ANTsX: A dynamic ecosystem for quantitative biological and medical imaging.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2020.10.19.20215392v1)
 
-XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  [(arxiv)](http://arxiv.org/abs/2006.06545)
-
 XX\. Dana L McMakin, Adam Kimbler,  __Nicholas James Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.01.27.921742v1)
 
 XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
 
-XX\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_. [(Accepted)]()
+81\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
-79\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+**2021**
+
+80\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  _Nature computational science_. [(accepted)](http://arxiv.org/abs/2006.06545)
+
+79\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33621442/)
 
 **2020**
 
