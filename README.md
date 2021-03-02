@@ -127,18 +127,23 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 XX\. __Nicholas J. Tustison__, Philip A. Cook, Andrew J. Holbrook, Hans J. Johnson, John Muschelli, Gabriel A. Devenyi, Jeffrey T. Duda, Sandhitsu R. Das, Nicholas C. Cullen, Daniel L. Gillen, Michael A. Yassa, James R. Stone, James C. Gee, and Brian B. Avants for the Alzheimer’s Disease Neuroimaging Initiative.  ANTsX: A dynamic ecosystem for quantitative biological and medical imaging.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2020.10.19.20215392v1)
 
-XX\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  [(arxiv)](http://arxiv.org/abs/2006.06545)
-
 XX\. Dana L McMakin, Adam Kimbler,  __Nicholas James Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.01.27.921742v1)
 
 XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
 
-78\. James Stone, Brian Avants, __Nicholas Tustison__, Eric Wasserman, Jessica Gill, Elena Polejaeva, Kristine Dell, Walter Carr, Angela Yarnell, Matthew LoPresti, Peter Walker, Meghan O'Brien, Natalie Domeisen, Alycia Quick, Claire Modica, John D. Hughes, Francis Haran, Carl Goforth, and Stephen Ahlers.
-Functional and structural neuroimaging correlates of repetitive low-level blast exposure in career breachers.  _Journal of Neurotrauma_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32928028/)
+**2021**
 
-77\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+81\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+
+80\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  _Nature computational science_. [(accepted)](http://arxiv.org/abs/2006.06545)
+
+79\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33621442/)
 
 **2020**
+
+78\. James Stone, Brian Avants, __Nicholas Tustison__, Eric Wasserman, Jessica Gill, Elena Polejaeva, Kristine Dell, Walter Carr, Angela Yarnell, Matthew LoPresti, Peter Walker, Meghan O'Brien, Natalie Domeisen, Alycia Quick, Claire Modica, John D. Hughes, Francis Haran, Carl Goforth, and Stephen Ahlers.  Functional and structural neuroimaging correlates of repetitive low-level blast exposure in career breachers.  _Journal of Neurotrauma_, 37(23):2468-2481, Dec 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32928028/)
+
+77\. Lukasz Myc, Kun Qing, Mu He, __Nicholas Tustison__, Zixuan Lin, Ani W Manichaikul, James Patrie, Joanne Cassani, Roselove N Nunoo-Asare, Yong Huang, Zaid Obaida, Sina Tafti, Alan M Ropp, Grady Wilson Miller, Jaime Mata, Talissa Altes, John Mugler, and Y Michael Shim.  Characterisation of gas exchange in COPD with dissolved-phase hyperpolarised xenon-129 MRI.  _Thorax_, 76(2):178-181, Nov 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33139449/)
 
 76\. Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Yvette I. Sheline, Russell T. Shinohara, Kristin A. Linn, for the Alzheimer’s Disease Neuroimaging Initiative.  Longitudinal ComBat:  A Method for Harmonizing Longitudinal Multi-scanner Imaging Data, _NeuroImage_, 220:117129, Oct 2020. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32640273/)
 
