@@ -133,13 +133,13 @@ XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, R
 
 **2021**
 
-82\. __Nicholas J. Tustison__, Philip A. Cook, Andrew J. Holbrook, Hans J. Johnson, John Muschelli, Gabriel A. Devenyi, Jeffrey T. Duda, Sandhitsu R. Das, Nicholas C. Cullen, Daniel L. Gillen, Michael A. Yassa, James R. Stone, James C. Gee, and Brian B. Avants for the Alzheimer’s Disease Neuroimaging Initiative.  The ANTsX ecosystem for quantitative biological and medical imaging. _Scientific Reports_.  [(Accepted)](https://www.nature.com/articles/s41598-021-87564-6)
+82\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
-81\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+81\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33621442/)
 
-80\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  _Nature Computational Science_, 1(2):143-152, Feb 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33796865/)
+80\. __Nicholas J. Tustison__, Philip A. Cook, Andrew J. Holbrook, Hans J. Johnson, John Muschelli, Gabriel A. Devenyi, Jeffrey T. Duda, Sandhitsu R. Das, Nicholas C. Cullen, Daniel L. Gillen, Michael A. Yassa, James R. Stone, James C. Gee, and Brian B. Avants for the Alzheimer’s Disease Neuroimaging Initiative.  The ANTsX ecosystem for quantitative biological and medical imaging. _Scientific Reports_.  11(1):9068, Apr 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33907199/)
 
-79\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33621442/)
+79\. Brian B. Avants, __Nicholas J. Tustison__, and James R. Stone. Interpretable, similarity-driven multi-view embeddings from high-dimensional biomedical data.  _Nature Computational Science_, 1(2):143-152, Feb 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33796865/)
 
 **2020**
 
