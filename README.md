@@ -132,7 +132,7 @@ XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, R
 
 **2021**
 
-83\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- vs. histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_. [Accepted](https://www.medrxiv.org/content/10.1101/2021.03.04.21252588v5)
+83\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- vs. histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34227163/)
 
 82\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
