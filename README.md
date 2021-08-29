@@ -125,13 +125,13 @@ XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, R
 
 **2021**
 
-84\. Dana L McMakin, Adam Kimbler, __Nicholas James Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. _Social Cognitive and Affective Neuroscience_. [Accepted](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsab089/6322857)
+84\. Dana L McMakin, Adam Kimbler, __Nicholas James Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. _Social Cognitive and Affective Neuroscience_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34270763/)
 
 83\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- vs. histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34227163/)
 
 82\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
-81\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33621442/)
+81\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_, 56(6):1440-1448, Jun 2021.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33621442/)
 
 80\. __Nicholas J. Tustison__, Philip A. Cook, Andrew J. Holbrook, Hans J. Johnson, John Muschelli, Gabriel A. Devenyi, Jeffrey T. Duda, Sandhitsu R. Das, Nicholas C. Cullen, Daniel L. Gillen, Michael A. Yassa, James R. Stone, James C. Gee, and Brian B. Avants for the Alzheimer’s Disease Neuroimaging Initiative.  The ANTsX ecosystem for quantitative biological and medical imaging. _Scientific Reports_.  11(1):9068, Apr 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33907199/)
 
