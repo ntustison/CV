@@ -121,15 +121,17 @@ Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thic
 __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation magnetic resonance imaging, Submitted.
 -->
 
-XX\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Removal of Scanner Effects in Covariance Improves Multivariate Pattern Analysis in Neuroimaging Data. [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
-
 **2021**
 
-84\. Dana L McMakin, Adam Kimbler, __Nicholas J. Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. _Social Cognitive and Affective Neuroscience_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34270763/)
+86\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data.  _Human Brain Mapping_. Accepted.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/858415v1)
 
-83\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- vs. histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34227163/)
+85\. Dana L McMakin, Adam Kimbler, __Nicholas J. Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. _Social Cognitive and Affective Neuroscience_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34270763/)
 
-82\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+84\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- vs. histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34227163/)
+
+83\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+
+82\. Jaime Mata, Steven Guan, Kun Qing, __Nicholas Tustison__, Yun Shim, John P Mugler 3rd, Talissa Altes, Jhosep Huaromo, Borna Mehrad.  Evaluation of Regional Lung Function in Pulmonary Fibrosis with Xenon-129 MRI. _Tomography_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34564301/)
 
 81\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_, 56(6):1440-1448, Jun 2021.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33621442/)
 
