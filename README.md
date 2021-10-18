@@ -129,9 +129,9 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 84\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
-83\. Jaime Mata, Steven Guan, Kun Qing, __Nicholas Tustison__, Yun Shim, John P Mugler 3rd, Talissa Altes, Jhosep Huaromo, Borna Mehrad.  Evaluation of Regional Lung Function in Pulmonary Fibrosis with Xenon-129 MRI. _Tomography_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34564301/)
+83\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- vs. histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_, 86(5):2822-2836, Nov 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34227163/)
 
-82\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- vs. histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_, 86(5):2822-2836, Nov 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34227163/)
+82\. Jaime Mata, Steven Guan, Kun Qing, __Nicholas Tustison__, Yun Shim, John P Mugler 3rd, Talissa Altes, Jhosep Huaromo, Borna Mehrad.  Evaluation of Regional Lung Function in Pulmonary Fibrosis with Xenon-129 MRI. _Tomography_, 7(3):452-465, Sep 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34564301/)
 
 81\. William Teague, Jaime Mata, Kun Qing, __Nicholas Tustison__, John Mugler, Craig Meyer, Eduard de Lange, Michael Shim, Kristin Wavell, Talissa Altes.  Measures of Ventilation Heterogeneity Mapped with Hyperpolarized Helium-3 (HHe-3) MRI Demonstrate a T2-High Phenotype in Asthma.  _Pediatric Pulmonology_, 56(6):1440-1448, Jun 2021.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/33621442/)
 
