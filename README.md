@@ -127,7 +127,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 86\. Dana L McMakin, Adam Kimbler, __Nicholas J. Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. _Social Cognitive and Affective Neuroscience_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34270763/)
 
-85\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+85\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_, 28(11):1481-1487, Nov 2021.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
 
 84\. Mu He, Kun Qing, __Nicholas J. Tustison__, Zach Beaulac, Tabitha W. King, Thomas B. Huff, Mikell Paige, Kranthikiran Earasi, Roselove Nunoo-Asare, Sarah Struchen, Marie Burdick, Zhimin Zhang, Alan Ropp, Grady W. Miller, James T. Patrie, Jaime F. Mata, John P. Mugler III, and Yun M. Shim.  Characterizing gas exchange physiology in healthy young electronic-cigarette users with hyperpolarized 129Xe MRI:  a pilot study. _International Journal of Chronic Obstructive Pulmonary Disease_, 16:3183-3187, Nov 2021. [(pubmed)]()
 
