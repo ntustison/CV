@@ -1,12 +1,10 @@
-Nicholas J. Tustison is currently an associate professor in the radiology
-department at the University of Virginia.  He has played an integral
+
+
+Beyond Dr. Tustison's formal academic training, he has played an integral
 developmental role in various well-known and open-source software frameworks for
 well over 15 years. These include the Insight Toolkit where he has been one of
 the top contributors of new algorithms, including the widely used N4 bias
 correction algorithm and widely used registration framework.  He is also one of
 the co-founders of the Advanced Normalization Tools (ANTs) library and its
 various extensions, including the deep-learning ANTsRNet and ANTsPyNet packages.
-His clinical research interests span various organ systems (e.g., neural, pulmonary,
-and cardiac) and application areas (e.g., traumatic brain injury).
-)
 
