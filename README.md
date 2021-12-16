@@ -123,7 +123,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2021**
 
-87\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data.  _Human Brain Mapping_. Accepted.  [(hbm)](https://onlinelibrary.wiley.com/doi/10.1002/hbm.25688)
+87\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data.  _Human Brain Mapping_. Accepted.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34904312/)
 
 86\. Dana L McMakin, Adam Kimbler, __Nicholas J. Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. _Social Cognitive and Affective Neuroscience_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34270763/)
 
