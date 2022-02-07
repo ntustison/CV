@@ -123,6 +123,8 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2022**
 
+88\. Zhuang Song, Anithapriya Krishnan, Laura Gaetano, __Nicholas J. Tustison__, David Clayton, Alex de Crespigny, Thomas Bengtsson, Xiaoming Jia, and Richard A.D. Carano.  Deformation-based morphometry identifies deep brain structures protected by ocrelizumab.  _NeuroImage: Clinical_. [()](Accepted)
+
 87\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data.  _Human Brain Mapping_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34904312/)
 
 86\. Dana L McMakin, Adam Kimbler, __Nicholas J. Tustison__, Jeremy W Pettit,  and Aaron T. Mattfeld.  Negative Overgeneralization is Associated with Pattern Completion in Peripubertal Youth. _Social Cognitive and Affective Neuroscience_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34270763/)
