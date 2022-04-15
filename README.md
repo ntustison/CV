@@ -122,7 +122,9 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2022**
 
-89\. Jesse W. Birchfield, __Nicholas J. Tustison__, Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [arxiv](https://arxiv.org/abs/2204.03576)
+90\. Jesse W. Birchfield, __Nicholas J. Tustison__, Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [arxiv](https://arxiv.org/abs/2204.03576)
+
+89\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  _Automated Analysis of Low-Field Brain MRI in Cerebral Malaria_. [biorxiv](https://www.biorxiv.org/content/10.1101/2020.12.23.424020v3)
 
 88\. Zhuang Song, Anithapriya Krishnan, Laura Gaetano, __Nicholas J. Tustison__, David Clayton, Alex de Crespigny, Thomas Bengtsson, Xiaoming Jia, and Richard A.D. Carano.  Deformation-based morphometry identifies deep brain structures protected by ocrelizumab.  _NeuroImage: Clinical_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35189455/)
 
