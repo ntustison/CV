@@ -16,7 +16,7 @@ ntustison@gmail.com
   Thesis:  _Biventricular Myocardial Strains With Anatomical NURBS Models From Tagged MRI_
 * 2000: **M.S. Biomedical Engineering**, _University of Virginia_, Charlottesville, VA.
   Thesis: _Quantification Methods for Assessing Asthma in Hyperpolarized 3He Lung MRI Studies_
-* 1998: **B.S. Applied Physics: Computer Science**, _Brigham Young University_, Provo, UT.
+* 1998: **B.S. Applied Physics: Computer Science Emphasis**, _Brigham Young University_, Provo, UT.
 
 ## Professional Appointments
 * 2017-present:  **Associate Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
