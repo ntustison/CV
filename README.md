@@ -16,7 +16,7 @@ ntustison@gmail.com
   Thesis:  _Biventricular Myocardial Strains With Anatomical NURBS Models From Tagged MRI_
 * 2000: **M.S. Biomedical Engineering**, _University of Virginia_, Charlottesville, VA.
   Thesis: _Quantification Methods for Assessing Asthma in Hyperpolarized 3He Lung MRI Studies_
-* 1998: **B.S. Applied Physics: Computer Science**, _Brigham Young University_, Provo, UT.
+* 1998: **B.S. Applied Physics: Computer Science Emphasis**, _Brigham Young University_, Provo, UT.
 
 ## Professional Appointments
 * 2017-present:  **Associate Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
@@ -121,6 +121,12 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 -->
 
 **2022**
+
+91\. Jesse W. Birchfield, __Nicholas J. Tustison__, Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [arxiv](https://arxiv.org/abs/2204.03576)
+
+90\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  Automated Analysis of Low-Field Brain MRI in Cerebral Malaria. [biorxiv](https://www.biorxiv.org/content/10.1101/2020.12.23.424020v3)
+
+89\. Nazek Queder, Michael J. Phelan, Lisa Taylor, __Nicholas Tustison__, Eric Doran, Christy Hom, Dana Nguyen, Florence Lai, Margaret Pulsifer, Julie Price, William C. Kreisl, Diana H. Rosas, Sharon Krinsky-McHale, Adam Brickman, Michael A. Yassa, Nicole Schupf, Wayne Silverman, Ira T. Lott, and David B. Keator. Joint-label fusion brain atlases for dementia research in down syndrome. _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_. [Accepted](https://www.medrxiv.org/content/10.1101/2020.11.10.20228742v1)
 
 88\. Zhuang Song, Anithapriya Krishnan, Laura Gaetano, __Nicholas J. Tustison__, David Clayton, Alex de Crespigny, Thomas Bengtsson, Xiaoming Jia, and Richard A.D. Carano.  Deformation-based morphometry identifies deep brain structures protected by ocrelizumab.  _NeuroImage: Clinical_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35189455/)
 
