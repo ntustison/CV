@@ -4,10 +4,11 @@ ntustison@virginia.edu
 
 ntustison@gmail.com
 
-
 **_Curriculum Vitae_** [(.pdf)](https://github.com/ntustison/CV/blob/master/moderncv/moderncv.pdf?raw=true)
 
 [Orcid ID](https://orcid.org/0000-0001-9418-5103)
+
+[Google scholar](https://scholar.google.com/citations?user=m1Vfqh8AAAAJ&hl=en#)
 
 ***
 
