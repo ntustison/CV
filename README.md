@@ -123,7 +123,9 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2022**
 
-91\. Jesse W. Birchfield, __Nicholas J. Tustison__, Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+92\.  Adam Kimbler, Dana McMakin, _Nicholas J. Tustison_, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity.  [(submitted)]()
+
+91\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
 90\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  Automated Analysis of Low-Field Brain MRI in Cerebral Malaria. _Biometrics_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35731973/)
 
