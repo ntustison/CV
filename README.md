@@ -4,10 +4,11 @@ ntustison@virginia.edu
 
 ntustison@gmail.com
 
-
 **_Curriculum Vitae_** [(.pdf)](https://github.com/ntustison/CV/blob/master/moderncv/moderncv.pdf?raw=true)
 
 [Orcid ID](https://orcid.org/0000-0001-9418-5103)
+
+[Google scholar](https://scholar.google.com/citations?user=m1Vfqh8AAAAJ&hl=en#)
 
 ***
 
@@ -122,11 +123,13 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2022**
 
-91\. Jesse W. Birchfield, __Nicholas J. Tustison__, Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [arxiv](https://arxiv.org/abs/2204.03576)
+92\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.09.30.319178v1)
 
-90\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  Automated Analysis of Low-Field Brain MRI in Cerebral Malaria. [biorxiv](https://www.biorxiv.org/content/10.1101/2020.12.23.424020v3)
+91\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
-89\. Nazek Queder, Michael J. Phelan, Lisa Taylor, __Nicholas Tustison__, Eric Doran, Christy Hom, Dana Nguyen, Florence Lai, Margaret Pulsifer, Julie Price, William C. Kreisl, Diana H. Rosas, Sharon Krinsky-McHale, Adam Brickman, Michael A. Yassa, Nicole Schupf, Wayne Silverman, Ira T. Lott, and David B. Keator. Joint-label fusion brain atlases for dementia research in down syndrome. _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_. [Accepted](https://www.medrxiv.org/content/10.1101/2020.11.10.20228742v1)
+90\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  Automated Analysis of Low-Field Brain MRI in Cerebral Malaria. _Biometrics_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35731973/)
+
+89\. Nazek Queder, Michael J. Phelan, Lisa Taylor, __Nicholas Tustison__, Eric Doran, Christy Hom, Dana Nguyen, Florence Lai, Margaret Pulsifer, Julie Price, William C. Kreisl, Diana H. Rosas, Sharon Krinsky-McHale, Adam Brickman, Michael A. Yassa, Nicole Schupf, Wayne Silverman, Ira T. Lott, and David B. Keator. Joint-label fusion brain atlases for dementia research in down syndrome. _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35634535/)
 
 88\. Zhuang Song, Anithapriya Krishnan, Laura Gaetano, __Nicholas J. Tustison__, David Clayton, Alex de Crespigny, Thomas Bengtsson, Xiaoming Jia, and Richard A.D. Carano.  Deformation-based morphometry identifies deep brain structures protected by ocrelizumab.  _NeuroImage: Clinical_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35189455/)
 
