@@ -123,9 +123,11 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2022**
 
-92\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.09.30.319178v1)
+93\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.09.30.319178v1)
 
-91\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+92\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+
+91\. Raghav Mehta, ..., __Nicholas Tustison__, ...  QU-BraTS:  MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in Brain Tumor Segmentation --- Analysis of Ranking Scores and Benchmarking Results.  [(arxiv)](https://arxiv.org/abs/2112.10074)
 
 90\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  Automated Analysis of Low-Field Brain MRI in Cerebral Malaria. _Biometrics_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35731973/)
 
