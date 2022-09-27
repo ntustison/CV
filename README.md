@@ -34,60 +34,60 @@ ntustison@gmail.com
 
 **Editorships**
 
-   2012-present: Frontiers Review Editorial Board.  
-   May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).  
+   2012-present: Frontiers Review Editorial Board.
+   May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
 
 **Reviewer Duties**
 
-   Academic Radiology  
-   American Journal of Neuroradiology  
-   Annals of Biomedical Engineering  
-   Artificial Intelligence in Medicine  
-   Biomedical Signal Processing and Control  
-   Computers in Biology and Medicine  
-   Computerized Medical Imaging and Graphics  
-   Focused Ultrasound Foundation ad hoc grant reviewer  
-   Human Brain Mapping  
-   Image and Vision Computing  
-   International Journal of Pattern Recognition and Artificial Intelligence  
-   IEEE Transactions on Cybernetics  
-   IEEE Transactions on Medical Imaging  
-   IEEE Transactions on Pattern Analysis and Machine Intelligence  
-   IEEE Transactions on Biomedical Engineering  
-   Insight Journal  
-   International Conf. on Medical Image Computing and Computer Assisted Intervention  
-   International Journal of Biomedical Imaging  
-   International Journal of Computer Vision  
-   International Workshop on Medical Imaging and Augmented Reality  
-   IEEE International Symposium on Biomedical Imaging: From Nano to Macro  
-   Journal of Computed Tomography  
-   Journal of Electronic Imaging  
-   Journal of Magnetic Resonance Imaging  
-   Journal of Neurotrauma  
-   Journal of the Optical Society of America A  
-   MRI  
-   Magnetic Resonance in Medicine  
-   Medical Physics  
-   Medical Image Analysis  
-   Neurobiology of Aging  
-   NeuroImage  
-   NeuroImage: Clinical  
-   Neuroradiology  
-   Neuroscience and Biobehavioral Reviews  
-   PLOS ONE  
-   Psychiatric Research:  Neuroimaging  
-   Respirology  
-   Scientific Reports  
-   SIAM Journal on Imaging Sciences  
+   Academic Radiology
+   American Journal of Neuroradiology
+   Annals of Biomedical Engineering
+   Artificial Intelligence in Medicine
+   Biomedical Signal Processing and Control
+   Computers in Biology and Medicine
+   Computerized Medical Imaging and Graphics
+   Focused Ultrasound Foundation ad hoc grant reviewer
+   Human Brain Mapping
+   Image and Vision Computing
+   International Journal of Pattern Recognition and Artificial Intelligence
+   IEEE Transactions on Cybernetics
+   IEEE Transactions on Medical Imaging
+   IEEE Transactions on Pattern Analysis and Machine Intelligence
+   IEEE Transactions on Biomedical Engineering
+   Insight Journal
+   International Conf. on Medical Image Computing and Computer Assisted Intervention
+   International Journal of Biomedical Imaging
+   International Journal of Computer Vision
+   International Workshop on Medical Imaging and Augmented Reality
+   IEEE International Symposium on Biomedical Imaging: From Nano to Macro
+   Journal of Computed Tomography
+   Journal of Electronic Imaging
+   Journal of Magnetic Resonance Imaging
+   Journal of Neurotrauma
+   Journal of the Optical Society of America A
+   MRI
+   Magnetic Resonance in Medicine
+   Medical Physics
+   Medical Image Analysis
+   Neurobiology of Aging
+   NeuroImage
+   NeuroImage: Clinical
+   Neuroradiology
+   Neuroscience and Biobehavioral Reviews
+   PLOS ONE
+   Psychiatric Research:  Neuroimaging
+   Respirology
+   Scientific Reports
+   SIAM Journal on Imaging Sciences
 
 **Invited Talks/Participation**
 
-Feb 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical image analysis*.  
-Sep 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).  
-Sep 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).  
-May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015).  
-Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).  
-May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).  
+Feb 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical image analysis*.
+Sep 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).
+Sep 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).
+May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015).
+Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).
+May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).
 Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
 
 ## Computer Skills
@@ -123,6 +123,8 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2022**
 
+94\. Batool Rizvi, Mithra T Sathishkumar, Soyun Kim, Freddie Márquez, Steven J. Granger, Myra S. Larson, Blake A. Miranda, Martina K. Hollearn, L. McMillan, B. Nan, __N. Tustison__, P. Lao, A. Brickman, Dana E. Greenia, M. Corrada, C. Kawas, and M. Yassa.  Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long-term memory in older adults.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2022.09.19.508591v1)
+
 93\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.09.30.319178v1)
 
 92\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
@@ -141,7 +143,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2021**
 
-85\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_, 28(11):1481-1487, Nov 2021.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)  
+85\. Andrew T. Grainger, Arun Krishnaraj, Michael H. Quinones, __Nicholas J. Tustison__, Samantha Epstein, Daniela Fuller, Aakash Jha, Kevin L. Allman, Weibin Shi.  Deep learning-based quantification of abdominal subcutaneous and visceral fat volume on CT images.  _Academic Radiology_, 28(11):1481-1487, Nov 2021.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/32771313/)
 
 84\. Mu He, Kun Qing, __Nicholas J. Tustison__, Zach Beaulac, Tabitha W. King, Thomas B. Huff, Mikell Paige, Kranthikiran Earasi, Roselove Nunoo-Asare, Sarah Struchen, Marie Burdick, Zhimin Zhang, Alan Ropp, Grady W. Miller, James T. Patrie, Jaime F. Mata, John P. Mugler III, and Yun M. Shim.  Characterizing gas exchange physiology in healthy young electronic-cigarette users with hyperpolarized 129Xe MRI:  a pilot study. _International Journal of Chronic Obstructive Pulmonary Disease_, 16:3183-3187, Nov 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34848953/)
 
@@ -181,7 +183,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 68\. Duc M. Nguyen, Michael A. Yassa, __Nicholas J. Tustison__, Jared M. Roberts, Alexandra Kulikova, Alyson Nakamura, Elena I. Ivleva, Erin Van Enkevort, and E. Sherwood Brown, The Relationship Between Cumulative Exogenous Corticosteroid Exposure and Volumes of Hippocampal Subfields and Surrounding Structures. _Journal of Clinical Psychopharmacology_, 39(6):653-657, Nov/Dec 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31688386)
 
-67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _Magnetic Resonance Imaging_, 64:142-153, Dec 2019.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31200026) 
+67\. __Nicholas J. Tustison__, Brian B. Avants, and James C. Gee. Learning image-based spatial transformations via convolutional neural networks: a review,  _Magnetic Resonance Imaging_, 64:142-153, Dec 2019.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31200026)
 
 66\. E. Brown, Alexandra Kulikova, Erin Van Enkevort, Alyson Nakamura, Elena Ivleva, __Nicholas Tustison__, Jared Roberts, Michael Yassa, Changho Choi, Alan Frol, David Khan, Miguel Vazquez, Traci Holmes, and Kendra Malone.  A Randomized Trial of an NMDA Receptor Antagonist for Reversing Corticosteroid Effects on the Human Hippocampus, _Neuropsychopharmacology_, 44(13):2263-2267, Dec 2019. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/31181564)
 
@@ -204,7 +206,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 **2018**
 
 57\. Andrew T. Grainger, __Nicholas J. Tustison__, Kun Qing, Rene Roy, Stuart S. Berr, and Weibin Shi.  Deep learning-based quantification of abdominal fat on magnetic resonance images. _PLoS One_, 13(9):e0204071, Sep 2018.  [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/30235253)
- 
+
 56\. Yi Xin, Maurizio Cereda, Hooman Hamedani, Mehrdad Pourfathi, Sarmad Siddiqui, Natalie Meeder, Stephen Kadlacek, Ian Duncan, Harrilla Profka, Jennia Rajaei, __Nicholas Tustison__, James Gee, Brian Kavanagh, and Rahim Rizi.  Unstable Inflation Causing Injury: Insight from Prone Position and Paired CT Scans, _American Journal of Respiratory and Critical Care Medicine_, 198(2):197-207, Jul 2018. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29420904)
 
 55\. Neha Sinha, Chelsie N., Berg, __Nicholas J. Tustison__, Ashlee Shaw, Diane Hill, Michael A. Yassa, and Mark A. Gluck.  APOE ε4 Status in Healthy Older African Americans is Associated with Deficits in Pattern Separation and Hippocampal Hyperactivation,  _Neurobiology of Aging_, 26;69:221-229, May 2018. [(pubmed)](https://www.ncbi.nlm.nih.gov/pubmed/29909179)
@@ -248,7 +250,7 @@ Christopher C. Overall, Sachin P. Gadani, Stephen D. Turner, Zhiping Weng, Sayed
 
 38\. Dorian Pustina, Branch H Coslett, Peter E Turkeltaub, __Nicholas Tustison__, Myrna F Schwartz, and Brian Avants.  Automated segmentation of chronic stroke lesions using LINDA: Lesion Identification with Neighborhood Data Analysis,  _Hum Brain Mapp_, 37(4):1405-21, Apr 2016.  [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26756101)
 
-37\. Talissa A. Altes, John P. Mugler III, Kai Ruppert, __Nicholas J. Tustison__, Joanne Gersbach, Sylvia Szentpetery, Craig H. Meyer, Eduard E. de Lange, and W. Gerald Teague.  Clinical Correlates of Lung Ventilation in Asthmatic Children.  _J Allergy Clin Immun_, 137(3):789-796, Mar 2016. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26521043) 
+37\. Talissa A. Altes, John P. Mugler III, Kai Ruppert, __Nicholas J. Tustison__, Joanne Gersbach, Sylvia Szentpetery, Craig H. Meyer, Eduard E. de Lange, and W. Gerald Teague.  Clinical Correlates of Lung Ventilation in Asthmatic Children.  _J Allergy Clin Immun_, 137(3):789-796, Mar 2016. [(pubmed)](http://www.ncbi.nlm.nih.gov/pubmed/26521043)
 
 **2015**
 
