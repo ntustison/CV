@@ -39,46 +39,46 @@ ntustison@gmail.com
 
 **Reviewer Duties**
 
-   Academic Radiology
-   American Journal of Neuroradiology
-   Annals of Biomedical Engineering
-   Artificial Intelligence in Medicine
-   Biomedical Signal Processing and Control
-   Computers in Biology and Medicine
-   Computerized Medical Imaging and Graphics
-   Focused Ultrasound Foundation ad hoc grant reviewer
-   Human Brain Mapping
-   Image and Vision Computing
-   International Journal of Pattern Recognition and Artificial Intelligence
-   IEEE Transactions on Cybernetics
-   IEEE Transactions on Medical Imaging
-   IEEE Transactions on Pattern Analysis and Machine Intelligence
-   IEEE Transactions on Biomedical Engineering
-   Insight Journal
-   International Conf. on Medical Image Computing and Computer Assisted Intervention
-   International Journal of Biomedical Imaging
-   International Journal of Computer Vision
-   International Workshop on Medical Imaging and Augmented Reality
-   IEEE International Symposium on Biomedical Imaging: From Nano to Macro
-   Journal of Computed Tomography
-   Journal of Electronic Imaging
-   Journal of Magnetic Resonance Imaging
-   Journal of Neurotrauma
-   Journal of the Optical Society of America A
-   MRI
-   Magnetic Resonance in Medicine
-   Medical Physics
-   Medical Image Analysis
-   Neurobiology of Aging
-   NeuroImage
-   NeuroImage: Clinical
-   Neuroradiology
-   Neuroscience and Biobehavioral Reviews
-   PLOS ONE
-   Psychiatric Research:  Neuroimaging
-   Respirology
-   Scientific Reports
-   SIAM Journal on Imaging Sciences
+   Academic Radiology 
+   American Journal of Neuroradiology 
+   Annals of Biomedical Engineering 
+   Artificial Intelligence in Medicine 
+   Biomedical Signal Processing and Control 
+   Computers in Biology and Medicine 
+   Computerized Medical Imaging and Graphics 
+   Focused Ultrasound Foundation ad hoc grant reviewer 
+   Human Brain Mapping 
+   Image and Vision Computing 
+   International Journal of Pattern Recognition and Artificial Intelligence 
+   IEEE Transactions on Cybernetics 
+   IEEE Transactions on Medical Imaging 
+   IEEE Transactions on Pattern Analysis and Machine Intelligence 
+   IEEE Transactions on Biomedical Engineering 
+   Insight Journal 
+   International Conf. on Medical Image Computing and Computer Assisted Intervention 
+   International Journal of Biomedical Imaging 
+   International Journal of Computer Vision 
+   International Workshop on Medical Imaging and Augmented Reality 
+   IEEE International Symposium on Biomedical Imaging: From Nano to Macro 
+   Journal of Computed Tomography 
+   Journal of Electronic Imaging 
+   Journal of Magnetic Resonance Imaging 
+   Journal of Neurotrauma 
+   Journal of the Optical Society of America A 
+   MRI 
+   Magnetic Resonance in Medicine 
+   Medical Physics 
+   Medical Image Analysis 
+   Neurobiology of Aging 
+   NeuroImage 
+   NeuroImage: Clinical 
+   Neuroradiology 
+   Neuroscience and Biobehavioral Reviews 
+   PLOS ONE 
+   Psychiatric Research:  Neuroimaging 
+   Respirology 
+   Scientific Reports 
+   SIAM Journal on Imaging Sciences 
 
 **Invited Talks/Participation**
 
