@@ -29,69 +29,66 @@ ntustison@gmail.com
 
 ## Academic Service
 
-   2018-present: [Insight Software Consortium Council (secretary)](https://insightsoftwareconsortium.netlify.app/council)
-   2012-present: [SPIE Medical Imaging program committee](http://spie.org/x12166.xml)
+* 2018-present: [Insight Software Consortium Council (secretary)](https://insightsoftwareconsortium.netlify.app/council)
+* 2012-present: [SPIE Medical Imaging program committee](http://spie.org/x12166.xml)
 
 **Editorships**
 
-   2012-present: Frontiers Review Editorial Board.
-   May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
+* 2012-present: Frontiers Review Editorial Board.
+* May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
 
 **Reviewer Duties**
 
-   Academic Radiology
-
-   American Journal of Neuroradiology 
-   
-   Annals of Biomedical Engineering 
-   
-   Artificial Intelligence in Medicine 
-   Biomedical Signal Processing and Control 
-   Computers in Biology and Medicine 
-   Computerized Medical Imaging and Graphics 
-   Focused Ultrasound Foundation ad hoc grant reviewer 
-   Human Brain Mapping 
-   Image and Vision Computing 
-   International Journal of Pattern Recognition and Artificial Intelligence 
-   IEEE Transactions on Cybernetics 
-   IEEE Transactions on Medical Imaging 
-   IEEE Transactions on Pattern Analysis and Machine Intelligence 
-   IEEE Transactions on Biomedical Engineering 
-   Insight Journal 
-   International Conf. on Medical Image Computing and Computer Assisted Intervention 
-   International Journal of Biomedical Imaging 
-   International Journal of Computer Vision 
-   International Workshop on Medical Imaging and Augmented Reality 
-   IEEE International Symposium on Biomedical Imaging: From Nano to Macro 
-   Journal of Computed Tomography 
-   Journal of Electronic Imaging 
-   Journal of Magnetic Resonance Imaging 
-   Journal of Neurotrauma 
-   Journal of the Optical Society of America A 
-   MRI 
-   Magnetic Resonance in Medicine 
-   Medical Physics 
-   Medical Image Analysis 
-   Neurobiology of Aging 
-   NeuroImage 
-   NeuroImage: Clinical 
-   Neuroradiology 
-   Neuroscience and Biobehavioral Reviews 
-   PLOS ONE 
-   Psychiatric Research:  Neuroimaging 
-   Respirology 
-   Scientific Reports 
-   SIAM Journal on Imaging Sciences 
+* Academic Radiology
+* American Journal of Neuroradiology 
+* Annals of Biomedical Engineering 
+* Artificial Intelligence in Medicine 
+* Biomedical Signal Processing and Control 
+* Computers in Biology and Medicine 
+* Computerized Medical Imaging and Graphics 
+* Focused Ultrasound Foundation ad hoc grant reviewer 
+* Human Brain Mapping 
+* Image and Vision Computing 
+* International Journal of Pattern Recognition and Artificial Intelligence 
+* IEEE Transactions on Cybernetics 
+* IEEE Transactions on Medical Imaging 
+* IEEE Transactions on Pattern Analysis and Machine Intelligence 
+* IEEE Transactions on Biomedical Engineering 
+* Insight Journal 
+* International Conf. on Medical Image Computing and Computer Assisted Intervention 
+* International Journal of Biomedical Imaging 
+* International Journal of Computer Vision 
+* International Workshop on Medical Imaging and Augmented Reality 
+* IEEE International Symposium on Biomedical Imaging: From Nano to Macro 
+* Journal of Computed Tomography 
+* Journal of Electronic Imaging 
+* Journal of Magnetic Resonance Imaging 
+* Journal of Neurotrauma 
+* Journal of the Optical Society of America A 
+* MRI 
+* Magnetic Resonance in Medicine 
+* Medical Physics 
+* Medical Image Analysis 
+* Neurobiology of Aging 
+* NeuroImage 
+* NeuroImage: Clinical 
+* Neuroradiology 
+* Neuroscience and Biobehavioral Reviews 
+* PLOS ONE 
+* Psychiatric Research:  Neuroimaging 
+* Respirology 
+* Scientific Reports 
+* SIAM Journal on Imaging Sciences 
 
 **Invited Talks/Participation**
 
-Feb 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical image analysis*.
-Sep 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).
-Sep 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).
-May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015).
-Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).
-May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).
-Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
+* Feb 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical image analysis*.
+* Sep 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).
+* Sep 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).
+* May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015).
+* Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).
+* May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).
+* Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R
