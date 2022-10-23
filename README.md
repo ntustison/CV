@@ -39,9 +39,12 @@ ntustison@gmail.com
 
 **Reviewer Duties**
 
-   Academic Radiology 
+   Academic Radiology
+
    American Journal of Neuroradiology 
+   
    Annals of Biomedical Engineering 
+   
    Artificial Intelligence in Medicine 
    Biomedical Signal Processing and Control 
    Computers in Biology and Medicine 
