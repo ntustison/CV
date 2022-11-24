@@ -91,7 +91,7 @@ ntustison@gmail.com
 * Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
 
 ## Computer Skills
-* Languages:  C++, perl, bash, Latex, R
+* Languages:  C++, perl, bash, Latex, R, Python
 * Packages:  Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, PBS/SGE qsub
 
 ## Awards
