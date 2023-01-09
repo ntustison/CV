@@ -29,69 +29,69 @@ ntustison@gmail.com
 
 ## Academic Service
 
-   2018-present: [Insight Software Consortium Council (secretary)](https://insightsoftwareconsortium.netlify.app/council)
-   2012-present: [SPIE Medical Imaging program committee](http://spie.org/x12166.xml)
+* 2018-present: [Insight Software Consortium Council (secretary)](https://insightsoftwareconsortium.netlify.app/council)
+* 2012-present: [SPIE Medical Imaging program committee](http://spie.org/x12166.xml)
 
 **Editorships**
 
-   2012-present: Frontiers Review Editorial Board.
-   May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
+* 2012-present: Frontiers Review Editorial Board.
+* May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
 
 **Reviewer Duties**
 
-   Academic Radiology
-   American Journal of Neuroradiology
-   Annals of Biomedical Engineering
-   Artificial Intelligence in Medicine
-   Biomedical Signal Processing and Control
-   Computers in Biology and Medicine
-   Computerized Medical Imaging and Graphics
-   Focused Ultrasound Foundation ad hoc grant reviewer
-   Human Brain Mapping
-   Image and Vision Computing
-   International Journal of Pattern Recognition and Artificial Intelligence
-   IEEE Transactions on Cybernetics
-   IEEE Transactions on Medical Imaging
-   IEEE Transactions on Pattern Analysis and Machine Intelligence
-   IEEE Transactions on Biomedical Engineering
-   Insight Journal
-   International Conf. on Medical Image Computing and Computer Assisted Intervention
-   International Journal of Biomedical Imaging
-   International Journal of Computer Vision
-   International Workshop on Medical Imaging and Augmented Reality
-   IEEE International Symposium on Biomedical Imaging: From Nano to Macro
-   Journal of Computed Tomography
-   Journal of Electronic Imaging
-   Journal of Magnetic Resonance Imaging
-   Journal of Neurotrauma
-   Journal of the Optical Society of America A
-   MRI
-   Magnetic Resonance in Medicine
-   Medical Physics
-   Medical Image Analysis
-   Neurobiology of Aging
-   NeuroImage
-   NeuroImage: Clinical
-   Neuroradiology
-   Neuroscience and Biobehavioral Reviews
-   PLOS ONE
-   Psychiatric Research:  Neuroimaging
-   Respirology
-   Scientific Reports
-   SIAM Journal on Imaging Sciences
+* Academic Radiology
+* American Journal of Neuroradiology 
+* Annals of Biomedical Engineering 
+* Artificial Intelligence in Medicine 
+* Biomedical Signal Processing and Control 
+* Computers in Biology and Medicine 
+* Computerized Medical Imaging and Graphics 
+* Focused Ultrasound Foundation ad hoc grant reviewer 
+* Human Brain Mapping 
+* Image and Vision Computing 
+* International Journal of Pattern Recognition and Artificial Intelligence 
+* IEEE Transactions on Cybernetics 
+* IEEE Transactions on Medical Imaging 
+* IEEE Transactions on Pattern Analysis and Machine Intelligence 
+* IEEE Transactions on Biomedical Engineering 
+* Insight Journal 
+* International Conf. on Medical Image Computing and Computer Assisted Intervention 
+* International Journal of Biomedical Imaging 
+* International Journal of Computer Vision 
+* International Workshop on Medical Imaging and Augmented Reality 
+* IEEE International Symposium on Biomedical Imaging: From Nano to Macro 
+* Journal of Computed Tomography 
+* Journal of Electronic Imaging 
+* Journal of Magnetic Resonance Imaging 
+* Journal of Neurotrauma 
+* Journal of the Optical Society of America A 
+* MRI 
+* Magnetic Resonance in Medicine 
+* Medical Physics 
+* Medical Image Analysis 
+* Neurobiology of Aging 
+* NeuroImage 
+* NeuroImage: Clinical 
+* Neuroradiology 
+* Neuroscience and Biobehavioral Reviews 
+* PLOS ONE 
+* Psychiatric Research:  Neuroimaging 
+* Respirology 
+* Scientific Reports 
+* SIAM Journal on Imaging Sciences 
 
 **Invited Talks/Participation**
 
-Feb 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical image analysis*.
-Sep 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).
-Sep 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).
-May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015).
-Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).
-May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).
-Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
+* Feb 2012:  SPIE Workshop:  Medical Imaging, *Open source tools for medical image analysis*.
+* Sep 2012:  MICCAI, provided canonical registrations for [Grand Challenge and Workshop on Multi-Atlas Labeling](https://masi.vuse.vanderbilt.edu/workshop2012/index.php/Main_Page).
+* Sep 2013:  MICCAI, provided canonical registrations for [SATA challenge workshop](https://masi.vuse.vanderbilt.edu/workshop2013/index.php/Program_and_Proceedings).
+* May 2015:  CREATE-MIA Summer Workshop, [*ANTs Workshop*](http://aggie.cim.mcgill.ca:8080/create-mia/events/create-mia-summer-school-2015).
+* Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).
+* May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).
+* Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
 
 ## Computer Skills
-* Languages:  C++, perl, bash, Latex, R
+* Languages:  C++, perl, bash, Latex, R, Python
 * Packages:  Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, PBS/SGE qsub
 
 ## Awards
@@ -123,19 +123,21 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2022**
 
-94\. Batool Rizvi, Mithra T Sathishkumar, Soyun Kim, Freddie Márquez, Steven J. Granger, Myra S. Larson, Blake A. Miranda, Martina K. Hollearn, L. McMillan, B. Nan, __N. Tustison__, P. Lao, A. Brickman, Dana E. Greenia, M. Corrada, C. Kawas, and M. Yassa.  Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long-term memory in older adults.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2022.09.19.508591v1)
+95\. Batool Rizvi, Mithra T Sathishkumar, Soyun Kim, Freddie Márquez, Steven J. Granger, Myra S. Larson, Blake A. Miranda, Martina K. Hollearn, L. McMillan, B. Nan, __N. Tustison__, P. Lao, A. Brickman, Dana E. Greenia, M. Corrada, C. Kawas, and M. Yassa.  Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long-term memory in older adults.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2022.09.19.508591v1)
 
-93\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.09.30.319178v1)
+94\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.09.30.319178v1)
 
-92\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+93\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
-91\. Raghav Mehta, Angelos Filos, Ujjwal Baid, Chiharu Sako, Richard McKinley, Michael Rebsamen, Katrin Dätwyler, Raphael Meier, Piotr Radojewski, Gowtham Krishnan Murugesan, Sahil Nalawade, Chandan Ganesh, Ben Wagner, Fang F. Yu, Baowei Fei, Ananth J. Madhuranthakam, Joseph A. Maldjian, Laura Daza, Catalina Gómez, Pablo Arbeláez, Chengliang Dai, Shuo Wang, Hadrien Raynaud, Yuanhan Mo, Elsa Angelini, Yike Guo, Wenjia Bai, Subhashis Banerjee, Linmin Pei, Murat AK, Sarahi Rosas-González, Illyess Zemmoura, Clovis Tauber, Minh H. Vu, Tufve Nyholm, Tommy Löfstedt, Laura Mora Ballestar, Veronica Vilaplana, Hugh McHugh, Gonzalo Maso Talou, Alan Wang, Jay Patel, Ken Chang, Katharina Hoebel, Mishka Gidwani, Nishanth Arun, Sharut Gupta, Mehak Aggarwal, Praveer Singh, Elizabeth R. Gerstner, Jayashree Kalpathy-Cramer, Nicolas Boutry, Alexis Huard, Lasitha Vidyaratne, Md Monibor Rahman, Khan M. Iftekharuddin, Joseph Chazalon, Elodie Puybareau, Guillaume Tochon, Jun Ma, Mariano Cabezas, Xavier Llado, Arnau Oliver, Liliana Valencia, Sergi Valverde, Mehdi Amian, Mohammadreza Soltaninejad, Andriy Myronenko, Ali Hatamizadeh, Xue Feng, Quan Dou, __Nicholas Tustison__, Craig Meyer, Nisarg A. Shah, Sanjay Talbar, Marc-Andr Weber, Abhishek Mahajan, Andras Jakab, Roland Wiest, Hassan M. Fathallah-Shaykh, Arash Nazeri, Mikhail Milchenko, Daniel Marcus, Aikaterini Kotrotsou, Rivka Colen, John Freymann, Justin Kirby, Christos Davatzikos, Bjoern Menze, Spyridon Bakas, Yarin Gal, Tal Arbel.  QU-BraTS:  MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in Brain Tumor Segmentation --- Analysis of Ranking Scores and Benchmarking Results.  _The Journal of Machine Learning for Biomedical Imaging_.  [Accepted](https://arxiv.org/abs/2112.10074)
+92\. Raghav Mehta, Angelos Filos, Ujjwal Baid, Chiharu Sako, Richard McKinley, Michael Rebsamen, Katrin Dätwyler, Raphael Meier, Piotr Radojewski, Gowtham Krishnan Murugesan, Sahil Nalawade, Chandan Ganesh, Ben Wagner, Fang F. Yu, Baowei Fei, Ananth J. Madhuranthakam, Joseph A. Maldjian, Laura Daza, Catalina Gómez, Pablo Arbeláez, Chengliang Dai, Shuo Wang, Hadrien Raynaud, Yuanhan Mo, Elsa Angelini, Yike Guo, Wenjia Bai, Subhashis Banerjee, Linmin Pei, Murat AK, Sarahi Rosas-González, Illyess Zemmoura, Clovis Tauber, Minh H. Vu, Tufve Nyholm, Tommy Löfstedt, Laura Mora Ballestar, Veronica Vilaplana, Hugh McHugh, Gonzalo Maso Talou, Alan Wang, Jay Patel, Ken Chang, Katharina Hoebel, Mishka Gidwani, Nishanth Arun, Sharut Gupta, Mehak Aggarwal, Praveer Singh, Elizabeth R. Gerstner, Jayashree Kalpathy-Cramer, Nicolas Boutry, Alexis Huard, Lasitha Vidyaratne, Md Monibor Rahman, Khan M. Iftekharuddin, Joseph Chazalon, Elodie Puybareau, Guillaume Tochon, Jun Ma, Mariano Cabezas, Xavier Llado, Arnau Oliver, Liliana Valencia, Sergi Valverde, Mehdi Amian, Mohammadreza Soltaninejad, Andriy Myronenko, Ali Hatamizadeh, Xue Feng, Quan Dou, __Nicholas Tustison__, Craig Meyer, Nisarg A. Shah, Sanjay Talbar, Marc-Andr Weber, Abhishek Mahajan, Andras Jakab, Roland Wiest, Hassan M. Fathallah-Shaykh, Arash Nazeri, Mikhail Milchenko, Daniel Marcus, Aikaterini Kotrotsou, Rivka Colen, John Freymann, Justin Kirby, Christos Davatzikos, Bjoern Menze, Spyridon Bakas, Yarin Gal, Tal Arbel.  QU-BraTS:  MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in Brain Tumor Segmentation --- Analysis of Ranking Scores and Benchmarking Results.  _The Journal of Machine Learning for Biomedical Imaging_.  [(accepted)](https://arxiv.org/abs/2112.10074)
 
-90\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  Automated Analysis of Low-Field Brain MRI in Cerebral Malaria. _Biometrics_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35731973/)
+91\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  Automated Analysis of Low-Field Brain MRI in Cerebral Malaria. _Biometrics_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35731973/)
 
-89\. Nazek Queder, Michael J. Phelan, Lisa Taylor, __Nicholas Tustison__, Eric Doran, Christy Hom, Dana Nguyen, Florence Lai, Margaret Pulsifer, Julie Price, William C. Kreisl, Diana H. Rosas, Sharon Krinsky-McHale, Adam Brickman, Michael A. Yassa, Nicole Schupf, Wayne Silverman, Ira T. Lott, and David B. Keator. Joint-label fusion brain atlases for dementia research in down syndrome. _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35634535/)
+90\. Zhuang Song, Anithapriya Krishnan, Laura Gaetano, __Nicholas J. Tustison__, David Clayton, Alex de Crespigny, Thomas Bengtsson, Xiaoming Jia, and Richard A.D. Carano.  Deformation-based morphometry identifies deep brain structures protected by ocrelizumab.  _NeuroImage: Clinical_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35189455/)
 
-88\. Zhuang Song, Anithapriya Krishnan, Laura Gaetano, __Nicholas J. Tustison__, David Clayton, Alex de Crespigny, Thomas Bengtsson, Xiaoming Jia, and Richard A.D. Carano.  Deformation-based morphometry identifies deep brain structures protected by ocrelizumab.  _NeuroImage: Clinical_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35189455/)
+89\. Stephen Guan, __Nick Tustison__, Kun Qing, Yun Michael Shim, John Mugler III, Talissa Altes, Dana Albon, Deborah Froh, Borna Mehrad, James Patrie, Alan Ropp, Braden Miller, Jill Nehrbas, Jaime Mata. 3D Single-Breath Chemical Shift Imaging Hyperpolarized Xe-129 MRI of Healthy, CF, IPF, and COPD Subjects. _Tomography_, 8(5), 2574-2587, October 2022. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36287814/)
+
+88\. Nazek Queder, Michael J. Phelan, Lisa Taylor, __Nicholas Tustison__, Eric Doran, Christy Hom, Dana Nguyen, Florence Lai, Margaret Pulsifer, Julie Price, William C. Kreisl, Diana H. Rosas, Sharon Krinsky-McHale, Adam Brickman, Michael A. Yassa, Nicole Schupf, Wayne Silverman, Ira T. Lott, and David B. Keator. Joint-label fusion brain atlases for dementia research in down syndrome. _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_, 14(1):e12324, May 2022. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35634535/)
 
 87\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data.  _Human Brain Mapping_, 43(4):1179-1195, Mar 2022. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34904312/)
 
