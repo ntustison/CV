@@ -9,7 +9,7 @@ else
 fi
 echo compiling $paper to pdf
 for x in 1 2 3 ; do
-  pdflatex $paper
+  /usr/local/texlive/2022/bin/universal-darwin/pdflatex $paper
   bibtex journal
   bibtex conferences
   bibtex software
