@@ -155,7 +155,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 84\. Mu He, Kun Qing, __Nicholas J. Tustison__, Zach Beaulac, Tabitha W. King, Thomas B. Huff, Mikell Paige, Kranthikiran Earasi, Roselove Nunoo-Asare, Sarah Struchen, Marie Burdick, Zhimin Zhang, Alan Ropp, Grady W. Miller, James T. Patrie, Jaime F. Mata, John P. Mugler III, and Yun M. Shim.  Characterizing gas exchange physiology in healthy young electronic-cigarette users with hyperpolarized 129Xe MRI:  a pilot study. _International Journal of Chronic Obstructive Pulmonary Disease_, 16:3183-3187, Nov 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34848953/)
 
-83\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- vs. histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_, 86(5):2822-2836, Nov 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34227163/)
+83\. __Nicholas J. Tustison__, Talissa A. Altes, Kun Qing, Mu He, G. Wilson Miller, Brian B. Avants, Yun M. Shim, James C. Gee, John P. Mugler III, and Jaime F. Mata.  Image- versus histogram-based considerations in semantic segmentation of pulmonary hyperpolarized gas images. _Magnetic Resonance in Medicine_, 86(5):2822-2836, Nov 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34227163/)
 
 82\. Jaime Mata, Steven Guan, Kun Qing, __Nicholas Tustison__, Yun Shim, John P Mugler 3rd, Talissa Altes, Jhosep Huaromo, Borna Mehrad.  Evaluation of Regional Lung Function in Pulmonary Fibrosis with Xenon-129 MRI. _Tomography_, 7(3):452-465, Sep 2021. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34564301/)
 
