@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1677456216 "/Users/ntustison/Documents/Academic/CV/moderncv/moderncv.tex" "moderncv.pdf" "moderncv" 1677456217 2
+["pdflatex"] 1677541050 "/Users/ntustison/Documents/Academic/CV/moderncv/moderncv.tex" "moderncv.pdf" "moderncv" 1677541050 2
   "/Users/ntustison/Documents/Academic/CV/moderncv/moderncv.tex" 1594522733 16656 89ba1cffd3d369b2b5a41c9df4b404d1 ""
   "/Users/ntustison/Library/TinyTeX/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1136768653 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
   "/Users/ntustison/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty" 1572645307 492 1994775aa15b0d1289725a0b1bbc2d4c ""
@@ -29,7 +29,7 @@
   "/Users/ntustison/Library/TinyTeX/texmf-var/web2c/pdftex/pdflatex.fmt" 1671151367 1645829 f8ca1547d57f8db29069dba32c2c5081 ""
   "/Users/ntustison/Library/TinyTeX/texmf.cnf" 1652118605 708 85fd07691b6294ba94c59dbc62380410 ""
   "microtype.sty" 0 -1 0 ""
-  "moderncv.aux" 1677456216 32 3985256e7290058c681f74d7a3565a19 ""
+  "moderncv.aux" 1677541050 32 3985256e7290058c681f74d7a3565a19 ""
   "moderncv.cls" 1386713534 26680 d1e01c6f2455f8d18a24e25a39f4bbde ""
   "moderncv.tex" 1594522733 16656 89ba1cffd3d369b2b5a41c9df4b404d1 ""
   "tweaklist.sty" 1386713534 1966 8ce3a021c0bc6369db88faeddf828d71 ""
