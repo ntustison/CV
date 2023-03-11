@@ -89,6 +89,7 @@ ntustison@gmail.com
 * Oct 2015:  MICCAI, [SimpleITK tutorial](http://www.itk.org/Wiki/SimpleITK/Tutorials/MICCAI2015).
 * May 2019:  ICERM, Brown University, [Introduction to the ANTs Ecosystem](https://icerm.brown.edu/programs/sp-s19/cl/).
 * Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
+* Jun J022:  Panelist, Theme 3: Open Code: Myths Debunked, Organization for Human Brain Mapping.
 
 ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R, Python
