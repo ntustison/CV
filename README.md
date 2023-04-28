@@ -124,17 +124,19 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2023**
 
-97\. Kevin Donovan,  __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara, the Alzheimer’s Disease Neuroimaging Initiative, Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
+98\. Jay Hegdé, __Nicholas J Tustison__, William T. Parker, Fallon B. Branch, Nathan Yanasak, Lorie A. Stumpo, An Anatomical Template for the Normalization of Medical Images of Adult Human Hands. _Submitted_.
 
-96\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, James C. Gee, James R. Stone, and and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v1)
+97\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara, the Alzheimer’s Disease Neuroimaging Initiative, Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
+
+96\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, James C. Gee, James R. Stone, and and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v2)
 
 95\. Batool Rizvi, Mithra T Sathishkumar, Soyun Kim, Freddie Márquez, Steven J. Granger, Myra S. Larson, Blake A. Miranda, Martina K. Hollearn, L. McMillan, B. Nan, __N. Tustison__, P. Lao, A. Brickman, Dana E. Greenia, M. Corrada, C. Kawas, and M. Yassa.  Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long-term memory in older adults. _Neuroimage Clinical_ [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36586358/)
 
-**2022**
-
-94\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2020.09.30.319178v1)
+94\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity. _Learning and Memory_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36921982/)
 
 93\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+
+**2022**
 
 92\. Raghav Mehta, Angelos Filos, Ujjwal Baid, Chiharu Sako, Richard McKinley, Michael Rebsamen, Katrin Dätwyler, Raphael Meier, Piotr Radojewski, Gowtham Krishnan Murugesan, Sahil Nalawade, Chandan Ganesh, Ben Wagner, Fang F. Yu, Baowei Fei, Ananth J. Madhuranthakam, Joseph A. Maldjian, Laura Daza, Catalina Gómez, Pablo Arbeláez, Chengliang Dai, Shuo Wang, Hadrien Raynaud, Yuanhan Mo, Elsa Angelini, Yike Guo, Wenjia Bai, Subhashis Banerjee, Linmin Pei, Murat AK, Sarahi Rosas-González, Illyess Zemmoura, Clovis Tauber, Minh H. Vu, Tufve Nyholm, Tommy Löfstedt, Laura Mora Ballestar, Veronica Vilaplana, Hugh McHugh, Gonzalo Maso Talou, Alan Wang, Jay Patel, Ken Chang, Katharina Hoebel, Mishka Gidwani, Nishanth Arun, Sharut Gupta, Mehak Aggarwal, Praveer Singh, Elizabeth R. Gerstner, Jayashree Kalpathy-Cramer, Nicolas Boutry, Alexis Huard, Lasitha Vidyaratne, Md Monibor Rahman, Khan M. Iftekharuddin, Joseph Chazalon, Elodie Puybareau, Guillaume Tochon, Jun Ma, Mariano Cabezas, Xavier Llado, Arnau Oliver, Liliana Valencia, Sergi Valverde, Mehdi Amian, Mohammadreza Soltaninejad, Andriy Myronenko, Ali Hatamizadeh, Xue Feng, Quan Dou, __Nicholas Tustison__, Craig Meyer, Nisarg A. Shah, Sanjay Talbar, Marc-Andr Weber, Abhishek Mahajan, Andras Jakab, Roland Wiest, Hassan M. Fathallah-Shaykh, Arash Nazeri, Mikhail Milchenko, Daniel Marcus, Aikaterini Kotrotsou, Rivka Colen, John Freymann, Justin Kirby, Christos Davatzikos, Bjoern Menze, Spyridon Bakas, Yarin Gal, Tal Arbel.  QU-BraTS:  MICCAI BraTS 2020 Challenge on Quantifying Uncertainty in Brain Tumor Segmentation --- Analysis of Ranking Scores and Benchmarking Results.  _The Journal of Machine Learning for Biomedical Imaging_.  [(accepted)](https://arxiv.org/abs/2112.10074)
 
