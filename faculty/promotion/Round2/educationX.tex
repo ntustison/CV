@@ -6,11 +6,11 @@
 \documentclass[
   11pt,
 ]{article}
+\usepackage{amsmath,amssymb}
 \usepackage{lmodern}
 \usepackage{setspace}
-\usepackage{amssymb,amsmath}
-\usepackage{ifxetex,ifluatex}
-\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+\usepackage{iftex}
+\ifPDFTeX
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -41,10 +41,10 @@
 \IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
 \hypersetup{
   colorlinks=true,
-  linkcolor=Maroon,
-  filecolor=Maroon,
-  citecolor=Blue,
-  urlcolor=blue,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={blue},
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage[margin=1.0in]{geometry}
@@ -77,7 +77,7 @@
 \definecolor{listnumbers}{gray}{0.65}
 \definecolor{listlightgray}{gray}{0.955}
 \definecolor{listwhite}{gray}{1.0}
-\ifluatex
+\ifLuaTeX
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
 
