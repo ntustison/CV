@@ -38,6 +38,10 @@ mainfont: Georgia
 
 # Education
 
+* Daniel Brennan (graduate student)
+    * City Univeristy of New York
+    * Advisor:  Junghoon Kim
+    * Role: dissertation committee member (current)
 
 * Jesse Birchfield (graduate student)
     * Department of Biostatistics, University of California, Los Angeles
