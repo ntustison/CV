@@ -1,0 +1,50 @@
+
+<!--
+-->
+
+# Independent referees
+
+
+* Bennett Landman, Professor, Vanderbilt University, bennett.landman@vanderbilt.edu, (615) 322-2338
+* Marius Staring, Professor, Leiden University, m.staring@lumc.nl, +31 71 526 2137
+* Jose Vicente Manjon, Professor, manjon@fis.upv.es, 96 387 70 00 (Extension: 75275)
+* Martin Styner, Professor, University of North Carolina, styner@cs.unc.edu, 919 590 6209
+* Mallar Chakravarty, Professor, McGill University, mallar@cobralab.ca, (514) 761-6131
+* Marc Niethammer, Professor, University of North Carolina at Chappel Hill, mn@cs.unc.edu, (919) 590-6149
+* Koen Van Leemput, Professor, Aalto University, koen@nmr.mgh.harvard.edu, +358 9 47001
+* Bruce Fischl, Professor, Harvard University, BFISCHL@mgh.harvard.edu, 617-726-4897
+* Yu-Ping Wang, Professor, Tulane University, wyp@tulane.edu, 504-865-5867
+* Despina Kontos, Professor, University of Pennsylvania, despina.kontos@pennmedicine.upenn.edu, 215-746-4064
+* Craig Stark, Professor, UC Irvine, starklab@uci.edu, (949) 824-4230
+* Simon Warfield, Professor, Harvard Medical School, simon.warfield@childrens.harvard.edu, (617) 355-4566
+* Alejandro Frangi, Professor, University of Sheffield, a.frangi@sheffield.ac.uk, +44 114 2220153
+* Sean Fain, Associate Professor, University of Wisconsin-Madison, sfain@wisc.edu, (608) 263-0090
+* Jim Wild, Professor, University of Sheffield, j.m.wild@sheffield.ac.uk, +44 (0) 114 215 9141
+* Jason Woods, Professor, University of Cincinnati, Jason.Woods@cchmc.org, (513) 803-4463
+* Grace Parraga, Professor, Western University, gparraga@robarts.ca, (519) 931-5265
+* Ron Kikinis, Professor, Harvard Medical School, kikinis@bwh.harvard.edu, +1 617.732.7389
+* Daniel Rueckert, Professor, Imperial College London, d.rueckert@imperial.ac.uk, +44 20 75948333
+* Paul Thompson, Professor, University of Southern California,  pthomp@usc.edu, 323-442-7246
+
+<!--
+# Possible independent referees (co-authors on competition papers)
+-->
+
+# External referees
+
+* Bjoern Menze, Professor, University of Zurich, bjoern.menze@uzh.ch, +41 44 635 27 24
+* Tal Arbel, Professor, McGill University, arbel@cim.mcgill.ca, (514) 398-8204
+* James C. Gee, Professor, University of Pennsylvania, gee@mail.med.upenn.edu, 215-746-6295
+* Amir A. Amini, Professor, University of Louisville, amir.amini@louisville.edu, (502) 852 4767
+* Talissa A. Altes, Professor, University of Missouri-Columbia, altest@health.missouri.edu, (573) 882-1026
+* Michael Yassa, Professor, University of California, Irvine, myassa@uci.edu, (949) 824 1687
+* Paul Yushkevich, Professor, University of Pennsylvania, pauly2@mail.med.upenn.edu, 215-746-6924
+* D. Louis Collins,  Professor, McGill University, louis.collins@mcgill.ca, 1 514–398–4227
+* Josien Pluim, Professor, Eindhoven University of Technology, j.pluim@tue.nl, +31 40 - 247 8853
+
+# Internal referees
+
+* John P. Mugler III, Professor, University of Virginia, jpm7r@virginia.edu
+* James R. Stone, Associate Professor, University of Virginia, jrs7r@virginia.edu, (434) 924-9401
+* Yun Michael Shim, Professor, University of Virginia, yss6n@virginia.edu, (434) 924-9682
+* Jaime Mata, Professor, University of Virginia, jfm4q@virginia.edu, (434) 243-6498
