@@ -19,7 +19,7 @@ header-includes:
    - \setlength{\parskip}{6pt}
 fontsize: 11pt
 mainfont: Arial
-geometry: margin=1.0in
+geometry: margin=0.8in
 ---
 
 <!--
@@ -40,49 +40,64 @@ knitr::opts_chunk$set( cache=TRUE )
 
 \pagenumbering{gobble}
 
-# Personal Statement
-_Nicholas J. Tustison, DSc_
+__Nicholas J. Tustison, DSc__
 
 <!--
 -->
 
+_Describe engagement with learners in your mission area of excellence
+(clinical, research, education, community)._
 
-As a scientist specializing in medical image analysis, my approach to research
-and collaboration is guided by a deep commitment to the development of
-high-quality, open-source computational strategies for biological and medical
-imaging.  I believe that such commitments create a supportive and inclusive
-environment where knowledge is shared, diverse perspectives are valued, and the
-quality of work is held to the highest standards.  Their importance has only
-increased since returning to the University of Virginia in 2010 as an Assistant
-Professor and subsequently during my current tenure as an Associate Professor.
+I am a co-founder and developer of the widely recognized open-source Advanced
+Normalization Tools Ecosystem (ANTsX) which allows me to simultaneously engage
+with learners and contribute to ongoing research.  This has led to significant
+opportunities for mentoring and teaching students, post-graduate trainees, and
+other researchers by providing numerous tutorials and workshops at various
+conferences and at different academic and scientific institutions.  I have also
+organized this tutorial material for online public access.  This is in addition
+to my daily participation in the ANTsX online user forums.
+
+_Give a brief self-evaluation regarding adherence to ASPIRE values. You should
+describe your contributions to at least one of the ASPIRE values
+(Accountability, Stewardship, Professionalism, Integrity, Respect, Equity)._
+
+My approach to research and collaboration is guided by a deep commitment to the
+development of high-quality, open-source computational strategies for biological
+and medical imaging.  I believe that such commitments create a supportive and
+inclusive environment where knowledge is shared, diverse perspectives are
+valued, and the quality of work is held to the highest standards.  Their
+importance has only increased since returning to the University of Virginia in
+2010 as an Assistant Professor and subsequently during my current tenure as an
+Associate Professor.
+
+__Personal Statement__
 
 Throughout my academic career, I have benefited from caring mentors who have
-promoted excellent academic scholarship and integrity while instilling values of
-mutual respect.  As a prominent example, I continue to benefit immensely from
+dmeonstrated excellent academic scholarship and integrity while promoting values
+of mutual respect.  As an example, I continue to benefit immensely from
 relationships developed during my initial post-graduate years at the PICSL lab,
 particularly those at the University of Pennsylvania in the Penn Image and
 Computing Science Laboratory under the direction of Dr. James C. Gee.  While at
 the University of Pennsylvania, my colleague, Dr. Brian B. Avants, and I
-co-founded the Advanced Normalization Tools (ANTs).  This software package has
-become one of the most widely used toolkits in the field for image data
-processing and analysis which are described by some of the most highly cited
-publications in the field.  Other packages, such as the well-known FreeSurfer
-software package, have incorporated well-performing and complementary ANTs
-components into their own libraries.  Recently, Dr. Gee and I have leveraged
-this ANTs development in receiving two explicitly ANTs-related NIH R01 grants.
+co-founded the open-source Advanced Normalization Tools Ecosystem (ANTsX).  This
+software suite has evolved to become one of the most widely used and highly
+cited libraries in the field in both academia and industry for image data
+processing and analysis.  Recently, Dr. Gee and I have leveraged ANTs
+development in the successful application of two explicitly ANTs-based NIH R01
+grants.
 
-Given my role in the development of such widely used research tools, my focus
-has provided significant opportunities for mentoring, teaching, and consulting
-within the research community.  I have provided numerious tutorials and
-workshops at various conferences and at different academic and scientific
-institutions.  I have also organized this tutorial material for online access.
-This has also resulted in an expansion of the circle of my collaborators beyond
+One of the benefits of being a part of a premier research university are the many
+opportunities for collaboration with internationally recognized scientists
+targeting a variety of clinical applications.  As one of the leading institutions in
+the field of functional lung imaging using hyperpolarized gases, I have been
+part of a research team making important algorithmic contributions to the field
+which have been recently made available as a community resource at
+(www.xenonanalysis.com).  Analagous quantitative contributions have been made
+in the field of traumatic brain injury with Dr. James Stone and Dr. Avants.
+My research and development has also resulted in an expansion of the circle of my collaborators beyond
 the University of Virginia to include collaborations with people at such
 academic entities and scientific institutions as the University of California,
-Irvine, the University of Pennsylvania, and the Allen Brain Institute.  In addition,
-given the credibility that the ANTs software has, I am often asked to provide
-evaluative comparison data for international competitions and standardized
-data for further processing of large-scale studies.
+Irvine, the University of Pennsylvania, and the Allen Brain Institute.
 
 In parallel with the appreciation I have for my many external opportunities for
 collaboration and mentoring, I am honored to be associated with the University
@@ -91,12 +106,6 @@ in exploring fascinating research questions.  I look forward to continuing my
 academic career at UVa where I can best provide the necessary expertise for
 medical imaging data science.
 
-* _Describe engagement with learners in your mission area of excellence
-(clinical, research, education, community)._
-
-* _Give a brief self-evaluation regarding adherence to ASPIRE values. You should
-describe your contributions to at least one of the ASPIRE values
-(Accountability, Stewardship, Professionalism, Integrity, Respect, Equity)._
 
 
 <!--
