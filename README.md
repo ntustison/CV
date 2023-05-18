@@ -124,15 +124,17 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2023**
 
-103\. Brian Avants,  __Nicholas J Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
+104\. Brian Avants,  __Nicholas J Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
 
-102\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
+103\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
 
-101\. Jay Hegdé, __Nicholas J Tustison__, William T. Parker, Fallon B. Branch, Nathan Yanasak, and Lorie A. Stumpo. An Anatomical Template for the Normalization of Medical Images of Adult Human Hands. _Submitted_.
+102\. Jay Hegdé, __Nicholas J Tustison__, William T. Parker, Fallon B. Branch, Nathan Yanasak, and Lorie A. Stumpo. An Anatomical Template for the Normalization of Medical Images of Adult Human Hands. _Submitted_.
 
-100\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
+101\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
 
-99\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, James C. Gee, James R. Stone, and and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
+100\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, James C. Gee, James R. Stone, and and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
+
+99\. Kun Qing, Talissa A. Altes, John P. Mugler III, Jaime F. Mata, __Nicholas, J. Tustison__, Kai Ruppert, Juliana Bueno, Lucia Flors, Y. Michael Shim, Li Zhao, Joanne Cassani, W. Gerald Teague, John S Kim, Zhixing Wang, Iulian C. Ruset, F. William Hersman, and Borna Mehrad. Hyperpolarized Xenon-129: A New Tool to Assess Pulmonary Physiology in Patients with Pulmonary Fibrosis. [(submitted)]()
 
 98\. William J. Garrison, Kun Qing, Mu He, Li Zhao, __Nicholas J. Tustison__, Jaime F. Mata, Y. Michael Shim, Alan M. Ropp, Talissa A. Altes, John P. Mugler III, and G. Wilson Miller. Lung Volume Dependence and Repeatability of Hyperpolarized 129Xe MRI Gas Uptake Metrics in Healthy Volunteers and Patients with COPD.  _Radiology: Cardiothoracic Imaging_. [(accepted)]()
 
