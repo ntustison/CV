@@ -134,7 +134,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 100\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, James C. Gee, James R. Stone, and and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
 
-99\. Kun Qing, Talissa A. Altes, John P. Mugler III, Jaime F. Mata, __Nicholas, J. Tustison__, Kai Ruppert, Juliana Bueno, Lucia Flors, Y. Michael Shim, Li Zhao, Joanne Cassani, W. Gerald Teague, John S Kim, Zhixing Wang, Iulian C. Ruset, F. William Hersman, and Borna Mehrad. Hyperpolarized Xenon-129: A New Tool to Assess Pulmonary Physiology in Patients with Pulmonary Fibrosis. [(submitted)]()
+99\. Kun Qing, Talissa A. Altes, John P. Mugler III, Jaime F. Mata, __Nicholas, J. Tustison__, Kai Ruppert, Juliana Bueno, Lucia Flors, Y. Michael Shim, Li Zhao, Joanne Cassani, W. Gerald Teague, John S Kim, Zhixing Wang, Iulian C. Ruset, F. William Hersman, and Borna Mehrad. Hyperpolarized Xenon-129: A New Tool to Assess Pulmonary Physiology in Patients with Pulmonary Fibrosis. _Biomedicines_.  [(accepted)]()
 
 98\. William J. Garrison, Kun Qing, Mu He, Li Zhao, __Nicholas J. Tustison__, Jaime F. Mata, Y. Michael Shim, Alan M. Ropp, Talissa A. Altes, John P. Mugler III, and G. Wilson Miller. Lung Volume Dependence and Repeatability of Hyperpolarized 129Xe MRI Gas Uptake Metrics in Healthy Volunteers and Patients with COPD.  _Radiology: Cardiothoracic Imaging_. [(accepted)]()
 
