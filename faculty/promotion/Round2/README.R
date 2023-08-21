@@ -23,8 +23,7 @@ library( rmarkdown )
 # render( stitchedFile, output_format = "all" )
 
 soloFiles <- c(
-                "personalStatementSinglePage.Rmd",
-                "referees.Rmd"
+                "personalStatement.Rmd"
               )
 for( i in 1:length( soloFiles ) )
   {
