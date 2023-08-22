@@ -1,0 +1,223 @@
+---
+output:
+  pdf_document:
+    fig_caption: true
+    latex_engine: xelatex
+    keep_tex: yes
+header-includes:
+   - \usepackage{booktabs}
+   - \usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
+   - \linespread{1.05}
+   - \usepackage[compact]{titlesec}
+   - \usepackage{enumitem}
+   - \usepackage{tikz}
+   - \def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+   - \setlist{nolistsep}
+   - \titlespacing{\section}{2pt}{*0}{*0}
+   - \titlespacing{\subsection}{2pt}{*0}{*0}
+   - \titlespacing{\subsubsection}{2pt}{*0}{*0}
+   - \setlength{\parskip}{6pt}
+fontsize: 11pt
+mainfont: Arial
+geometry: margin=0.8in
+---
+
+<!--
+   - \setlength{\parskip}{3pt}
+   - \setlength{\topsep}{0pt}
+   - \setlength{\partopsep}{0pt}
+   - \setlength{\itemsep}{0pt}
+   - \setlength{\floatsep}{0pt}
+   - \setlength{\intextsep}{2pt}
+   - \setlength{\abovecaptionskip}{2pt}
+   - \setlength{\belowcaptionskip}{0pt}
+-->
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set( cache=TRUE )
+```
+
+\pagenumbering{gobble}
+
+__Nicholas J. Tustison, DSc__
+
+<!--
+-->
+
+_Describe engagement with learners in your mission area of excellence
+(clinical, research, education, community)._
+
+I am a co-founder and developer of the widely recognized open-source Advanced
+Normalization Tools Ecosystem (ANTsX) which allows me to simultaneously engage
+with learners and contribute to ongoing research.  This has led to significant
+opportunities for mentoring and teaching students, post-graduate trainees, and
+other researchers by providing numerous tutorials and workshops at various
+conferences and at different academic and scientific institutions.  I have also
+organized this tutorial material for online public access.  This is in addition
+to my daily participation in the ANTsX online user forums.
+
+_Give a brief self-evaluation regarding adherence to ASPIRE values. You should
+describe your contributions to at least one of the ASPIRE values
+(Accountability, Stewardship, Professionalism, Integrity, Respect, Equity)._
+
+My approach to research and collaboration is guided by a deep commitment to the
+development of high-quality, open-source computational strategies for biological
+and medical imaging.  I believe that such commitments create a supportive and
+inclusive environment where knowledge is shared, diverse perspectives are
+valued, and the quality of work is held to the highest standards.  Their
+importance has only increased since returning to the University of Virginia in
+2010 as an Assistant Professor and subsequently during my current tenure as an
+Associate Professor.  Since being promoted to associate professor, I have been
+>90% funded and it is projected that I will be 100% funded for FY 2024.  As
+illustrated below, funding has come from several collaborative sources,
+demonstrating my contribution to and benefit from my team science approach.
+
+
+<!--
+Dr. Matsumoto
+
+ You should provide a short explanation of how and for what the ANTsX tool is used and how its use has impacted any data/image analytics.
+3.       Talk about 2 or 3 of your most impactful publications and how the ANTsX tool contributed to the either of those papers.
+4.       Call out and make a note the % effort you have funded from extramural sources (e.g. 90% or 100%), especially for the past 3-4 years and including your projected level of 100% funding for FY 2024.
+5.       Explain who your top 3 or 4 collaborators are  and note a few of the key publications that have resulted from those collaborations.  It will be really important to talk about the results of your work rather than your philosophy about your approach to research and team sciences
+6.       I would eliminate your last paragraph and use that space for talking about the outcomes and/or results of your research.
+-->
+
+__Personal Statement__
+
+<!-- Sustained excellence in research -->
+
+I am one of the co-founders and main developers of the Advanced Normalization
+Tools Ecosystem (ANTsX)---a state-of-the-art, open-source library of software
+tools for image registration, segmentation, and other quantitative medical
+imaging functionality.  Over the course of its development, ANTsX has enabled
+hundreds of academic and industrial scientists to meet modern quantitative
+imaging needs with particular focus on issues in biomedical imaging. A broad
+range of ANTsX-based applications and published research sample the study of
+organisms from small animals to humans as well as target organ systems such as
+respiratory, cardiovascular, and nervous. This toolkit is used widely by
+multiple universities (e.g., Stanford University, Harvard University, University
+of California, Los Angeles), businesses (e.g., General Electric Research and
+Konica Minolta), and research institutions (e.g., the Child Mind Institute and
+the Allen Institute for Brain Science) around the world. ANTsX has been
+integrated into multiple, highly vetted workflows such as fMRIprep (Stanford
+University) and the Spinal Cord Toolbox (École Polytechnique de Montréal).
+Popular ANTsX pipelines, such as cortical thickness estimation, have been
+integrated into Docker containers and packaged as Brain Imaging Data Structures
+(BIDS) and FlyWheel applications (i.e., “gears”). It has also been independently
+ported for various platforms including Neurodebian (Debian OS), Neuroconductor
+(the R statistical project), and Nipype (Python).  Recently, the ANTsX team has
+leveraged development in the successful application of two explicitly ANTs-based
+NIH R01 grants.
+
+
+<!-- Scholarship and substantial record of publication -->
+
+ANTsX software tools that I have implemented with my co-developers are described
+by some of the most highly cited publications in the field.  Historically, ANTsX
+is rooted in advanced image registration techniques that date back to the
+earliest seminal work of pioneers in the field.  One of our early implementation
+papers describing the ANTsX open-source image registration tool has close to
+4000 citations alone:
+
+*	Avants BB, __Tustison NJ__, et al. A
+Reproducible Evaluation of ANTs Similarity Metric Performance in Brain Image
+Registration. Neuroimage, 54(3):2033–2044, February 2011.
+
+Given the reputation of ANTsX performance standards, I am frequently sought out
+for collaborations in a consulting or mentoring role, as attested by my list of
+publications and shared grants.  I have also provided evaluative comparison data
+for international competitions due ANTsX history of superb performance.  As
+recently as last year, I was asked to provide generated comparative image
+registration results for a long running image analysis challenge involving brain
+tumor data (MICCAI BraTS Registration Challenge).
+
+The most widely cited ANTsX paper is one that I wrote earlier in my career
+detailing the now extremely well-known "N4" bias correction algorithm which
+has close to 5000 citations with an increasing citation rate year-over-year.
+
+* __Tustison NJ__, et al.  N4ITK: Improved N3 Bias Correction. IEEE Trans Med
+Imaging, 29(6):1310–1320, June 2010.
+
+N4, an acronym for "Nick's nonparametric nonuniform intensity normalization," is
+an algorithm used to "clean" an image prior to computational processing and is
+considered by many to be a mandatory step for achieving good results.  It has
+been adopted within many standard image processing protocols, including those of
+"competing" packages, such as the widely used FreeSurfer software suite of
+Harvard University.
+
+More recently, ANTsX has been extended to complementary frameworks resulting in
+the Python- and R-based ANTsPy and ANTsR toolkits, respectively. These packages
+interface with extremely popular, high-level, open-source programming platforms
+which have significantly increased the user base of ANTs. The rapidly rising
+popularity of deep learning motivated further recent enhancement of ANTs and its
+extensions, specifically ANTsRNet and ANTsPyNet, dynamic Keras/TensorFlow-based
+library of popular deep learning architectures and applications specifically
+geared towards medical imaging detailed by a more recent, but highly cited
+publication:
+
+* __Nicholas J. Tustison__, et al. The ANTsX ecosystem for quantitative
+biological and medical imaging. Sci Rep. 11(1):9068, Apr 2021.
+
+Two sets of collaborations illustrate the utility and flexibilty of my work:
+
+_Traumatic Brain Injury._ With UVa collaborators James Stone and Brian Avants,
+we are engaged in ongoing research investigating chronic neurological changes in
+individuals repeatedly exposed to low-intensity blasts.   We have made major
+contributions to the community in the form of statistical methods and analysis
+of neuroimaging sequelae:
+
+*	James Stone, Brian Avants, __Nicholas Tustison__, et al. Functional and
+structural neuroimaging correlates of repetitive low-level blast exposure in
+career breachers.  J Neurotrauma, 37(23):2468-2481, Dec 2020.
+
+_Functional lung imaging via hyperpolarized gas._ UVa is internationally
+recognized for its innovation in functional lung imaging using hyperpolarized
+gas.  With technical and clinical collaborators such as John Mugler, Mike Shim,
+and Jaime Mata, I contribute to the overarching research goals in terms of
+algorithmic innovation for image quantitation and analysis.  In fact, the impact
+of my work has led to field-wide adoption of my open-source contributions
+(www.xenonanalysis.com).
+
+*	__Nicholas J. Tustison__, et al. Image- versus histogram-based considerations
+in semantic segmentation of pulmonary hyperpolarized gas images.  Magn Reson
+Med, 86(5):2822-2836, Nov 2021.
+
+<!-- National reputation -->
+<!-- Academic service -->
+
+<!--
+Throughout my academic career, I have benefited from caring mentors who have
+demonstrated excellent academic scholarship and integrity while promoting values
+of mutual respect.  As an example, I continue to benefit immensely from
+relationships developed during my initial post-graduate years at the PICSL lab,
+particularly those at the University of Pennsylvania in the Penn Image and
+Computing Science Laboratory under the direction of Dr. James C. Gee.  While at
+the University of Pennsylvania, my colleague, Dr. Brian B. Avants, and I
+co-founded the open-source Advanced Normalization Tools Ecosystem (ANTsX).
+One of the benefits of being a part of a premier research university are the
+many opportunities for collaboration with internationally recognized scientists
+targeting a variety of clinical applications.
+-->
+
+<!--
+In parallel with the appreciation I have for my many external opportunities for
+collaboration and mentoring, I am honored to be associated with the University
+of Virginia and feel extremely fortunate to work with its high quality faculty
+in exploring fascinating research questions.  I look forward to continuing my
+academic career at UVa where I can best provide the necessary expertise for
+biological and medical imaging data science.
+-->
+
+
+<!--
+Describe engagement with learners in your mission area of excellence (clinical,
+research, education, community).
+
+Give a brief self-evaluation regarding
+adherence to ASPIRE values. You should describe your contributions to at least
+one of the ASPIRE values (Accountability, Stewardship, Professionalism,
+Integrity, Respect, Equity).
+-->
+
