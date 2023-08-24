@@ -19,7 +19,7 @@ header-includes:
    - \setlength{\parskip}{6pt}
 fontsize: 11pt
 mainfont: Arial
-geometry: margin=0.8in
+geometry: margin=0.75in
 ---
 
 <!--
@@ -43,10 +43,9 @@ knitr::opts_chunk$set( cache=TRUE )
 __Nicholas J. Tustison, DSc__
 
 <!--
--->
-
 _Describe engagement with learners in your mission area of excellence
 (clinical, research, education, community)._
+-->
 
 I am a co-founder and developer of the widely recognized open-source Advanced
 Normalization Tools Ecosystem (ANTsX) which allows me to simultaneously engage
@@ -55,23 +54,26 @@ opportunities for mentoring and teaching students, post-graduate trainees, and
 other researchers by providing numerous tutorials and workshops at various
 conferences and at different academic and scientific institutions.  I have also
 organized this tutorial material for online public access.  This is in addition
-to my daily participation in the ANTsX online user forums.
+to my daily participation in the ANTsX online user forums which allows me to
+fulfill my passion for educating the learner.
 
+<!--
 _Give a brief self-evaluation regarding adherence to ASPIRE values. You should
 describe your contributions to at least one of the ASPIRE values
 (Accountability, Stewardship, Professionalism, Integrity, Respect, Equity)._
+-->
 
-My approach to research and collaboration is guided by a deep commitment to the
-development of high-quality, open-source computational strategies for biological
-and medical imaging.  I believe that such commitments create a supportive and
-inclusive environment where knowledge is shared, diverse perspectives are
-valued, and the quality of work is held to the highest standards.  Their
-importance has only increased since returning to the University of Virginia in
-2010 as an Assistant Professor and subsequently during my current tenure as an
-Associate Professor.  Since being promoted to associate professor, I have been
->90% funded and it is projected that I will be 100% funded for FY 2024.  As
-illustrated below, funding has come from several collaborative sources,
-demonstrating my contribution to and benefit from my team science approach.
+I adhere to and believe in the ASPIRE values. Indeed, my approach to research
+and collaboration is guided by a deep commitment to the development of
+high-quality, open-source computational strategies for biological and medical
+imaging.  I believe that such commitments create a supportive and inclusive
+environment where knowledge is shared, diverse perspectives are valued, and the
+quality of work is held to the highest standards. Since being promoted to
+associate professor, I have been >90% funded and it is projected that I will be
+100% funded for FY 2024.  Funding has come from several collaborative sources,
+demonstrating my contribution to and benefit from my academic approach where
+diverse perspectives are valued, team science and collaborative interactions are
+the norm, and the quality of work is held to the highest standards.
 
 
 <!--
@@ -160,7 +162,7 @@ publication:
 * __Nicholas J. Tustison__, et al. The ANTsX ecosystem for quantitative
 biological and medical imaging. Sci Rep. 11(1):9068, Apr 2021.
 
-Two sets of collaborations illustrate the utility and flexibilty of my work:
+Two sets of collaborations illustrate the utility and wide-applicability of my work:
 
 _Traumatic Brain Injury._ With UVa collaborators James Stone and Brian Avants,
 we are engaged in ongoing research investigating chronic neurological changes in
@@ -183,6 +185,20 @@ of my work has led to field-wide adoption of my open-source contributions
 *	__Nicholas J. Tustison__, et al. Image- versus histogram-based considerations
 in semantic segmentation of pulmonary hyperpolarized gas images.  Magn Reson
 Med, 86(5):2822-2836, Nov 2021.
+
+In terms of my academic service:
+
+* Since 2018, I have served as the Secretary of the Insight Software Consortium.
+This body provides direction and oversight of the Insight Toolkit.
+* I am one of the top contributors to the Insight Toolkit of the National
+Library of Medicine under the National Institute of Health where I contributed
+to software for image registration, segmentation, visualization, and other
+processing components.  I also provide user guidance on the discussion forums.
+* Given my expertise and academic reputation, I frequently review for various
+manuscripts and abstracts (average > 1 per month) for several highly reputable
+journals and conferences.
+
+
 
 <!-- National reputation -->
 <!-- Academic service -->
