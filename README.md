@@ -142,7 +142,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 97\. Jay Hegdé, __Nicholas J Tustison__, William T. Parker, Fallon B. Branch, Nathan Yanasak, and Lorie A. Stumpo. An Anatomical Template for the Normalization of Medical Images of Adult Human Hands. _Diagnostics_, 13(12):2010, Jun 2023.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37370905/)
 
-96\. Kun Qing, Talissa A. Altes, John P. Mugler III, Jaime F. Mata, __Nicholas, J. Tustison__, Kai Ruppert, Juliana Bueno, Lucia Flors, Y. Michael Shim, Li Zhao, Joanne Cassani, W. Gerald Teague, John S Kim, Zhixing Wang, Iulian C. Ruset, F. William Hersman, and Borna Mehrad. Hyperpolarized Xenon-129: A New Tool to Assess Pulmonary Physiology in Patients with Pulmonary Fibrosis. _Biomedicines_, 11(6):1533, May 2023.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37371626/)
+96\. Kun Qing, Talissa A. Altes, John P. Mugler III, Jaime F. Mata, __Nicholas J. Tustison__, Kai Ruppert, Juliana Bueno, Lucia Flors, Y. Michael Shim, Li Zhao, Joanne Cassani, W. Gerald Teague, John S Kim, Zhixing Wang, Iulian C. Ruset, F. William Hersman, and Borna Mehrad. Hyperpolarized Xenon-129: A New Tool to Assess Pulmonary Physiology in Patients with Pulmonary Fibrosis. _Biomedicines_, 11(6):1533, May 2023.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37371626/)
 
 95\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity. _Learning and Memory_, 30(3):55-62, Mar 2023. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36921982/)
 
