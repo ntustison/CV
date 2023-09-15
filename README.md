@@ -124,25 +124,27 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2023**
 
-104\. Brian Avants,  __Nicholas J Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
+105\. Chenxi Yuan, Jinhao Duan, __Nicholas J. Tustison, Kaidi Xu, Rebecca A Hubbard, and Kristin A Linn.  ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)
+
+104\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
 
 103\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
 
 102\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
 
-101\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, James C. Gee, James R. Stone, and and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
+101\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
-100\. Jay Hegdé, __Nicholas J Tustison__, William T. Parker, Fallon B. Branch, Nathan Yanasak, and Lorie A. Stumpo. An Anatomical Template for the Normalization of Medical Images of Adult Human Hands. _Diagnostics_.  [(accepted)]()
+100\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, James C. Gee, James R. Stone, and and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
 
-99\. Kun Qing, Talissa A. Altes, John P. Mugler III, Jaime F. Mata, __Nicholas, J. Tustison__, Kai Ruppert, Juliana Bueno, Lucia Flors, Y. Michael Shim, Li Zhao, Joanne Cassani, W. Gerald Teague, John S Kim, Zhixing Wang, Iulian C. Ruset, F. William Hersman, and Borna Mehrad. Hyperpolarized Xenon-129: A New Tool to Assess Pulmonary Physiology in Patients with Pulmonary Fibrosis. _Biomedicines_.  [(accepted)]()
+99\. William J. Garrison, Kun Qing, Mu He, Li Zhao, __Nicholas J. Tustison__, Jaime F. Mata, Y. Michael Shim, Alan M. Ropp, Talissa A. Altes, John P. Mugler III, and G. Wilson Miller. Lung Volume Dependence and Repeatability of Hyperpolarized 129Xe MRI Gas Uptake Metrics in Healthy Volunteers and Patients with COPD.  _Radiology: Cardiothoracic Imaging_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37404786/)
 
-98\. William J. Garrison, Kun Qing, Mu He, Li Zhao, __Nicholas J. Tustison__, Jaime F. Mata, Y. Michael Shim, Alan M. Ropp, Talissa A. Altes, John P. Mugler III, and G. Wilson Miller. Lung Volume Dependence and Repeatability of Hyperpolarized 129Xe MRI Gas Uptake Metrics in Healthy Volunteers and Patients with COPD.  _Radiology: Cardiothoracic Imaging_. [(accepted)]()
+98\. Batool Rizvi, Mithra T Sathishkumar, Soyun Kim, Freddie Márquez, Steven J. Granger, Myra S. Larson, Blake A. Miranda, Martina K. Hollearn, L. McMillan, B. Nan, __N. Tustison__, P. Lao, A. Brickman, Dana E. Greenia, M. Corrada, C. Kawas, and M. Yassa.  Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long-term memory in older adults. _Neuroimage Clinical_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36586358/)
 
-97\. Batool Rizvi, Mithra T Sathishkumar, Soyun Kim, Freddie Márquez, Steven J. Granger, Myra S. Larson, Blake A. Miranda, Martina K. Hollearn, L. McMillan, B. Nan, __N. Tustison__, P. Lao, A. Brickman, Dana E. Greenia, M. Corrada, C. Kawas, and M. Yassa.  Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long-term memory in older adults. _Neuroimage Clinical_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36586358/)
+97\. Jay Hegdé, __Nicholas J Tustison__, William T. Parker, Fallon B. Branch, Nathan Yanasak, and Lorie A. Stumpo. An Anatomical Template for the Normalization of Medical Images of Adult Human Hands. _Diagnostics_, 13(12):2010, Jun 2023.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37370905/)
 
-96\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity. _Learning and Memory_, 30(3):55-62, Mar 2023. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36921982/)
+96\. Kun Qing, Talissa A. Altes, John P. Mugler III, Jaime F. Mata, __Nicholas J. Tustison__, Kai Ruppert, Juliana Bueno, Lucia Flors, Y. Michael Shim, Li Zhao, Joanne Cassani, W. Gerald Teague, John S Kim, Zhixing Wang, Iulian C. Ruset, F. William Hersman, and Borna Mehrad. Hyperpolarized Xenon-129: A New Tool to Assess Pulmonary Physiology in Patients with Pulmonary Fibrosis. _Biomedicines_, 11(6):1533, May 2023.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37371626/)
 
-95\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+95\.  Adam Kimbler, Dana McMakin, __Nicholas J. Tustison__, and Aaron T. Mattfeld.  Differential effects of emotional valence on mnemonic performance with greater hippocampal maturity. _Learning and Memory_, 30(3):55-62, Mar 2023. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36921982/)
 
 **2022**
 
@@ -154,7 +156,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 91\. Stephen Guan, __Nick Tustison__, Kun Qing, Yun Michael Shim, John Mugler III, Talissa Altes, Dana Albon, Deborah Froh, Borna Mehrad, James Patrie, Alan Ropp, Braden Miller, Jill Nehrbas, Jaime Mata. 3D Single-Breath Chemical Shift Imaging Hyperpolarized Xe-129 MRI of Healthy, CF, IPF, and COPD Subjects. _Tomography_, 8(5), 2574-2587, Oct 2022. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36287814/)
 
-90\. Nazek Queder, Michael J. Phelan, Lisa Taylor, __Nicholas Tustison__, Eric Doran, Christy Hom, Dana Nguyen, Florence Lai, Margaret Pulsifer, Julie Price, William C. Kreisl, Diana H. Rosas, Sharon Krinsky-McHale, Adam Brickman, Michael A. Yassa, Nicole Schupf, Wayne Silverman, Ira T. Lott, and David B. Keator. Joint-label fusion brain atlases for dementia research in down syndrome. _Alzheimers Dement (Amst)_, 14(1):e12324, May 2022. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35634535/)
+90\. Nazek Queder, Michael J. Phelan, Lisa Taylor, __Nicholas Tustison__, Eric Doran, Christy Hom, Dana Nguyen, Florence Lai, Margaret Pulsifer, Julie Price, William C. Kreisl, Diana H. Rosas, Sharon Krinsky-McHale, Adam Brickman, Michael A. Yassa, Nicole Schupf, Wayne Silverman, Ira T. Lott, and David B. Keator. Joint-label fusion brain atlases for dementia research in Down syndrome. _Alzheimers Dement (Amst)_, 14(1):e12324, May 2022. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35634535/)
 
 89\. Andrew A. Chen, Joanne C. Beer, __Nicholas J. Tustison__, Philip A. Cook, Russell T. Shinohara, Haochang Shou, for the Alzheimer’s Disease Neuroimaging Initiative.  Mitigating Site Effects in Covariance for Machine Learning in Neuroimaging Data.  _Hum Brain Mapp_, 43(4):1179-1195, Mar 2022. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/34904312/)
 
