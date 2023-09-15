@@ -1,0 +1,280 @@
+---
+output:
+  pdf_document:
+    fig_caption: true
+    latex_engine: xelatex
+    keep_tex: yes
+header-includes:
+   - \usepackage{booktabs}
+   - \usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
+   - \linespread{1.1}
+   - \usepackage[compact]{titlesec}
+   - \usepackage{enumitem}
+   - \usepackage{tikz}
+   - \def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+   - \setlist{nolistsep}
+   - \titlespacing{\section}{2pt}{*0}{*0}
+   - \titlespacing{\subsection}{2pt}{*0}{*0}
+   - \titlespacing{\subsubsection}{2pt}{*0}{*0}
+   - \setlength{\parskip}{6pt}
+bibliography: references.bib
+csl: ieee-journal-of-biomedical-and-health-informatics.csl
+fontsize: 11pt
+mainfont: Arial
+geometry: margin=0.75in
+---
+
+<!--
+   - \setlength{\parskip}{3pt}
+   - \setlength{\topsep}{0pt}
+   - \setlength{\partopsep}{0pt}
+   - \setlength{\itemsep}{0pt}
+   - \setlength{\floatsep}{0pt}
+   - \setlength{\intextsep}{2pt}
+   - \setlength{\abovecaptionskip}{2pt}
+   - \setlength{\belowcaptionskip}{0pt}
+-->
+
+
+<style type="text/css">
+body,
+code.bash{
+  font-size: 8px;
+}
+pre {
+  font-size: 8px
+}
+</style>
+
+<!-- https://grants.nih.gov/grants/ElectronicReceipt/pdf_guidelines.htm -->
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set( cache=TRUE )
+```
+
+\pagenumbering{gobble}
+
+
+\begin{center}
+{\Large \bf Research Statement}
+
+{\em Nicholas J. Tustison}
+\end{center}
+
+As an interdisciplinary scientist with a comprehensive background in the field
+of biomedical imaging analytics, my research endeavors resonate with both the
+academic community at the University of Virginia and the wider scientific
+community. My primary focus lies in advancing our understanding of human systems
+through non-invasive approaches, employing cutting-edge quantitative imaging
+techniques. Specifically, my research centers on the development of robust
+computational tools tailored for extracting meaningful insights from complex
+imaging data. I also harness statistical methodologies to uncover intricate
+relationships between these imaging data and other pertinent biomarkers. One
+distinctive aspect of my research is its commitment to open science principles;
+in collaboration with fellow researchers, I ensure that all the tools and
+resources we develop are openly accessible as open-source contributions, thereby
+enhancing the transparency and reproducibility of our work.  Specific contributions
+are outlined below.
+
+## Open-source software development for medical image analysis
+
+### The Insight Segmentation and Registration Toolkit
+
+The Insight Segmentation and Registration Toolkit (ITK) is an open-source
+software library developed primarily by the National Library of Medicine (NLM)
+at the National Institutes of Health (NIH). Researchers and medical
+professionals use ITK as a quantitative tool in their work involving medical
+image analysis, computer-aided diagnosis, and other applications in the field of
+medical imaging. I currently play a significant role in ITK development and
+maintenance (and have been for almost two decades where I have been one of the
+most prolific contributors to the toolkit).  This includes refactoring and
+ongoing maintenance of the image registration framework.  My image registration
+expertise has led to numerous joint research efforts and requests for
+collaboration. Over the past year alone, this has resulted in multiple external
+collaborations, e.g., determination of the effects of treatment in brain
+structures in multiple sclerosis [@Song:2022aa], the development of standard
+image templates to facilitate dementia research in Down syndrome
+[@Queder:2022aa], construction of templates from human hand MRI [@Hegde:2023aa],
+and ongoing work with Yongsoo Kim and Fae Kronman (PSU) involving spatial
+mapping of mice data.  Also see the external funded grant "Methods for
+integrative analysis of modern data sources to advance understanding of
+Alzheimer’s Disease" (Kristin Linn, Univ. of Pennsylvania) and external pending
+grant "Development of Advanced Software Tools for Processing Multimodal Medical
+Images of Healthy and Diseased Adult Human Hands" (Jay Hegde, University of
+Augusta) as well as previous and current mentoring opportunities---cf.
+dissertation committee member for Sebastian Giudice (UVa), Jesse Birchfield
+(UCLA), and Daniel Brennan (CUNY).  
+
+Additionally, I facilitate the integration of my open-source contributions to
+other packages.  For example, I developed an algorithm for removing the low
+frequency inhomogeneity artifacts common to MR images---commonly referred to in
+the literature as "N4" or "Nick's nonparametric nonuniform intensity
+normalization (the corresponding journal article continues to be one of the most
+highly cited publications in the field with currently close to 5000 total
+citations with an increasing citation rate year-over-year and is also ranked in
+the top 10, in terms of total number of citations, for articles in IEEE
+Transactions on Medical Imaging, one of top-tier journals in the field).  Such
+major analytic packages (with sponsoring institution) includes: ANTsX
+(UPenn/UVa), SimpleITK (National Institutes of Health), Slicer (Harvard),
+FreeSurfer (Harvard), Nipype (MIT), fMRIPrep (Stanford University),
+Neuroconductor (Johns Hopkins University), MRtrix3 (The Florey Institute of
+Neuroscience and Mental Health), QSIPrep (University of Pennsylvania), and
+volBrain (Universidad Politécnica de Valencia/University of Bordeaux).  This
+particular method has also led to a recent collaborative research projects
+(e.g, [@Tu:2023aa]).
+
+### The ANTsX Ecosystem
+
+I am one of the co-founders and principal developers of the Advanced
+Normalization Tools Ecosystem (ANTsX).   Since its inception in 2006 with
+co-founder Brian Avants, ANTsX has empowered imaging scientists and engineers,
+both in academia and industry, to address contemporary challenges in
+quantitative biomedical imaging. During my tenure as associate professor, 
+the ANTsX team leveraged development for successful application of two 
+explicitly ANTs-based NIH R01 grants:
+
+> Title: ITK-Lung: A Software Framework for Lung Image Processing and Analysis  
+> Sponsor: NIH/Univ. of Penn  
+> Role:  Site-PI  
+> Dating:  6/1/2017-5/31/2021  
+
+> Title: Advanced Normalization Tools  
+> Sponsor: NIH/Univ. of Penn  
+> Role:  Site-PI  
+> Dating:  9/30/2022-6/30/2027  
+
+In addition to core algorithmic/methodological innovation, I do significant
+development for expanding the ANTs framework to other platforms for the 
+purposes of maximizing utility for a diverse research community.  This includes
+the development and maintenance of ANTsR (ANTs in the R Statistical Project)
+and ANTsPy (ANTs in Python). Additionally, these ANTs-based platforms
+have facilitated the current research direction of developing and integrating 
+deep learning techniques for biomedical image analysis.  Specifically, these 
+have led to the creation of the ANTsRNet and ANTsPyNet libraries for the R and 
+Python platforms which have allowed expansion even further into providing 
+state-of-the-art, high quality measurement tools for scientists.
+
+Collectively, the ANTs software ecosystem is referred to as ANTsX and is
+publicly available on GitHub (https://github.com/ANTsX/ANTs) where we address
+bugs, provide documentation, and otherwise engage with members of the community
+that use our tools.  Related, I participate in tutorials and workshops to
+provide a hands-on experience for ANTsX users (cf. the Invited Lectures and
+Symposium of CV).  Further discussion of the ANTsX ecosystem detailing
+functionality and additional evaluation is provided in a recent paper
+[@Tustison:2021aa] (attached as part of the portfolio).
+
+A sampling of specific workflows that are freely available as part of the ANTsX 
+toolkit include:
+
+* _Cortical thickness_.  First reported for cross-sectional data in
+[@Tustison:2014ab] (with over 600 citations), this framework was extended to
+longitudinal data in [@Tustison:2019aa] (attached as part of the portfolio).  To
+further enhance accuracy and performance, these pipelines were redesigned using
+deep learning techniques [@Tustison:2021aa].
+
+* _DeepFLASH_.  Collaborator Michael Yassa (Professor at the University of
+California, Irvine) runs a lab that is broadly interested in learning and memory
+and we collaborate on quantitative
+measurements involving the hippocampus [@Reagh:2018aa].  We recently developed a network,
+_DeepFLASH_, for parcellation of the medial temporal lobe, including the
+hippocampus and its subfields and extra-hippocampal regions.  Current efforts
+include large-scale processing and evaluation (UK Biobank, ~50,000 subjects
+[@Tustison:2023aa]) and Parkinson's imaging research (with longtime
+collaborator, Brian Avants).  
+
+* _Cerebellum morphology_.  Recent work in Parkinson's disease research with
+Brian Avants resulted in a cerebellum morphological quantitative pipeline for
+generating associated image-derived phenotypes (IDPs).  Given the unique
+capabilities of ANTsX, these cerebelluar IDPs comprise both regional volumes and
+cortical thickness based on the Schmahmann atlas for cerebellar
+sub-segmentation.  This is ongoing work also involving the UK Biobank
+[@Tustison:2023aa].
+
+## Traumatic brain injury
+
+With UVa collaborators James Stone and Brian Avants, we are engaged in ongoing
+research investigating chronic neurological changes in individuals repeatedly
+exposed to low-intensity blasts, most notably in military personnel.  We have
+been particularly engaged in the development of statistical techniques for
+transforming the large quantities of information associated with image data to
+interpretable, low-dimensional spaces.  Recently, our joint efforts have
+resulted in a powerful technique called similarity-driven multi-view linear
+reconstruction (SiMLR) [@Avants:2021aa].  Recent findings have leveraged SiMLR
+to characterize the relationship between repetitive low-level blast exposure and 
+behavioral and imaging differences in humans [@Stone:2020aa].  Related funding
+includes the following:
+
+> Title: Interpretable, subject specific-mapping of neurological health in the performance setting  
+> Sponsor: DOD/ONR  
+> Role:  Co-I  
+> Dating:  4/1/2023-3/31/2025  
+
+> Title: Elucidating the role of increased neuroinflammation and related structural and functional neurological sequelae after exposure to repetitive blast  
+> Sponsor: CDMRP  
+> Role:  Co-I  
+> Dating:  9/30/2022-9/29/2026  
+
+Our expertise in imaging analytics in the context of traumatic brain injury is 
+well-known which has led to external collaborations (e.g., [@Bigler:2019aa]) and 
+funding opportunities:
+
+> Title: Personalized Profiles of Pathology in Pediatric Traumatic Brain Injury  
+> Sponsor: NIH/Univ. of Utah  
+> Role:  Co-I  
+> Dating:  1/1/2022-9/30/2026  
+
+> Title: Advanced Neuroimaging Analyses for LIMBIC-CENC  
+> Sponsor: Veterans Health Admin/Univ. of Utah  
+> Role:  Co-I  
+> Dating:  3/22/2023-3/21/2024  
+
+## Functional lung imaging via hyperpolarized gas
+
+Although most of my application research involves neuroimaging, I have a longer
+history with the functional lung imaging research group at UVa.  Current UVa
+collaborators include Jaime Mata, John Mugler, and Y. Michael Shim. My role is
+the development of quantitative techniques for these innovative image techniques
+and have been working on this for over a decade 
+[@Tustison:2010aa;@Tustison:2010ab;@Tustison:2011aa] and are applied by in our
+clinical studies (recent studies within the past 2 years include 
+[@Qing:2023aa;@Myc:2021aa;@Mata:2021aa;@He:2021aa;@Garrison:2023aa]).  
+
+More recently, I have
+leveraged deep learning techniques for an updated approach to quantification
+[@Tustison:2019ac;@Tustison:2021ab].  These approaches have been made publicly
+available through the ANTsX ecosystem and this work has led to more wide-scale
+adoption of these techniques (http://www.xenonanalysis.com).  Several ongoing
+and pending grants include:
+
+> Title: Sexual dimorphism in susceptibility to emphysematous tissue injury  
+> Sponsor: NIH  
+> Role:  Co-I  
+> Dating:  7/1/2023-6/30/2027    
+
+> Title: Pilot Study to Determine Health Effects of e-cigarette in Healthy Young Adults  
+> Sponsor: NIH  
+> Role:  Co-I  
+> Dating:  8/20/2020-1/30/2024    
+
+> Title: Developing Hyperpolarized Gas MRI signatures to detect and manage acute cellular rejection    
+> Sponsor: NIH  
+> Role:  Co-I  
+> Dating:  4/1/2024-3/1/2029    
+
+> Title: Multi-omic Characterization of COPD in Females  
+> Sponsor: NIH  
+> Role:  Co-I/Penn State Univ.  
+> Dating:  4/1/2024-3/31/2028   
+
+# Scholarship
+
+See the cited journal articles in the References section.
+
+# Service
+
+Current
+
+* BRATS registration competition
+
+# References

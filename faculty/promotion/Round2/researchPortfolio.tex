@@ -1,0 +1,547 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+  11pt,
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+  \setmainfont[]{Arial}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=0.75in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{booktabs}
+\usepackage[font={small},labelfont=bf,labelsep=colon]{caption}
+\linespread{1.1}
+\usepackage[compact]{titlesec}
+\usepackage{enumitem}
+\usepackage{tikz}
+\def\checkmark{\tikz\fill[scale=0.4](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle;}
+\setlist{nolistsep}
+\titlespacing{\section}{2pt}{*0}{*0}
+\titlespacing{\subsection}{2pt}{*0}{*0}
+\titlespacing{\subsubsection}{2pt}{*0}{*0}
+\setlength{\parskip}{6pt}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1 \everypar{\setlength{\hangindent}{\cslhangindent}}\ignorespaces\fi
+  % set entry spacing
+  \ifnum #2 > 0
+  \setlength{\parskip}{#2\baselineskip}
+  \fi
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+
+\pagenumbering{gobble}
+
+\begin{center}
+{\Large \bf Research Statement}
+
+{\em Nicholas J. Tustison}
+\end{center}
+
+As an interdisciplinary scientist with a comprehensive background in the
+field of biomedical imaging analytics, my research endeavors resonate
+with both the academic community at the University of Virginia and the
+wider scientific community. My primary focus lies in advancing our
+understanding of human systems through non-invasive approaches,
+employing cutting-edge quantitative imaging techniques. Specifically, my
+research centers on the development of robust computational tools
+tailored for extracting meaningful insights from complex imaging data. I
+also harness statistical methodologies to uncover intricate
+relationships between these imaging data and other pertinent biomarkers.
+One distinctive aspect of my research is its commitment to open science
+principles; in collaboration with fellow researchers, I ensure that all
+the tools and resources we develop are openly accessible as open-source
+contributions, thereby enhancing the transparency and reproducibility of
+our work. Specific contributions are outlined below.
+
+\hypertarget{open-source-software-development-for-medical-image-analysis}{%
+\subsection{Open-source software development for medical image
+analysis}\label{open-source-software-development-for-medical-image-analysis}}
+
+\hypertarget{the-insight-segmentation-and-registration-toolkit}{%
+\subsubsection{The Insight Segmentation and Registration
+Toolkit}\label{the-insight-segmentation-and-registration-toolkit}}
+
+The Insight Segmentation and Registration Toolkit (ITK) is an
+open-source software library developed primarily by the National Library
+of Medicine (NLM) at the National Institutes of Health (NIH).
+Researchers and medical professionals use ITK as a quantitative tool in
+their work involving medical image analysis, computer-aided diagnosis,
+and other applications in the field of medical imaging. I currently play
+a significant role in ITK development and maintenance (and have been for
+almost two decades where I have been one of the most prolific
+contributors to the toolkit). This includes refactoring and ongoing
+maintenance of the image registration framework. My image registration
+expertise has led to numerous joint research efforts and requests for
+collaboration. Over the past year alone, this has resulted in multiple
+external collaborations, e.g., determination of the effects of treatment
+in brain structures in multiple sclerosis {[}1{]}, the development of
+standard image templates to facilitate dementia research in Down
+syndrome {[}2{]}, construction of templates from human hand MRI {[}3{]},
+and ongoing work with Yongsoo Kim and Fae Kronman (PSU) involving
+spatial mapping of mice data. Also see the external funded grant
+``Methods for integrative analysis of modern data sources to advance
+understanding of Alzheimer's Disease'' (Kristin Linn, Univ. of
+Pennsylvania) and external pending grant ``Development of Advanced
+Software Tools for Processing Multimodal Medical Images of Healthy and
+Diseased Adult Human Hands'' (Jay Hegde, University of Augusta) as well
+as previous and current mentoring opportunities---cf. dissertation
+committee member for Sebastian Giudice (UVa), Jesse Birchfield (UCLA),
+and Daniel Brennan (CUNY).
+
+Additionally, I facilitate the integration of my open-source
+contributions to other packages. For example, I developed an algorithm
+for removing the low frequency inhomogeneity artifacts common to MR
+images---commonly referred to in the literature as ``N4'' or "Nick's
+nonparametric nonuniform intensity normalization (the corresponding
+journal article continues to be one of the most highly cited
+publications in the field with currently close to 5000 total citations
+with an increasing citation rate year-over-year and is also ranked in
+the top 10, in terms of total number of citations, for articles in IEEE
+Transactions on Medical Imaging, one of top-tier journals in the field).
+Such major analytic packages (with sponsoring institution) includes:
+ANTsX (UPenn/UVa), SimpleITK (National Institutes of Health), Slicer
+(Harvard), FreeSurfer (Harvard), Nipype (MIT), fMRIPrep (Stanford
+University), Neuroconductor (Johns Hopkins University), MRtrix3 (The
+Florey Institute of Neuroscience and Mental Health), QSIPrep (University
+of Pennsylvania), and volBrain (Universidad Politécnica de
+Valencia/University of Bordeaux). This particular method has also led to
+a recent collaborative research projects (e.g, {[}4{]}).
+
+\hypertarget{the-antsx-ecosystem}{%
+\subsubsection{The ANTsX Ecosystem}\label{the-antsx-ecosystem}}
+
+I am one of the co-founders and principal developers of the Advanced
+Normalization Tools Ecosystem (ANTsX). Since its inception in 2006 with
+co-founder Brian Avants, ANTsX has empowered imaging scientists and
+engineers, both in academia and industry, to address contemporary
+challenges in quantitative biomedical imaging. During my tenure as
+associate professor, the ANTsX team leveraged development for successful
+application of two explicitly ANTs-based NIH R01 grants:
+
+\begin{quote}
+Title: ITK-Lung: A Software Framework for Lung Image Processing and
+Analysis\\
+Sponsor: NIH/Univ. of Penn\\
+Role: Site-PI\\
+Dating: 6/1/2017-5/31/2021
+\end{quote}
+
+\begin{quote}
+Title: Advanced Normalization Tools\\
+Sponsor: NIH/Univ. of Penn\\
+Role: Site-PI\\
+Dating: 9/30/2022-6/30/2027
+\end{quote}
+
+In addition to core algorithmic/methodological innovation, I do
+significant development for expanding the ANTs framework to other
+platforms for the purposes of maximizing utility for a diverse research
+community. This includes the development and maintenance of ANTsR (ANTs
+in the R Statistical Project) and ANTsPy (ANTs in Python). Additionally,
+these ANTs-based platforms have facilitated the current research
+direction of developing and integrating deep learning techniques for
+biomedical image analysis. Specifically, these have led to the creation
+of the ANTsRNet and ANTsPyNet libraries for the R and Python platforms
+which have allowed expansion even further into providing
+state-of-the-art, high quality measurement tools for scientists.
+
+Collectively, the ANTs software ecosystem is referred to as ANTsX and is
+publicly available on GitHub (\url{https://github.com/ANTsX/ANTs}) where
+we address bugs, provide documentation, and otherwise engage with
+members of the community that use our tools. Related, I participate in
+tutorials and workshops to provide a hands-on experience for ANTsX users
+(cf.~the Invited Lectures and Symposium of CV). Further discussion of
+the ANTsX ecosystem detailing functionality and additional evaluation is
+provided in a recent paper {[}5{]} (attached as part of the portfolio).
+
+A sampling of specific workflows that are freely available as part of
+the ANTsX toolkit include:
+
+\begin{itemize}
+\item
+  \emph{Cortical thickness}. First reported for cross-sectional data in
+  {[}6{]} (with over 600 citations), this framework was extended to
+  longitudinal data in {[}7{]} (attached as part of the portfolio). To
+  further enhance accuracy and performance, these pipelines were
+  redesigned using deep learning techniques {[}5{]}.
+\item
+  \emph{DeepFLASH}. Collaborator Michael Yassa (Professor at the
+  University of California, Irvine) runs a lab that is broadly
+  interested in learning and memory and we collaborate on quantitative
+  measurements involving the hippocampus {[}8{]}. We recently developed
+  a network, \emph{DeepFLASH}, for parcellation of the medial temporal
+  lobe, including the hippocampus and its subfields and
+  extra-hippocampal regions. Current efforts include large-scale
+  processing and evaluation (UK Biobank, \textasciitilde50,000 subjects
+  {[}9{]}) and Parkinson's imaging research (with longtime collaborator,
+  Brian Avants).
+\item
+  \emph{Cerebellum morphology}. Recent work in Parkinson's disease
+  research with Brian Avants resulted in a cerebellum morphological
+  quantitative pipeline for generating associated image-derived
+  phenotypes (IDPs). Given the unique capabilities of ANTsX, these
+  cerebelluar IDPs comprise both regional volumes and cortical thickness
+  based on the Schmahmann atlas for cerebellar sub-segmentation. This is
+  ongoing work also involving the UK Biobank {[}9{]}.
+\end{itemize}
+
+\hypertarget{traumatic-brain-injury}{%
+\subsection{Traumatic brain injury}\label{traumatic-brain-injury}}
+
+With UVa collaborators James Stone and Brian Avants, we are engaged in
+ongoing research investigating chronic neurological changes in
+individuals repeatedly exposed to low-intensity blasts, most notably in
+military personnel. We have been particularly engaged in the development
+of statistical techniques for transforming the large quantities of
+information associated with image data to interpretable, low-dimensional
+spaces. Recently, our joint efforts have resulted in a powerful
+technique called similarity-driven multi-view linear reconstruction
+(SiMLR) {[}10{]}. Recent findings have leveraged SiMLR to characterize
+the relationship between repetitive low-level blast exposure and
+behavioral and imaging differences in humans {[}11{]}. Related funding
+includes the following:
+
+\begin{quote}
+Title: Interpretable, subject specific-mapping of neurological health in
+the performance setting\\
+Sponsor: DOD/ONR\\
+Role: Co-I\\
+Dating: 4/1/2023-3/31/2025
+\end{quote}
+
+\begin{quote}
+Title: Elucidating the role of increased neuroinflammation and related
+structural and functional neurological sequelae after exposure to
+repetitive blast\\
+Sponsor: CDMRP\\
+Role: Co-I\\
+Dating: 9/30/2022-9/29/2026
+\end{quote}
+
+Our expertise in imaging analytics in the context of traumatic brain
+injury is well-known which has led to external collaborations (e.g.,
+{[}12{]}) and funding opportunities:
+
+\begin{quote}
+Title: Personalized Profiles of Pathology in Pediatric Traumatic Brain
+Injury\\
+Sponsor: NIH/Univ. of Utah\\
+Role: Co-I\\
+Dating: 1/1/2022-9/30/2026
+\end{quote}
+
+\begin{quote}
+Title: Advanced Neuroimaging Analyses for LIMBIC-CENC\\
+Sponsor: Veterans Health Admin/Univ. of Utah\\
+Role: Co-I\\
+Dating: 3/22/2023-3/21/2024
+\end{quote}
+
+\hypertarget{functional-lung-imaging-via-hyperpolarized-gas}{%
+\subsection{Functional lung imaging via hyperpolarized
+gas}\label{functional-lung-imaging-via-hyperpolarized-gas}}
+
+Although most of my application research involves neuroimaging, I have a
+longer history with the functional lung imaging research group at UVa.
+Current UVa collaborators include Jaime Mata, John Mugler, and Y.
+Michael Shim. My role is the development of quantitative techniques for
+these innovative image techniques and have been working on this for over
+a decade {[}13{]}--{[}15{]} and are applied by in our clinical studies
+(recent studies within the past 2 years include {[}16{]}--{[}20{]}).
+
+More recently, I have leveraged deep learning techniques for an updated
+approach to quantification {[}21{]}, {[}22{]}. These approaches have
+been made publicly available through the ANTsX ecosystem and this work
+has led to more wide-scale adoption of these techniques
+(\url{http://www.xenonanalysis.com}). Several ongoing and pending grants
+include:
+
+\begin{quote}
+Title: Sexual dimorphism in susceptibility to emphysematous tissue
+injury\\
+Sponsor: NIH\\
+Role: Co-I\\
+Dating: 7/1/2023-6/30/2027
+\end{quote}
+
+\begin{quote}
+Title: Pilot Study to Determine Health Effects of e-cigarette in Healthy
+Young Adults\\
+Sponsor: NIH\\
+Role: Co-I\\
+Dating: 8/20/2020-1/30/2024
+\end{quote}
+
+\begin{quote}
+Title: Developing Hyperpolarized Gas MRI signatures to detect and manage
+acute cellular rejection\\
+Sponsor: NIH\\
+Role: Co-I\\
+Dating: 4/1/2024-3/1/2029
+\end{quote}
+
+\begin{quote}
+Title: Multi-omic Characterization of COPD in Females\\
+Sponsor: NIH\\
+Role: Co-I/Penn State Univ.\\
+Dating: 4/1/2024-3/31/2028
+\end{quote}
+
+\hypertarget{scholarship}{%
+\section{Scholarship}\label{scholarship}}
+
+\hypertarget{service}{%
+\section{Service}\label{service}}
+
+\begin{itemize}
+\tightlist
+\item
+  BRATS registration competition
+\end{itemize}
+
+\hypertarget{references}{%
+\section*{References}\label{references}}
+\addcontentsline{toc}{section}{References}
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{0}{0}
+\leavevmode\vadjust pre{\hypertarget{ref-Song:2022aa}{}}%
+\CSLLeftMargin{{[}1{]} }
+\CSLRightInline{Z. Song \emph{et al.}, {``Deformation-based morphometry
+identifies deep brain structures protected by ocrelizumab,''}
+\emph{Neuroimage Clin}, vol. 34, p. 102959, 2022, doi:
+\href{https://doi.org/10.1016/j.nicl.2022.102959}{10.1016/j.nicl.2022.102959}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Queder:2022aa}{}}%
+\CSLLeftMargin{{[}2{]} }
+\CSLRightInline{N. Queder \emph{et al.}, {``Joint-label fusion brain
+atlases for dementia research in down syndrome,''} \emph{Alzheimers
+Dement (Amst)}, vol. 14, no. 1, p. e12324, 2022, doi:
+\href{https://doi.org/10.1002/dad2.12324}{10.1002/dad2.12324}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Hegde:2023aa}{}}%
+\CSLLeftMargin{{[}3{]} }
+\CSLRightInline{J. Hegdé, N. J. Tustison, W. T. Parker, F. Branch, N.
+Yanasak, and L. A. Stumpo, {``An anatomical template for the
+normalization of medical images of adult human hands,''}
+\emph{Diagnostics (Basel)}, vol. 13, no. 12, Jun. 2023, doi:
+\href{https://doi.org/10.3390/diagnostics13122010}{10.3390/diagnostics13122010}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tu:2023aa}{}}%
+\CSLLeftMargin{{[}4{]} }
+\CSLRightInline{D. Tu \emph{et al.}, {``Automated analysis of low-field
+brain MRI in cerebral malaria,''} \emph{Biometrics}, vol. 79, no. 3, pp.
+2417--2429, Sep. 2023, doi:
+\href{https://doi.org/10.1111/biom.13708}{10.1111/biom.13708}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2021aa}{}}%
+\CSLLeftMargin{{[}5{]} }
+\CSLRightInline{N. J. Tustison \emph{et al.}, {``The ANTsX ecosystem for
+quantitative biological and medical imaging,''} \emph{Sci Rep}, vol. 11,
+no. 1, p. 9068, Apr. 2021, doi:
+\href{https://doi.org/10.1038/s41598-021-87564-6}{10.1038/s41598-021-87564-6}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2014ab}{}}%
+\CSLLeftMargin{{[}6{]} }
+\CSLRightInline{N. J. Tustison \emph{et al.}, {``Large-scale evaluation
+of {ANTs} and {FreeSurfer} cortical thickness measurements,''}
+\emph{Neuroimage}, vol. 99, pp. 166--79, Oct. 2014, doi:
+\href{https://doi.org/10.1016/j.neuroimage.2014.05.044}{10.1016/j.neuroimage.2014.05.044}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2019aa}{}}%
+\CSLLeftMargin{{[}7{]} }
+\CSLRightInline{N. J. Tustison \emph{et al.}, {``Longitudinal mapping of
+cortical thickness measurements: An {A}lzheimer's {D}isease
+{N}euroimaging {I}nitiative-based evaluation study,''} \emph{J
+Alzheimers Dis}, Jul. 2019, doi:
+\href{https://doi.org/10.3233/JAD-190283}{10.3233/JAD-190283}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Reagh:2018aa}{}}%
+\CSLLeftMargin{{[}8{]} }
+\CSLRightInline{Z. M. Reagh, J. A. Noche, N. J. Tustison, D. Delisle, E.
+A. Murray, and M. A. Yassa, {``Functional imbalance of anterolateral
+entorhinal cortex and hippocampal dentate/CA3 underlies age-related
+object pattern separation deficits,''} \emph{Neuron}, vol. 97, no. 5,
+pp. 1187--1198.e4, Mar. 2018, doi:
+\href{https://doi.org/10.1016/j.neuron.2018.01.039}{10.1016/j.neuron.2018.01.039}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2023aa}{}}%
+\CSLLeftMargin{{[}9{]} }
+\CSLRightInline{N. J. Tustison \emph{et al.}, {``ANTsX
+neuroimaging-derived structural phenotypes of UK biobank,''}
+\emph{medRxiv}, 2023, doi:
+\href{https://doi.org/10.1101/2023.01.17.23284693}{10.1101/2023.01.17.23284693}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Avants:2021aa}{}}%
+\CSLLeftMargin{{[}10{]} }
+\CSLRightInline{B. B. Avants, N. J. Tustison, and J. R. Stone,
+{``Similarity-driven multi-view embeddings from high-dimensional
+biomedical data,''} \emph{Nat Comput Sci}, vol. 1, no. 2, pp. 143--152,
+Feb. 2021, doi:
+\href{https://doi.org/10.1038/s43588-021-00029-8}{10.1038/s43588-021-00029-8}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Stone:2020aa}{}}%
+\CSLLeftMargin{{[}11{]} }
+\CSLRightInline{J. R. Stone \emph{et al.}, {``Functional and structural
+neuroimaging correlates of repetitive low-level blast exposure in career
+breachers,''} \emph{J Neurotrauma}, vol. 37, no. 23, pp. 2468--2481,
+Dec. 2020, doi:
+\href{https://doi.org/10.1089/neu.2020.7141}{10.1089/neu.2020.7141}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Bigler:2019aa}{}}%
+\CSLLeftMargin{{[}12{]} }
+\CSLRightInline{E. D. Bigler \emph{et al.}, {``Structural neuroimaging
+in mild traumatic brain injury: A chronic effects of neurotrauma
+consortium study,''} \emph{Int J Methods Psychiatr Res}, vol. 28, no. 3,
+p. e1781, Sep. 2019, doi:
+\href{https://doi.org/10.1002/mpr.1781}{10.1002/mpr.1781}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2010aa}{}}%
+\CSLLeftMargin{{[}13{]} }
+\CSLRightInline{N. J. Tustison \emph{et al.}, {``Pulmonary kinematics
+from tagged hyperpolarized helium-3 MRI,''} \emph{J Magn Reson Imaging},
+vol. 31, no. 5, pp. 1236--41, May 2010, doi:
+\href{https://doi.org/10.1002/jmri.22137}{10.1002/jmri.22137}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2010ab}{}}%
+\CSLLeftMargin{{[}14{]} }
+\CSLRightInline{N. J. Tustison, T. A. Altes, G. Song, E. E. de Lange, J.
+P. Mugler 3rd, and J. C. Gee, {``Feature analysis of hyperpolarized
+helium-3 pulmonary MRI: A study of asthmatics versus nonasthmatics,''}
+\emph{Magn Reson Med}, vol. 63, no. 6, pp. 1448--55, Jun. 2010, doi:
+\href{https://doi.org/10.1002/mrm.22390}{10.1002/mrm.22390}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2011aa}{}}%
+\CSLLeftMargin{{[}15{]} }
+\CSLRightInline{N. J. Tustison \emph{et al.}, {``Ventilation-based
+segmentation of the lungs using hyperpolarized (3)he MRI,''} \emph{J
+Magn Reson Imaging}, vol. 34, no. 4, pp. 831--41, Oct. 2011, doi:
+\href{https://doi.org/10.1002/jmri.22738}{10.1002/jmri.22738}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Qing:2023aa}{}}%
+\CSLLeftMargin{{[}16{]} }
+\CSLRightInline{K. Qing \emph{et al.}, {``Hyperpolarized xenon-129: A
+new tool to assess pulmonary physiology in patients with pulmonary
+fibrosis,''} \emph{Biomedicines}, vol. 11, no. 6, May 2023, doi:
+\href{https://doi.org/10.3390/biomedicines11061533}{10.3390/biomedicines11061533}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Myc:2021aa}{}}%
+\CSLLeftMargin{{[}17{]} }
+\CSLRightInline{L. Myc \emph{et al.}, {``Characterisation of gas
+exchange in COPD with dissolved-phase hyperpolarised xenon-129 MRI,''}
+\emph{Thorax}, vol. 76, no. 2, pp. 178--181, Feb. 2021, doi:
+\href{https://doi.org/10.1136/thoraxjnl-2020-214924}{10.1136/thoraxjnl-2020-214924}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Mata:2021aa}{}}%
+\CSLLeftMargin{{[}18{]} }
+\CSLRightInline{J. Mata \emph{et al.}, {``Evaluation of regional lung
+function in pulmonary fibrosis with xenon-129 MRI,''} \emph{Tomography},
+vol. 7, no. 3, pp. 452--465, Sep. 2021, doi:
+\href{https://doi.org/10.3390/tomography7030039}{10.3390/tomography7030039}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-He:2021aa}{}}%
+\CSLLeftMargin{{[}19{]} }
+\CSLRightInline{M. He \emph{et al.}, {``Characterizing gas exchange
+physiology in healthy young electronic-cigarette users with
+hyperpolarized 129Xe MRI: A pilot study,''} \emph{Int J Chron Obstruct
+Pulmon Dis}, vol. 16, pp. 3183--3187, 2021, doi:
+\href{https://doi.org/10.2147/COPD.S324388}{10.2147/COPD.S324388}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Garrison:2023aa}{}}%
+\CSLLeftMargin{{[}20{]} }
+\CSLRightInline{W. J. Garrison \emph{et al.}, {``Lung volume dependence
+and repeatability of hyperpolarized 129Xe MRI gas uptake metrics in
+healthy volunteers and participants with COPD,''} \emph{Radiol
+Cardiothorac Imaging}, vol. 5, no. 3, p. e220096, Jun. 2023, doi:
+\href{https://doi.org/10.1148/ryct.220096}{10.1148/ryct.220096}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2019ac}{}}%
+\CSLLeftMargin{{[}21{]} }
+\CSLRightInline{N. J. Tustison \emph{et al.}, {``Convolutional neural
+networks with template-based data augmentation for functional lung image
+quantification,''} \emph{Acad Radiol}, vol. 26, no. 3, pp. 412--423,
+Mar. 2019, doi:
+\href{https://doi.org/10.1016/j.acra.2018.08.003}{10.1016/j.acra.2018.08.003}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Tustison:2021ab}{}}%
+\CSLLeftMargin{{[}22{]} }
+\CSLRightInline{N. J. Tustison \emph{et al.}, {``Image- versus
+histogram-based considerations in semantic segmentation of pulmonary
+hyperpolarized gas images,''} \emph{Magn Reson Med}, vol. 86, no. 5, pp.
+2822--2836, Nov. 2021, doi:
+\href{https://doi.org/10.1002/mrm.28908}{10.1002/mrm.28908}.}
+
+\end{CSLReferences}
+
+\end{document}
