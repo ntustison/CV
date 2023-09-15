@@ -273,8 +273,17 @@ See the cited journal articles in the References section.
 
 # Service
 
-Current
+Insight Software Consortium Council, Secretary, 2018-present. This body
+determines policy and direction of the Insight Registration and Segmentation
+Toolkit.
 
-* BRATS registration competition
+SPIE Medical Imaging Conference Program Committee, 2012-2023. I participated in
+paper review and acceptance processes as well as speaker selection.  I was also
+responsible for conducting conference sessions.
+
+Frontiers Topic Editor:  Neuroinformatics with the Insight Toolkit, 2014-2015.
+With co-editors Brian Avants and Hans Johnson, we organized a special issue of
+Frontiers: Neuroinformatics to feature recent contributions to the Insight
+Toolkit including our own image registration refactoring.
 
 # References
