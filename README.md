@@ -124,21 +124,23 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2023**
 
-105\. Chenxi Yuan, Jinhao Duan, __Nicholas J. Tustison, Kaidi Xu, Rebecca A Hubbard, and Kristin A Linn.  ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)
+106\. Chenxi Yuan, Jinhao Duan, __Nicholas J. Tustison, Kaidi Xu, Rebecca A Hubbard, and Kristin A Linn.  ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)
 
-104\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
+105\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
 
-103\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
+104\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
 
-102\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
+103\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
 
-101\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+102\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
-100\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, James C. Gee, James R. Stone, and and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
+101\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
 
-99\. William J. Garrison, Kun Qing, Mu He, Li Zhao, __Nicholas J. Tustison__, Jaime F. Mata, Y. Michael Shim, Alan M. Ropp, Talissa A. Altes, John P. Mugler III, and G. Wilson Miller. Lung Volume Dependence and Repeatability of Hyperpolarized 129Xe MRI Gas Uptake Metrics in Healthy Volunteers and Patients with COPD.  _Radiology: Cardiothoracic Imaging_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37404786/)
+100\. James R. Stone, Brian B. Avants, __Nicholas J. Tustison__, Jessica Gill, Elisabeth A. Wilde, George E. Wahlen, Kiel D. Neumann, Leslie A. Gladney, Madison O. Kilgore, F. Bowling, Christopher M. Wilson, John F. Detro, Heather G. Belanger, Katryna Deary, Hans Linsenbardt, and Stephen T. Ahlers. _Journal of Neurotrauma_.  [Accepted]()
 
-98\. Batool Rizvi, Mithra T Sathishkumar, Soyun Kim, Freddie Márquez, Steven J. Granger, Myra S. Larson, Blake A. Miranda, Martina K. Hollearn, L. McMillan, B. Nan, __N. Tustison__, P. Lao, A. Brickman, Dana E. Greenia, M. Corrada, C. Kawas, and M. Yassa.  Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long-term memory in older adults. _Neuroimage Clinical_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36586358/)
+99\. William J. Garrison, Kun Qing, Mu He, Li Zhao, __Nicholas J. Tustison__, Jaime F. Mata, Y. Michael Shim, Alan M. Ropp, Talissa A. Altes, John P. Mugler III, and G. Wilson Miller. Lung Volume Dependence and Repeatability of Hyperpolarized 129Xe MRI Gas Uptake Metrics in Healthy Volunteers and Patients with COPD.  _Radiology: Cardiothoracic Imaging_, 5(3):e220096, Jun 2023. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37404786/)
+
+98\. Batool Rizvi, Mithra T Sathishkumar, Soyun Kim, Freddie Márquez, Steven J. Granger, Myra S. Larson, Blake A. Miranda, Martina K. Hollearn, L. McMillan, B. Nan, __N. Tustison__, P. Lao, A. Brickman, Dana E. Greenia, M. Corrada, C. Kawas, and M. Yassa.  Posterior white matter hyperintensities are associated with reduced medial temporal lobe subregional integrity and long-term memory in older adults. _Neuroimage Clinical_, 37, 2023. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/36586358/)
 
 97\. Jay Hegdé, __Nicholas J Tustison__, William T. Parker, Fallon B. Branch, Nathan Yanasak, and Lorie A. Stumpo. An Anatomical Template for the Normalization of Medical Images of Adult Human Hands. _Diagnostics_, 13(12):2010, Jun 2023.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37370905/)
 
