@@ -136,7 +136,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 101\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
 
-100\. James R. Stone, Brian B. Avants, __Nicholas J. Tustison__, Jessica Gill, Elisabeth A. Wilde, George E. Wahlen, Kiel D. Neumann, Leslie A. Gladney, Madison O. Kilgore, F. Bowling, Christopher M. Wilson, John F. Detro, Heather G. Belanger, Katryna Deary, Hans Linsenbardt, and Stephen T. Ahlers. _Journal of Neurotrauma_.  [Accepted]()
+100\. James R. Stone, Brian B. Avants, __Nicholas Tustison__, Jessica Gill, Elisabeth A. Wilde, George E. Wahlen, Kiel D. Neumann, Leslie A. Gladney, Madison O. Kilgore, F. Bowling, Christopher M. Wilson, John F. Detro, Heather G. Belanger, Katryna Deary, Hans Linsenbardt, and Stephen T. Ahlers. Neurological effects of repeated blast exposure in Special Operations personnel. _Journal of Neurotrauma_.  [Accepted](https://doi.org/10.1089/neu.2023.0309)
 
 99\. William J. Garrison, Kun Qing, Mu He, Li Zhao, __Nicholas J. Tustison__, Jaime F. Mata, Y. Michael Shim, Alan M. Ropp, Talissa A. Altes, John P. Mugler III, and G. Wilson Miller. Lung Volume Dependence and Repeatability of Hyperpolarized 129Xe MRI Gas Uptake Metrics in Healthy Volunteers and Patients with COPD.  _Radiology: Cardiothoracic Imaging_, 5(3):e220096, Jun 2023. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37404786/)
 
