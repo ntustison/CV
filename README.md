@@ -124,6 +124,8 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2023**
 
+107\. Fae A Kronman, Josephine K Liwang, Rebecca Betty, Daniel J Vanselow, Yuan-Ting Wu, __Nicholas J Tustison__, Ashwin Bhandiwad, Steffy B Manjila, Jennifer A Minteer, Donghui Shin, Choong Heon Lee, Rohan Patil, Jeffrey T Duda, Luis Puelles, James C Gee, Jiangyang Zhang, Lydia Ng, and Yongsoo Kim.  Developmental Mouse Brain Common Coordinate Framework.  [(biorxiv)](https://pubmed.ncbi.nlm.nih.gov/37745386/)
+
 106\. Chenxi Yuan, Jinhao Duan, __Nicholas J. Tustison__, Kaidi Xu, Rebecca A Hubbard, and Kristin A Linn.  ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)
 
 105\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
