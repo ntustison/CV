@@ -122,23 +122,27 @@ ntustison@gmail.com
 __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation magnetic resonance imaging, Submitted.
 -->
 
+**2024**
+
+108\. Fae A Kronman, Josephine K Liwang, Rebecca Betty, Daniel J Vanselow, Yuan-Ting Wu, __Nicholas J Tustison__, Ashwin Bhandiwad, Steffy B Manjila, Jennifer A Minteer, Donghui Shin, Choong Heon Lee, Rohan Patil, Jeffrey T Duda, Luis Puelles, James C Gee, Jiangyang Zhang, Lydia Ng, and Yongsoo Kim.  Developmental Mouse Brain Common Coordinate Framework.  [(biorxiv)](https://pubmed.ncbi.nlm.nih.gov/37745386/)
+
+107\. Chenxi Yuan, Jinhao Duan, __Nicholas J. Tustison__, Kaidi Xu, Rebecca A Hubbard, and Kristin A Linn.  ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)
+
+106\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
+
+105\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
+
+104\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
+
+103\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+
+102\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
+
+101\. James R. Stone, Brian B. Avants, __Nicholas Tustison__, Jessica Gill, Elisabeth A. Wilde, George E. Wahlen, Kiel D. Neumann, Leslie A. Gladney, Madison O. Kilgore, F. Bowling, Christopher M. Wilson, John F. Detro, Heather G. Belanger, Katryna Deary, Hans Linsenbardt, and Stephen T. Ahlers. Neurological effects of repeated blast exposure in Special Operations personnel. _Journal of Neurotrauma_.  [Accepted](https://doi.org/10.1089/neu.2023.0309)
+
+100\. Natalie DiProspero, Mithra Sathishkumar, John Janecek, Anna Smith, Liv McMillan, Melissa Peterson, Michael Phelan, __Nicholas Tustison__, David B. Keator, Eric Doran, Christine Hom, Dana Nguyen, Howard Andrews, Sharon Krinsky-McHale, Adam Brickman, H. Diana Rosas, Florence Lai, Elizabeth Head, Mark Mapstone, Nicole Schupf, Wayne Silverman, Ira T. Lott, Sid O’Bryant, and Michael A. Yassa.  Neurofilament light chain concentration mediates the association between regional medial temporal lobe structure and memory in adults with Down syndrome.  _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_. [Accepted]()
+
 **2023**
-
-107\. Fae A Kronman, Josephine K Liwang, Rebecca Betty, Daniel J Vanselow, Yuan-Ting Wu, __Nicholas J Tustison__, Ashwin Bhandiwad, Steffy B Manjila, Jennifer A Minteer, Donghui Shin, Choong Heon Lee, Rohan Patil, Jeffrey T Duda, Luis Puelles, James C Gee, Jiangyang Zhang, Lydia Ng, and Yongsoo Kim.  Developmental Mouse Brain Common Coordinate Framework.  [(biorxiv)](https://pubmed.ncbi.nlm.nih.gov/37745386/)
-
-106\. Chenxi Yuan, Jinhao Duan, __Nicholas J. Tustison__, Kaidi Xu, Rebecca A Hubbard, and Kristin A Linn.  ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)
-
-105\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
-
-104\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
-
-103\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
-
-102\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
-
-101\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
-
-100\. James R. Stone, Brian B. Avants, __Nicholas Tustison__, Jessica Gill, Elisabeth A. Wilde, George E. Wahlen, Kiel D. Neumann, Leslie A. Gladney, Madison O. Kilgore, F. Bowling, Christopher M. Wilson, John F. Detro, Heather G. Belanger, Katryna Deary, Hans Linsenbardt, and Stephen T. Ahlers. Neurological effects of repeated blast exposure in Special Operations personnel. _Journal of Neurotrauma_.  [Accepted](https://doi.org/10.1089/neu.2023.0309)
 
 99\. Danni Tu, Manu S. Goyal, Jordan D. Dworkin, Samuel Kampondeni, Lorenna Vidal, Eric Biondo-Savin, Sandeep Juvvadi, Prashant Raghavan, Jennifer Nicholas, Karen Chetcuti, Kelly Clark, Timothy Robert-Fitzgerald, Theodore D. Satterthwaite, Paul Yushkevich, Christos Davatzikos, Guray Erus, __Nicholas J. Tustison__, Douglas G. Postels, Terrie E. Taylor, Dylan S. Small, and Russell T. Shinohara.  Automated Analysis of Low-Field Brain MRI in Cerebral Malaria. _Biometrics_, 79(3):2417-2429, Sep 2023. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/35731973/)
 
