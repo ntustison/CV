@@ -53,7 +53,8 @@ ntustison@gmail.com
 * IEEE Transactions on Cybernetics 
 * IEEE Transactions on Medical Imaging 
 * IEEE Transactions on Pattern Analysis and Machine Intelligence 
-* IEEE Transactions on Biomedical Engineering 
+* IEEE Transactions on Biomedical Engineering
+* Imaging Neuroscience
 * Insight Journal 
 * International Conf. on Medical Image Computing and Computer Assisted Intervention 
 * International Journal of Biomedical Imaging 
