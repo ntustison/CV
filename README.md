@@ -125,6 +125,8 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2024**
 
+111\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX Ecosystem for Mapping the Mouse Brain. [(stitched)](https://github.com/ntustison/ANTsXMouseBrainMapping/blob/main/Manuscript/stitched.pdf)
+
 110\. Emily L Dennis, Jared Rowland, Carrie Esopenko, __Nicholas Tustison__, Mary Newsome, Brian Avants, Jessica Gill, Sidney Hinds II, Kimbra Kenney, Hannah Lindsey, Sarah Martindale-Supak, Mary Jo Pugh, Randall Scheibel, Pashtun-Poh Shahim, Robert Shih, James R Stone, Maya Troyanskaya, William C Walker, J Kent Werner, Gerald York, David Cifu, David Tate, and Elisabeth A Wilde.  Brain volume changes following blast-related mild TBI in service members and veterans: a LIMBIC-CENC study.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2024.02.27.24303460v1)
 
 109\. Fae A Kronman, Josephine K Liwang, Rebecca Betty, Daniel J Vanselow, Yuan-Ting Wu, __Nicholas J Tustison__, Ashwin Bhandiwad, Steffy B Manjila, Jennifer A Minteer, Donghui Shin, Choong Heon Lee, Rohan Patil, Jeffrey T Duda, Luis Puelles, James C Gee, Jiangyang Zhang, Lydia Ng, and Yongsoo Kim.  Developmental Mouse Brain Common Coordinate Framework.  [(biorxiv)](https://pubmed.ncbi.nlm.nih.gov/37745386/)
