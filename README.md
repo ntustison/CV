@@ -125,7 +125,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 **2024**
 
-111\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX Ecosystem for Mapping the Mouse Brain. _Scientific Reports_. [(accepted)](https://github.com/ntustison/ANTsXMouseBrainMapping/blob/main/Manuscript/stitched.pdf)
+111\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX Ecosystem for Mapping the Mouse Brain. [(stitched)](https://github.com/ntustison/ANTsXMouseBrainMapping/blob/main/Manuscript/stitched.pdf)
 
 110\. Emily L Dennis, Jared Rowland, Carrie Esopenko, __Nicholas Tustison__, Mary Newsome, Brian Avants, Jessica Gill, Sidney Hinds II, Kimbra Kenney, Hannah Lindsey, Sarah Martindale-Supak, Mary Jo Pugh, Randall Scheibel, Pashtun-Poh Shahim, Robert Shih, James R Stone, Maya Troyanskaya, William C Walker, J Kent Werner, Gerald York, David Cifu, David Tate, and Elisabeth A Wilde.  Brain volume changes following blast-related mild TBI in service members and veterans: a LIMBIC-CENC study.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2024.02.27.24303460v1)
 
@@ -141,7 +141,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 104\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
-103\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
+103\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. _Scientific Reports_. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.01.17.23284693v3)
 
 102\. James R. Stone, Brian B. Avants, __Nicholas Tustison__, Jessica Gill, Elisabeth A. Wilde, George E. Wahlen, Kiel D. Neumann, Leslie A. Gladney, Madison O. Kilgore, F. Bowling, Christopher M. Wilson, John F. Detro, Heather G. Belanger, Katryna Deary, Hans Linsenbardt, and Stephen T. Ahlers. Neurological effects of repeated blast exposure in Special Operations personnel. _Journal of Neurotrauma_.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37950709/)
 
