@@ -141,7 +141,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 104\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
-103\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. _Scientific Reports_. 14:8848. 2024.  [(published)](https://www.nature.com/articles/s41598-024-59440-6)
+103\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. _Scientific Reports_. 14(1):8848, Apr 2024.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/38632390/)
 
 102\. James R. Stone, Brian B. Avants, __Nicholas Tustison__, Jessica Gill, Elisabeth A. Wilde, George E. Wahlen, Kiel D. Neumann, Leslie A. Gladney, Madison O. Kilgore, F. Bowling, Christopher M. Wilson, John F. Detro, Heather G. Belanger, Katryna Deary, Hans Linsenbardt, and Stephen T. Ahlers. Neurological effects of repeated blast exposure in Special Operations personnel. _Journal of Neurotrauma_. 41(7-8):942-956, Apr 2024.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37950709/)
 
