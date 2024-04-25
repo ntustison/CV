@@ -135,7 +135,7 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 107\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
 
-106\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
+106\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  _Human Brain Mapping_. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
 
 105\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
 
