@@ -141,6 +141,8 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 105\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
+105\. Allyson T. Gage, James R. Stone, Elisabeth A. Wilde, Stephen R. McCauley, Robert C. Welsh, John P. Mugler, III, Nick Tustison, Brian Avants, Christopher T. Whitlow, Lee Lancashire, Seema D. Bhatt, and Magali Haas.  Normative Neuroimaging Library: Designing a Comprehensive and Demographically Diverse Dataset of Healthy Controls to Support Traumatic Brain Injury Diagnostic and Therapeutic Development.  _Journal of Neurotrauma_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/39235436/)
+
 104\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  _Human Brain Mapping_. [(accepted)](https://www.biorxiv.org/content/10.1101/2023.04.24.537396v1)
 
 103\. __Nicholas J. Tustison__, Michael A. Yassa, Batool Rizvi, Andrew J. Holbrook, Mithra T. Sathishkumar, Mia G. Tustison, James C. Gee, James R. Stone, and Brian B. Avants.  ANTsX neuroimaging-derived structural phenotypes of UK Biobank. _Scientific Reports_. 14(1):8848, Apr 2024.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/38632390/)
