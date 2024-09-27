@@ -4,8 +4,6 @@ ntustison@virginia.edu
 
 ntustison@gmail.com
 
-**_Curriculum Vitae_** [(.pdf)](https://github.com/ntustison/CV/blob/master/moderncv/moderncv.pdf?raw=true)
-
 [Orcid ID](https://orcid.org/0000-0001-9418-5103)
 
 [Google scholar](https://scholar.google.com/citations?user=m1Vfqh8AAAAJ&hl=en#)
@@ -20,7 +18,8 @@ ntustison@gmail.com
 * 1998: **B.S. Applied Physics: Computer Science Emphasis**, _Brigham Young University_, Provo, UT.
 
 ## Professional Appointments
-* 2017-present:  **Associate Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
+* 2024-:  **Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
+* 2017-2024:  **Associate Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
 * 2018-present:  **Visiting Associate Researcher**, _Department of Neurobiology and Behavior_, University of California, Irvine, Irvine, CA.
 * 2010-2017:  **Assistant Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
 * 2016-2018:  **Visiting Assistant Researcher**, _Department of Neurobiology and Behavior_, University of California, Irvine, Irvine, CA.
@@ -92,9 +91,9 @@ ntustison@gmail.com
 * Jun 2019:  SMI, Collaborative Case Study, [Longitudinal mapping of cortical thickness measurements: an ADNI-based evaluation study](https://sites.uci.edu/smi2019/program/).
 * Jun J022:  Panelist, Theme 3: Open Code: Myths Debunked, Organization for Human Brain Mapping.
 
-## Computer Skills
+<!-- ## Computer Skills
 * Languages:  C++, perl, bash, Latex, R, Python
-* Packages:  Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, PBS/SGE qsub
+* Packages:  Advanced Normalization Tools (ANTs), Insight Toolkit (ITK), Visualization Toolkit (VTK), Paraview, git, PBS/SGE qsub -->
 
 ## Awards
 * 1st place, EMPIRE10 lung registration competition, MICCAI Conference 2010 (Team:  Gang Song, Nick Tustison, Brian Avants, Jim Gee).
