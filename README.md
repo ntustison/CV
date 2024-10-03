@@ -28,13 +28,13 @@ ntustison@gmail.com
 
 ## Academic Service
 
-* 2018-present: [Insight Software Consortium Council (secretary)](https://insightsoftwareconsortium.netlify.app/council)
-* 2012-present: [SPIE Medical Imaging program committee](http://spie.org/x12166.xml)
+* 2018-2024: [Insight Software Consortium Council (secretary)](https://insightsoftwareconsortium.netlify.app/council)
+* 2012-2023: [SPIE Medical Imaging program committee](http://spie.org/x12166.xml)
 
 **Editorships**
 
 * 2012-present: Frontiers Review Editorial Board.
-* May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
+* May 2013: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
 
 **Reviewer Duties**
 
