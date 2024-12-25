@@ -123,6 +123,8 @@ __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants,
 
 Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
 
+109\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
+
 
 -->
 
@@ -132,9 +134,7 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 
 111\. Destiny E. Berisha, Batool Rizvi, Miranda G. Chappel-Farley, __Nicholas Tustison__, Lisa Taylor, Abhishek Dave, Negin S. Sattari, Ivy Y. Chen, Kitty K. Lui, John C. Janecek, David Keator, Ariel B. Neikrug, Ruth M. Benca, Michael A. Yassa, and Bryce A. Mander.  Cerebrovascular pathology mediates associations between hypoxemia during rapid eye movement sleep and medial temporal lobe structure and function in older adults.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.01.28.577469v1)
 
-110\. Emily L Dennis, Jared Rowland, Carrie Esopenko, __Nicholas Tustison__, Mary Newsome, Brian Avants, Jessica Gill, Sidney Hinds II, Kimbra Kenney, Hannah Lindsey, Sarah Martindale-Supak, Mary Jo Pugh, Randall Scheibel, Pashtun-Poh Shahim, Robert Shih, James R Stone, Maya Troyanskaya, William C Walker, J Kent Werner, Gerald York, David Cifu, David Tate, and Elisabeth A Wilde.  Brain volume changes following blast-related mild TBI in service members and veterans: a LIMBIC-CENC study.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2024.02.27.24303460v1)
-
-109\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
+110\. Emily L Dennis, Jared Rowland, Carrie Esopenko, __Nicholas Tustison__, Mary Newsome, Brian Avants, Jessica Gill, Sidney Hinds II, Kimbra Kenney, Hannah Lindsey, Sarah Martindale-Supak, Mary Jo Pugh, Randall Scheibel, Pashtun-Poh Shahim, Robert Shih, James R Stone, Maya Troyanskaya, William C Walker, J Kent Werner, Gerald York, David Cifu, David Tate, and Elisabeth A Wilde.  Differences in Brain Volume in Military Service Members and Veterans After Blast-Related Mild TBI: A LIMBIC-CENC Study. _JAMA Netw Open_.  7(11):e2443416, Nov 2024. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/39527059/)
 
 108\. Fae A Kronman, Josephine K Liwang, Rebecca Betty, Daniel J Vanselow, Yuan-Ting Wu, __Nicholas J Tustison__, Ashwin Bhandiwad, Steffy B Manjila, Jennifer A Minteer, Donghui Shin, Choong Heon Lee, Rohan Patil, Jeffrey T Duda, Luis Puelles, James C Gee, Jiangyang Zhang, Lydia Ng, and Yongsoo Kim.  Developmental Mouse Brain Common Coordinate Framework.  _Nature Communications_.  15:9072, October 2024.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37745386/)
 
