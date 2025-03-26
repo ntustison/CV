@@ -130,7 +130,7 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 
 **2024**
 
-111\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX Ecosystem for Mapping the Mouse Brain. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1)
+111\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  Modular strategies for spatial mapping of diverse cell type data of the mouse brain. [submitted](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1)
 
 110\. Destiny E. Berisha, Batool Rizvi, Miranda G. Chappel-Farley, __Nicholas Tustison__, Lisa Taylor, Abhishek Dave, Negin S. Sattari, Ivy Y. Chen, Kitty K. Lui, John C. Janecek, David Keator, Ariel B. Neikrug, Ruth M. Benca, Michael A. Yassa, and Bryce A. Mander.  Cerebrovascular pathology mediates associations between hypoxemia during rapid eye movement sleep and medial temporal lobe structure and function in older adults.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.01.28.577469v1)
 
