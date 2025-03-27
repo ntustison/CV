@@ -28,13 +28,13 @@ ntustison@gmail.com
 
 ## Academic Service
 
-* 2018-present: [Insight Software Consortium Council (secretary)](https://insightsoftwareconsortium.netlify.app/council)
-* 2012-present: [SPIE Medical Imaging program committee](http://spie.org/x12166.xml)
+* 2018-2024: [Insight Software Consortium Council (secretary)](https://insightsoftwareconsortium.netlify.app/council)
+* 2012-2023: [SPIE Medical Imaging program committee](http://spie.org/x12166.xml)
 
 **Editorships**
 
 * 2012-present: Frontiers Review Editorial Board.
-* May 2013-present: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
+* May 2013: Frontiers in Neuroinformatics: Guest Editor, [_Neuroinformatics with the Insight ToolKit_](http://www.frontiersin.org/Neuroinformatics/researchtopics/Neuroinformatics_with_the_Insi/1580).
 
 **Reviewer Duties**
 
@@ -120,27 +120,31 @@ ntustison@gmail.com
 **In Progress**
 
 __Nicholas J. Tustison__, Benjamin Contrella, Talissa A. Altes, Brian B. Avants, Eduard E. de Lange, and John P. Mugler III. Voxel-based longitudinal analysis of pulmonary ventilation magnetic resonance imaging, Submitted.
+
+Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
+
+109\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
+
+
 -->
+
+**2025**
+
+111\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  Modular strategies for spatial mapping of diverse cell type data of the mouse brain. [submitted](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1)
+
+110\. Destiny E. Berisha, Batool Rizvi, Miranda G. Chappel-Farley, __Nicholas Tustison__, Lisa Taylor, Abhishek Dave, Negin S. Sattari, Ivy Y. Chen, Kitty K. Lui, John C. Janecek, David Keator, Ariel B. Neikrug, Ruth M. Benca, Michael A. Yassa, and Bryce A. Mander.  Cerebrovascular pathology mediates associations between hypoxemia during rapid eye movement sleep and medial temporal lobe structure and function in older adults.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.01.28.577469v1)
 
 **2024**
 
-113\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX Ecosystem for Mapping the Mouse Brain. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1)
+109\. Allyson T. Gage, James R. Stone, Elisabeth A. Wilde, Stephen R. McCauley, Robert C. Welsh, John P. Mugler, III, __Nick Tustison__, Brian Avants, Christopher T. Whitlow, Lee Lancashire, Seema D. Bhatt, and Magali Haas.  Normative Neuroimaging Library: Designing a Comprehensive and Demographically Diverse Dataset of Healthy Controls to Support Traumatic Brain Injury Diagnostic and Therapeutic Development.  _J Neurotrauma_. 41(23-24):2497-2512, Dec 2024. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/39235436/)
 
-112\. Destiny E. Berisha, Batool Rizvi, Miranda G. Chappel-Farley, __Nicholas Tustison__, Lisa Taylor, Abhishek Dave, Negin S. Sattari, Ivy Y. Chen, Kitty K. Lui, John C. Janecek, David Keator, Ariel B. Neikrug, Ruth M. Benca, Michael A. Yassa, and Bryce A. Mander.  Cerebrovascular pathology mediates associations between hypoxemia during rapid eye movement sleep and medial temporal lobe structure and function in older adults.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.01.28.577469v1)
+108\. Emily L Dennis, Jared Rowland, Carrie Esopenko, __Nicholas Tustison__, Mary Newsome, Brian Avants, Jessica Gill, Sidney Hinds II, Kimbra Kenney, Hannah Lindsey, Sarah Martindale-Supak, Mary Jo Pugh, Randall Scheibel, Pashtun-Poh Shahim, Robert Shih, James R Stone, Maya Troyanskaya, William C Walker, J Kent Werner, Gerald York, David Cifu, David Tate, and Elisabeth A Wilde.  Differences in Brain Volume in Military Service Members and Veterans After Blast-Related Mild TBI: A LIMBIC-CENC Study. _JAMA Netw Open_.  7(11):e2443416, Nov 2024. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/39527059/)
 
-111\. Emily L Dennis, Jared Rowland, Carrie Esopenko, __Nicholas Tustison__, Mary Newsome, Brian Avants, Jessica Gill, Sidney Hinds II, Kimbra Kenney, Hannah Lindsey, Sarah Martindale-Supak, Mary Jo Pugh, Randall Scheibel, Pashtun-Poh Shahim, Robert Shih, James R Stone, Maya Troyanskaya, William C Walker, J Kent Werner, Gerald York, David Cifu, David Tate, and Elisabeth A Wilde.  Brain volume changes following blast-related mild TBI in service members and veterans: a LIMBIC-CENC study.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2024.02.27.24303460v1)
+107\. Fae A Kronman, Josephine K Liwang, Rebecca Betty, Daniel J Vanselow, Yuan-Ting Wu, __Nicholas J Tustison__, Ashwin Bhandiwad, Steffy B Manjila, Jennifer A Minteer, Donghui Shin, Choong Heon Lee, Rohan Patil, Jeffrey T Duda, Luis Puelles, James C Gee, Jiangyang Zhang, Lydia Ng, and Yongsoo Kim.  Developmental Mouse Brain Common Coordinate Framework.  _Nature Communications_.  15:9072, Oct 2024.  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/37745386/)
 
-110\. Fae A Kronman, Josephine K Liwang, Rebecca Betty, Daniel J Vanselow, Yuan-Ting Wu, __Nicholas J Tustison__, Ashwin Bhandiwad, Steffy B Manjila, Jennifer A Minteer, Donghui Shin, Choong Heon Lee, Rohan Patil, Jeffrey T Duda, Luis Puelles, James C Gee, Jiangyang Zhang, Lydia Ng, and Yongsoo Kim.  Developmental Mouse Brain Common Coordinate Framework.  [(biorxiv)](https://pubmed.ncbi.nlm.nih.gov/37745386/)
+106\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
 
-109\. Chenxi Yuan, Jinhao Duan, __Nicholas J. Tustison__, Kaidi Xu, Rebecca A Hubbard, and Kristin A Linn.  ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease. [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)
-
-108\. Brian Avants,  __Nicholas J. Tustison__, Corey T McMillan, Taylor Gosselin, Roger Gunn, and Jacob Hesterman.  Concurrent 3D super resolution on intensity and segmentation maps improves detection of structural effects in neurodegenerative disease.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2023.02.02.23285376v1)
-
-107\. Kevin Donovan, __Nicholas J. Tustison__, Kristin A. Linn, Russell T. Shinohara,and  the Alzheimer’s Disease Neuroimaging Initiative. Multivariate Residualization in Medical Imaging Analysis. [(biorxiv)](https://www.biorxiv.org/content/10.1101/2023.02.15.528657v1)
-
-106\. Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesizing longitudinal cortical thickness estimates with a flexible and hierarchical multivariate measurement-error model.  [(arxiv)](https://arxiv.org/abs/2204.03576)
-
-105\. Allyson T. Gage, James R. Stone, Elisabeth A. Wilde, Stephen R. McCauley, Robert C. Welsh, John P. Mugler, III, __Nick Tustison__, Brian Avants, Christopher T. Whitlow, Lee Lancashire, Seema D. Bhatt, and Magali Haas.  Normative Neuroimaging Library: Designing a Comprehensive and Demographically Diverse Dataset of Healthy Controls to Support Traumatic Brain Injury Diagnostic and Therapeutic Development.  _Journal of Neurotrauma_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/39235436/)
+105\. Chenxi Yuan, Jinhao Duan, __Nicholas J. Tustison__, Kaidi Xu, Rebecca A Hubbard, and Kristin A Linn.  ReMiND: Recovery of Missing Neuroimaging using Diffusion Models with Application to Alzheimer's Disease.  _Imaging Neuroscience_.  2:1-14, 2024.  [(pubmed)](https://www.medrxiv.org/content/10.1101/2023.08.16.23294169v1)
 
 104\. Fengling Hu, Alfredo Lucas, Andrew A. Chen, Kyle Coleman, Hannah Horng, Raymond W.S. Ng, __Nicholas J. Tustison__, Kathryn A. Davis, Haochang Shou,  Mingyao Li, Russell T. Shinohara, and The Alzheimer’s Disease Neuroimaging Initiative. DeepComBat: A Statistically Motivated, Hyperparameter-Robust, Deep Learning Approach to Harmonization of Neuroimaging Data.  _Human Brain Mapping_. 45(11):e26708, Aug 2024. 
  [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/39056477/)
