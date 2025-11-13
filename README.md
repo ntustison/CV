@@ -130,7 +130,7 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 
 **2025**
 
-112\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX ecosystem for mapping the mouse brain. [submitted](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1)
+112\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX ecosystem for mapping the mouse brain. [accepted](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1)
 
 111\. Fernando Lopez Berenguer, Andrea Gonzalez-Montoro, Marta Freire, Adolfo Gonzalez Tamarit, Santiago Jimenez-Serrano, Luis F Vidal,
 Marc Gil, Francis Loignon-Houle, Irene Torres, Jennifer Sachs, Joseph Rispoli, __Nick Tustinson__ (sic), Stuart S Berr, Mark B Williams, Diana
