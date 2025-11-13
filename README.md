@@ -133,7 +133,7 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 112\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX ecosystem for mapping the mouse brain. [accepted](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1)
 
 111\. Fernando Lopez Berenguer, Andrea Gonzalez-Montoro, Marta Freire, Adolfo Gonzalez Tamarit, Santiago Jimenez-Serrano, Luis F Vidal,
-Marc Gil, Francis Loignon-Houle, Irene Torres, Jennifer Sachs, Joseph Rispoli, __Nick Tustinson__ (sic), Stuart S Berr, Mark B Williams, Diana
+Marc Gil, Francis Loignon-Houle, Irene Torres, Jennifer Sachs, Joseph Rispoli, __Nick Tustison__ (sic), Stuart S Berr, Mark B Williams, Diana
 Andres, Juan Jose Rodriguez Garcia, Jose Luis Alonso Ramos, Noe Jimenez, Alicia Carrion Garcia, Francisco Camarena Femenia, Teresa
 Guallart Naval, Jose Miguel Algarin Guisado, Ruben Bosch Esteve, Eduardo Pallas Lodeiro, Joseba Alonso, Natasha Sheybani, Stef Maslova,
 Thomas Sherlock, Andrew Thede, Zhera Demir, Matt Hoch, He Jiang, Jose Benlloch, Maria Jose Rodriguez-Alvarez, and Antonio Gonzalez.  Evaluation of a PET Insert for Trimodal Imaging: A Step Towards PET/MRI-Guided Focused Ultrasound. _IEEE Transactions on Radiation and Plasma Medical Sciences_ [accepted].
