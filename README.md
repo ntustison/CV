@@ -113,6 +113,7 @@ ntustison@gmail.com
      * [ANTsRNet](https://github.com/ANTsX/ANTsRNet)
      * [Advanced Normalization Tools in Python](https://github.com/ANTsX/ANTsPy)
      * [ANTsPyNet](https://github.com/ntustison/ANTsPyNet)
+     * [ANTsTorch](https://github.com/ntustison/ANTsTorch)
 
 ## Journal Publications
 
