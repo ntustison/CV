@@ -137,7 +137,7 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 Marc Gil, Francis Loignon-Houle, Irene Torres, Jennifer Sachs, Joseph Rispoli, __Nick Tustison__, Stuart S Berr, Mark B Williams, Diana
 Andres, Juan Jose Rodriguez Garcia, Jose Luis Alonso Ramos, Noe Jimenez, Alicia Carrion Garcia, Francisco Camarena Femenia, Teresa
 Guallart Naval, Jose Miguel Algarin Guisado, Ruben Bosch Esteve, Eduardo Pallas Lodeiro, Joseba Alonso, Natasha Sheybani, Stef Maslova,
-Thomas Sherlock, Andrew Thede, Zhera Demir, Matt Hoch, He Jiang, Jose Benlloch, Maria Jose Rodriguez-Alvarez, and Antonio Gonzalez.  Evaluation of a PET Insert for Trimodal Imaging: A Step Towards PET/MRI-Guided Focused Ultrasound. _IEEE Transactions on Radiation and Plasma Medical Sciences_ [accepted].
+Thomas Sherlock, Andrew Thede, Zhera Demir, Matt Hoch, He Jiang, Jose Benlloch, Maria Jose Rodriguez-Alvarez, and Antonio Gonzalez.  Evaluation of a PET Insert for Trimodal Imaging: A Step Towards PET/MRI-Guided Focused Ultrasound. _IEEE Transactions on Radiation and Plasma Medical Sciences_ [accepted](https://ieeexplore.ieee.org/document/11184334).
 
 110\. Destiny E. Berisha, Batool Rizvi, Miranda G. Chappel-Farley, __Nicholas Tustison__, Lisa Taylor, Abhishek Dave, Negin S. Sattari, Ivy Y. Chen, Kitty K. Lui, John C. Janecek, David Keator, Ariel B. Neikrug, Ruth M. Benca, Michael A. Yassa, and Bryce A. Mander.  Association of Hypoxemia Due to Obstructive Sleep Apnea With White Matter Hyperintensities and Temporal Lobe Changes in Older Adults.  _Neurology_. 104(11):e213639, June 2025. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/40334140/)
 
