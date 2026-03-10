@@ -139,7 +139,7 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 
 113\. RA Roston, __NJ Tustison__, and AM Maga.  Anatomy-aware, label-informed approach improves image registration for challenging datasets.  [(submitted)](https://www.biorxiv.org/content/10.1101/2025.08.11.669599v1)
 
-112\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX ecosystem for mapping the mouse brain. _Nature Communications_. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/41274934/)
+112\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX ecosystem for mapping the mouse brain. _Nature Communications_. 22;16(1):11548, Nov 2025. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/41274934/)
 
 111\. Fernando Lopez Berenguer, Andrea Gonzalez-Montoro, Marta Freire, Adolfo Gonzalez Tamarit, Santiago Jimenez-Serrano, Luis F Vidal,
 Marc Gil, Francis Loignon-Houle, Irene Torres, Jennifer Sachs, Joseph Rispoli, __Nick Tustison__, Stuart S Berr, Mark B Williams, Diana
