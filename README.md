@@ -20,7 +20,7 @@ ntustison@gmail.com
 ## Professional Appointments
 * 2024-:  **Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
 * 2017-2024:  **Associate Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
-* 2018-present:  **Visiting Associate Researcher**, _Department of Neurobiology and Behavior_, University of California, Irvine, Irvine, CA.
+* 2018-2025:  **Visiting Associate Researcher**, _Department of Neurobiology and Behavior_, University of California, Irvine, Irvine, CA.
 * 2010-2017:  **Assistant Professor**, _Department of Radiology and Medical Imaging_, University of Virginia, Charlottesville, VA.
 * 2016-2018:  **Visiting Assistant Researcher**, _Department of Neurobiology and Behavior_, University of California, Irvine, Irvine, CA.
 * 2005-2010:    **Senior Research Investigator**, _Department of Radiology_, University of Pennsylvania, Philadelphia, PA.
@@ -113,6 +113,7 @@ ntustison@gmail.com
      * [ANTsRNet](https://github.com/ANTsX/ANTsRNet)
      * [Advanced Normalization Tools in Python](https://github.com/ANTsX/ANTsPy)
      * [ANTsPyNet](https://github.com/ntustison/ANTsPyNet)
+     * [ANTsTorch](https://github.com/ntustison/ANTsTorch)
 
 ## Journal Publications
 
@@ -130,9 +131,23 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 
 **2025**
 
-111\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  Modular strategies for spatial mapping of diverse cell type data of the mouse brain. [submitted](https://www.biorxiv.org/content/10.1101/2024.05.01.592056v1)
+116\. BB Avants, __NJ Tustison__, and JR Stone.  Joint representations from multi-view MRI-based learning support cognitive and functional performance domains.  [(submitted)](https://www.medrxiv.org/content/10.1101/2025.09.27.25336706v2)
 
-110\. Destiny E. Berisha, Batool Rizvi, Miranda G. Chappel-Farley, __Nicholas Tustison__, Lisa Taylor, Abhishek Dave, Negin S. Sattari, Ivy Y. Chen, Kitty K. Lui, John C. Janecek, David Keator, Ariel B. Neikrug, Ruth M. Benca, Michael A. Yassa, and Bryce A. Mander.  Cerebrovascular pathology mediates associations between hypoxemia during rapid eye movement sleep and medial temporal lobe structure and function in older adults.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.01.28.577469v1)
+115\. BB Avants, __NJ Tustison__, and JR Stone.  Non-Negative Stiefel Approximating Flow: Orthogonalish Matrix Optimization for Interpretable Embeddings.  [(submitted)](https://arxiv.org/abs/2511.06425)
+
+114\. Yao Xin, Margaret Gardner, __Nick Tustison__, Philip Cook, James Gee, Andreana Benitez, Jens H. Jensen, Alzheimer’s Disease Neuroimaging Initiative, Lifespan Brain Chart Consortium, Richard Bethlehem, Jakob Seidlitz, Aaron F. Alexander-Bloch, Andrew An Chen.  ComBat-Predict enhances generalizability of neuroimaging models to new sites.  [(submitted)](https://www.biorxiv.org/content/10.1101/2025.08.21.671401v1)
+
+113\. RA Roston, __NJ Tustison__, and AM Maga.  Anatomy-aware, label-informed approach improves image registration for challenging datasets.  [(submitted)](https://www.biorxiv.org/content/10.1101/2025.08.11.669599v1)
+
+112\. __Nicholas J. Tustison__, Min Chen, Fae N. Kronman, Jeffrey T. Duda, Clare Gamlin, Mia G. Tustison, Michael Kunst, Rachel Dalley, Staci Sorenson, Quanxi Wang, Lydia Ng, Yongsoo Kim, and James C. Gee.  The ANTsX ecosystem for mapping the mouse brain. _Nature Communications_. 22;16(1):11548, Nov 2025. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/41274934/)
+
+111\. Fernando Lopez Berenguer, Andrea Gonzalez-Montoro, Marta Freire, Adolfo Gonzalez Tamarit, Santiago Jimenez-Serrano, Luis F Vidal,
+Marc Gil, Francis Loignon-Houle, Irene Torres, Jennifer Sachs, Joseph Rispoli, __Nick Tustison__, Stuart S Berr, Mark B Williams, Diana
+Andres, Juan Jose Rodriguez Garcia, Jose Luis Alonso Ramos, Noe Jimenez, Alicia Carrion Garcia, Francisco Camarena Femenia, Teresa
+Guallart Naval, Jose Miguel Algarin Guisado, Ruben Bosch Esteve, Eduardo Pallas Lodeiro, Joseba Alonso, Natasha Sheybani, Stef Maslova,
+Thomas Sherlock, Andrew Thede, Zhera Demir, Matt Hoch, He Jiang, Jose Benlloch, Maria Jose Rodriguez-Alvarez, and Antonio Gonzalez.  Evaluation of a PET Insert for Trimodal Imaging: A Step Towards PET/MRI-Guided Focused Ultrasound. _IEEE Transactions on Radiation and Plasma Medical Sciences_ [(accepted)](https://ieeexplore.ieee.org/document/11184334).
+
+110\. Destiny E. Berisha, Batool Rizvi, Miranda G. Chappel-Farley, __Nicholas Tustison__, Lisa Taylor, Abhishek Dave, Negin S. Sattari, Ivy Y. Chen, Kitty K. Lui, John C. Janecek, David Keator, Ariel B. Neikrug, Ruth M. Benca, Michael A. Yassa, and Bryce A. Mander.  Association of Hypoxemia Due to Obstructive Sleep Apnea With White Matter Hyperintensities and Temporal Lobe Changes in Older Adults.  _Neurology_. 104(11):e213639, June 2025. [(pubmed)](https://pubmed.ncbi.nlm.nih.gov/40334140/)
 
 **2024**
 
