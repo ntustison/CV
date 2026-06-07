@@ -129,9 +129,13 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 
 -->
 
-**2025**
+**2026**
 
-117\. __NJ Tustison__, BB Avants, PA Cook, JC Gee, and JR Stone.  Deep Computational Anatomy via Latent-Aligned Multiview Normalizing Flows.  [(biorxiv)](https://www.biorxiv.org/content/10.64898/2026.05.05.723039v1)
+118\. __NJ Tustison__, BB Avants, PA Cook, JC Gee, and JR Stone.  Deep Computational Anatomy via Latent-Aligned Multiview Normalizing Flows.  [(biorxiv)](https://www.biorxiv.org/content/10.64898/2026.05.05.723039v1).
+
+117\.  Batool Rizvi, Jenna N. Adams, Alison Bamford, Soyun Kim, Mithra Sathishkumar, __Nicholas J. Tustison__, Lisa Taylor, Nandita Tuteja, Liv McMillan, Bin Nan, Hengrui Cai, Yuritza Y. Escalante, Novelle Meza, Alyssa L. Harris, Rond Malhas, Adam M. Brickman, Mark Mapstone, Elizabeth A. Thomas, and Michael A. Yassa.  Parallel neuroinflammatory pathways to cerebrovascular burden and amyloid-beta in Alzheimer's disease.  _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_ [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.10.03.616579v1).
+
+**2025**
 
 116\. BB Avants, __NJ Tustison__, and JR Stone.  Joint representations from multi-view MRI-based learning support cognitive and functional performance domains.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2025.09.27.25336706v2)
 
