@@ -135,13 +135,13 @@ Jesse W. Birchfield, __Nicholas J. Tustison__, and Andrew J. Holbrook.  Synthesi
 
 117\.  Batool Rizvi, Jenna N. Adams, Alison Bamford, Soyun Kim, Mithra Sathishkumar, __Nicholas J. Tustison__, Lisa Taylor, Nandita Tuteja, Liv McMillan, Bin Nan, Hengrui Cai, Yuritza Y. Escalante, Novelle Meza, Alyssa L. Harris, Rond Malhas, Adam M. Brickman, Mark Mapstone, Elizabeth A. Thomas, and Michael A. Yassa.  Parallel neuroinflammatory pathways to cerebrovascular burden and amyloid-beta in Alzheimer's disease.  _Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring_ [(biorxiv)](https://www.biorxiv.org/content/10.1101/2024.10.03.616579v1).
 
+116\. Yao Xin, Margaret Gardner, __Nicholas J. Tustison__, Philip Cook, James Gee, Andreana Benitez, Jens H. Jensen, Alzheimer’s Disease Neuroimaging Initiative, Lifespan Brain Chart Consortium, Richard Bethlehem, Jakob Seidlitz, Aaron F. Alexander-Bloch, Andrew An Chen.  ComBat-Predict enhances generalizability of neuroimaging models to new sites. _Human Brain Mapping_. 47(8):, Jun 2026.  [(pubmed)]([https://www.biorxiv.org/content/10.1101/2025.08.21.671401v1](https://pubmed.ncbi.nlm.nih.gov/42157534/))
+
 **2025**
 
-116\. BB Avants, __NJ Tustison__, and JR Stone.  Joint representations from multi-view MRI-based learning support cognitive and functional performance domains.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2025.09.27.25336706v2)
+115\. BB Avants, __NJ Tustison__, and JR Stone.  Joint representations from multi-view MRI-based learning support cognitive and functional performance domains.  [(medrxiv)](https://www.medrxiv.org/content/10.1101/2025.09.27.25336706v2)
 
-115\. BB Avants, __NJ Tustison__, and JR Stone.  Non-Negative Stiefel Approximating Flow: Orthogonalish Matrix Optimization for Interpretable Embeddings.  [(arxiv)](https://arxiv.org/abs/2511.06425)
-
-114\. Yao Xin, Margaret Gardner, __Nick Tustison__, Philip Cook, James Gee, Andreana Benitez, Jens H. Jensen, Alzheimer’s Disease Neuroimaging Initiative, Lifespan Brain Chart Consortium, Richard Bethlehem, Jakob Seidlitz, Aaron F. Alexander-Bloch, Andrew An Chen.  ComBat-Predict enhances generalizability of neuroimaging models to new sites.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2025.08.21.671401v1)
+114\. BB Avants, __NJ Tustison__, and JR Stone.  Non-Negative Stiefel Approximating Flow: Orthogonalish Matrix Optimization for Interpretable Embeddings.  [(arxiv)](https://arxiv.org/abs/2511.06425)
 
 113\. RA Roston, __NJ Tustison__, and AM Maga.  Anatomy-aware, label-informed approach improves image registration for challenging datasets.  [(biorxiv)](https://www.biorxiv.org/content/10.1101/2025.08.11.669599v1)
 
