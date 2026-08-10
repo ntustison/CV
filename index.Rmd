@@ -1,0 +1,110 @@
+---
+title: "Nicholas J. Tustison"
+subtitle: "Computational anatomy · Medical imaging · Open science"
+description: "Professor at the University of Virginia developing open-source computational methods for quantitative medical imaging."
+---
+
+::: {.hero-copy}
+## Turning medical images into reproducible biological insight
+
+I develop open-source computational methods for extracting meaningful,
+quantitative information from medical images—spanning computational anatomy,
+neuroimaging, pulmonary imaging, harmonization, and deep learning.
+
+[Explore the complete CV](cv.html){.button .button-primary}
+[ORCID](https://orcid.org/0000-0001-9418-5103){.button}
+:::
+
+::: {.metrics}
+::: {.metric}
+<strong>118</strong>
+<span>journal publications</span>
+:::
+::: {.metric}
+<strong>20+</strong>
+<span>years in biomedical imaging</span>
+:::
+::: {.metric}
+<strong>7</strong>
+<span>ANTsX open-source projects</span>
+:::
+::: {.metric}
+<strong>3</strong>
+<span>major challenge wins & awards</span>
+:::
+:::
+
+## Research identity
+
+::: {.card-grid}
+::: {.card}
+### Computational anatomy
+
+Image registration, segmentation, cortical thickness, spatial normalization,
+and statistically principled phenotyping across scales and species.
+:::
+
+::: {.card}
+### Translational imaging
+
+Quantitative neuroimaging and pulmonary MRI methods designed around real
+biological and clinical questions.
+:::
+
+::: {.card}
+### Open and reproducible science
+
+Research software that makes advanced methodology available, inspectable,
+and reusable by the wider imaging community.
+:::
+:::
+
+## Selected impact
+
+::: {.impact-list}
+**The ANTsX ecosystem**  
+A family of open-source tools for quantitative biological and medical imaging,
+from classical computational anatomy to deep-learning workflows.
+
+**N4 bias-field correction**  
+A widely adopted method for correcting intensity non-uniformity in MRI and
+other medical images.
+
+**Large-scale cortical thickness evaluation**  
+Benchmarking ANTs and FreeSurfer measurements to improve confidence in
+quantitative neuroimaging studies.
+
+**Cross-site harmonization and reproducibility**  
+Methods and evaluations addressing scanner effects, longitudinal data, and
+scientific software bias.
+:::
+
+## ANTsX ecosystem
+
+::: {.project-grid}
+[**ANTs**  
+Core image registration and analysis](https://github.com/ANTsX/ANTs)
+
+[**ANTsR**  
+Advanced imaging in R](https://github.com/ANTsX/ANTsR)
+
+[**ANTsPy**  
+Advanced imaging in Python](https://github.com/ANTsX/ANTsPy)
+
+[**ANTsRNet**  
+Deep learning for R](https://github.com/ANTsX/ANTsRNet)
+
+[**ANTsPyNet**  
+Deep learning for Python](https://github.com/ANTsX/ANTsPyNet)
+
+[**ANTsTorch**  
+PyTorch-based imaging research](https://github.com/ntustison/ANTsTorch)
+:::
+
+## Current appointment
+
+**Professor** · Department of Radiology and Medical Imaging  
+University of Virginia · Charlottesville, Virginia
+
+<span class="contact">[ntustison@virginia.edu](mailto:ntustison@virginia.edu) · [Google Scholar](https://scholar.google.com/citations?user=m1Vfqh8AAAAJ) · [ORCID](https://orcid.org/0000-0001-9418-5103)</span>
+

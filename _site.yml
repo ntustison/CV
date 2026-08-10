@@ -1,0 +1,29 @@
+name: "nicholas-tustison-cv"
+output_dir: "docs"
+include:
+  - ".nojekyll"
+navbar:
+  title: "Nicholas J. Tustison"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Full CV"
+      href: cv.html
+  right:
+    - icon: fa-github
+      href: https://github.com/ntustison
+    - icon: fa-graduation-cap
+      href: https://scholar.google.com/citations?user=m1Vfqh8AAAAJ
+    - icon: fa-id-badge
+      href: https://orcid.org/0000-0001-9418-5103
+output:
+  html_document:
+    theme: cosmo
+    css: assets/style.css
+    includes:
+      in_header: assets/head.html
+    toc: true
+    toc_float:
+      collapsed: true
+    code_folding: hide
+    self_contained: false

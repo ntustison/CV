@@ -1,0 +1,19 @@
+---
+title: "Academic curriculum vitae"
+subtitle: "Nicholas J. Tustison"
+description: "Complete academic curriculum vitae of Nicholas J. Tustison."
+---
+
+::: {.cv-intro}
+**Professor · Department of Radiology and Medical Imaging · University of Virginia**
+
+[ntustison@virginia.edu](mailto:ntustison@virginia.edu) ·
+[ORCID](https://orcid.org/0000-0001-9418-5103) ·
+[Google Scholar](https://scholar.google.com/citations?user=m1Vfqh8AAAAJ)
+:::
+
+```{r echo=FALSE, results='asis'}
+cv <- readLines("data/cv-full.md", warn = FALSE, encoding = "UTF-8")
+divider <- which(trimws(cv) == "***")[1]
+cat(paste(cv[(divider + 1):length(cv)], collapse = "\n"))
+```
