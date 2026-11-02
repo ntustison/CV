@@ -77,9 +77,10 @@ other medical images.
 Benchmarking ANTs and FreeSurfer measurements to improve confidence in
 quantitative neuroimaging studies.
 
-**Cross-site harmonization and reproducibility**  
-Methods and evaluations addressing scanner effects, longitudinal data, and
-scientific software bias.
+**Deep computational anatomy with LAMNr flows**  
+Latent-aligned multiview normalizing flows learn shared representations across
+imaging modalities, enabling population templates, anatomical interpolation,
+and cross-modal imputation. [Read the preprint](https://www.biorxiv.org/content/10.64898/2026.05.05.723039v2.full).
 :::
 
 ## ANTsX ecosystem
