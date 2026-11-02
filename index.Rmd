@@ -1,6 +1,9 @@
 ---
 title: "Nicholas J. Tustison"
 subtitle: "Computational anatomy · Medical imaging · Open science"
+output:
+  html_document:
+    toc: false
 description: "Professor at the University of Virginia developing open-source computational methods for quantitative medical imaging."
 ---
 

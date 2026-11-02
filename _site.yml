@@ -25,5 +25,4 @@ output:
     toc: true
     toc_float:
       collapsed: true
-    code_folding: hide
     self_contained: false
